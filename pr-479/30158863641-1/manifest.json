@@ -1,0 +1,69 @@
+{
+  "screens": [
+    {
+      "name": "admin-workspaces-hatches.png",
+      "file": "screens/admin-workspaces-hatches.png"
+    },
+    {
+      "name": "admin-workspaces-list.png",
+      "file": "screens/admin-workspaces-list.png"
+    },
+    {
+      "name": "audit-log-detail.png",
+      "file": "screens/audit-log-detail.png"
+    },
+    {
+      "name": "audit-log-entity-link.png",
+      "file": "screens/audit-log-entity-link.png"
+    },
+    {
+      "name": "audit-log-filtered.png",
+      "file": "screens/audit-log-filtered.png"
+    },
+    {
+      "name": "audit-log-list.png",
+      "file": "screens/audit-log-list.png"
+    },
+    {
+      "name": "billing-grace-readonly.png",
+      "file": "screens/billing-grace-readonly.png"
+    },
+    {
+      "name": "billing-member-cap.png",
+      "file": "screens/billing-member-cap.png"
+    },
+    {
+      "name": "billing-trial-countdown.png",
+      "file": "screens/billing-trial-countdown.png"
+    }
+  ],
+  "clips": [
+    {
+      "slug": "billing-at-the-member-cap--585c6-nce-gives-way-to-the-reason-chromium",
+      "spec": "billing",
+      "failed": false,
+      "gif": "clips/billing-at-the-member-cap--585c6-nce-gives-way-to-the-reason-chromium.gif",
+      "mp4": "clips/billing-at-the-member-cap--585c6-nce-gives-way-to-the-reason-chromium.mp4",
+      "gifBytes": 515552
+    },
+    {
+      "slug": "billing-grace-is-read-only-01658-explains-the-affordances-go-chromium",
+      "spec": "billing",
+      "failed": false,
+      "gif": "clips/billing-grace-is-read-only-01658-explains-the-affordances-go-chromium.gif",
+      "mp4": "clips/billing-grace-is-read-only-01658-explains-the-affordances-go-chromium.mp4",
+      "gifBytes": 660410
+    },
+    {
+      "slug": "billing-the-trial-s-final-days-show-a-countdown-banner-chromium",
+      "spec": "billing",
+      "failed": false,
+      "gif": "clips/billing-the-trial-s-final-days-show-a-countdown-banner-chromium.gif",
+      "mp4": "clips/billing-the-trial-s-final-days-show-a-countdown-banner-chromium.mp4",
+      "gifBytes": 445444
+    }
+  ],
+  "changedSpecs": [
+    "billing"
+  ]
+}
