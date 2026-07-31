@@ -1,0 +1,321 @@
+{
+  "screens": [
+    {
+      "name": "admin-nuke-data-confirm.png",
+      "file": "screens/admin-nuke-data-confirm.png"
+    },
+    {
+      "name": "admin-nuke-data-result.png",
+      "file": "screens/admin-nuke-data-result.png"
+    },
+    {
+      "name": "admin-nuke-data-selected.png",
+      "file": "screens/admin-nuke-data-selected.png"
+    },
+    {
+      "name": "admin-users-actions-after.png",
+      "file": "screens/admin-users-actions-after.png"
+    },
+    {
+      "name": "admin-users-actions-before.png",
+      "file": "screens/admin-users-actions-before.png"
+    },
+    {
+      "name": "admin-users-block-confirm.png",
+      "file": "screens/admin-users-block-confirm.png"
+    },
+    {
+      "name": "admin-users-date-preset.png",
+      "file": "screens/admin-users-date-preset.png"
+    },
+    {
+      "name": "admin-users-detail.png",
+      "file": "screens/admin-users-detail.png"
+    },
+    {
+      "name": "admin-users-filtered.png",
+      "file": "screens/admin-users-filtered.png"
+    },
+    {
+      "name": "admin-users-guard-rail.png",
+      "file": "screens/admin-users-guard-rail.png"
+    },
+    {
+      "name": "admin-users-list.png",
+      "file": "screens/admin-users-list.png"
+    },
+    {
+      "name": "admin-workspaces-hatches.png",
+      "file": "screens/admin-workspaces-hatches.png"
+    },
+    {
+      "name": "admin-workspaces-list.png",
+      "file": "screens/admin-workspaces-list.png"
+    },
+    {
+      "name": "after-first-run-name.png",
+      "file": "screens/after-first-run-name.png"
+    },
+    {
+      "name": "after-first-run-resend.png",
+      "file": "screens/after-first-run-resend.png"
+    },
+    {
+      "name": "after-first-run-shell.png",
+      "file": "screens/after-first-run-shell.png"
+    },
+    {
+      "name": "after-first-run-verify.png",
+      "file": "screens/after-first-run-verify.png"
+    },
+    {
+      "name": "audit-log-actor-picker.png",
+      "file": "screens/audit-log-actor-picker.png"
+    },
+    {
+      "name": "audit-log-date-preset.png",
+      "file": "screens/audit-log-date-preset.png"
+    },
+    {
+      "name": "audit-log-detail.png",
+      "file": "screens/audit-log-detail.png"
+    },
+    {
+      "name": "audit-log-entity-link.png",
+      "file": "screens/audit-log-entity-link.png"
+    },
+    {
+      "name": "audit-log-filtered.png",
+      "file": "screens/audit-log-filtered.png"
+    },
+    {
+      "name": "audit-log-list.png",
+      "file": "screens/audit-log-list.png"
+    },
+    {
+      "name": "billing-grace-readonly.png",
+      "file": "screens/billing-grace-readonly.png"
+    },
+    {
+      "name": "billing-member-cap.png",
+      "file": "screens/billing-member-cap.png"
+    },
+    {
+      "name": "billing-suspended-owner.png",
+      "file": "screens/billing-suspended-owner.png"
+    },
+    {
+      "name": "billing-tab.png",
+      "file": "screens/billing-tab.png"
+    },
+    {
+      "name": "billing-trial-countdown.png",
+      "file": "screens/billing-trial-countdown.png"
+    },
+    {
+      "name": "degraded-banner.png",
+      "file": "screens/degraded-banner.png"
+    },
+    {
+      "name": "invite-accept-choice.png",
+      "file": "screens/invite-accept-choice.png"
+    },
+    {
+      "name": "invite-accepted-workspace.png",
+      "file": "screens/invite-accepted-workspace.png"
+    },
+    {
+      "name": "invite-after-switch.png",
+      "file": "screens/invite-after-switch.png"
+    },
+    {
+      "name": "invite-email-mismatch.png",
+      "file": "screens/invite-email-mismatch.png"
+    },
+    {
+      "name": "invite-login-hint.png",
+      "file": "screens/invite-login-hint.png"
+    },
+    {
+      "name": "landed-with-welcome.png",
+      "file": "screens/landed-with-welcome.png"
+    },
+    {
+      "name": "layout-account-settings.png",
+      "file": "screens/layout-account-settings.png"
+    },
+    {
+      "name": "layout-admin-audit-log.png",
+      "file": "screens/layout-admin-audit-log.png"
+    },
+    {
+      "name": "layout-admin-users.png",
+      "file": "screens/layout-admin-users.png"
+    },
+    {
+      "name": "layout-home.png",
+      "file": "screens/layout-home.png"
+    },
+    {
+      "name": "layout-notification-settings.png",
+      "file": "screens/layout-notification-settings.png"
+    },
+    {
+      "name": "layout-workspace-members.png",
+      "file": "screens/layout-workspace-members.png"
+    },
+    {
+      "name": "layout-workspace-settings.png",
+      "file": "screens/layout-workspace-settings.png"
+    },
+    {
+      "name": "layout-workspaces.png",
+      "file": "screens/layout-workspaces.png"
+    },
+    {
+      "name": "long-feed-scrolled.png",
+      "file": "screens/long-feed-scrolled.png"
+    },
+    {
+      "name": "long-feed-top.png",
+      "file": "screens/long-feed-top.png"
+    },
+    {
+      "name": "members-after-acceptance.png",
+      "file": "screens/members-after-acceptance.png"
+    },
+    {
+      "name": "members-as-member.png",
+      "file": "screens/members-as-member.png"
+    },
+    {
+      "name": "members-before-invite.png",
+      "file": "screens/members-before-invite.png"
+    },
+    {
+      "name": "members-invitation-pending.png",
+      "file": "screens/members-invitation-pending.png"
+    },
+    {
+      "name": "not-found.png",
+      "file": "screens/not-found.png"
+    },
+    {
+      "name": "onboarding-created-workspace-home.png",
+      "file": "screens/onboarding-created-workspace-home.png"
+    },
+    {
+      "name": "onboarding-forced-create.png",
+      "file": "screens/onboarding-forced-create.png"
+    },
+    {
+      "name": "onboarding-invite-accepted.png",
+      "file": "screens/onboarding-invite-accepted.png"
+    },
+    {
+      "name": "onboarding-invite-choice.png",
+      "file": "screens/onboarding-invite-choice.png"
+    },
+    {
+      "name": "onboarding-member-opened-workspace.png",
+      "file": "screens/onboarding-member-opened-workspace.png"
+    },
+    {
+      "name": "onboarding-member-personal-home.png",
+      "file": "screens/onboarding-member-personal-home.png"
+    },
+    {
+      "name": "project-cover-collaborator.png",
+      "file": "screens/project-cover-collaborator.png"
+    },
+    {
+      "name": "project-cover-removed.png",
+      "file": "screens/project-cover-removed.png"
+    },
+    {
+      "name": "project-cover-set.png",
+      "file": "screens/project-cover-set.png"
+    },
+    {
+      "name": "project-detail.png",
+      "file": "screens/project-detail.png"
+    },
+    {
+      "name": "projects-create-dialog.png",
+      "file": "screens/projects-create-dialog.png"
+    },
+    {
+      "name": "projects-empty.png",
+      "file": "screens/projects-empty.png"
+    },
+    {
+      "name": "projects-list-with-cover.png",
+      "file": "screens/projects-list-with-cover.png"
+    },
+    {
+      "name": "projects-list.png",
+      "file": "screens/projects-list.png"
+    },
+    {
+      "name": "recovered-after-retry.png",
+      "file": "screens/recovered-after-retry.png"
+    },
+    {
+      "name": "setup-screen.png",
+      "file": "screens/setup-screen.png"
+    },
+    {
+      "name": "shell-home.png",
+      "file": "screens/shell-home.png"
+    },
+    {
+      "name": "single-403-toast.png",
+      "file": "screens/single-403-toast.png"
+    }
+  ],
+  "clips": [
+    {
+      "slug": "workspaces-a-collaborator--86c6f-ace-but-no-way-to-change-it-chromium",
+      "spec": "workspaces",
+      "failed": false,
+      "gif": "clips/workspaces-a-collaborator--86c6f-ace-but-no-way-to-change-it-chromium.gif",
+      "mp4": "clips/workspaces-a-collaborator--86c6f-ace-but-no-way-to-change-it-chromium.mp4",
+      "gifBytes": 504374
+    },
+    {
+      "slug": "workspaces-an-owner-rename-5a3e6-e-and-every-surface-follows-chromium",
+      "spec": "workspaces",
+      "failed": false,
+      "gif": "clips/workspaces-an-owner-rename-5a3e6-e-and-every-surface-follows-chromium.gif",
+      "mp4": "clips/workspaces-an-owner-rename-5a3e6-e-and-every-surface-follows-chromium.mp4",
+      "gifBytes": 668680
+    },
+    {
+      "slug": "workspaces-opening-a-works-7c282-s-on-its-own-host-signed-in-chromium",
+      "spec": "workspaces",
+      "failed": false,
+      "gif": "clips/workspaces-opening-a-works-7c282-s-on-its-own-host-signed-in-chromium.gif",
+      "mp4": "clips/workspaces-opening-a-works-7c282-s-on-its-own-host-signed-in-chromium.mp4",
+      "gifBytes": 537651
+    },
+    {
+      "slug": "workspaces-the-selector-re-81e5d-ery-workspace-and-your-role-chromium",
+      "spec": "workspaces",
+      "failed": false,
+      "gif": "clips/workspaces-the-selector-re-81e5d-ery-workspace-and-your-role-chromium.gif",
+      "mp4": "clips/workspaces-the-selector-re-81e5d-ery-workspace-and-your-role-chromium.mp4",
+      "gifBytes": 429112
+    },
+    {
+      "slug": "workspaces-the-workspace-home-renders-the-seeded-dashboard-chromium",
+      "spec": "workspaces",
+      "failed": false,
+      "gif": "clips/workspaces-the-workspace-home-renders-the-seeded-dashboard-chromium.gif",
+      "mp4": "clips/workspaces-the-workspace-home-renders-the-seeded-dashboard-chromium.mp4",
+      "gifBytes": 452915
+    }
+  ],
+  "changedSpecs": [
+    "workspaces"
+  ]
+}
