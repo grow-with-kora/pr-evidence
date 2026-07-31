@@ -1,0 +1,136 @@
+{
+  "screens": [
+    {
+      "name": "admin-workspaces-hatches.png",
+      "file": "screens/admin-workspaces-hatches.png"
+    },
+    {
+      "name": "admin-workspaces-list.png",
+      "file": "screens/admin-workspaces-list.png"
+    },
+    {
+      "name": "after-first-run-name.png",
+      "file": "screens/after-first-run-name.png"
+    },
+    {
+      "name": "after-first-run-resend.png",
+      "file": "screens/after-first-run-resend.png"
+    },
+    {
+      "name": "after-first-run-shell.png",
+      "file": "screens/after-first-run-shell.png"
+    },
+    {
+      "name": "after-first-run-verify.png",
+      "file": "screens/after-first-run-verify.png"
+    },
+    {
+      "name": "audit-log-actor-picker.png",
+      "file": "screens/audit-log-actor-picker.png"
+    },
+    {
+      "name": "audit-log-date-preset.png",
+      "file": "screens/audit-log-date-preset.png"
+    },
+    {
+      "name": "audit-log-detail.png",
+      "file": "screens/audit-log-detail.png"
+    },
+    {
+      "name": "audit-log-entity-link.png",
+      "file": "screens/audit-log-entity-link.png"
+    },
+    {
+      "name": "audit-log-filtered.png",
+      "file": "screens/audit-log-filtered.png"
+    },
+    {
+      "name": "audit-log-list.png",
+      "file": "screens/audit-log-list.png"
+    },
+    {
+      "name": "billing-grace-readonly.png",
+      "file": "screens/billing-grace-readonly.png"
+    },
+    {
+      "name": "billing-member-cap.png",
+      "file": "screens/billing-member-cap.png"
+    },
+    {
+      "name": "billing-suspended-owner.png",
+      "file": "screens/billing-suspended-owner.png"
+    },
+    {
+      "name": "billing-tab.png",
+      "file": "screens/billing-tab.png"
+    },
+    {
+      "name": "billing-trial-countdown.png",
+      "file": "screens/billing-trial-countdown.png"
+    },
+    {
+      "name": "degraded-banner.png",
+      "file": "screens/degraded-banner.png"
+    },
+    {
+      "name": "invite-accept-choice.png",
+      "file": "screens/invite-accept-choice.png"
+    },
+    {
+      "name": "invite-accepted-workspace.png",
+      "file": "screens/invite-accepted-workspace.png"
+    },
+    {
+      "name": "invite-after-switch.png",
+      "file": "screens/invite-after-switch.png"
+    },
+    {
+      "name": "invite-email-mismatch.png",
+      "file": "screens/invite-email-mismatch.png"
+    },
+    {
+      "name": "invite-login-hint.png",
+      "file": "screens/invite-login-hint.png"
+    },
+    {
+      "name": "layout-home.png",
+      "file": "screens/layout-home.png"
+    },
+    {
+      "name": "layout-workspaces.png",
+      "file": "screens/layout-workspaces.png"
+    },
+    {
+      "name": "members-after-acceptance.png",
+      "file": "screens/members-after-acceptance.png"
+    },
+    {
+      "name": "members-as-member.png",
+      "file": "screens/members-as-member.png"
+    },
+    {
+      "name": "members-before-invite.png",
+      "file": "screens/members-before-invite.png"
+    },
+    {
+      "name": "members-invitation-pending.png",
+      "file": "screens/members-invitation-pending.png"
+    },
+    {
+      "name": "not-found.png",
+      "file": "screens/not-found.png"
+    },
+    {
+      "name": "recovered-after-retry.png",
+      "file": "screens/recovered-after-retry.png"
+    },
+    {
+      "name": "single-403-toast.png",
+      "file": "screens/single-403-toast.png"
+    }
+  ],
+  "clips": [],
+  "changedSpecs": [
+    "workspaces"
+  ]
+}
