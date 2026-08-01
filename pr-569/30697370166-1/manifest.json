@@ -1,0 +1,708 @@
+{
+  "screens": [
+    {
+      "name": "admin-nuke-data-confirm.png",
+      "file": "screens/admin-nuke-data-confirm.png"
+    },
+    {
+      "name": "admin-nuke-data-result.png",
+      "file": "screens/admin-nuke-data-result.png"
+    },
+    {
+      "name": "admin-nuke-data-selected.png",
+      "file": "screens/admin-nuke-data-selected.png"
+    },
+    {
+      "name": "admin-users-actions-after.png",
+      "file": "screens/admin-users-actions-after.png"
+    },
+    {
+      "name": "admin-users-actions-before.png",
+      "file": "screens/admin-users-actions-before.png"
+    },
+    {
+      "name": "admin-users-block-confirm.png",
+      "file": "screens/admin-users-block-confirm.png"
+    },
+    {
+      "name": "admin-users-date-preset.png",
+      "file": "screens/admin-users-date-preset.png"
+    },
+    {
+      "name": "admin-users-detail.png",
+      "file": "screens/admin-users-detail.png"
+    },
+    {
+      "name": "admin-users-filtered.png",
+      "file": "screens/admin-users-filtered.png"
+    },
+    {
+      "name": "admin-users-guard-rail.png",
+      "file": "screens/admin-users-guard-rail.png"
+    },
+    {
+      "name": "admin-users-list.png",
+      "file": "screens/admin-users-list.png"
+    },
+    {
+      "name": "admin-workspaces-hatches.png",
+      "file": "screens/admin-workspaces-hatches.png"
+    },
+    {
+      "name": "admin-workspaces-list.png",
+      "file": "screens/admin-workspaces-list.png"
+    },
+    {
+      "name": "after-first-run-name.png",
+      "file": "screens/after-first-run-name.png"
+    },
+    {
+      "name": "after-first-run-resend.png",
+      "file": "screens/after-first-run-resend.png"
+    },
+    {
+      "name": "after-first-run-shell.png",
+      "file": "screens/after-first-run-shell.png"
+    },
+    {
+      "name": "after-first-run-verify.png",
+      "file": "screens/after-first-run-verify.png"
+    },
+    {
+      "name": "audit-log-actor-picker.png",
+      "file": "screens/audit-log-actor-picker.png"
+    },
+    {
+      "name": "audit-log-date-preset.png",
+      "file": "screens/audit-log-date-preset.png"
+    },
+    {
+      "name": "audit-log-detail.png",
+      "file": "screens/audit-log-detail.png"
+    },
+    {
+      "name": "audit-log-entity-link.png",
+      "file": "screens/audit-log-entity-link.png"
+    },
+    {
+      "name": "audit-log-filtered.png",
+      "file": "screens/audit-log-filtered.png"
+    },
+    {
+      "name": "audit-log-list.png",
+      "file": "screens/audit-log-list.png"
+    },
+    {
+      "name": "billing-grace-readonly.png",
+      "file": "screens/billing-grace-readonly.png"
+    },
+    {
+      "name": "billing-member-cap.png",
+      "file": "screens/billing-member-cap.png"
+    },
+    {
+      "name": "billing-suspended-owner.png",
+      "file": "screens/billing-suspended-owner.png"
+    },
+    {
+      "name": "billing-tab.png",
+      "file": "screens/billing-tab.png"
+    },
+    {
+      "name": "billing-trial-countdown.png",
+      "file": "screens/billing-trial-countdown.png"
+    },
+    {
+      "name": "degraded-banner.png",
+      "file": "screens/degraded-banner.png"
+    },
+    {
+      "name": "invite-accept-choice.png",
+      "file": "screens/invite-accept-choice.png"
+    },
+    {
+      "name": "invite-accepted-workspace.png",
+      "file": "screens/invite-accepted-workspace.png"
+    },
+    {
+      "name": "invite-after-switch.png",
+      "file": "screens/invite-after-switch.png"
+    },
+    {
+      "name": "invite-email-mismatch.png",
+      "file": "screens/invite-email-mismatch.png"
+    },
+    {
+      "name": "invite-login-hint.png",
+      "file": "screens/invite-login-hint.png"
+    },
+    {
+      "name": "landed-with-welcome.png",
+      "file": "screens/landed-with-welcome.png"
+    },
+    {
+      "name": "layout-account-settings.png",
+      "file": "screens/layout-account-settings.png"
+    },
+    {
+      "name": "layout-admin-audit-log.png",
+      "file": "screens/layout-admin-audit-log.png"
+    },
+    {
+      "name": "layout-admin-users.png",
+      "file": "screens/layout-admin-users.png"
+    },
+    {
+      "name": "layout-home.png",
+      "file": "screens/layout-home.png"
+    },
+    {
+      "name": "layout-notification-settings.png",
+      "file": "screens/layout-notification-settings.png"
+    },
+    {
+      "name": "layout-workspace-members.png",
+      "file": "screens/layout-workspace-members.png"
+    },
+    {
+      "name": "layout-workspace-settings.png",
+      "file": "screens/layout-workspace-settings.png"
+    },
+    {
+      "name": "layout-workspaces.png",
+      "file": "screens/layout-workspaces.png"
+    },
+    {
+      "name": "long-feed-scrolled.png",
+      "file": "screens/long-feed-scrolled.png"
+    },
+    {
+      "name": "long-feed-top.png",
+      "file": "screens/long-feed-top.png"
+    },
+    {
+      "name": "members-after-acceptance.png",
+      "file": "screens/members-after-acceptance.png"
+    },
+    {
+      "name": "members-as-member.png",
+      "file": "screens/members-as-member.png"
+    },
+    {
+      "name": "members-before-invite.png",
+      "file": "screens/members-before-invite.png"
+    },
+    {
+      "name": "members-invitation-pending.png",
+      "file": "screens/members-invitation-pending.png"
+    },
+    {
+      "name": "not-found.png",
+      "file": "screens/not-found.png"
+    },
+    {
+      "name": "onboarding-created-workspace-home.png",
+      "file": "screens/onboarding-created-workspace-home.png"
+    },
+    {
+      "name": "onboarding-forced-create.png",
+      "file": "screens/onboarding-forced-create.png"
+    },
+    {
+      "name": "onboarding-invite-accepted.png",
+      "file": "screens/onboarding-invite-accepted.png"
+    },
+    {
+      "name": "onboarding-invite-choice.png",
+      "file": "screens/onboarding-invite-choice.png"
+    },
+    {
+      "name": "onboarding-member-opened-workspace.png",
+      "file": "screens/onboarding-member-opened-workspace.png"
+    },
+    {
+      "name": "onboarding-member-personal-home.png",
+      "file": "screens/onboarding-member-personal-home.png"
+    },
+    {
+      "name": "project-cover-collaborator.png",
+      "file": "screens/project-cover-collaborator.png"
+    },
+    {
+      "name": "project-cover-removed.png",
+      "file": "screens/project-cover-removed.png"
+    },
+    {
+      "name": "project-cover-set.png",
+      "file": "screens/project-cover-set.png"
+    },
+    {
+      "name": "project-detail.png",
+      "file": "screens/project-detail.png"
+    },
+    {
+      "name": "projects-create-dialog.png",
+      "file": "screens/projects-create-dialog.png"
+    },
+    {
+      "name": "projects-empty.png",
+      "file": "screens/projects-empty.png"
+    },
+    {
+      "name": "projects-list-with-cover.png",
+      "file": "screens/projects-list-with-cover.png"
+    },
+    {
+      "name": "projects-list.png",
+      "file": "screens/projects-list.png"
+    },
+    {
+      "name": "recovered-after-retry.png",
+      "file": "screens/recovered-after-retry.png"
+    },
+    {
+      "name": "saved-filters-applied.png",
+      "file": "screens/saved-filters-applied.png"
+    },
+    {
+      "name": "saved-filters-modified.png",
+      "file": "screens/saved-filters-modified.png"
+    },
+    {
+      "name": "saved-filters-picker.png",
+      "file": "screens/saved-filters-picker.png"
+    },
+    {
+      "name": "setup-screen.png",
+      "file": "screens/setup-screen.png"
+    },
+    {
+      "name": "shell-home.png",
+      "file": "screens/shell-home.png"
+    },
+    {
+      "name": "single-403-toast.png",
+      "file": "screens/single-403-toast.png"
+    }
+  ],
+  "clips": [
+    {
+      "slug": "notifications-notification-2cfa9-the-welcome-already-present-chromium",
+      "spec": "notifications",
+      "failed": true,
+      "gif": "clips/notifications-notification-2cfa9-the-welcome-already-present-chromium.gif",
+      "mp4": "clips/notifications-notification-2cfa9-the-welcome-already-present-chromium.mp4",
+      "gifBytes": 678168
+    },
+    {
+      "slug": "admin-workspaces-the-escap-d919c-cue-and-suspend-a-workspace-chromium",
+      "spec": "admin-workspaces",
+      "failed": false,
+      "gif": "clips/admin-workspaces-the-escap-d919c-cue-and-suspend-a-workspace-chromium.gif",
+      "mp4": "clips/admin-workspaces-the-escap-d919c-cue-and-suspend-a-workspace-chromium.mp4",
+      "gifBytes": 1693101
+    },
+    {
+      "slug": "audit-log-a-plain-user-never-sees-the-audit-log-chromium",
+      "spec": "audit-log",
+      "failed": false,
+      "gif": "clips/audit-log-a-plain-user-never-sees-the-audit-log-chromium.gif",
+      "mp4": "clips/audit-log-a-plain-user-never-sees-the-audit-log-chromium.mp4",
+      "gifBytes": 266807
+    },
+    {
+      "slug": "audit-log-a-platform-admin-10ede-nd-inspects-the-audit-trail-chromium",
+      "spec": "audit-log",
+      "failed": false,
+      "gif": "clips/audit-log-a-platform-admin-10ede-nd-inspects-the-audit-trail-chromium.gif",
+      "mp4": "clips/audit-log-a-platform-admin-10ede-nd-inspects-the-audit-trail-chromium.mp4",
+      "gifBytes": 2311912
+    },
+    {
+      "slug": "billing-a-suspended-worksp-c319d-owner-at-the-paywall-screen-chromium",
+      "spec": "billing",
+      "failed": false,
+      "gif": "clips/billing-a-suspended-worksp-c319d-owner-at-the-paywall-screen-chromium.gif",
+      "mp4": "clips/billing-a-suspended-worksp-c319d-owner-at-the-paywall-screen-chromium.mp4",
+      "gifBytes": 544687
+    },
+    {
+      "slug": "billing-at-the-member-cap--585c6-nce-gives-way-to-the-reason-chromium",
+      "spec": "billing",
+      "failed": false,
+      "gif": "clips/billing-at-the-member-cap--585c6-nce-gives-way-to-the-reason-chromium.gif",
+      "mp4": "clips/billing-at-the-member-cap--585c6-nce-gives-way-to-the-reason-chromium.mp4",
+      "gifBytes": 552352
+    },
+    {
+      "slug": "billing-grace-is-read-only-01658-explains-the-affordances-go-chromium",
+      "spec": "billing",
+      "failed": false,
+      "gif": "clips/billing-grace-is-read-only-01658-explains-the-affordances-go-chromium.gif",
+      "mp4": "clips/billing-grace-is-read-only-01658-explains-the-affordances-go-chromium.mp4",
+      "gifBytes": 744954
+    },
+    {
+      "slug": "billing-the-billing-tab-sh-0ac19-and-subscribes-via-Checkout-chromium",
+      "spec": "billing",
+      "failed": false,
+      "gif": "clips/billing-the-billing-tab-sh-0ac19-and-subscribes-via-Checkout-chromium.gif",
+      "mp4": "clips/billing-the-billing-tab-sh-0ac19-and-subscribes-via-Checkout-chromium.mp4",
+      "gifBytes": 561884
+    },
+    {
+      "slug": "billing-the-trial-s-final-days-show-a-countdown-banner-chromium",
+      "spec": "billing",
+      "failed": false,
+      "gif": "clips/billing-the-trial-s-final-days-show-a-countdown-banner-chromium.gif",
+      "mp4": "clips/billing-the-trial-s-final-days-show-a-countdown-banner-chromium.mp4",
+      "gifBytes": 495722
+    },
+    {
+      "slug": "dashboards-dragging-a-widget-persists-its-new-place-chromium",
+      "spec": "dashboards",
+      "failed": false,
+      "gif": "clips/dashboards-dragging-a-widget-persists-its-new-place-chromium.gif",
+      "mp4": "clips/dashboards-dragging-a-widget-persists-its-new-place-chromium.mp4",
+      "gifBytes": 1390154
+    },
+    {
+      "slug": "dashboards-resizing-a-widget-persists-its-new-size-chromium",
+      "spec": "dashboards",
+      "failed": false,
+      "gif": "clips/dashboards-resizing-a-widget-persists-its-new-size-chromium.gif",
+      "mp4": "clips/dashboards-resizing-a-widget-persists-its-new-size-chromium.mp4",
+      "gifBytes": 1240056
+    },
+    {
+      "slug": "dashboards-the-management--a9607-ard-default-delete-fallback-chromium",
+      "spec": "dashboards",
+      "failed": false,
+      "gif": "clips/dashboards-the-management--a9607-ard-default-delete-fallback-chromium.gif",
+      "mp4": "clips/dashboards-the-management--a9607-ard-default-delete-fallback-chromium.mp4",
+      "gifBytes": 3675942
+    },
+    {
+      "slug": "dashboards-the-workspace-home-renders-the-seeded-dashboard-chromium",
+      "spec": "dashboards",
+      "failed": false,
+      "gif": "clips/dashboards-the-workspace-home-renders-the-seeded-dashboard-chromium.gif",
+      "mp4": "clips/dashboards-the-workspace-home-renders-the-seeded-dashboard-chromium.mp4",
+      "gifBytes": 759103
+    },
+    {
+      "slug": "failure-paths-failure-path-43b45-ion-shows-exactly-one-toast-chromium",
+      "spec": "failure-paths",
+      "failed": false,
+      "gif": "clips/failure-paths-failure-path-43b45-ion-shows-exactly-one-toast-chromium.gif",
+      "mp4": "clips/failure-paths-failure-path-43b45-ion-shows-exactly-one-toast-chromium.mp4",
+      "gifBytes": 289018
+    },
+    {
+      "slug": "failure-paths-failure-path-c1a58-page-not-the-router-default-chromium",
+      "spec": "failure-paths",
+      "failed": false,
+      "gif": "clips/failure-paths-failure-path-c1a58-page-not-the-router-default-chromium.gif",
+      "mp4": "clips/failure-paths-failure-path-c1a58-page-not-the-router-default-chromium.mp4",
+      "gifBytes": 42201
+    },
+    {
+      "slug": "failure-paths-failure-path-de508-able-and-recovers-via-Retry-chromium",
+      "spec": "failure-paths",
+      "failed": false,
+      "gif": "clips/failure-paths-failure-path-de508-able-and-recovers-via-Retry-chromium.gif",
+      "mp4": "clips/failure-paths-failure-path-de508-able-and-recovers-via-Retry-chromium.mp4",
+      "gifBytes": 492890
+    },
+    {
+      "slug": "failure-paths-failure-path-f2031--closed-out-to-the-app-host-chromium",
+      "spec": "failure-paths",
+      "failed": false,
+      "gif": "clips/failure-paths-failure-path-f2031--closed-out-to-the-app-host-chromium.gif",
+      "mp4": "clips/failure-paths-failure-path-f2031--closed-out-to-the-app-host-chromium.mp4",
+      "gifBytes": 195036
+    },
+    {
+      "slug": "first-run-a-verified-signu-ec561-sees-neither-first-run-gate-chromium",
+      "spec": "first-run",
+      "failed": false,
+      "gif": "clips/first-run-a-verified-signu-ec561-sees-neither-first-run-gate-chromium.gif",
+      "mp4": "clips/first-run-a-verified-signu-ec561-sees-neither-first-run-gate-chromium.mp4",
+      "gifBytes": 186959
+    },
+    {
+      "slug": "first-run-an-unverified-em-a462c-self-and-lands-in-the-shell-chromium",
+      "spec": "first-run",
+      "failed": false,
+      "gif": "clips/first-run-an-unverified-em-a462c-self-and-lands-in-the-shell-chromium.gif",
+      "mp4": "clips/first-run-an-unverified-em-a462c-self-and-lands-in-the-shell-chromium.mp4",
+      "gifBytes": 431304
+    },
+    {
+      "slug": "first-run-an-unverified-us-e9cd5--from-the-verify-email-gate-chromium",
+      "spec": "first-run",
+      "failed": false,
+      "gif": "clips/first-run-an-unverified-us-e9cd5--from-the-verify-email-gate-chromium.gif",
+      "mp4": "clips/first-run-an-unverified-us-e9cd5--from-the-verify-email-gate-chromium.mp4",
+      "gifBytes": 61194
+    },
+    {
+      "slug": "home-greets-the-actor-and-counts-what-needs-them-chromium",
+      "spec": "home",
+      "failed": false,
+      "gif": "clips/home-greets-the-actor-and-counts-what-needs-them-chromium.gif",
+      "mp4": "clips/home-greets-the-actor-and-counts-what-needs-them-chromium.mp4",
+      "gifBytes": 233975
+    },
+    {
+      "slug": "home-opening-a-notification-reads-it-and-moves-it-to-Earlier-chromium",
+      "spec": "home",
+      "failed": false,
+      "gif": "clips/home-opening-a-notification-reads-it-and-moves-it-to-Earlier-chromium.gif",
+      "mp4": "clips/home-opening-a-notification-reads-it-and-moves-it-to-Earlier-chromium.mp4",
+      "gifBytes": 489371
+    },
+    {
+      "slug": "home-sections-the-unread-welcome-under-Needs-you-chromium",
+      "spec": "home",
+      "failed": false,
+      "gif": "clips/home-sections-the-unread-welcome-under-Needs-you-chromium.gif",
+      "mp4": "clips/home-sections-the-unread-welcome-under-Needs-you-chromium.mp4",
+      "gifBytes": 246963
+    },
+    {
+      "slug": "layout-account-settings-is-2e96d-mn-and-starts-at-the-gutter-chromium",
+      "spec": "layout",
+      "failed": false,
+      "gif": "clips/layout-account-settings-is-2e96d-mn-and-starts-at-the-gutter-chromium.gif",
+      "mp4": "clips/layout-account-settings-is-2e96d-mn-and-starts-at-the-gutter-chromium.mp4",
+      "gifBytes": 409100
+    },
+    {
+      "slug": "layout-pages-start-at-the--b1ee3-se-the-width-they-are-given-chromium",
+      "spec": "layout",
+      "failed": false,
+      "gif": "clips/layout-pages-start-at-the--b1ee3-se-the-width-they-are-given-chromium.gif",
+      "mp4": "clips/layout-pages-start-at-the--b1ee3-se-the-width-they-are-given-chromium.mp4",
+      "gifBytes": 334782
+    },
+    {
+      "slug": "layout-the-admin-screens-follow-the-same-page-layout-chromium",
+      "spec": "layout",
+      "failed": false,
+      "gif": "clips/layout-the-admin-screens-follow-the-same-page-layout-chromium.gif",
+      "mp4": "clips/layout-the-admin-screens-follow-the-same-page-layout-chromium.mp4",
+      "gifBytes": 716158
+    },
+    {
+      "slug": "layout-workspace-settings--ac8fb--and-stacks-on-a-narrow-one-chromium",
+      "spec": "layout",
+      "failed": false,
+      "gif": "clips/layout-workspace-settings--ac8fb--and-stacks-on-a-narrow-one-chromium.gif",
+      "mp4": "clips/layout-workspace-settings--ac8fb--and-stacks-on-a-narrow-one-chromium.mp4",
+      "gifBytes": 581804
+    },
+    {
+      "slug": "login-authentication-an-un-a7142-sit-lands-on-the-login-page-chromium",
+      "spec": "login",
+      "failed": false,
+      "gif": "clips/login-authentication-an-un-a7142-sit-lands-on-the-login-page-chromium.gif",
+      "mp4": "clips/login-authentication-an-un-a7142-sit-lands-on-the-login-page-chromium.mp4",
+      "gifBytes": 11455
+    },
+    {
+      "slug": "login-authentication-signi-84db5-door-lands-in-the-app-shell-chromium",
+      "spec": "login",
+      "failed": false,
+      "gif": "clips/login-authentication-signi-84db5-door-lands-in-the-app-shell-chromium.gif",
+      "mp4": "clips/login-authentication-signi-84db5-door-lands-in-the-app-shell-chromium.mp4",
+      "gifBytes": 545448
+    },
+    {
+      "slug": "notifications-notification-2cfa9-the-welcome-already-present-chromium-retry1",
+      "spec": "notifications",
+      "failed": false,
+      "gif": "clips/notifications-notification-2cfa9-the-welcome-already-present-chromium-retry1.gif",
+      "mp4": "clips/notifications-notification-2cfa9-the-welcome-already-present-chromium-retry1.mp4",
+      "gifBytes": 264119
+    },
+    {
+      "slug": "notifications-notification-31ee5-nd-opening-it-marks-it-read-chromium",
+      "spec": "notifications",
+      "failed": false,
+      "gif": "clips/notifications-notification-31ee5-nd-opening-it-marks-it-read-chromium.gif",
+      "mp4": "clips/notifications-notification-31ee5-nd-opening-it-marks-it-read-chromium.mp4",
+      "gifBytes": 442726
+    },
+    {
+      "slug": "notifications-notification-5d398-atrix-and-toggles-a-channel-chromium",
+      "spec": "notifications",
+      "failed": false,
+      "gif": "clips/notifications-notification-5d398-atrix-and-toggles-a-channel-chromium.gif",
+      "mp4": "clips/notifications-notification-5d398-atrix-and-toggles-a-channel-chromium.mp4",
+      "gifBytes": 525408
+    },
+    {
+      "slug": "notifications-notification-89d8b-d-Show-older-stay-reachable-chromium",
+      "spec": "notifications",
+      "failed": false,
+      "gif": "clips/notifications-notification-89d8b-d-Show-older-stay-reachable-chromium.gif",
+      "mp4": "clips/notifications-notification-89d8b-d-Show-older-stay-reachable-chromium.mp4",
+      "gifBytes": 891325
+    },
+    {
+      "slug": "notifications-notification-f0a0c-ll-as-read-clears-the-badge-chromium",
+      "spec": "notifications",
+      "failed": false,
+      "gif": "clips/notifications-notification-f0a0c-ll-as-read-clears-the-badge-chromium.gif",
+      "mp4": "clips/notifications-notification-f0a0c-ll-as-read-clears-the-badge-chromium.mp4",
+      "gifBytes": 248540
+    },
+    {
+      "slug": "onboarding-a-member-lands--ee728-kspace-through-the-selector-chromium",
+      "spec": "onboarding",
+      "failed": false,
+      "gif": "clips/onboarding-a-member-lands--ee728-kspace-through-the-selector-chromium.gif",
+      "mp4": "clips/onboarding-a-member-lands--ee728-kspace-through-the-selector-chromium.mp4",
+      "gifBytes": 513565
+    },
+    {
+      "slug": "onboarding-a-new-user-is-f-34aff-on-the-workspace-s-own-host-chromium",
+      "spec": "onboarding",
+      "failed": false,
+      "gif": "clips/onboarding-a-new-user-is-f-34aff-on-the-workspace-s-own-host-chromium.gif",
+      "mp4": "clips/onboarding-a-new-user-is-f-34aff-on-the-workspace-s-own-host-chromium.mp4",
+      "gifBytes": 436244
+    },
+    {
+      "slug": "onboarding-a-returning-use-2b035-s-held-at-create-every-time-chromium",
+      "spec": "onboarding",
+      "failed": false,
+      "gif": "clips/onboarding-a-returning-use-2b035-s-held-at-create-every-time-chromium.gif",
+      "mp4": "clips/onboarding-a-returning-use-2b035-s-held-at-create-every-time-chromium.mp4",
+      "gifBytes": 251656
+    },
+    {
+      "slug": "onboarding-a-seeded-invita-c837f-he-invited-workspace-s-host-chromium",
+      "spec": "onboarding",
+      "failed": false,
+      "gif": "clips/onboarding-a-seeded-invita-c837f-he-invited-workspace-s-host-chromium.gif",
+      "mp4": "clips/onboarding-a-seeded-invita-c837f-he-invited-workspace-s-host-chromium.mp4",
+      "gifBytes": 431084
+    },
+    {
+      "slug": "projects-a-collaborator-se-0d35d--without-any-cover-controls-chromium",
+      "spec": "projects",
+      "failed": false,
+      "gif": "clips/projects-a-collaborator-se-0d35d--without-any-cover-controls-chromium.gif",
+      "mp4": "clips/projects-a-collaborator-se-0d35d--without-any-cover-controls-chromium.mp4",
+      "gifBytes": 390818
+    },
+    {
+      "slug": "projects-a-member-sets-replaces-and-removes-the-cover-photo-chromium",
+      "spec": "projects",
+      "failed": false,
+      "gif": "clips/projects-a-member-sets-replaces-and-removes-the-cover-photo-chromium.gif",
+      "mp4": "clips/projects-a-member-sets-replaces-and-removes-the-cover-photo-chromium.mp4",
+      "gifBytes": 796669
+    },
+    {
+      "slug": "projects-an-owner-creates-a-project-and-lands-on-it-chromium",
+      "spec": "projects",
+      "failed": false,
+      "gif": "clips/projects-an-owner-creates-a-project-and-lands-on-it-chromium.gif",
+      "mp4": "clips/projects-an-owner-creates-a-project-and-lands-on-it-chromium.mp4",
+      "gifBytes": 638787
+    },
+    {
+      "slug": "projects-the-sidebar-reaches-projects-on-a-workspace-host-chromium",
+      "spec": "projects",
+      "failed": false,
+      "gif": "clips/projects-the-sidebar-reaches-projects-on-a-workspace-host-chromium.gif",
+      "mp4": "clips/projects-the-sidebar-reaches-projects-on-a-workspace-host-chromium.mp4",
+      "gifBytes": 444905
+    },
+    {
+      "slug": "saved-filters-a-platform-a-04625-t-shares-one-and-deletes-it-chromium",
+      "spec": "saved-filters",
+      "failed": false,
+      "gif": "clips/saved-filters-a-platform-a-04625-t-shares-one-and-deletes-it-chromium.gif",
+      "mp4": "clips/saved-filters-a-platform-a-04625-t-shares-one-and-deletes-it-chromium.mp4",
+      "gifBytes": 2349106
+    },
+    {
+      "slug": "settings-account-settings--43c67-shown-but-not-editable-here-chromium",
+      "spec": "settings",
+      "failed": false,
+      "gif": "clips/settings-account-settings--43c67-shown-but-not-editable-here-chromium.gif",
+      "mp4": "clips/settings-account-settings--43c67-shown-but-not-editable-here-chromium.mp4",
+      "gifBytes": 329406
+    },
+    {
+      "slug": "settings-account-settings--5b6af--actor-from-the-profile-tab-chromium",
+      "spec": "settings",
+      "failed": false,
+      "gif": "clips/settings-account-settings--5b6af--actor-from-the-profile-tab-chromium.gif",
+      "mp4": "clips/settings-account-settings--5b6af--actor-from-the-profile-tab-chromium.mp4",
+      "gifBytes": 441655
+    },
+    {
+      "slug": "settings-account-settings--80d8e-keeps-the-notifications-URL-chromium",
+      "spec": "settings",
+      "failed": false,
+      "gif": "clips/settings-account-settings--80d8e-keeps-the-notifications-URL-chromium.gif",
+      "mp4": "clips/settings-account-settings--80d8e-keeps-the-notifications-URL-chromium.mp4",
+      "gifBytes": 519572
+    },
+    {
+      "slug": "users-a-plain-user-never-sees-the-users-screen-chromium",
+      "spec": "users",
+      "failed": false,
+      "gif": "clips/users-a-plain-user-never-sees-the-users-screen-chromium.gif",
+      "mp4": "clips/users-a-plain-user-never-sees-the-users-screen-chromium.mp4",
+      "gifBytes": 250181
+    },
+    {
+      "slug": "users-a-platform-admin-lis-2f314-rs-pages-and-inspects-users-chromium",
+      "spec": "users",
+      "failed": false,
+      "gif": "clips/users-a-platform-admin-lis-2f314-rs-pages-and-inspects-users-chromium.gif",
+      "mp4": "clips/users-a-platform-admin-lis-2f314-rs-pages-and-inspects-users-chromium.mp4",
+      "gifBytes": 2855380
+    },
+    {
+      "slug": "users-the-guard-rails-refuse-with-the-server-s-reason-chromium",
+      "spec": "users",
+      "failed": false,
+      "gif": "clips/users-the-guard-rails-refuse-with-the-server-s-reason-chromium.gif",
+      "mp4": "clips/users-the-guard-rails-refuse-with-the-server-s-reason-chromium.mp4",
+      "gifBytes": 1044390
+    },
+    {
+      "slug": "zz-nuke-data-a-platform-ad-3b5fd--their-own-session-survives-chromium",
+      "spec": "zz-nuke-data",
+      "failed": false,
+      "gif": "clips/zz-nuke-data-a-platform-ad-3b5fd--their-own-session-survives-chromium.gif",
+      "mp4": "clips/zz-nuke-data-a-platform-ad-3b5fd--their-own-session-survives-chromium.mp4",
+      "gifBytes": 881657
+    }
+  ],
+  "changedSpecs": [
+    "admin-workspaces",
+    "audit-log",
+    "billing",
+    "dashboards",
+    "failure-paths",
+    "first-run",
+    "home",
+    "layout",
+    "login",
+    "notifications",
+    "onboarding",
+    "projects",
+    "saved-filters",
+    "settings",
+    "users",
+    "zz-nuke-data"
+  ]
+}
