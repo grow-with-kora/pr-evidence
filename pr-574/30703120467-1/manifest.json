@@ -1,0 +1,30 @@
+{
+  "screens": [
+    {
+      "name": "admin-workspaces-deep-link.png",
+      "file": "screens/admin-workspaces-deep-link.png"
+    },
+    {
+      "name": "admin-workspaces-hatches.png",
+      "file": "screens/admin-workspaces-hatches.png"
+    },
+    {
+      "name": "admin-workspaces-list.png",
+      "file": "screens/admin-workspaces-list.png"
+    },
+    {
+      "name": "audit-log-entity-link.png",
+      "file": "screens/audit-log-entity-link.png"
+    },
+    {
+      "name": "audit-log-filtered.png",
+      "file": "screens/audit-log-filtered.png"
+    },
+    {
+      "name": "audit-log-list.png",
+      "file": "screens/audit-log-list.png"
+    }
+  ],
+  "clips": [],
+  "changedSpecs": []
+}
