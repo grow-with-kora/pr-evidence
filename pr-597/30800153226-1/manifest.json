@@ -1,0 +1,80 @@
+{
+  "screens": [
+    {
+      "name": "admin-workspaces-comped.png",
+      "file": "screens/admin-workspaces-comped.png"
+    },
+    {
+      "name": "admin-workspaces-deep-link.png",
+      "file": "screens/admin-workspaces-deep-link.png"
+    },
+    {
+      "name": "admin-workspaces-hatches.png",
+      "file": "screens/admin-workspaces-hatches.png"
+    },
+    {
+      "name": "admin-workspaces-list.png",
+      "file": "screens/admin-workspaces-list.png"
+    },
+    {
+      "name": "audit-log-actor-picker.png",
+      "file": "screens/audit-log-actor-picker.png"
+    },
+    {
+      "name": "audit-log-date-preset.png",
+      "file": "screens/audit-log-date-preset.png"
+    },
+    {
+      "name": "audit-log-detail.png",
+      "file": "screens/audit-log-detail.png"
+    },
+    {
+      "name": "audit-log-entity-link.png",
+      "file": "screens/audit-log-entity-link.png"
+    },
+    {
+      "name": "audit-log-filtered.png",
+      "file": "screens/audit-log-filtered.png"
+    },
+    {
+      "name": "audit-log-list.png",
+      "file": "screens/audit-log-list.png"
+    },
+    {
+      "name": "billing-change-plan.png",
+      "file": "screens/billing-change-plan.png"
+    },
+    {
+      "name": "billing-grace-readonly.png",
+      "file": "screens/billing-grace-readonly.png"
+    },
+    {
+      "name": "billing-member-cap.png",
+      "file": "screens/billing-member-cap.png"
+    },
+    {
+      "name": "billing-project-cap.png",
+      "file": "screens/billing-project-cap.png"
+    },
+    {
+      "name": "billing-suspended-member.png",
+      "file": "screens/billing-suspended-member.png"
+    },
+    {
+      "name": "billing-suspended-owner.png",
+      "file": "screens/billing-suspended-owner.png"
+    },
+    {
+      "name": "billing-tab.png",
+      "file": "screens/billing-tab.png"
+    },
+    {
+      "name": "billing-trial-countdown.png",
+      "file": "screens/billing-trial-countdown.png"
+    }
+  ],
+  "clips": [],
+  "changedSpecs": [
+    "security-settings"
+  ]
+}
