@@ -1,0 +1,108 @@
+{
+  "screens": {
+    "mode": "no-baseline",
+    "baseline": null,
+    "entries": [
+      {
+        "name": "invite-accept-choice",
+        "spec": "invites",
+        "status": "added",
+        "after": "screens/invite-accept-choice.after.png"
+      },
+      {
+        "name": "invite-accepted-workspace",
+        "spec": "invites",
+        "status": "added",
+        "after": "screens/invite-accepted-workspace.after.png"
+      },
+      {
+        "name": "invite-after-switch",
+        "spec": "invites",
+        "status": "added",
+        "after": "screens/invite-after-switch.after.png"
+      },
+      {
+        "name": "invite-email-mismatch",
+        "spec": "invites",
+        "status": "added",
+        "after": "screens/invite-email-mismatch.after.png"
+      },
+      {
+        "name": "invite-login-hint",
+        "spec": "invites",
+        "status": "added",
+        "after": "screens/invite-login-hint.after.png"
+      },
+      {
+        "name": "members-after-acceptance",
+        "spec": "invites",
+        "status": "added",
+        "after": "screens/members-after-acceptance.after.png"
+      },
+      {
+        "name": "members-as-member",
+        "spec": "invites",
+        "status": "added",
+        "after": "screens/members-as-member.after.png"
+      },
+      {
+        "name": "members-before-invite",
+        "spec": "invites",
+        "status": "added",
+        "after": "screens/members-before-invite.after.png"
+      },
+      {
+        "name": "members-invitation-pending",
+        "spec": "invites",
+        "status": "added",
+        "after": "screens/members-invitation-pending.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 74,
+      "differing": 0
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "invites-a-member-sees-who-else-is-here-but-cannot-invite-chromium",
+      "spec": "invites",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/invites-a-member-sees-who-else-is-here-but-cannot-invite-chromium.gif",
+      "mp4": "clips/invites-a-member-sees-who-else-is-here-but-cannot-invite-chromium.mp4",
+      "gifBytes": 639869
+    },
+    {
+      "slug": "invites-a-revoked-invitati-543b3-ailed-and-frees-the-address-chromium",
+      "spec": "invites",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/invites-a-revoked-invitati-543b3-ailed-and-frees-the-address-chromium.gif",
+      "mp4": "clips/invites-a-revoked-invitati-543b3-ailed-and-frees-the-address-chromium.mp4",
+      "gifBytes": 1725522
+    },
+    {
+      "slug": "invites-an-invite-link-ope-de41e-s-the-mismatch-and-switches-chromium",
+      "spec": "invites",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/invites-an-invite-link-ope-de41e-s-the-mismatch-and-switches-chromium.gif",
+      "mp4": "clips/invites-an-invite-link-ope-de41e-s-the-mismatch-and-switches-chromium.mp4",
+      "gifBytes": 1366679
+    },
+    {
+      "slug": "invites-an-invited-colleag-9e21b-ce-and-shows-up-as-a-member-chromium",
+      "spec": "invites",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/invites-an-invited-colleag-9e21b-ce-and-shows-up-as-a-member-chromium.gif",
+      "mp4": "clips/invites-an-invited-colleag-9e21b-ce-and-shows-up-as-a-member-chromium.mp4",
+      "gifBytes": 1572827
+    }
+  ],
+  "changedSpecs": [
+    "invites"
+  ]
+}
