@@ -1,0 +1,70 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "559f5d57e6a5c5cd8093deb6bcbfd2566ff0f445",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/30933786828"
+    },
+    "entries": [
+      {
+        "name": "admin-users-sorted",
+        "spec": "users",
+        "status": "added",
+        "after": "screens/admin-users-sorted.after.png"
+      },
+      {
+        "name": "admin-workspaces-filtered",
+        "spec": "admin-workspaces",
+        "status": "added",
+        "after": "screens/admin-workspaces-filtered.after.png"
+      },
+      {
+        "name": "design-system-dark",
+        "spec": "design-system",
+        "status": "added",
+        "after": "screens/design-system-dark.after.png"
+      },
+      {
+        "name": "design-system-light",
+        "spec": "design-system",
+        "status": "added",
+        "after": "screens/design-system-light.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 86,
+      "differing": 84
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "admin-workspaces-the-direc-2c144-ers-on-the-columns-it-shows-chromium",
+      "spec": "admin",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/admin-workspaces-the-direc-2c144-ers-on-the-columns-it-shows-chromium.gif",
+      "mp4": "clips/admin-workspaces-the-direc-2c144-ers-on-the-columns-it-shows-chromium.mp4",
+      "gifBytes": 1007480
+    },
+    {
+      "slug": "design-system-the-gallery--4416c-nd-primitive-in-both-themes-chromium",
+      "spec": "design",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/design-system-the-gallery--4416c-nd-primitive-in-both-themes-chromium.gif",
+      "mp4": "clips/design-system-the-gallery--4416c-nd-primitive-in-both-themes-chromium.mp4",
+      "gifBytes": 587044
+    },
+    {
+      "slug": "users-a-platform-admin-lis-2f314-rs-pages-and-inspects-users-chromium",
+      "spec": "users",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/users-a-platform-admin-lis-2f314-rs-pages-and-inspects-users-chromium.gif",
+      "mp4": "clips/users-a-platform-admin-lis-2f314-rs-pages-and-inspects-users-chromium.mp4",
+      "gifBytes": 5574450
+    }
+  ],
+  "changedSpecs": []
+}
