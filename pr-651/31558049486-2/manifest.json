@@ -1,0 +1,103 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "84ed79080ab5a9c7cffbe3661976549296abfc42",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/31542550011"
+    },
+    "entries": [
+      {
+        "name": "quick-search-all-workspaces",
+        "spec": "quick-search",
+        "status": "added",
+        "after": "screens/quick-search-all-workspaces.after.png"
+      },
+      {
+        "name": "quick-search-open",
+        "spec": "quick-search",
+        "status": "added",
+        "after": "screens/quick-search-open.after.png"
+      },
+      {
+        "name": "quick-search-results",
+        "spec": "quick-search",
+        "status": "added",
+        "after": "screens/quick-search-results.after.png"
+      },
+      {
+        "name": "shell-home",
+        "spec": "login",
+        "status": "identical",
+        "ratio": 0.0004025607638888889,
+        "resized": false,
+        "before": "screens/shell-home.before.png",
+        "after": "screens/shell-home.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 89,
+      "differing": 52
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "login-authentication-an-un-a7142-sit-lands-on-the-login-page-chromium",
+      "spec": "login",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/login-authentication-an-un-a7142-sit-lands-on-the-login-page-chromium.gif",
+      "mp4": "clips/login-authentication-an-un-a7142-sit-lands-on-the-login-page-chromium.mp4",
+      "gifBytes": 25009
+    },
+    {
+      "slug": "login-authentication-signi-84db5-door-lands-in-the-app-shell-chromium",
+      "spec": "login",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/login-authentication-signi-84db5-door-lands-in-the-app-shell-chromium.gif",
+      "mp4": "clips/login-authentication-signi-84db5-door-lands-in-the-app-shell-chromium.mp4",
+      "gifBytes": 628647
+    },
+    {
+      "slug": "quick-search-⌘K-opens-the--ebb82-roject-is-reachable-from-it-chromium",
+      "spec": "quick-search",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/quick-search-⌘K-opens-the--ebb82-roject-is-reachable-from-it-chromium.gif",
+      "mp4": "clips/quick-search-⌘K-opens-the--ebb82-roject-is-reachable-from-it-chromium.mp4",
+      "gifBytes": 660927
+    },
+    {
+      "slug": "quick-search-the-palette-i-bf387-vigable-and-escapes-cleanly-chromium",
+      "spec": "quick-search",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/quick-search-the-palette-i-bf387-vigable-and-escapes-cleanly-chromium.gif",
+      "mp4": "clips/quick-search-the-palette-i-bf387-vigable-and-escapes-cleanly-chromium.mp4",
+      "gifBytes": 680592
+    },
+    {
+      "slug": "quick-search-the-scope-tog-ee4c0--without-changing-the-shape-chromium",
+      "spec": "quick-search",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/quick-search-the-scope-tog-ee4c0--without-changing-the-shape-chromium.gif",
+      "mp4": "clips/quick-search-the-scope-tog-ee4c0--without-changing-the-shape-chromium.mp4",
+      "gifBytes": 657535
+    },
+    {
+      "slug": "quick-search-the-sidebar-s-9f6db-lette-rather-than-filtering-chromium",
+      "spec": "quick-search",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/quick-search-the-sidebar-s-9f6db-lette-rather-than-filtering-chromium.gif",
+      "mp4": "clips/quick-search-the-sidebar-s-9f6db-lette-rather-than-filtering-chromium.mp4",
+      "gifBytes": 608885
+    }
+  ],
+  "changedSpecs": [
+    "login",
+    "quick-search"
+  ]
+}
