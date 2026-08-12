@@ -1,0 +1,117 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "4c198ed78954a96677252de4c715141dce18d119",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/31560159564"
+    },
+    "entries": [
+      {
+        "name": "quick-search-action-dialog",
+        "spec": "quick-search",
+        "status": "added",
+        "after": "screens/quick-search-action-dialog.after.png"
+      },
+      {
+        "name": "quick-search-recents",
+        "spec": "quick-search",
+        "status": "added",
+        "after": "screens/quick-search-recents.after.png"
+      },
+      {
+        "name": "quick-search-open",
+        "spec": "quick-search",
+        "status": "changed",
+        "ratio": 0.08388129340277778,
+        "resized": false,
+        "before": "screens/quick-search-open.before.png",
+        "after": "screens/quick-search-open.after.png",
+        "diff": "screens/quick-search-open.diff.png"
+      },
+      {
+        "name": "quick-search-all-workspaces",
+        "spec": "quick-search",
+        "status": "changed",
+        "ratio": 0.0010980902777777777,
+        "resized": false,
+        "before": "screens/quick-search-all-workspaces.before.png",
+        "after": "screens/quick-search-all-workspaces.after.png",
+        "diff": "screens/quick-search-all-workspaces.diff.png"
+      },
+      {
+        "name": "quick-search-results",
+        "spec": "quick-search",
+        "status": "changed",
+        "ratio": 0.0010123697916666666,
+        "resized": false,
+        "before": "screens/quick-search-results.before.png",
+        "after": "screens/quick-search-results.after.png",
+        "diff": "screens/quick-search-results.diff.png"
+      }
+    ],
+    "skipped": {
+      "total": 90,
+      "differing": 45
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "notifications-notification-2cfa9-the-welcome-already-present-chromium",
+      "spec": "notifications",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/notifications-notification-2cfa9-the-welcome-already-present-chromium.gif",
+      "mp4": "clips/notifications-notification-2cfa9-the-welcome-already-present-chromium.mp4",
+      "gifBytes": 879017
+    },
+    {
+      "slug": "quick-search-⌘K-opens-the--ebb82-roject-is-reachable-from-it-chromium",
+      "spec": "quick-search",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/quick-search-⌘K-opens-the--ebb82-roject-is-reachable-from-it-chromium.gif",
+      "mp4": "clips/quick-search-⌘K-opens-the--ebb82-roject-is-reachable-from-it-chromium.mp4",
+      "gifBytes": 789108
+    },
+    {
+      "slug": "quick-search-the-palette-c-e8197-d-remembers-what-you-opened-chromium",
+      "spec": "quick-search",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/quick-search-the-palette-c-e8197-d-remembers-what-you-opened-chromium.gif",
+      "mp4": "clips/quick-search-the-palette-c-e8197-d-remembers-what-you-opened-chromium.mp4",
+      "gifBytes": 1130069
+    },
+    {
+      "slug": "quick-search-the-palette-i-bf387-vigable-and-escapes-cleanly-chromium",
+      "spec": "quick-search",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/quick-search-the-palette-i-bf387-vigable-and-escapes-cleanly-chromium.gif",
+      "mp4": "clips/quick-search-the-palette-i-bf387-vigable-and-escapes-cleanly-chromium.mp4",
+      "gifBytes": 748115
+    },
+    {
+      "slug": "quick-search-the-scope-tog-ee4c0--without-changing-the-shape-chromium",
+      "spec": "quick-search",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/quick-search-the-scope-tog-ee4c0--without-changing-the-shape-chromium.gif",
+      "mp4": "clips/quick-search-the-scope-tog-ee4c0--without-changing-the-shape-chromium.mp4",
+      "gifBytes": 579797
+    },
+    {
+      "slug": "quick-search-the-sidebar-s-9f6db-lette-rather-than-filtering-chromium",
+      "spec": "quick-search",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/quick-search-the-sidebar-s-9f6db-lette-rather-than-filtering-chromium.gif",
+      "mp4": "clips/quick-search-the-sidebar-s-9f6db-lette-rather-than-filtering-chromium.mp4",
+      "gifBytes": 474343
+    }
+  ],
+  "changedSpecs": [
+    "quick-search"
+  ]
+}
