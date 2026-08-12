@@ -1,0 +1,49 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "c9ca4de355ed296bbd4544777d5956c18ec4c392",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/31599098466"
+    },
+    "entries": [
+      {
+        "name": "landed-with-welcome",
+        "spec": "notifications",
+        "status": "removed",
+        "before": "screens/landed-with-welcome.before.png"
+      },
+      {
+        "name": "setup-screen",
+        "spec": "notifications",
+        "status": "removed",
+        "before": "screens/setup-screen.before.png"
+      }
+    ],
+    "skipped": {
+      "total": 96,
+      "differing": 32
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "notifications-notification-2cfa9-the-welcome-already-present-chromium",
+      "spec": "notifications",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/notifications-notification-2cfa9-the-welcome-already-present-chromium.gif",
+      "mp4": "clips/notifications-notification-2cfa9-the-welcome-already-present-chromium.mp4",
+      "gifBytes": 871215
+    },
+    {
+      "slug": "notifications-notification-2cfa9-the-welcome-already-present-chromium-retry1",
+      "spec": "notifications",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/notifications-notification-2cfa9-the-welcome-already-present-chromium-retry1.gif",
+      "mp4": "clips/notifications-notification-2cfa9-the-welcome-already-present-chromium-retry1.mp4",
+      "gifBytes": 845336
+    }
+  ],
+  "changedSpecs": []
+}
