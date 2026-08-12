@@ -1,0 +1,34 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "cc5dde9bcc18e603b92b018eceed71e13711632b",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/31605754274"
+    },
+    "entries": [
+      {
+        "name": "layout-mobile-menu-create-workspace",
+        "spec": "layout",
+        "status": "added",
+        "after": "screens/layout-mobile-menu-create-workspace.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 98,
+      "differing": 37
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "layout-the-mobile-menu-get-1fc1d-e-way-once-you-have-used-it-chromium",
+      "spec": "layout",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/layout-the-mobile-menu-get-1fc1d-e-way-once-you-have-used-it-chromium.gif",
+      "mp4": "clips/layout-the-mobile-menu-get-1fc1d-e-way-once-you-have-used-it-chromium.mp4",
+      "gifBytes": 810883
+    }
+  ],
+  "changedSpecs": []
+}
