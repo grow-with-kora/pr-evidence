@@ -1,0 +1,27 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "c9ca4de355ed296bbd4544777d5956c18ec4c392",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/31599098466"
+    },
+    "entries": [],
+    "skipped": {
+      "total": 98,
+      "differing": 39
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "notifications-notification-2cfa9-the-welcome-already-present-chromium",
+      "spec": "notifications",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/notifications-notification-2cfa9-the-welcome-already-present-chromium.gif",
+      "mp4": "clips/notifications-notification-2cfa9-the-welcome-already-present-chromium.mp4",
+      "gifBytes": 897317
+    }
+  ],
+  "changedSpecs": []
+}
