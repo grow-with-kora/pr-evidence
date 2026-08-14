@@ -1,0 +1,365 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "6764c51e331357443315a88408623c91c7e296a0",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/31802783783"
+    },
+    "entries": [
+      {
+        "name": "admin-nuke-data-confirm",
+        "spec": "zz-nuke-data",
+        "status": "removed",
+        "before": "screens/admin-nuke-data-confirm.before.png"
+      },
+      {
+        "name": "admin-nuke-data-result",
+        "spec": "zz-nuke-data",
+        "status": "removed",
+        "before": "screens/admin-nuke-data-result.before.png"
+      },
+      {
+        "name": "admin-nuke-data-selected",
+        "spec": "zz-nuke-data",
+        "status": "removed",
+        "before": "screens/admin-nuke-data-selected.before.png"
+      },
+      {
+        "name": "admin-users-actions-after",
+        "spec": "users",
+        "status": "removed",
+        "before": "screens/admin-users-actions-after.before.png"
+      },
+      {
+        "name": "admin-users-actions-before",
+        "spec": "users",
+        "status": "removed",
+        "before": "screens/admin-users-actions-before.before.png"
+      },
+      {
+        "name": "admin-users-block-confirm",
+        "spec": "users",
+        "status": "removed",
+        "before": "screens/admin-users-block-confirm.before.png"
+      },
+      {
+        "name": "admin-users-date-preset",
+        "spec": "users",
+        "status": "removed",
+        "before": "screens/admin-users-date-preset.before.png"
+      },
+      {
+        "name": "admin-users-detail",
+        "spec": "users",
+        "status": "removed",
+        "before": "screens/admin-users-detail.before.png"
+      },
+      {
+        "name": "admin-users-filtered",
+        "spec": "users",
+        "status": "removed",
+        "before": "screens/admin-users-filtered.before.png"
+      },
+      {
+        "name": "admin-users-guard-rail",
+        "spec": "users",
+        "status": "removed",
+        "before": "screens/admin-users-guard-rail.before.png"
+      },
+      {
+        "name": "admin-users-list",
+        "spec": "users",
+        "status": "removed",
+        "before": "screens/admin-users-list.before.png"
+      },
+      {
+        "name": "admin-users-sorted",
+        "spec": "users",
+        "status": "removed",
+        "before": "screens/admin-users-sorted.before.png"
+      },
+      {
+        "name": "long-feed-scrolled",
+        "spec": "notifications",
+        "status": "removed",
+        "before": "screens/long-feed-scrolled.before.png"
+      },
+      {
+        "name": "long-feed-top",
+        "spec": "notifications",
+        "status": "removed",
+        "before": "screens/long-feed-top.before.png"
+      },
+      {
+        "name": "onboarding-created-workspace-home",
+        "spec": "onboarding",
+        "status": "removed",
+        "before": "screens/onboarding-created-workspace-home.before.png"
+      },
+      {
+        "name": "onboarding-forced-create",
+        "spec": "onboarding",
+        "status": "removed",
+        "before": "screens/onboarding-forced-create.before.png"
+      },
+      {
+        "name": "onboarding-invite-accepted",
+        "spec": "onboarding",
+        "status": "removed",
+        "before": "screens/onboarding-invite-accepted.before.png"
+      },
+      {
+        "name": "onboarding-invite-choice",
+        "spec": "onboarding",
+        "status": "removed",
+        "before": "screens/onboarding-invite-choice.before.png"
+      },
+      {
+        "name": "onboarding-member-opened-workspace",
+        "spec": "onboarding",
+        "status": "removed",
+        "before": "screens/onboarding-member-opened-workspace.before.png"
+      },
+      {
+        "name": "onboarding-member-personal-home",
+        "spec": "onboarding",
+        "status": "removed",
+        "before": "screens/onboarding-member-personal-home.before.png"
+      },
+      {
+        "name": "project-breadcrumb",
+        "spec": "projects",
+        "status": "removed",
+        "before": "screens/project-breadcrumb.before.png"
+      },
+      {
+        "name": "project-cover-collaborator",
+        "spec": "projects",
+        "status": "removed",
+        "before": "screens/project-cover-collaborator.before.png"
+      },
+      {
+        "name": "project-cover-removed",
+        "spec": "projects",
+        "status": "removed",
+        "before": "screens/project-cover-removed.before.png"
+      },
+      {
+        "name": "project-cover-set",
+        "spec": "projects",
+        "status": "removed",
+        "before": "screens/project-cover-set.before.png"
+      },
+      {
+        "name": "project-detail",
+        "spec": "projects",
+        "status": "removed",
+        "before": "screens/project-detail.before.png"
+      },
+      {
+        "name": "projects-create-dialog",
+        "spec": "projects",
+        "status": "removed",
+        "before": "screens/projects-create-dialog.before.png"
+      },
+      {
+        "name": "projects-empty",
+        "spec": "projects",
+        "status": "removed",
+        "before": "screens/projects-empty.before.png"
+      },
+      {
+        "name": "projects-list",
+        "spec": "projects",
+        "status": "removed",
+        "before": "screens/projects-list.before.png"
+      },
+      {
+        "name": "projects-list-with-cover",
+        "spec": "projects",
+        "status": "removed",
+        "before": "screens/projects-list-with-cover.before.png"
+      },
+      {
+        "name": "quick-search-action-dialog",
+        "spec": "quick-search",
+        "status": "removed",
+        "before": "screens/quick-search-action-dialog.before.png"
+      },
+      {
+        "name": "quick-search-all-workspaces",
+        "spec": "quick-search",
+        "status": "removed",
+        "before": "screens/quick-search-all-workspaces.before.png"
+      },
+      {
+        "name": "quick-search-app-host",
+        "spec": "quick-search",
+        "status": "removed",
+        "before": "screens/quick-search-app-host.before.png"
+      },
+      {
+        "name": "quick-search-open",
+        "spec": "quick-search",
+        "status": "removed",
+        "before": "screens/quick-search-open.before.png"
+      },
+      {
+        "name": "quick-search-recents",
+        "spec": "quick-search",
+        "status": "removed",
+        "before": "screens/quick-search-recents.before.png"
+      },
+      {
+        "name": "quick-search-results",
+        "spec": "quick-search",
+        "status": "removed",
+        "before": "screens/quick-search-results.before.png"
+      },
+      {
+        "name": "recovered-after-retry",
+        "spec": "failure-paths",
+        "status": "removed",
+        "before": "screens/recovered-after-retry.before.png"
+      },
+      {
+        "name": "saved-filters-applied",
+        "spec": "saved-filters",
+        "status": "removed",
+        "before": "screens/saved-filters-applied.before.png"
+      },
+      {
+        "name": "saved-filters-modified",
+        "spec": "saved-filters",
+        "status": "removed",
+        "before": "screens/saved-filters-modified.before.png"
+      },
+      {
+        "name": "saved-filters-picker",
+        "spec": "saved-filters",
+        "status": "removed",
+        "before": "screens/saved-filters-picker.before.png"
+      },
+      {
+        "name": "settings-profile-with-photo",
+        "spec": "settings",
+        "status": "removed",
+        "before": "screens/settings-profile-with-photo.before.png"
+      },
+      {
+        "name": "settings-security",
+        "spec": "security-settings",
+        "status": "removed",
+        "before": "screens/settings-security.before.png"
+      },
+      {
+        "name": "time-travel-grace-readonly",
+        "spec": "time-travel",
+        "status": "removed",
+        "before": "screens/time-travel-grace-readonly.before.png"
+      },
+      {
+        "name": "time-travel-greeting-shifted",
+        "spec": "time-travel",
+        "status": "removed",
+        "before": "screens/time-travel-greeting-shifted.before.png"
+      },
+      {
+        "name": "time-travel-shift-banner",
+        "spec": "time-travel",
+        "status": "removed",
+        "before": "screens/time-travel-shift-banner.before.png"
+      },
+      {
+        "name": "time-travel-suspended",
+        "spec": "time-travel",
+        "status": "removed",
+        "before": "screens/time-travel-suspended.before.png"
+      },
+      {
+        "name": "time-travel-trial-final-day",
+        "spec": "time-travel",
+        "status": "removed",
+        "before": "screens/time-travel-trial-final-day.before.png"
+      },
+      {
+        "name": "workspace-general-with-photo",
+        "spec": "workspaces",
+        "status": "removed",
+        "before": "screens/workspace-general-with-photo.before.png"
+      },
+      {
+        "name": "workspace-switcher-with-photos",
+        "spec": "workspaces",
+        "status": "removed",
+        "before": "screens/workspace-switcher-with-photos.before.png"
+      },
+      {
+        "name": "design-system-dark",
+        "spec": "design-system",
+        "status": "changed",
+        "ratio": 0.04674262152777778,
+        "resized": false,
+        "before": "screens/design-system-dark.before.png",
+        "after": "screens/design-system-dark.after.png",
+        "diff": "screens/design-system-dark.diff.png"
+      },
+      {
+        "name": "design-system-light",
+        "spec": "design-system",
+        "status": "changed",
+        "ratio": 0.04452907986111111,
+        "resized": false,
+        "before": "screens/design-system-light.before.png",
+        "after": "screens/design-system-light.after.png",
+        "diff": "screens/design-system-light.diff.png"
+      }
+    ],
+    "skipped": {
+      "total": 54,
+      "differing": 54
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "failure-paths-failure-path-de508-able-and-recovers-via-Retry-chromium",
+      "spec": "failure",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/failure-paths-failure-path-de508-able-and-recovers-via-Retry-chromium.gif",
+      "mp4": "clips/failure-paths-failure-path-de508-able-and-recovers-via-Retry-chromium.mp4",
+      "gifBytes": 4103046
+    },
+    {
+      "slug": "failure-paths-failure-path-de508-able-and-recovers-via-Retry-chromium-retry1",
+      "spec": "failure",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/failure-paths-failure-path-de508-able-and-recovers-via-Retry-chromium-retry1.gif",
+      "mp4": "clips/failure-paths-failure-path-de508-able-and-recovers-via-Retry-chromium-retry1.mp4",
+      "gifBytes": 5155680
+    },
+    {
+      "slug": "notifications-notification-89d8b-d-Show-older-stay-reachable-chromium",
+      "spec": "notifications",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/notifications-notification-89d8b-d-Show-older-stay-reachable-chromium.gif",
+      "mp4": "clips/notifications-notification-89d8b-d-Show-older-stay-reachable-chromium.mp4",
+      "gifBytes": 529620
+    },
+    {
+      "slug": "design-system-the-gallery--4416c-nd-primitive-in-both-themes-chromium",
+      "spec": "design-system",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/design-system-the-gallery--4416c-nd-primitive-in-both-themes-chromium.gif",
+      "mp4": "clips/design-system-the-gallery--4416c-nd-primitive-in-both-themes-chromium.mp4",
+      "gifBytes": 1674622
+    }
+  ],
+  "changedSpecs": [
+    "design-system"
+  ]
+}
