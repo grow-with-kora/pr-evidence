@@ -1,0 +1,336 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "7ed575d899c69b71d4a7bcbffc04c57db9e11747",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/31837788377"
+    },
+    "entries": [
+      {
+        "name": "admin-nuke-data-confirm",
+        "spec": "zz-nuke-data",
+        "status": "removed",
+        "before": "screens/admin-nuke-data-confirm.before.png"
+      },
+      {
+        "name": "admin-nuke-data-result",
+        "spec": "zz-nuke-data",
+        "status": "removed",
+        "before": "screens/admin-nuke-data-result.before.png"
+      },
+      {
+        "name": "admin-nuke-data-selected",
+        "spec": "zz-nuke-data",
+        "status": "removed",
+        "before": "screens/admin-nuke-data-selected.before.png"
+      },
+      {
+        "name": "admin-users-actions-after",
+        "spec": "users",
+        "status": "removed",
+        "before": "screens/admin-users-actions-after.before.png"
+      },
+      {
+        "name": "admin-users-actions-before",
+        "spec": "users",
+        "status": "removed",
+        "before": "screens/admin-users-actions-before.before.png"
+      },
+      {
+        "name": "admin-users-block-confirm",
+        "spec": "users",
+        "status": "removed",
+        "before": "screens/admin-users-block-confirm.before.png"
+      },
+      {
+        "name": "admin-users-date-preset",
+        "spec": "users",
+        "status": "removed",
+        "before": "screens/admin-users-date-preset.before.png"
+      },
+      {
+        "name": "admin-users-detail",
+        "spec": "users",
+        "status": "removed",
+        "before": "screens/admin-users-detail.before.png"
+      },
+      {
+        "name": "admin-users-filtered",
+        "spec": "users",
+        "status": "removed",
+        "before": "screens/admin-users-filtered.before.png"
+      },
+      {
+        "name": "admin-users-guard-rail",
+        "spec": "users",
+        "status": "removed",
+        "before": "screens/admin-users-guard-rail.before.png"
+      },
+      {
+        "name": "admin-users-list",
+        "spec": "users",
+        "status": "removed",
+        "before": "screens/admin-users-list.before.png"
+      },
+      {
+        "name": "admin-users-sorted",
+        "spec": "users",
+        "status": "removed",
+        "before": "screens/admin-users-sorted.before.png"
+      },
+      {
+        "name": "landed-with-welcome",
+        "spec": "notifications",
+        "status": "removed",
+        "before": "screens/landed-with-welcome.before.png"
+      },
+      {
+        "name": "layout-admin-audit-log",
+        "spec": "layout",
+        "status": "removed",
+        "before": "screens/layout-admin-audit-log.before.png"
+      },
+      {
+        "name": "layout-narrow-top-bar",
+        "spec": "layout",
+        "status": "removed",
+        "before": "screens/layout-narrow-top-bar.before.png"
+      },
+      {
+        "name": "layout-sticky-top-bar",
+        "spec": "layout",
+        "status": "removed",
+        "before": "screens/layout-sticky-top-bar.before.png"
+      },
+      {
+        "name": "long-feed-scrolled",
+        "spec": "notifications",
+        "status": "removed",
+        "before": "screens/long-feed-scrolled.before.png"
+      },
+      {
+        "name": "long-feed-top",
+        "spec": "notifications",
+        "status": "removed",
+        "before": "screens/long-feed-top.before.png"
+      },
+      {
+        "name": "onboarding-created-workspace-home",
+        "spec": "onboarding",
+        "status": "removed",
+        "before": "screens/onboarding-created-workspace-home.before.png"
+      },
+      {
+        "name": "onboarding-forced-create",
+        "spec": "onboarding",
+        "status": "removed",
+        "before": "screens/onboarding-forced-create.before.png"
+      },
+      {
+        "name": "onboarding-invite-accepted",
+        "spec": "onboarding",
+        "status": "removed",
+        "before": "screens/onboarding-invite-accepted.before.png"
+      },
+      {
+        "name": "onboarding-invite-choice",
+        "spec": "onboarding",
+        "status": "removed",
+        "before": "screens/onboarding-invite-choice.before.png"
+      },
+      {
+        "name": "onboarding-member-opened-workspace",
+        "spec": "onboarding",
+        "status": "removed",
+        "before": "screens/onboarding-member-opened-workspace.before.png"
+      },
+      {
+        "name": "onboarding-member-personal-home",
+        "spec": "onboarding",
+        "status": "removed",
+        "before": "screens/onboarding-member-personal-home.before.png"
+      },
+      {
+        "name": "project-breadcrumb",
+        "spec": "projects",
+        "status": "removed",
+        "before": "screens/project-breadcrumb.before.png"
+      },
+      {
+        "name": "project-cover-collaborator",
+        "spec": "projects",
+        "status": "removed",
+        "before": "screens/project-cover-collaborator.before.png"
+      },
+      {
+        "name": "project-cover-removed",
+        "spec": "projects",
+        "status": "removed",
+        "before": "screens/project-cover-removed.before.png"
+      },
+      {
+        "name": "project-cover-set",
+        "spec": "projects",
+        "status": "removed",
+        "before": "screens/project-cover-set.before.png"
+      },
+      {
+        "name": "project-detail",
+        "spec": "projects",
+        "status": "removed",
+        "before": "screens/project-detail.before.png"
+      },
+      {
+        "name": "projects-create-dialog",
+        "spec": "projects",
+        "status": "removed",
+        "before": "screens/projects-create-dialog.before.png"
+      },
+      {
+        "name": "projects-empty",
+        "spec": "projects",
+        "status": "removed",
+        "before": "screens/projects-empty.before.png"
+      },
+      {
+        "name": "projects-list",
+        "spec": "projects",
+        "status": "removed",
+        "before": "screens/projects-list.before.png"
+      },
+      {
+        "name": "projects-list-with-cover",
+        "spec": "projects",
+        "status": "removed",
+        "before": "screens/projects-list-with-cover.before.png"
+      },
+      {
+        "name": "quick-search-action-dialog",
+        "spec": "quick-search",
+        "status": "removed",
+        "before": "screens/quick-search-action-dialog.before.png"
+      },
+      {
+        "name": "quick-search-all-workspaces",
+        "spec": "quick-search",
+        "status": "removed",
+        "before": "screens/quick-search-all-workspaces.before.png"
+      },
+      {
+        "name": "quick-search-app-host",
+        "spec": "quick-search",
+        "status": "removed",
+        "before": "screens/quick-search-app-host.before.png"
+      },
+      {
+        "name": "quick-search-open",
+        "spec": "quick-search",
+        "status": "removed",
+        "before": "screens/quick-search-open.before.png"
+      },
+      {
+        "name": "quick-search-recents",
+        "spec": "quick-search",
+        "status": "removed",
+        "before": "screens/quick-search-recents.before.png"
+      },
+      {
+        "name": "quick-search-results",
+        "spec": "quick-search",
+        "status": "removed",
+        "before": "screens/quick-search-results.before.png"
+      },
+      {
+        "name": "saved-filters-applied",
+        "spec": "saved-filters",
+        "status": "removed",
+        "before": "screens/saved-filters-applied.before.png"
+      },
+      {
+        "name": "saved-filters-modified",
+        "spec": "saved-filters",
+        "status": "removed",
+        "before": "screens/saved-filters-modified.before.png"
+      },
+      {
+        "name": "saved-filters-picker",
+        "spec": "saved-filters",
+        "status": "removed",
+        "before": "screens/saved-filters-picker.before.png"
+      },
+      {
+        "name": "settings-profile-with-photo",
+        "spec": "settings",
+        "status": "removed",
+        "before": "screens/settings-profile-with-photo.before.png"
+      },
+      {
+        "name": "settings-security",
+        "spec": "security-settings",
+        "status": "removed",
+        "before": "screens/settings-security.before.png"
+      },
+      {
+        "name": "setup-screen",
+        "spec": "notifications",
+        "status": "removed",
+        "before": "screens/setup-screen.before.png"
+      },
+      {
+        "name": "shell-home",
+        "spec": "login",
+        "status": "removed",
+        "before": "screens/shell-home.before.png"
+      },
+      {
+        "name": "time-travel-grace-readonly",
+        "spec": "time-travel",
+        "status": "removed",
+        "before": "screens/time-travel-grace-readonly.before.png"
+      },
+      {
+        "name": "time-travel-greeting-shifted",
+        "spec": "time-travel",
+        "status": "removed",
+        "before": "screens/time-travel-greeting-shifted.before.png"
+      },
+      {
+        "name": "time-travel-shift-banner",
+        "spec": "time-travel",
+        "status": "removed",
+        "before": "screens/time-travel-shift-banner.before.png"
+      },
+      {
+        "name": "time-travel-suspended",
+        "spec": "time-travel",
+        "status": "removed",
+        "before": "screens/time-travel-suspended.before.png"
+      },
+      {
+        "name": "time-travel-trial-final-day",
+        "spec": "time-travel",
+        "status": "removed",
+        "before": "screens/time-travel-trial-final-day.before.png"
+      },
+      {
+        "name": "workspace-general-with-photo",
+        "spec": "workspaces",
+        "status": "removed",
+        "before": "screens/workspace-general-with-photo.before.png"
+      },
+      {
+        "name": "workspace-switcher-with-photos",
+        "spec": "workspaces",
+        "status": "removed",
+        "before": "screens/workspace-switcher-with-photos.before.png"
+      }
+    ],
+    "skipped": {
+      "total": 51,
+      "differing": 15
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [],
+  "changedSpecs": []
+}
