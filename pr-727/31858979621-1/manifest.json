@@ -1,0 +1,287 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "4851f16ffee7e6d317f423b8572d39cb46fdff6a",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/31858544161"
+    },
+    "entries": [
+      {
+        "name": "project-cover-framing",
+        "spec": "projects",
+        "status": "added",
+        "after": "screens/project-cover-framing.after.png"
+      },
+      {
+        "name": "settings-photo-framing",
+        "spec": "settings",
+        "status": "added",
+        "after": "screens/settings-photo-framing.after.png"
+      },
+      {
+        "name": "project-cover-set",
+        "spec": "projects",
+        "status": "changed",
+        "ratio": 0.1310861545138889,
+        "resized": false,
+        "before": "screens/project-cover-set.before.png",
+        "after": "screens/project-cover-set.after.png",
+        "diff": "screens/project-cover-set.diff.png"
+      },
+      {
+        "name": "workspace-switcher-with-photos",
+        "spec": "workspaces",
+        "status": "changed",
+        "ratio": 0.002472873263888889,
+        "resized": false,
+        "before": "screens/workspace-switcher-with-photos.before.png",
+        "after": "screens/workspace-switcher-with-photos.after.png",
+        "diff": "screens/workspace-switcher-with-photos.diff.png"
+      },
+      {
+        "name": "workspace-general-with-photo",
+        "spec": "workspaces",
+        "status": "changed",
+        "ratio": 0.0021408420138888887,
+        "resized": false,
+        "before": "screens/workspace-general-with-photo.before.png",
+        "after": "screens/workspace-general-with-photo.after.png",
+        "diff": "screens/workspace-general-with-photo.diff.png"
+      },
+      {
+        "name": "settings-profile-with-photo",
+        "spec": "settings",
+        "status": "changed",
+        "ratio": 0.002138671875,
+        "resized": false,
+        "before": "screens/settings-profile-with-photo.before.png",
+        "after": "screens/settings-profile-with-photo.after.png",
+        "diff": "screens/settings-profile-with-photo.diff.png"
+      },
+      {
+        "name": "projects-list-with-cover",
+        "spec": "projects",
+        "status": "changed",
+        "ratio": 0.0007204861111111111,
+        "resized": false,
+        "before": "screens/projects-list-with-cover.before.png",
+        "after": "screens/projects-list-with-cover.after.png",
+        "diff": "screens/projects-list-with-cover.diff.png"
+      },
+      {
+        "name": "project-cover-collaborator",
+        "spec": "projects",
+        "status": "changed",
+        "ratio": 0.0006716579861111112,
+        "resized": false,
+        "before": "screens/project-cover-collaborator.before.png",
+        "after": "screens/project-cover-collaborator.after.png",
+        "diff": "screens/project-cover-collaborator.diff.png"
+      },
+      {
+        "name": "project-detail",
+        "spec": "projects",
+        "status": "changed",
+        "ratio": 0.0006564670138888889,
+        "resized": false,
+        "before": "screens/project-detail.before.png",
+        "after": "screens/project-detail.after.png",
+        "diff": "screens/project-detail.diff.png"
+      },
+      {
+        "name": "projects-empty",
+        "spec": "projects",
+        "status": "changed",
+        "ratio": 0.0006564670138888889,
+        "resized": false,
+        "before": "screens/projects-empty.before.png",
+        "after": "screens/projects-empty.after.png",
+        "diff": "screens/projects-empty.diff.png"
+      },
+      {
+        "name": "projects-list",
+        "spec": "projects",
+        "status": "changed",
+        "ratio": 0.0006564670138888889,
+        "resized": false,
+        "before": "screens/projects-list.before.png",
+        "after": "screens/projects-list.after.png",
+        "diff": "screens/projects-list.diff.png"
+      },
+      {
+        "name": "project-breadcrumb",
+        "spec": "projects",
+        "status": "identical",
+        "ratio": 0.000030381944444444444,
+        "resized": false,
+        "before": "screens/project-breadcrumb.before.png",
+        "after": "screens/project-breadcrumb.after.png"
+      },
+      {
+        "name": "project-cover-removed",
+        "spec": "projects",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/project-cover-removed.before.png",
+        "after": "screens/project-cover-removed.after.png"
+      },
+      {
+        "name": "projects-create-dialog",
+        "spec": "projects",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/projects-create-dialog.before.png",
+        "after": "screens/projects-create-dialog.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 92,
+      "differing": 23
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "projects-a-collaborator-se-0d35d--without-any-cover-controls-chromium",
+      "spec": "projects",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/projects-a-collaborator-se-0d35d--without-any-cover-controls-chromium.gif",
+      "mp4": "clips/projects-a-collaborator-se-0d35d--without-any-cover-controls-chromium.mp4",
+      "gifBytes": 660698
+    },
+    {
+      "slug": "projects-a-list-page-shows-a-plain-title-not-a-trail-chromium",
+      "spec": "projects",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/projects-a-list-page-shows-a-plain-title-not-a-trail-chromium.gif",
+      "mp4": "clips/projects-a-list-page-shows-a-plain-title-not-a-trail-chromium.mp4",
+      "gifBytes": 604933
+    },
+    {
+      "slug": "projects-a-member-sets-replaces-and-removes-the-cover-photo-chromium",
+      "spec": "projects",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/projects-a-member-sets-replaces-and-removes-the-cover-photo-chromium.gif",
+      "mp4": "clips/projects-a-member-sets-replaces-and-removes-the-cover-photo-chromium.mp4",
+      "gifBytes": 1070497
+    },
+    {
+      "slug": "projects-a-project-s-top-b-71917-es-a-trail-back-to-the-list-chromium",
+      "spec": "projects",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/projects-a-project-s-top-b-71917-es-a-trail-back-to-the-list-chromium.gif",
+      "mp4": "clips/projects-a-project-s-top-b-71917-es-a-trail-back-to-the-list-chromium.mp4",
+      "gifBytes": 608711
+    },
+    {
+      "slug": "projects-an-owner-creates-a-project-and-lands-on-it-chromium",
+      "spec": "projects",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/projects-an-owner-creates-a-project-and-lands-on-it-chromium.gif",
+      "mp4": "clips/projects-an-owner-creates-a-project-and-lands-on-it-chromium.mp4",
+      "gifBytes": 796486
+    },
+    {
+      "slug": "projects-the-sidebar-reaches-projects-on-a-workspace-host-chromium",
+      "spec": "projects",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/projects-the-sidebar-reaches-projects-on-a-workspace-host-chromium.gif",
+      "mp4": "clips/projects-the-sidebar-reaches-projects-on-a-workspace-host-chromium.mp4",
+      "gifBytes": 702694
+    },
+    {
+      "slug": "settings-account-settings--19cdd-ll-picks-up-then-removes-it-chromium",
+      "spec": "settings",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/settings-account-settings--19cdd-ll-picks-up-then-removes-it-chromium.gif",
+      "mp4": "clips/settings-account-settings--19cdd-ll-picks-up-then-removes-it-chromium.mp4",
+      "gifBytes": 699500
+    },
+    {
+      "slug": "settings-account-settings--43c67-shown-but-not-editable-here-chromium",
+      "spec": "settings",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/settings-account-settings--43c67-shown-but-not-editable-here-chromium.gif",
+      "mp4": "clips/settings-account-settings--43c67-shown-but-not-editable-here-chromium.mp4",
+      "gifBytes": 608965
+    },
+    {
+      "slug": "settings-account-settings--5b6af--actor-from-the-profile-tab-chromium",
+      "spec": "settings",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/settings-account-settings--5b6af--actor-from-the-profile-tab-chromium.gif",
+      "mp4": "clips/settings-account-settings--5b6af--actor-from-the-profile-tab-chromium.mp4",
+      "gifBytes": 660346
+    },
+    {
+      "slug": "settings-account-settings--80d8e-keeps-the-notifications-URL-chromium",
+      "spec": "settings",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/settings-account-settings--80d8e-keeps-the-notifications-URL-chromium.gif",
+      "mp4": "clips/settings-account-settings--80d8e-keeps-the-notifications-URL-chromium.mp4",
+      "gifBytes": 510421
+    },
+    {
+      "slug": "workspaces-a-collaborator--86c6f-ace-but-no-way-to-change-it-chromium",
+      "spec": "workspaces",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/workspaces-a-collaborator--86c6f-ace-but-no-way-to-change-it-chromium.gif",
+      "mp4": "clips/workspaces-a-collaborator--86c6f-ace-but-no-way-to-change-it-chromium.mp4",
+      "gifBytes": 820339
+    },
+    {
+      "slug": "workspaces-an-owner-gives--bcea8-to-and-the-switcher-follows-chromium",
+      "spec": "workspaces",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/workspaces-an-owner-gives--bcea8-to-and-the-switcher-follows-chromium.gif",
+      "mp4": "clips/workspaces-an-owner-gives--bcea8-to-and-the-switcher-follows-chromium.mp4",
+      "gifBytes": 862495
+    },
+    {
+      "slug": "workspaces-an-owner-rename-5a3e6-e-and-every-surface-follows-chromium",
+      "spec": "workspaces",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/workspaces-an-owner-rename-5a3e6-e-and-every-surface-follows-chromium.gif",
+      "mp4": "clips/workspaces-an-owner-rename-5a3e6-e-and-every-surface-follows-chromium.mp4",
+      "gifBytes": 867165
+    },
+    {
+      "slug": "workspaces-opening-a-works-7c282-s-on-its-own-host-signed-in-chromium",
+      "spec": "workspaces",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/workspaces-opening-a-works-7c282-s-on-its-own-host-signed-in-chromium.gif",
+      "mp4": "clips/workspaces-opening-a-works-7c282-s-on-its-own-host-signed-in-chromium.mp4",
+      "gifBytes": 609347
+    },
+    {
+      "slug": "workspaces-the-selector-re-81e5d-ery-workspace-and-your-role-chromium",
+      "spec": "workspaces",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/workspaces-the-selector-re-81e5d-ery-workspace-and-your-role-chromium.gif",
+      "mp4": "clips/workspaces-the-selector-re-81e5d-ery-workspace-and-your-role-chromium.mp4",
+      "gifBytes": 390357
+    }
+  ],
+  "changedSpecs": [
+    "projects",
+    "settings",
+    "workspaces"
+  ]
+}
