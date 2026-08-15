@@ -1,0 +1,60 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "d86abb1682212f258335c45063f4bc96c070767b",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/31862822881"
+    },
+    "entries": [
+      {
+        "name": "cookie-policy",
+        "spec": "cookie-policy",
+        "status": "added",
+        "after": "screens/cookie-policy.after.png"
+      },
+      {
+        "name": "settings-privacy",
+        "spec": "cookie-policy",
+        "status": "added",
+        "after": "screens/settings-privacy.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 106,
+      "differing": 33
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "cookie-policy-cookies-no-a-25a93-vironment-with-no-analytics-chromium",
+      "spec": "cookie-policy",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/cookie-policy-cookies-no-a-25a93-vironment-with-no-analytics-chromium.gif",
+      "mp4": "clips/cookie-policy-cookies-no-a-25a93-vironment-with-no-analytics-chromium.mp4",
+      "gifBytes": 418642
+    },
+    {
+      "slug": "cookie-policy-cookies-the--3ea00-ice-and-links-to-the-policy-chromium",
+      "spec": "cookie-policy",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/cookie-policy-cookies-the--3ea00-ice-and-links-to-the-policy-chromium.gif",
+      "mp4": "clips/cookie-policy-cookies-the--3ea00-ice-and-links-to-the-policy-chromium.mp4",
+      "gifBytes": 658286
+    },
+    {
+      "slug": "cookie-policy-cookies-the--f397e-readable-without-signing-in-chromium",
+      "spec": "cookie-policy",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/cookie-policy-cookies-the--f397e-readable-without-signing-in-chromium.gif",
+      "mp4": "clips/cookie-policy-cookies-the--f397e-readable-without-signing-in-chromium.mp4",
+      "gifBytes": 370265
+    }
+  ],
+  "changedSpecs": [
+    "cookie-policy"
+  ]
+}
