@@ -1,0 +1,81 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "9d95bbaff12030fc80d94f86a28d48250d134ef8",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/31954948921"
+    },
+    "entries": [
+      {
+        "name": "notification-deliveries-failed",
+        "spec": "notification-deliveries",
+        "status": "added",
+        "after": "screens/notification-deliveries-failed.after.png"
+      },
+      {
+        "name": "notification-deliveries-failure-detail",
+        "spec": "notification-deliveries",
+        "status": "added",
+        "after": "screens/notification-deliveries-failure-detail.after.png"
+      },
+      {
+        "name": "notification-deliveries-list",
+        "spec": "notification-deliveries",
+        "status": "added",
+        "after": "screens/notification-deliveries-list.after.png"
+      },
+      {
+        "name": "notification-deliveries-recipient-search",
+        "spec": "notification-deliveries",
+        "status": "added",
+        "after": "screens/notification-deliveries-recipient-search.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 108,
+      "differing": 31
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "notification-deliveries-a--aeb91-dger-and-inspects-a-failure-chromium",
+      "spec": "notification-deliveries",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/notification-deliveries-a--aeb91-dger-and-inspects-a-failure-chromium.gif",
+      "mp4": "clips/notification-deliveries-a--aeb91-dger-and-inspects-a-failure-chromium.mp4",
+      "gifBytes": 3494978
+    },
+    {
+      "slug": "notification-deliveries-a--aeb91-dger-and-inspects-a-failure-chromium-retry1",
+      "spec": "notification-deliveries",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/notification-deliveries-a--aeb91-dger-and-inspects-a-failure-chromium-retry1.gif",
+      "mp4": "clips/notification-deliveries-a--aeb91-dger-and-inspects-a-failure-chromium-retry1.mp4",
+      "gifBytes": 3469737
+    },
+    {
+      "slug": "notification-deliveries-a--3d5bf-er-sees-the-delivery-ledger-chromium",
+      "spec": "notification-deliveries",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/notification-deliveries-a--3d5bf-er-sees-the-delivery-ledger-chromium.gif",
+      "mp4": "clips/notification-deliveries-a--3d5bf-er-sees-the-delivery-ledger-chromium.mp4",
+      "gifBytes": 446884
+    },
+    {
+      "slug": "notification-deliveries-a--4cd65-m-the-message-was-delivered-chromium",
+      "spec": "notification-deliveries",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/notification-deliveries-a--4cd65-m-the-message-was-delivered-chromium.gif",
+      "mp4": "clips/notification-deliveries-a--4cd65-m-the-message-was-delivered-chromium.mp4",
+      "gifBytes": 599635
+    }
+  ],
+  "changedSpecs": [
+    "notification-deliveries"
+  ]
+}
