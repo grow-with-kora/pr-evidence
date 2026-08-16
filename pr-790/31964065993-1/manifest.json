@@ -1,0 +1,100 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "1c195ac9348d9cb6be5c00f46bd357d5f4b6bba3",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/31959648609"
+    },
+    "entries": [
+      {
+        "name": "notification-deliveries-bounce-detail",
+        "spec": "notification-deliveries",
+        "status": "added",
+        "after": "screens/notification-deliveries-bounce-detail.after.png"
+      },
+      {
+        "name": "notification-deliveries-bounced",
+        "spec": "notification-deliveries",
+        "status": "added",
+        "after": "screens/notification-deliveries-bounced.after.png"
+      },
+      {
+        "name": "notification-deliveries-list",
+        "spec": "notification-deliveries",
+        "status": "changed",
+        "ratio": 0.01130099826388889,
+        "resized": false,
+        "before": "screens/notification-deliveries-list.before.png",
+        "after": "screens/notification-deliveries-list.after.png",
+        "diff": "screens/notification-deliveries-list.diff.png"
+      },
+      {
+        "name": "notification-deliveries-failure-detail",
+        "spec": "notification-deliveries",
+        "status": "changed",
+        "ratio": 0.005712890625,
+        "resized": false,
+        "before": "screens/notification-deliveries-failure-detail.before.png",
+        "after": "screens/notification-deliveries-failure-detail.after.png",
+        "diff": "screens/notification-deliveries-failure-detail.diff.png"
+      },
+      {
+        "name": "notification-deliveries-failed",
+        "spec": "notification-deliveries",
+        "status": "changed",
+        "ratio": 0.0014865451388888888,
+        "resized": false,
+        "before": "screens/notification-deliveries-failed.before.png",
+        "after": "screens/notification-deliveries-failed.after.png",
+        "diff": "screens/notification-deliveries-failed.diff.png"
+      },
+      {
+        "name": "notification-deliveries-recipient-search",
+        "spec": "notification-deliveries",
+        "status": "changed",
+        "ratio": 0.001435546875,
+        "resized": false,
+        "before": "screens/notification-deliveries-recipient-search.before.png",
+        "after": "screens/notification-deliveries-recipient-search.after.png",
+        "diff": "screens/notification-deliveries-recipient-search.diff.png"
+      }
+    ],
+    "skipped": {
+      "total": 114,
+      "differing": 34
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "notification-deliveries-a--3d5bf-er-sees-the-delivery-ledger-chromium",
+      "spec": "notification-deliveries",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/notification-deliveries-a--3d5bf-er-sees-the-delivery-ledger-chromium.gif",
+      "mp4": "clips/notification-deliveries-a--3d5bf-er-sees-the-delivery-ledger-chromium.mp4",
+      "gifBytes": 535054
+    },
+    {
+      "slug": "notification-deliveries-a--4cd65-m-the-message-was-delivered-chromium",
+      "spec": "notification-deliveries",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/notification-deliveries-a--4cd65-m-the-message-was-delivered-chromium.gif",
+      "mp4": "clips/notification-deliveries-a--4cd65-m-the-message-was-delivered-chromium.mp4",
+      "gifBytes": 747234
+    },
+    {
+      "slug": "notification-deliveries-a--aeb91-dger-and-inspects-a-failure-chromium",
+      "spec": "notification-deliveries",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/notification-deliveries-a--aeb91-dger-and-inspects-a-failure-chromium.gif",
+      "mp4": "clips/notification-deliveries-a--aeb91-dger-and-inspects-a-failure-chromium.mp4",
+      "gifBytes": 2797406
+    }
+  ],
+  "changedSpecs": [
+    "notification-deliveries"
+  ]
+}
