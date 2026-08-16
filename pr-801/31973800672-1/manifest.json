@@ -1,0 +1,63 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "1719fd15eb80c11dfa8146287395c4e0b184346f",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/31970269639"
+    },
+    "entries": [
+      {
+        "name": "suppressed-recipients-list",
+        "spec": "suppressed-recipients",
+        "status": "added",
+        "after": "screens/suppressed-recipients-list.after.png"
+      },
+      {
+        "name": "suppressed-recipients-release-confirm",
+        "spec": "suppressed-recipients",
+        "status": "added",
+        "after": "screens/suppressed-recipients-release-confirm.after.png"
+      },
+      {
+        "name": "suppressed-recipients-released",
+        "spec": "suppressed-recipients",
+        "status": "added",
+        "after": "screens/suppressed-recipients-released.after.png"
+      },
+      {
+        "name": "suppressed-recipients-search",
+        "spec": "suppressed-recipients",
+        "status": "added",
+        "after": "screens/suppressed-recipients-search.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 127,
+      "differing": 35
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "suppressed-recipients-a-pl-3661b-sed-address-and-releases-it-chromium",
+      "spec": "suppressed-recipients",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/suppressed-recipients-a-pl-3661b-sed-address-and-releases-it-chromium.gif",
+      "mp4": "clips/suppressed-recipients-a-pl-3661b-sed-address-and-releases-it-chromium.mp4",
+      "gifBytes": 2046090
+    },
+    {
+      "slug": "suppressed-recipients-a-pl-511c9-r-sees-the-suppression-list-chromium",
+      "spec": "suppressed-recipients",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/suppressed-recipients-a-pl-511c9-r-sees-the-suppression-list-chromium.gif",
+      "mp4": "clips/suppressed-recipients-a-pl-511c9-r-sees-the-suppression-list-chromium.mp4",
+      "gifBytes": 543877
+    }
+  ],
+  "changedSpecs": [
+    "suppressed-recipients"
+  ]
+}
