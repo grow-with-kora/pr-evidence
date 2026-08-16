@@ -1,0 +1,72 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "ee7d7ee5a79724da4b432f51bcf13a655a357cc2",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/31958163745"
+    },
+    "entries": [
+      {
+        "name": "notification-deliveries-failed",
+        "spec": "notification-deliveries",
+        "status": "added",
+        "after": "screens/notification-deliveries-failed.after.png"
+      },
+      {
+        "name": "notification-deliveries-failure-detail",
+        "spec": "notification-deliveries",
+        "status": "added",
+        "after": "screens/notification-deliveries-failure-detail.after.png"
+      },
+      {
+        "name": "notification-deliveries-list",
+        "spec": "notification-deliveries",
+        "status": "added",
+        "after": "screens/notification-deliveries-list.after.png"
+      },
+      {
+        "name": "notification-deliveries-recipient-search",
+        "spec": "notification-deliveries",
+        "status": "added",
+        "after": "screens/notification-deliveries-recipient-search.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 108,
+      "differing": 28
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "notification-deliveries-a--3d5bf-er-sees-the-delivery-ledger-chromium",
+      "spec": "notification-deliveries",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/notification-deliveries-a--3d5bf-er-sees-the-delivery-ledger-chromium.gif",
+      "mp4": "clips/notification-deliveries-a--3d5bf-er-sees-the-delivery-ledger-chromium.mp4",
+      "gifBytes": 506422
+    },
+    {
+      "slug": "notification-deliveries-a--4cd65-m-the-message-was-delivered-chromium",
+      "spec": "notification-deliveries",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/notification-deliveries-a--4cd65-m-the-message-was-delivered-chromium.gif",
+      "mp4": "clips/notification-deliveries-a--4cd65-m-the-message-was-delivered-chromium.mp4",
+      "gifBytes": 741272
+    },
+    {
+      "slug": "notification-deliveries-a--aeb91-dger-and-inspects-a-failure-chromium",
+      "spec": "notification-deliveries",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/notification-deliveries-a--aeb91-dger-and-inspects-a-failure-chromium.gif",
+      "mp4": "clips/notification-deliveries-a--aeb91-dger-and-inspects-a-failure-chromium.mp4",
+      "gifBytes": 2047379
+    }
+  ],
+  "changedSpecs": [
+    "notification-deliveries"
+  ]
+}
