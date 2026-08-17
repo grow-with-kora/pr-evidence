@@ -1,0 +1,84 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "3bbf7792b4c16d019c52fb6081a869769f401ebd",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/32029942697"
+    },
+    "entries": [
+      {
+        "name": "announcement-banner",
+        "spec": "announcements",
+        "status": "added",
+        "after": "screens/announcement-banner.after.png"
+      },
+      {
+        "name": "announcement-must-accept",
+        "spec": "announcements",
+        "status": "added",
+        "after": "screens/announcement-must-accept.after.png"
+      },
+      {
+        "name": "announcements-admin-list",
+        "spec": "announcements",
+        "status": "added",
+        "after": "screens/announcements-admin-list.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 132,
+      "differing": 37
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "announcements-a-must-accep-8ecd2-cepted-and-offers-a-way-out-chromium",
+      "spec": "announcements",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/announcements-a-must-accep-8ecd2-cepted-and-offers-a-way-out-chromium.gif",
+      "mp4": "clips/announcements-a-must-accep-8ecd2-cepted-and-offers-a-way-out-chromium.mp4",
+      "gifBytes": 893735
+    },
+    {
+      "slug": "announcements-a-banner-rea-c0098-ordinary-user-and-dismisses-chromium",
+      "spec": "announcements",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/announcements-a-banner-rea-c0098-ordinary-user-and-dismisses-chromium.gif",
+      "mp4": "clips/announcements-a-banner-rea-c0098-ordinary-user-and-dismisses-chromium.mp4",
+      "gifBytes": 696533
+    },
+    {
+      "slug": "announcements-a-must-accep-8ecd2-cepted-and-offers-a-way-out-chromium-retry1",
+      "spec": "announcements",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/announcements-a-must-accep-8ecd2-cepted-and-offers-a-way-out-chromium-retry1.gif",
+      "mp4": "clips/announcements-a-must-accep-8ecd2-cepted-and-offers-a-way-out-chromium-retry1.mp4",
+      "gifBytes": 983750
+    },
+    {
+      "slug": "announcements-a-plain-user-never-sees-the-authoring-screen-chromium",
+      "spec": "announcements",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/announcements-a-plain-user-never-sees-the-authoring-screen-chromium.gif",
+      "mp4": "clips/announcements-a-plain-user-never-sees-the-authoring-screen-chromium.mp4",
+      "gifBytes": 544911
+    },
+    {
+      "slug": "announcements-a-platform-a-948d2-publishes-it-and-it-appears-chromium",
+      "spec": "announcements",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/announcements-a-platform-a-948d2-publishes-it-and-it-appears-chromium.gif",
+      "mp4": "clips/announcements-a-platform-a-948d2-publishes-it-and-it-appears-chromium.mp4",
+      "gifBytes": 1238327
+    }
+  ],
+  "changedSpecs": [
+    "announcements"
+  ]
+}
