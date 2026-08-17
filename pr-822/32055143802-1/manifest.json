@@ -1,0 +1,27 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "acf27dc5716b292c99360bec4b1b439815e61a25",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/32053990001"
+    },
+    "entries": [],
+    "skipped": {
+      "total": 135,
+      "differing": 34
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "announcements-a-must-accep-8ecd2-cepted-and-offers-a-way-out-chromium",
+      "spec": "announcements",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/announcements-a-must-accep-8ecd2-cepted-and-offers-a-way-out-chromium.gif",
+      "mp4": "clips/announcements-a-must-accep-8ecd2-cepted-and-offers-a-way-out-chromium.mp4",
+      "gifBytes": 917649
+    }
+  ],
+  "changedSpecs": []
+}
