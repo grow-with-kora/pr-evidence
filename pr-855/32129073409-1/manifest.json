@@ -1,0 +1,99 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "4e8be9d5086ec4a9afc05428f1561c649304bc45",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/32082106867"
+    },
+    "entries": [
+      {
+        "name": "workspace-home",
+        "spec": "workspaces",
+        "status": "added",
+        "after": "screens/workspace-home.after.png"
+      },
+      {
+        "name": "workspace-switcher-with-photos",
+        "spec": "workspaces",
+        "status": "identical",
+        "ratio": 0.0002907986111111111,
+        "resized": false,
+        "before": "screens/workspace-switcher-with-photos.before.png",
+        "after": "screens/workspace-switcher-with-photos.after.png"
+      },
+      {
+        "name": "workspace-general-with-photo",
+        "spec": "workspaces",
+        "status": "identical",
+        "ratio": 0.0002593315972222222,
+        "resized": false,
+        "before": "screens/workspace-general-with-photo.before.png",
+        "after": "screens/workspace-general-with-photo.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 133,
+      "differing": 43
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "announcements-a-must-accep-8ecd2-cepted-and-offers-a-way-out-chromium",
+      "spec": "announcements",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/announcements-a-must-accep-8ecd2-cepted-and-offers-a-way-out-chromium.gif",
+      "mp4": "clips/announcements-a-must-accep-8ecd2-cepted-and-offers-a-way-out-chromium.mp4",
+      "gifBytes": 882783
+    },
+    {
+      "slug": "workspaces-a-collaborator--86c6f-ace-but-no-way-to-change-it-chromium",
+      "spec": "workspaces",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/workspaces-a-collaborator--86c6f-ace-but-no-way-to-change-it-chromium.gif",
+      "mp4": "clips/workspaces-a-collaborator--86c6f-ace-but-no-way-to-change-it-chromium.mp4",
+      "gifBytes": 778230
+    },
+    {
+      "slug": "workspaces-an-owner-gives--bcea8-to-and-the-switcher-follows-chromium",
+      "spec": "workspaces",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/workspaces-an-owner-gives--bcea8-to-and-the-switcher-follows-chromium.gif",
+      "mp4": "clips/workspaces-an-owner-gives--bcea8-to-and-the-switcher-follows-chromium.mp4",
+      "gifBytes": 963271
+    },
+    {
+      "slug": "workspaces-an-owner-rename-5a3e6-e-and-every-surface-follows-chromium",
+      "spec": "workspaces",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/workspaces-an-owner-rename-5a3e6-e-and-every-surface-follows-chromium.gif",
+      "mp4": "clips/workspaces-an-owner-rename-5a3e6-e-and-every-surface-follows-chromium.mp4",
+      "gifBytes": 854552
+    },
+    {
+      "slug": "workspaces-opening-a-works-7c282-s-on-its-own-host-signed-in-chromium",
+      "spec": "workspaces",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/workspaces-opening-a-works-7c282-s-on-its-own-host-signed-in-chromium.gif",
+      "mp4": "clips/workspaces-opening-a-works-7c282-s-on-its-own-host-signed-in-chromium.mp4",
+      "gifBytes": 727016
+    },
+    {
+      "slug": "workspaces-the-selector-re-81e5d-ery-workspace-and-your-role-chromium",
+      "spec": "workspaces",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/workspaces-the-selector-re-81e5d-ery-workspace-and-your-role-chromium.gif",
+      "mp4": "clips/workspaces-the-selector-re-81e5d-ery-workspace-and-your-role-chromium.mp4",
+      "gifBytes": 423689
+    }
+  ],
+  "changedSpecs": [
+    "workspaces"
+  ]
+}
