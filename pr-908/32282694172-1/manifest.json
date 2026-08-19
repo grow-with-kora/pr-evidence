@@ -1,0 +1,43 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "5ee532adc00d6105cac9fd27c56f44792a065ecd",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/32268131726"
+    },
+    "entries": [
+      {
+        "name": "announcement-must-accept",
+        "spec": "announcements",
+        "status": "removed",
+        "before": "screens/announcement-must-accept.before.png"
+      }
+    ],
+    "skipped": {
+      "total": 140,
+      "differing": 45
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "announcements-a-must-accep-8ecd2-cepted-and-offers-a-way-out-chromium",
+      "spec": "announcements",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/announcements-a-must-accep-8ecd2-cepted-and-offers-a-way-out-chromium.gif",
+      "mp4": "clips/announcements-a-must-accep-8ecd2-cepted-and-offers-a-way-out-chromium.mp4",
+      "gifBytes": 856288
+    },
+    {
+      "slug": "announcements-a-must-accep-8ecd2-cepted-and-offers-a-way-out-chromium-retry1",
+      "spec": "announcements",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/announcements-a-must-accep-8ecd2-cepted-and-offers-a-way-out-chromium-retry1.gif",
+      "mp4": "clips/announcements-a-must-accep-8ecd2-cepted-and-offers-a-way-out-chromium-retry1.mp4",
+      "gifBytes": 1002481
+    }
+  ],
+  "changedSpecs": []
+}
