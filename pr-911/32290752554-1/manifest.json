@@ -1,0 +1,225 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "69fbf86b49fdd09dc0dd644935227b0555fb526e",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/32284792791"
+    },
+    "entries": [
+      {
+        "name": "admin-nuke-data-confirm",
+        "spec": "zz-nuke-data",
+        "status": "removed",
+        "before": "screens/admin-nuke-data-confirm.before.png"
+      },
+      {
+        "name": "admin-nuke-data-result",
+        "spec": "zz-nuke-data",
+        "status": "removed",
+        "before": "screens/admin-nuke-data-result.before.png"
+      },
+      {
+        "name": "admin-nuke-data-selected",
+        "spec": "zz-nuke-data",
+        "status": "removed",
+        "before": "screens/admin-nuke-data-selected.before.png"
+      },
+      {
+        "name": "audit-log-actor-picker",
+        "spec": "audit-log",
+        "status": "removed",
+        "before": "screens/audit-log-actor-picker.before.png"
+      },
+      {
+        "name": "audit-log-date-preset",
+        "spec": "audit-log",
+        "status": "removed",
+        "before": "screens/audit-log-date-preset.before.png"
+      },
+      {
+        "name": "audit-log-detail",
+        "spec": "audit-log",
+        "status": "removed",
+        "before": "screens/audit-log-detail.before.png"
+      },
+      {
+        "name": "audit-log-entity-link",
+        "spec": "audit-log",
+        "status": "removed",
+        "before": "screens/audit-log-entity-link.before.png"
+      },
+      {
+        "name": "workspace-general-with-photo",
+        "spec": "workspaces",
+        "status": "removed",
+        "before": "screens/workspace-general-with-photo.before.png"
+      },
+      {
+        "name": "workspace-switcher-with-photos",
+        "spec": "workspaces",
+        "status": "removed",
+        "before": "screens/workspace-switcher-with-photos.before.png"
+      },
+      {
+        "name": "admin-users-actions-before",
+        "spec": "users",
+        "status": "changed",
+        "ratio": 0.6761762152777778,
+        "resized": false,
+        "before": "screens/admin-users-actions-before.before.png",
+        "after": "screens/admin-users-actions-before.after.png",
+        "diff": "screens/admin-users-actions-before.diff.png"
+      },
+      {
+        "name": "admin-users-guard-rail",
+        "spec": "users",
+        "status": "changed",
+        "ratio": 0.6616579861111112,
+        "resized": false,
+        "before": "screens/admin-users-guard-rail.before.png",
+        "after": "screens/admin-users-guard-rail.after.png",
+        "diff": "screens/admin-users-guard-rail.diff.png"
+      },
+      {
+        "name": "admin-users-detail",
+        "spec": "users",
+        "status": "changed",
+        "ratio": 0.6611631944444445,
+        "resized": false,
+        "before": "screens/admin-users-detail.before.png",
+        "after": "screens/admin-users-detail.after.png",
+        "diff": "screens/admin-users-detail.diff.png"
+      },
+      {
+        "name": "admin-users-actions-after",
+        "spec": "users",
+        "status": "changed",
+        "ratio": 0.6608843315972223,
+        "resized": false,
+        "before": "screens/admin-users-actions-after.before.png",
+        "after": "screens/admin-users-actions-after.after.png",
+        "diff": "screens/admin-users-actions-after.diff.png"
+      },
+      {
+        "name": "admin-users-block-confirm",
+        "spec": "users",
+        "status": "changed",
+        "ratio": 0.5870930989583333,
+        "resized": false,
+        "before": "screens/admin-users-block-confirm.before.png",
+        "after": "screens/admin-users-block-confirm.after.png",
+        "diff": "screens/admin-users-block-confirm.diff.png"
+      },
+      {
+        "name": "admin-users-sorted",
+        "spec": "users",
+        "status": "changed",
+        "ratio": 0.016675347222222223,
+        "resized": false,
+        "before": "screens/admin-users-sorted.before.png",
+        "after": "screens/admin-users-sorted.after.png",
+        "diff": "screens/admin-users-sorted.diff.png"
+      },
+      {
+        "name": "admin-users-list",
+        "spec": "users",
+        "status": "identical",
+        "ratio": 0.0004448784722222222,
+        "resized": false,
+        "before": "screens/admin-users-list.before.png",
+        "after": "screens/admin-users-list.after.png"
+      },
+      {
+        "name": "admin-users-filtered",
+        "spec": "users",
+        "status": "identical",
+        "ratio": 0.0004318576388888889,
+        "resized": false,
+        "before": "screens/admin-users-filtered.before.png",
+        "after": "screens/admin-users-filtered.after.png"
+      },
+      {
+        "name": "admin-users-date-preset",
+        "spec": "users",
+        "status": "identical",
+        "ratio": 0.00037977430555555556,
+        "resized": false,
+        "before": "screens/admin-users-date-preset.before.png",
+        "after": "screens/admin-users-date-preset.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 123,
+      "differing": 29
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "audit-log-a-platform-admin-10ede-nd-inspects-the-audit-trail-chromium",
+      "spec": "audit",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/audit-log-a-platform-admin-10ede-nd-inspects-the-audit-trail-chromium.gif",
+      "mp4": "clips/audit-log-a-platform-admin-10ede-nd-inspects-the-audit-trail-chromium.mp4",
+      "gifBytes": 2040285
+    },
+    {
+      "slug": "audit-log-a-platform-admin-10ede-nd-inspects-the-audit-trail-chromium-retry1",
+      "spec": "audit",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/audit-log-a-platform-admin-10ede-nd-inspects-the-audit-trail-chromium-retry1.gif",
+      "mp4": "clips/audit-log-a-platform-admin-10ede-nd-inspects-the-audit-trail-chromium-retry1.mp4",
+      "gifBytes": 2504207
+    },
+    {
+      "slug": "dashboards-resizing-a-widget-persists-its-new-size-chromium",
+      "spec": "dashboards",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/dashboards-resizing-a-widget-persists-its-new-size-chromium.gif",
+      "mp4": "clips/dashboards-resizing-a-widget-persists-its-new-size-chromium.mp4",
+      "gifBytes": 2871941
+    },
+    {
+      "slug": "workspaces-an-owner-gives--bcea8-to-and-the-switcher-follows-chromium",
+      "spec": "workspaces",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/workspaces-an-owner-gives--bcea8-to-and-the-switcher-follows-chromium.gif",
+      "mp4": "clips/workspaces-an-owner-gives--bcea8-to-and-the-switcher-follows-chromium.mp4",
+      "gifBytes": 808238
+    },
+    {
+      "slug": "users-a-plain-user-never-sees-the-users-screen-chromium",
+      "spec": "users",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/users-a-plain-user-never-sees-the-users-screen-chromium.gif",
+      "mp4": "clips/users-a-plain-user-never-sees-the-users-screen-chromium.mp4",
+      "gifBytes": 628755
+    },
+    {
+      "slug": "users-a-platform-admin-lis-2f314-rs-pages-and-inspects-users-chromium",
+      "spec": "users",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/users-a-platform-admin-lis-2f314-rs-pages-and-inspects-users-chromium.gif",
+      "mp4": "clips/users-a-platform-admin-lis-2f314-rs-pages-and-inspects-users-chromium.mp4",
+      "gifBytes": 4902861
+    },
+    {
+      "slug": "users-the-guard-rails-refuse-with-the-server-s-reason-chromium",
+      "spec": "users",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/users-the-guard-rails-refuse-with-the-server-s-reason-chromium.gif",
+      "mp4": "clips/users-the-guard-rails-refuse-with-the-server-s-reason-chromium.mp4",
+      "gifBytes": 793111
+    }
+  ],
+  "changedSpecs": [
+    "users"
+  ]
+}
