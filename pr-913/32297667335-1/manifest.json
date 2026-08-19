@@ -1,0 +1,119 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "69fbf86b49fdd09dc0dd644935227b0555fb526e",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/32284792791"
+    },
+    "entries": [
+      {
+        "name": "project-manage-membership",
+        "spec": "project-invites",
+        "status": "added",
+        "after": "screens/project-manage-membership.after.png"
+      },
+      {
+        "name": "project-remove-member-confirm",
+        "spec": "project-invites",
+        "status": "added",
+        "after": "screens/project-remove-member-confirm.after.png"
+      },
+      {
+        "name": "project-people-after-acceptance",
+        "spec": "project-invites",
+        "status": "changed",
+        "ratio": 0.0021332465277777777,
+        "resized": false,
+        "before": "screens/project-people-after-acceptance.before.png",
+        "after": "screens/project-people-after-acceptance.after.png",
+        "diff": "screens/project-people-after-acceptance.diff.png"
+      },
+      {
+        "name": "project-people-invitation-pending",
+        "spec": "project-invites",
+        "status": "changed",
+        "ratio": 0.001662326388888889,
+        "resized": false,
+        "before": "screens/project-people-invitation-pending.before.png",
+        "after": "screens/project-people-invitation-pending.after.png",
+        "diff": "screens/project-people-invitation-pending.diff.png"
+      },
+      {
+        "name": "project-people-before-invite",
+        "spec": "project-invites",
+        "status": "changed",
+        "ratio": 0.0015006510416666666,
+        "resized": false,
+        "before": "screens/project-people-before-invite.before.png",
+        "after": "screens/project-people-before-invite.after.png",
+        "diff": "screens/project-people-before-invite.diff.png"
+      },
+      {
+        "name": "project-invite-accepted-project",
+        "spec": "project-invites",
+        "status": "changed",
+        "ratio": 0.0008094618055555556,
+        "resized": false,
+        "before": "screens/project-invite-accepted-project.before.png",
+        "after": "screens/project-invite-accepted-project.after.png",
+        "diff": "screens/project-invite-accepted-project.diff.png"
+      },
+      {
+        "name": "project-invite-accepted-projects",
+        "spec": "project-invites",
+        "status": "changed",
+        "ratio": 0.0006564670138888889,
+        "resized": false,
+        "before": "screens/project-invite-accepted-projects.before.png",
+        "after": "screens/project-invite-accepted-projects.after.png",
+        "diff": "screens/project-invite-accepted-projects.diff.png"
+      },
+      {
+        "name": "project-invite-dialog",
+        "spec": "project-invites",
+        "status": "identical",
+        "ratio": 0.0001388888888888889,
+        "resized": false,
+        "before": "screens/project-invite-dialog.before.png",
+        "after": "screens/project-invite-dialog.after.png"
+      },
+      {
+        "name": "project-invite-join-choice",
+        "spec": "project-invites",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/project-invite-join-choice.before.png",
+        "after": "screens/project-invite-join-choice.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 134,
+      "differing": 29
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "announcements-a-must-accep-8ecd2-cepted-and-offers-a-way-out-chromium",
+      "spec": "announcements",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/announcements-a-must-accep-8ecd2-cepted-and-offers-a-way-out-chromium.gif",
+      "mp4": "clips/announcements-a-must-accep-8ecd2-cepted-and-offers-a-way-out-chromium.mp4",
+      "gifBytes": 926306
+    },
+    {
+      "slug": "project-invites-an-outside-32715-ailed-joins-and-lands-on-it-chromium",
+      "spec": "project-invites",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/project-invites-an-outside-32715-ailed-joins-and-lands-on-it-chromium.gif",
+      "mp4": "clips/project-invites-an-outside-32715-ailed-joins-and-lands-on-it-chromium.mp4",
+      "gifBytes": 2272983
+    }
+  ],
+  "changedSpecs": [
+    "project-invites"
+  ]
+}
