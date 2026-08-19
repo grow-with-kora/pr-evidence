@@ -1,0 +1,174 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "36b4f9d783d9e01d73279a7fe3a86d855ab869da",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/32252904046"
+    },
+    "entries": [
+      {
+        "name": "design-system-dark",
+        "spec": "design-system",
+        "status": "changed",
+        "ratio": 0.25748155381944443,
+        "resized": false,
+        "before": "screens/design-system-dark.before.png",
+        "after": "screens/design-system-dark.after.png",
+        "diff": "screens/design-system-dark.diff.png"
+      },
+      {
+        "name": "design-system-light",
+        "spec": "design-system",
+        "status": "changed",
+        "ratio": 0.14969401041666666,
+        "resized": false,
+        "before": "screens/design-system-light.before.png",
+        "after": "screens/design-system-light.after.png",
+        "diff": "screens/design-system-light.diff.png"
+      },
+      {
+        "name": "admin-nuke-data-result",
+        "spec": "zz-nuke-data",
+        "status": "changed",
+        "ratio": 0.037300347222222224,
+        "resized": false,
+        "before": "screens/admin-nuke-data-result.before.png",
+        "after": "screens/admin-nuke-data-result.after.png",
+        "diff": "screens/admin-nuke-data-result.diff.png"
+      },
+      {
+        "name": "admin-nuke-data-selected",
+        "spec": "zz-nuke-data",
+        "status": "changed",
+        "ratio": 0.03526150173611111,
+        "resized": false,
+        "before": "screens/admin-nuke-data-selected.before.png",
+        "after": "screens/admin-nuke-data-selected.after.png",
+        "diff": "screens/admin-nuke-data-selected.diff.png"
+      },
+      {
+        "name": "time-travel-greeting-shifted",
+        "spec": "time-travel",
+        "status": "changed",
+        "ratio": 0.017217881944444444,
+        "resized": false,
+        "before": "screens/time-travel-greeting-shifted.before.png",
+        "after": "screens/time-travel-greeting-shifted.after.png",
+        "diff": "screens/time-travel-greeting-shifted.diff.png"
+      },
+      {
+        "name": "time-travel-grace-readonly",
+        "spec": "time-travel",
+        "status": "changed",
+        "ratio": 0.013495008680555556,
+        "resized": false,
+        "before": "screens/time-travel-grace-readonly.before.png",
+        "after": "screens/time-travel-grace-readonly.after.png",
+        "diff": "screens/time-travel-grace-readonly.diff.png"
+      },
+      {
+        "name": "time-travel-trial-final-day",
+        "spec": "time-travel",
+        "status": "changed",
+        "ratio": 0.012626953125,
+        "resized": false,
+        "before": "screens/time-travel-trial-final-day.before.png",
+        "after": "screens/time-travel-trial-final-day.after.png",
+        "diff": "screens/time-travel-trial-final-day.diff.png"
+      },
+      {
+        "name": "admin-nuke-data-confirm",
+        "spec": "zz-nuke-data",
+        "status": "identical",
+        "ratio": 0.0004947916666666667,
+        "resized": false,
+        "before": "screens/admin-nuke-data-confirm.before.png",
+        "after": "screens/admin-nuke-data-confirm.after.png"
+      },
+      {
+        "name": "time-travel-shift-banner",
+        "spec": "time-travel",
+        "status": "identical",
+        "ratio": 0.0000010850694444444444,
+        "resized": false,
+        "before": "screens/time-travel-shift-banner.before.png",
+        "after": "screens/time-travel-shift-banner.after.png"
+      },
+      {
+        "name": "time-travel-suspended",
+        "spec": "time-travel",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/time-travel-suspended.before.png",
+        "after": "screens/time-travel-suspended.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 131,
+      "differing": 46
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "announcements-a-must-accep-8ecd2-cepted-and-offers-a-way-out-chromium",
+      "spec": "announcements",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/announcements-a-must-accep-8ecd2-cepted-and-offers-a-way-out-chromium.gif",
+      "mp4": "clips/announcements-a-must-accep-8ecd2-cepted-and-offers-a-way-out-chromium.mp4",
+      "gifBytes": 913400
+    },
+    {
+      "slug": "design-system-the-gallery--4416c-nd-primitive-in-both-themes-chromium",
+      "spec": "design-system",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/design-system-the-gallery--4416c-nd-primitive-in-both-themes-chromium.gif",
+      "mp4": "clips/design-system-the-gallery--4416c-nd-primitive-in-both-themes-chromium.mp4",
+      "gifBytes": 796824
+    },
+    {
+      "slug": "time-travel-the-billing-cl-11ea0--then-suspends-—-on-its-own-chromium",
+      "spec": "time-travel",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/time-travel-the-billing-cl-11ea0--then-suspends-—-on-its-own-chromium.gif",
+      "mp4": "clips/time-travel-the-billing-cl-11ea0--then-suspends-—-on-its-own-chromium.mp4",
+      "gifBytes": 2211403
+    },
+    {
+      "slug": "time-travel-the-Home-greet-3b183-ted-clock-not-the-browser-s-chromium",
+      "spec": "time-travel",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/time-travel-the-Home-greet-3b183-ted-clock-not-the-browser-s-chromium.gif",
+      "mp4": "clips/time-travel-the-Home-greet-3b183-ted-clock-not-the-browser-s-chromium.mp4",
+      "gifBytes": 577819
+    },
+    {
+      "slug": "time-travel-the-shift-bann-94293-ed-date-and-reset-clears-it-chromium",
+      "spec": "time-travel",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/time-travel-the-shift-bann-94293-ed-date-and-reset-clears-it-chromium.gif",
+      "mp4": "clips/time-travel-the-shift-bann-94293-ed-date-and-reset-clears-it-chromium.mp4",
+      "gifBytes": 578195
+    },
+    {
+      "slug": "zz-nuke-data-a-platform-ad-3b5fd--their-own-session-survives-chromium",
+      "spec": "zz-nuke-data",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/zz-nuke-data-a-platform-ad-3b5fd--their-own-session-survives-chromium.gif",
+      "mp4": "clips/zz-nuke-data-a-platform-ad-3b5fd--their-own-session-survives-chromium.mp4",
+      "gifBytes": 1346031
+    }
+  ],
+  "changedSpecs": [
+    "design-system",
+    "time-travel",
+    "zz-nuke-data"
+  ]
+}
