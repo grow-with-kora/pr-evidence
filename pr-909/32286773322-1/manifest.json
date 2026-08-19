@@ -1,0 +1,178 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "69fbf86b49fdd09dc0dd644935227b0555fb526e",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/32284792791"
+    },
+    "entries": [
+      {
+        "name": "invite-email-mismatch",
+        "spec": "invites",
+        "status": "changed",
+        "ratio": 0.02896701388888889,
+        "resized": false,
+        "before": "screens/invite-email-mismatch.before.png",
+        "after": "screens/invite-email-mismatch.after.png",
+        "diff": "screens/invite-email-mismatch.diff.png"
+      },
+      {
+        "name": "members-blocked-colleague",
+        "spec": "invites",
+        "status": "changed",
+        "ratio": 0.0013736979166666667,
+        "resized": false,
+        "before": "screens/members-blocked-colleague.before.png",
+        "after": "screens/members-blocked-colleague.after.png",
+        "diff": "screens/members-blocked-colleague.diff.png"
+      },
+      {
+        "name": "invite-accepted-workspace",
+        "spec": "invites",
+        "status": "changed",
+        "ratio": 0.0009635416666666667,
+        "resized": false,
+        "before": "screens/invite-accepted-workspace.before.png",
+        "after": "screens/invite-accepted-workspace.after.png",
+        "diff": "screens/invite-accepted-workspace.diff.png"
+      },
+      {
+        "name": "quick-search-muted-hit",
+        "spec": "invites",
+        "status": "changed",
+        "ratio": 0.0006879340277777778,
+        "resized": false,
+        "before": "screens/quick-search-muted-hit.before.png",
+        "after": "screens/quick-search-muted-hit.after.png",
+        "diff": "screens/quick-search-muted-hit.diff.png"
+      },
+      {
+        "name": "invite-login-hint",
+        "spec": "invites",
+        "status": "identical",
+        "ratio": 0.00028103298611111113,
+        "resized": false,
+        "before": "screens/invite-login-hint.before.png",
+        "after": "screens/invite-login-hint.after.png"
+      },
+      {
+        "name": "members-invitation-pending",
+        "spec": "invites",
+        "status": "identical",
+        "ratio": 0.00027886284722222223,
+        "resized": false,
+        "before": "screens/members-invitation-pending.before.png",
+        "after": "screens/members-invitation-pending.after.png"
+      },
+      {
+        "name": "members-after-acceptance",
+        "spec": "invites",
+        "status": "identical",
+        "ratio": 0.00022786458333333334,
+        "resized": false,
+        "before": "screens/members-after-acceptance.before.png",
+        "after": "screens/members-after-acceptance.after.png"
+      },
+      {
+        "name": "members-before-invite",
+        "spec": "invites",
+        "status": "identical",
+        "ratio": 0.00006944444444444444,
+        "resized": false,
+        "before": "screens/members-before-invite.before.png",
+        "after": "screens/members-before-invite.after.png"
+      },
+      {
+        "name": "invite-accept-choice",
+        "spec": "invites",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/invite-accept-choice.before.png",
+        "after": "screens/invite-accept-choice.after.png"
+      },
+      {
+        "name": "invite-after-switch",
+        "spec": "invites",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/invite-after-switch.before.png",
+        "after": "screens/invite-after-switch.after.png"
+      },
+      {
+        "name": "members-as-member",
+        "spec": "invites",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/members-as-member.before.png",
+        "after": "screens/members-as-member.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 130,
+      "differing": 28
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "announcements-a-must-accep-8ecd2-cepted-and-offers-a-way-out-chromium",
+      "spec": "announcements",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/announcements-a-must-accep-8ecd2-cepted-and-offers-a-way-out-chromium.gif",
+      "mp4": "clips/announcements-a-must-accep-8ecd2-cepted-and-offers-a-way-out-chromium.mp4",
+      "gifBytes": 994777
+    },
+    {
+      "slug": "invites-a-blocked-colleagu-60e72-ow-and-both-surfaces-say-so-chromium",
+      "spec": "invites",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/invites-a-blocked-colleagu-60e72-ow-and-both-surfaces-say-so-chromium.gif",
+      "mp4": "clips/invites-a-blocked-colleagu-60e72-ow-and-both-surfaces-say-so-chromium.mp4",
+      "gifBytes": 1320161
+    },
+    {
+      "slug": "invites-a-member-sees-who-else-is-here-but-cannot-invite-chromium",
+      "spec": "invites",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/invites-a-member-sees-who-else-is-here-but-cannot-invite-chromium.gif",
+      "mp4": "clips/invites-a-member-sees-who-else-is-here-but-cannot-invite-chromium.mp4",
+      "gifBytes": 925858
+    },
+    {
+      "slug": "invites-a-revoked-invitati-543b3-ailed-and-frees-the-address-chromium",
+      "spec": "invites",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/invites-a-revoked-invitati-543b3-ailed-and-frees-the-address-chromium.gif",
+      "mp4": "clips/invites-a-revoked-invitati-543b3-ailed-and-frees-the-address-chromium.mp4",
+      "gifBytes": 1760687
+    },
+    {
+      "slug": "invites-an-invite-link-ope-de41e-s-the-mismatch-and-switches-chromium",
+      "spec": "invites",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/invites-an-invite-link-ope-de41e-s-the-mismatch-and-switches-chromium.gif",
+      "mp4": "clips/invites-an-invite-link-ope-de41e-s-the-mismatch-and-switches-chromium.mp4",
+      "gifBytes": 1483869
+    },
+    {
+      "slug": "invites-an-invited-colleag-9e21b-ce-and-shows-up-as-a-member-chromium",
+      "spec": "invites",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/invites-an-invited-colleag-9e21b-ce-and-shows-up-as-a-member-chromium.gif",
+      "mp4": "clips/invites-an-invited-colleag-9e21b-ce-and-shows-up-as-a-member-chromium.mp4",
+      "gifBytes": 1825798
+    }
+  ],
+  "changedSpecs": [
+    "invites"
+  ]
+}
