@@ -1,0 +1,78 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "7a3b9be7b650736b6c07f590bd1fc730e8851fa9",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/32368386122"
+    },
+    "entries": [
+      {
+        "name": "suppressed-recipients-list",
+        "spec": "suppressed-recipients",
+        "status": "changed",
+        "ratio": 0.003934461805555556,
+        "resized": false,
+        "before": "screens/suppressed-recipients-list.before.png",
+        "after": "screens/suppressed-recipients-list.after.png",
+        "diff": "screens/suppressed-recipients-list.diff.png"
+      },
+      {
+        "name": "suppressed-recipients-released",
+        "spec": "suppressed-recipients",
+        "status": "changed",
+        "ratio": 0.0038671875,
+        "resized": false,
+        "before": "screens/suppressed-recipients-released.before.png",
+        "after": "screens/suppressed-recipients-released.after.png",
+        "diff": "screens/suppressed-recipients-released.diff.png"
+      },
+      {
+        "name": "suppressed-recipients-search",
+        "spec": "suppressed-recipients",
+        "status": "changed",
+        "ratio": 0.0038671875,
+        "resized": false,
+        "before": "screens/suppressed-recipients-search.before.png",
+        "after": "screens/suppressed-recipients-search.after.png",
+        "diff": "screens/suppressed-recipients-search.diff.png"
+      },
+      {
+        "name": "suppressed-recipients-release-confirm",
+        "spec": "suppressed-recipients",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/suppressed-recipients-release-confirm.before.png",
+        "after": "screens/suppressed-recipients-release-confirm.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 146,
+      "differing": 66
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "suppressed-recipients-a-pl-3661b-sed-address-and-releases-it-chromium",
+      "spec": "suppressed-recipients",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/suppressed-recipients-a-pl-3661b-sed-address-and-releases-it-chromium.gif",
+      "mp4": "clips/suppressed-recipients-a-pl-3661b-sed-address-and-releases-it-chromium.mp4",
+      "gifBytes": 1911987
+    },
+    {
+      "slug": "suppressed-recipients-a-pl-511c9-r-sees-the-suppression-list-chromium",
+      "spec": "suppressed-recipients",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/suppressed-recipients-a-pl-511c9-r-sees-the-suppression-list-chromium.gif",
+      "mp4": "clips/suppressed-recipients-a-pl-511c9-r-sees-the-suppression-list-chromium.mp4",
+      "gifBytes": 555156
+    }
+  ],
+  "changedSpecs": [
+    "suppressed-recipients"
+  ]
+}
