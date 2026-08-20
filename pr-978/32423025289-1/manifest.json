@@ -1,0 +1,34 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "8337eee3e2f19e122b0cecf58e49351d920e9d12",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/32399798535"
+    },
+    "entries": [
+      {
+        "name": "sidebar-flyout",
+        "spec": "layout",
+        "status": "added",
+        "after": "screens/sidebar-flyout.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 156,
+      "differing": 75
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "layout-a-collapsed-parent-offers-its-children-in-a-flyout-chromium",
+      "spec": "layout",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/layout-a-collapsed-parent-offers-its-children-in-a-flyout-chromium.gif",
+      "mp4": "clips/layout-a-collapsed-parent-offers-its-children-in-a-flyout-chromium.mp4",
+      "gifBytes": 1225592
+    }
+  ],
+  "changedSpecs": []
+}
