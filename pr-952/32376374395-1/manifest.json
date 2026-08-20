@@ -1,0 +1,49 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "7a3b9be7b650736b6c07f590bd1fc730e8851fa9",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/32368386122"
+    },
+    "entries": [
+      {
+        "name": "admin-home-tiles",
+        "spec": "admin-host-hop",
+        "status": "added",
+        "after": "screens/admin-home-tiles.after.png"
+      },
+      {
+        "name": "workspace-splash",
+        "spec": "layout",
+        "status": "added",
+        "after": "screens/workspace-splash.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 150,
+      "differing": 93
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "admin-host-hop-the-admin-h-1f028-t-signed-in-on-the-app-host-chromium",
+      "spec": "admin",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/admin-host-hop-the-admin-h-1f028-t-signed-in-on-the-app-host-chromium.gif",
+      "mp4": "clips/admin-host-hop-the-admin-h-1f028-t-signed-in-on-the-app-host-chromium.mp4",
+      "gifBytes": 1934712
+    },
+    {
+      "slug": "layout-the-resolve-hold-is-shaped-like-the-shell-it-precedes-chromium",
+      "spec": "layout",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/layout-the-resolve-hold-is-shaped-like-the-shell-it-precedes-chromium.gif",
+      "mp4": "clips/layout-the-resolve-hold-is-shaped-like-the-shell-it-precedes-chromium.mp4",
+      "gifBytes": 874595
+    }
+  ],
+  "changedSpecs": []
+}
