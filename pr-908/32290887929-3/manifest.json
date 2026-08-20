@@ -1,0 +1,58 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "b6381d5972aac562246cbb6bd42ab5bedaed1c98",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/32340623975"
+    },
+    "entries": [
+      {
+        "name": "members-after-removal",
+        "spec": "invites",
+        "status": "removed",
+        "before": "screens/members-after-removal.before.png"
+      },
+      {
+        "name": "members-last-owner",
+        "spec": "invites",
+        "status": "removed",
+        "before": "screens/members-last-owner.before.png"
+      },
+      {
+        "name": "members-remove-confirm",
+        "spec": "invites",
+        "status": "removed",
+        "before": "screens/members-remove-confirm.before.png"
+      },
+      {
+        "name": "project-manage-membership",
+        "spec": "project-invites",
+        "status": "removed",
+        "before": "screens/project-manage-membership.before.png"
+      },
+      {
+        "name": "project-remove-member-confirm",
+        "spec": "project-invites",
+        "status": "removed",
+        "before": "screens/project-remove-member-confirm.before.png"
+      }
+    ],
+    "skipped": {
+      "total": 141,
+      "differing": 45
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "announcements-a-must-accep-8ecd2-cepted-and-offers-a-way-out-chromium",
+      "spec": "announcements",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/announcements-a-must-accep-8ecd2-cepted-and-offers-a-way-out-chromium.gif",
+      "mp4": "clips/announcements-a-must-accep-8ecd2-cepted-and-offers-a-way-out-chromium.mp4",
+      "gifBytes": 938287
+    }
+  ],
+  "changedSpecs": []
+}
