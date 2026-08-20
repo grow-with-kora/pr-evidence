@@ -1,0 +1,208 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "7a3b9be7b650736b6c07f590bd1fc730e8851fa9",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/32368386122"
+    },
+    "entries": [
+      {
+        "name": "announcements-admin-list",
+        "spec": "announcements",
+        "status": "removed",
+        "before": "screens/announcements-admin-list.before.png"
+      },
+      {
+        "name": "audit-log-actor-picker",
+        "spec": "audit-log",
+        "status": "removed",
+        "before": "screens/audit-log-actor-picker.before.png"
+      },
+      {
+        "name": "audit-log-date-preset",
+        "spec": "audit-log",
+        "status": "removed",
+        "before": "screens/audit-log-date-preset.before.png"
+      },
+      {
+        "name": "audit-log-detail",
+        "spec": "audit-log",
+        "status": "removed",
+        "before": "screens/audit-log-detail.before.png"
+      },
+      {
+        "name": "audit-log-entity-link",
+        "spec": "audit-log",
+        "status": "removed",
+        "before": "screens/audit-log-entity-link.before.png"
+      },
+      {
+        "name": "audit-log-filtered",
+        "spec": "audit-log",
+        "status": "removed",
+        "before": "screens/audit-log-filtered.before.png"
+      },
+      {
+        "name": "audit-log-list",
+        "spec": "audit-log",
+        "status": "removed",
+        "before": "screens/audit-log-list.before.png"
+      },
+      {
+        "name": "notification-deliveries-bounce-detail",
+        "spec": "notification-deliveries",
+        "status": "removed",
+        "before": "screens/notification-deliveries-bounce-detail.before.png"
+      },
+      {
+        "name": "notification-deliveries-bounced",
+        "spec": "notification-deliveries",
+        "status": "removed",
+        "before": "screens/notification-deliveries-bounced.before.png"
+      },
+      {
+        "name": "notification-deliveries-failed",
+        "spec": "notification-deliveries",
+        "status": "removed",
+        "before": "screens/notification-deliveries-failed.before.png"
+      },
+      {
+        "name": "notification-deliveries-failure-detail",
+        "spec": "notification-deliveries",
+        "status": "removed",
+        "before": "screens/notification-deliveries-failure-detail.before.png"
+      },
+      {
+        "name": "notification-deliveries-list",
+        "spec": "notification-deliveries",
+        "status": "removed",
+        "before": "screens/notification-deliveries-list.before.png"
+      },
+      {
+        "name": "notification-deliveries-recipient-search",
+        "spec": "notification-deliveries",
+        "status": "removed",
+        "before": "screens/notification-deliveries-recipient-search.before.png"
+      },
+      {
+        "name": "suppressed-recipients-list",
+        "spec": "suppressed-recipients",
+        "status": "removed",
+        "before": "screens/suppressed-recipients-list.before.png"
+      },
+      {
+        "name": "suppressed-recipients-release-confirm",
+        "spec": "suppressed-recipients",
+        "status": "removed",
+        "before": "screens/suppressed-recipients-release-confirm.before.png"
+      },
+      {
+        "name": "suppressed-recipients-released",
+        "spec": "suppressed-recipients",
+        "status": "removed",
+        "before": "screens/suppressed-recipients-released.before.png"
+      },
+      {
+        "name": "suppressed-recipients-search",
+        "spec": "suppressed-recipients",
+        "status": "removed",
+        "before": "screens/suppressed-recipients-search.before.png"
+      },
+      {
+        "name": "admin-home-tiles",
+        "spec": "admin-host-hop",
+        "status": "added",
+        "after": "screens/admin-home-tiles.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 133,
+      "differing": 75
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "announcements-a-platform-a-948d2-publishes-it-and-it-appears-chromium",
+      "spec": "announcements",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/announcements-a-platform-a-948d2-publishes-it-and-it-appears-chromium.gif",
+      "mp4": "clips/announcements-a-platform-a-948d2-publishes-it-and-it-appears-chromium.mp4",
+      "gifBytes": 679474
+    },
+    {
+      "slug": "announcements-a-platform-a-948d2-publishes-it-and-it-appears-chromium-retry1",
+      "spec": "announcements",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/announcements-a-platform-a-948d2-publishes-it-and-it-appears-chromium-retry1.gif",
+      "mp4": "clips/announcements-a-platform-a-948d2-publishes-it-and-it-appears-chromium-retry1.mp4",
+      "gifBytes": 1006553
+    },
+    {
+      "slug": "audit-log-a-platform-admin-10ede-nd-inspects-the-audit-trail-chromium",
+      "spec": "audit",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/audit-log-a-platform-admin-10ede-nd-inspects-the-audit-trail-chromium.gif",
+      "mp4": "clips/audit-log-a-platform-admin-10ede-nd-inspects-the-audit-trail-chromium.mp4",
+      "gifBytes": 694239
+    },
+    {
+      "slug": "audit-log-a-platform-admin-10ede-nd-inspects-the-audit-trail-chromium-retry1",
+      "spec": "audit",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/audit-log-a-platform-admin-10ede-nd-inspects-the-audit-trail-chromium-retry1.gif",
+      "mp4": "clips/audit-log-a-platform-admin-10ede-nd-inspects-the-audit-trail-chromium-retry1.mp4",
+      "gifBytes": 1011952
+    },
+    {
+      "slug": "notification-deliveries-a--aeb91-dger-and-inspects-a-failure-chromium",
+      "spec": "notification",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/notification-deliveries-a--aeb91-dger-and-inspects-a-failure-chromium.gif",
+      "mp4": "clips/notification-deliveries-a--aeb91-dger-and-inspects-a-failure-chromium.mp4",
+      "gifBytes": 709996
+    },
+    {
+      "slug": "notification-deliveries-a--aeb91-dger-and-inspects-a-failure-chromium-retry1",
+      "spec": "notification",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/notification-deliveries-a--aeb91-dger-and-inspects-a-failure-chromium-retry1.gif",
+      "mp4": "clips/notification-deliveries-a--aeb91-dger-and-inspects-a-failure-chromium-retry1.mp4",
+      "gifBytes": 891510
+    },
+    {
+      "slug": "suppressed-recipients-a-pl-3661b-sed-address-and-releases-it-chromium",
+      "spec": "suppressed",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/suppressed-recipients-a-pl-3661b-sed-address-and-releases-it-chromium.gif",
+      "mp4": "clips/suppressed-recipients-a-pl-3661b-sed-address-and-releases-it-chromium.mp4",
+      "gifBytes": 626157
+    },
+    {
+      "slug": "suppressed-recipients-a-pl-3661b-sed-address-and-releases-it-chromium-retry1",
+      "spec": "suppressed",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/suppressed-recipients-a-pl-3661b-sed-address-and-releases-it-chromium-retry1.gif",
+      "mp4": "clips/suppressed-recipients-a-pl-3661b-sed-address-and-releases-it-chromium-retry1.mp4",
+      "gifBytes": 939122
+    },
+    {
+      "slug": "admin-host-hop-the-admin-h-1f028-t-signed-in-on-the-app-host-chromium",
+      "spec": "admin",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/admin-host-hop-the-admin-h-1f028-t-signed-in-on-the-app-host-chromium.gif",
+      "mp4": "clips/admin-host-hop-the-admin-h-1f028-t-signed-in-on-the-app-host-chromium.mp4",
+      "gifBytes": 1318045
+    }
+  ],
+  "changedSpecs": []
+}
