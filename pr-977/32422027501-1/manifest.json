@@ -1,0 +1,276 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "8337eee3e2f19e122b0cecf58e49351d920e9d12",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/32399798535"
+    },
+    "entries": [
+      {
+        "name": "sidebar-flyout",
+        "spec": "layout",
+        "status": "added",
+        "after": "screens/sidebar-flyout.after.png"
+      },
+      {
+        "name": "layout-sticky-top-bar",
+        "spec": "layout",
+        "status": "changed",
+        "ratio": 0.03115625,
+        "resized": false,
+        "before": "screens/layout-sticky-top-bar.before.png",
+        "after": "screens/layout-sticky-top-bar.after.png",
+        "diff": "screens/layout-sticky-top-bar.diff.png"
+      },
+      {
+        "name": "layout-admin-users",
+        "spec": "layout",
+        "status": "changed",
+        "ratio": 0.018861805555555555,
+        "resized": false,
+        "before": "screens/layout-admin-users.before.png",
+        "after": "screens/layout-admin-users.after.png",
+        "diff": "screens/layout-admin-users.diff.png"
+      },
+      {
+        "name": "layout-admin-audit-log",
+        "spec": "layout",
+        "status": "changed",
+        "ratio": 0.01475625,
+        "resized": false,
+        "before": "screens/layout-admin-audit-log.before.png",
+        "after": "screens/layout-admin-audit-log.after.png",
+        "diff": "screens/layout-admin-audit-log.diff.png"
+      },
+      {
+        "name": "layout-narrow-top-bar",
+        "spec": "layout",
+        "status": "changed",
+        "ratio": 0.01024425811155669,
+        "resized": false,
+        "before": "screens/layout-narrow-top-bar.before.png",
+        "after": "screens/layout-narrow-top-bar.after.png",
+        "diff": "screens/layout-narrow-top-bar.diff.png"
+      },
+      {
+        "name": "sidebar-icon-rail",
+        "spec": "layout",
+        "status": "changed",
+        "ratio": 0.0016888888888888889,
+        "resized": false,
+        "before": "screens/sidebar-icon-rail.before.png",
+        "after": "screens/sidebar-icon-rail.after.png",
+        "diff": "screens/sidebar-icon-rail.diff.png"
+      },
+      {
+        "name": "layout-workspace-members",
+        "spec": "layout",
+        "status": "changed",
+        "ratio": 0.0012784722222222223,
+        "resized": false,
+        "before": "screens/layout-workspace-members.before.png",
+        "after": "screens/layout-workspace-members.after.png",
+        "diff": "screens/layout-workspace-members.diff.png"
+      },
+      {
+        "name": "layout-workspaces",
+        "spec": "layout",
+        "status": "identical",
+        "ratio": 0.00015972222222222223,
+        "resized": false,
+        "before": "screens/layout-workspaces.before.png",
+        "after": "screens/layout-workspaces.after.png"
+      },
+      {
+        "name": "layout-workspace-settings",
+        "spec": "layout",
+        "status": "identical",
+        "ratio": 0.0001361111111111111,
+        "resized": false,
+        "before": "screens/layout-workspace-settings.before.png",
+        "after": "screens/layout-workspace-settings.after.png"
+      },
+      {
+        "name": "layout-account-settings",
+        "spec": "layout",
+        "status": "identical",
+        "ratio": 0.00011875,
+        "resized": false,
+        "before": "screens/layout-account-settings.before.png",
+        "after": "screens/layout-account-settings.after.png"
+      },
+      {
+        "name": "layout-home",
+        "spec": "layout",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/layout-home.before.png",
+        "after": "screens/layout-home.after.png"
+      },
+      {
+        "name": "layout-mobile-menu",
+        "spec": "layout",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/layout-mobile-menu.before.png",
+        "after": "screens/layout-mobile-menu.after.png"
+      },
+      {
+        "name": "layout-mobile-menu-create-workspace",
+        "spec": "layout",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/layout-mobile-menu-create-workspace.before.png",
+        "after": "screens/layout-mobile-menu-create-workspace.after.png"
+      },
+      {
+        "name": "layout-mobile-menu-dismissed",
+        "spec": "layout",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/layout-mobile-menu-dismissed.before.png",
+        "after": "screens/layout-mobile-menu-dismissed.after.png"
+      },
+      {
+        "name": "layout-notification-settings",
+        "spec": "layout",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/layout-notification-settings.before.png",
+        "after": "screens/layout-notification-settings.after.png"
+      },
+      {
+        "name": "layout-workspace-licence",
+        "spec": "layout",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/layout-workspace-licence.before.png",
+        "after": "screens/layout-workspace-licence.after.png"
+      },
+      {
+        "name": "layout-workspace-usage",
+        "spec": "layout",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/layout-workspace-usage.before.png",
+        "after": "screens/layout-workspace-usage.after.png"
+      },
+      {
+        "name": "workspace-splash",
+        "spec": "layout",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/workspace-splash.before.png",
+        "after": "screens/workspace-splash.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 139,
+      "differing": 58
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "layout-a-collapsed-parent-offers-its-children-in-a-flyout-chromium",
+      "spec": "layout",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/layout-a-collapsed-parent-offers-its-children-in-a-flyout-chromium.gif",
+      "mp4": "clips/layout-a-collapsed-parent-offers-its-children-in-a-flyout-chromium.mp4",
+      "gifBytes": 1022294
+    },
+    {
+      "slug": "layout-a-long-page-name-stays-inside-the-top-bar-on-a-phone-chromium",
+      "spec": "layout",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/layout-a-long-page-name-stays-inside-the-top-bar-on-a-phone-chromium.gif",
+      "mp4": "clips/layout-a-long-page-name-stays-inside-the-top-bar-on-a-phone-chromium.mp4",
+      "gifBytes": 458437
+    },
+    {
+      "slug": "layout-account-settings-is-2e96d-mn-and-starts-at-the-gutter-chromium",
+      "spec": "layout",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/layout-account-settings-is-2e96d-mn-and-starts-at-the-gutter-chromium.gif",
+      "mp4": "clips/layout-account-settings-is-2e96d-mn-and-starts-at-the-gutter-chromium.mp4",
+      "gifBytes": 836788
+    },
+    {
+      "slug": "layout-pages-start-at-the--b1ee3-se-the-width-they-are-given-chromium",
+      "spec": "layout",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/layout-pages-start-at-the--b1ee3-se-the-width-they-are-given-chromium.gif",
+      "mp4": "clips/layout-pages-start-at-the--b1ee3-se-the-width-they-are-given-chromium.mp4",
+      "gifBytes": 733256
+    },
+    {
+      "slug": "layout-the-admin-screens-follow-the-same-page-layout-chromium",
+      "spec": "layout",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/layout-the-admin-screens-follow-the-same-page-layout-chromium.gif",
+      "mp4": "clips/layout-the-admin-screens-follow-the-same-page-layout-chromium.mp4",
+      "gifBytes": 1185389
+    },
+    {
+      "slug": "layout-the-mobile-menu-get-1fc1d-e-way-once-you-have-used-it-chromium",
+      "spec": "layout",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/layout-the-mobile-menu-get-1fc1d-e-way-once-you-have-used-it-chromium.gif",
+      "mp4": "clips/layout-the-mobile-menu-get-1fc1d-e-way-once-you-have-used-it-chromium.mp4",
+      "gifBytes": 1136785
+    },
+    {
+      "slug": "layout-the-resolve-hold-is-shaped-like-the-shell-it-precedes-chromium",
+      "spec": "layout",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/layout-the-resolve-hold-is-shaped-like-the-shell-it-precedes-chromium.gif",
+      "mp4": "clips/layout-the-resolve-hold-is-shaped-like-the-shell-it-precedes-chromium.mp4",
+      "gifBytes": 791825
+    },
+    {
+      "slug": "layout-the-sidebar-collaps-5a5b4-ail-that-still-names-itself-chromium",
+      "spec": "layout",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/layout-the-sidebar-collaps-5a5b4-ail-that-still-names-itself-chromium.gif",
+      "mp4": "clips/layout-the-sidebar-collaps-5a5b4-ail-that-still-names-itself-chromium.mp4",
+      "gifBytes": 770702
+    },
+    {
+      "slug": "layout-the-sidebar-is-the--099e8--around-the-workspace-pages-chromium",
+      "spec": "layout",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/layout-the-sidebar-is-the--099e8--around-the-workspace-pages-chromium.gif",
+      "mp4": "clips/layout-the-sidebar-is-the--099e8--around-the-workspace-pages-chromium.mp4",
+      "gifBytes": 1118827
+    },
+    {
+      "slug": "layout-the-top-bar-stays-put-while-the-page-scrolls-chromium",
+      "spec": "layout",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/layout-the-top-bar-stays-put-while-the-page-scrolls-chromium.gif",
+      "mp4": "clips/layout-the-top-bar-stays-put-while-the-page-scrolls-chromium.mp4",
+      "gifBytes": 1146939
+    }
+  ],
+  "changedSpecs": [
+    "layout"
+  ]
+}
