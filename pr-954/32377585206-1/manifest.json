@@ -1,0 +1,176 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "929cf2fdb36c1b178e2c9a82d454ada036e5fa80",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/32376173855"
+    },
+    "entries": [
+      {
+        "name": "compare-plans",
+        "spec": "billing",
+        "status": "added",
+        "after": "screens/compare-plans.after.png"
+      },
+      {
+        "name": "billing-grace-readonly",
+        "spec": "billing",
+        "status": "changed",
+        "ratio": 0.010298394097222222,
+        "resized": false,
+        "before": "screens/billing-grace-readonly.before.png",
+        "after": "screens/billing-grace-readonly.after.png",
+        "diff": "screens/billing-grace-readonly.diff.png"
+      },
+      {
+        "name": "billing-member-cap",
+        "spec": "billing",
+        "status": "changed",
+        "ratio": 0.003781467013888889,
+        "resized": false,
+        "before": "screens/billing-member-cap.before.png",
+        "after": "screens/billing-member-cap.after.png",
+        "diff": "screens/billing-member-cap.diff.png"
+      },
+      {
+        "name": "billing-change-plan",
+        "spec": "billing",
+        "status": "changed",
+        "ratio": 0.00310546875,
+        "resized": false,
+        "before": "screens/billing-change-plan.before.png",
+        "after": "screens/billing-change-plan.after.png",
+        "diff": "screens/billing-change-plan.diff.png"
+      },
+      {
+        "name": "billing-trial-countdown",
+        "spec": "billing",
+        "status": "changed",
+        "ratio": 0.001369357638888889,
+        "resized": false,
+        "before": "screens/billing-trial-countdown.before.png",
+        "after": "screens/billing-trial-countdown.after.png",
+        "diff": "screens/billing-trial-countdown.diff.png"
+      },
+      {
+        "name": "billing-project-cap",
+        "spec": "billing",
+        "status": "changed",
+        "ratio": 0.0010633680555555555,
+        "resized": false,
+        "before": "screens/billing-project-cap.before.png",
+        "after": "screens/billing-project-cap.after.png",
+        "diff": "screens/billing-project-cap.diff.png"
+      },
+      {
+        "name": "billing-suspended-member",
+        "spec": "billing",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/billing-suspended-member.before.png",
+        "after": "screens/billing-suspended-member.after.png"
+      },
+      {
+        "name": "billing-suspended-owner",
+        "spec": "billing",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/billing-suspended-owner.before.png",
+        "after": "screens/billing-suspended-owner.after.png"
+      },
+      {
+        "name": "billing-tab",
+        "spec": "billing",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/billing-tab.before.png",
+        "after": "screens/billing-tab.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 144,
+      "differing": 48
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "billing-a-downgrade-the-wo-3ebbf-fused-with-the-excess-named-chromium",
+      "spec": "billing",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/billing-a-downgrade-the-wo-3ebbf-fused-with-the-excess-named-chromium.gif",
+      "mp4": "clips/billing-a-downgrade-the-wo-3ebbf-fused-with-the-excess-named-chromium.mp4",
+      "gifBytes": 938552
+    },
+    {
+      "slug": "billing-a-suspended-worksp-0a486-er-to-go-and-find-the-owner-chromium",
+      "spec": "billing",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/billing-a-suspended-worksp-0a486-er-to-go-and-find-the-owner-chromium.gif",
+      "mp4": "clips/billing-a-suspended-worksp-0a486-er-to-go-and-find-the-owner-chromium.mp4",
+      "gifBytes": 746764
+    },
+    {
+      "slug": "billing-a-suspended-worksp-c319d-owner-at-the-paywall-screen-chromium",
+      "spec": "billing",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/billing-a-suspended-worksp-c319d-owner-at-the-paywall-screen-chromium.gif",
+      "mp4": "clips/billing-a-suspended-worksp-c319d-owner-at-the-paywall-screen-chromium.mp4",
+      "gifBytes": 907544
+    },
+    {
+      "slug": "billing-at-the-member-cap--585c6-nce-gives-way-to-the-reason-chromium",
+      "spec": "billing",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/billing-at-the-member-cap--585c6-nce-gives-way-to-the-reason-chromium.gif",
+      "mp4": "clips/billing-at-the-member-cap--585c6-nce-gives-way-to-the-reason-chromium.mp4",
+      "gifBytes": 1140597
+    },
+    {
+      "slug": "billing-at-the-project-cap-e8fd4-nce-gives-way-to-the-reason-chromium",
+      "spec": "billing",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/billing-at-the-project-cap-e8fd4-nce-gives-way-to-the-reason-chromium.gif",
+      "mp4": "clips/billing-at-the-project-cap-e8fd4-nce-gives-way-to-the-reason-chromium.mp4",
+      "gifBytes": 903338
+    },
+    {
+      "slug": "billing-grace-is-read-only-01658-explains-the-affordances-go-chromium",
+      "spec": "billing",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/billing-grace-is-read-only-01658-explains-the-affordances-go-chromium.gif",
+      "mp4": "clips/billing-grace-is-read-only-01658-explains-the-affordances-go-chromium.mp4",
+      "gifBytes": 1321615
+    },
+    {
+      "slug": "billing-the-billing-tab-sh-0ac19-and-subscribes-via-Checkout-chromium",
+      "spec": "billing",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/billing-the-billing-tab-sh-0ac19-and-subscribes-via-Checkout-chromium.gif",
+      "mp4": "clips/billing-the-billing-tab-sh-0ac19-and-subscribes-via-Checkout-chromium.mp4",
+      "gifBytes": 1196755
+    },
+    {
+      "slug": "billing-the-trial-s-final-days-show-a-countdown-banner-chromium",
+      "spec": "billing",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/billing-the-trial-s-final-days-show-a-countdown-banner-chromium.gif",
+      "mp4": "clips/billing-the-trial-s-final-days-show-a-countdown-banner-chromium.mp4",
+      "gifBytes": 1043747
+    }
+  ],
+  "changedSpecs": [
+    "billing"
+  ]
+}
