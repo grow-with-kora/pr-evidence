@@ -1,0 +1,49 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "8337eee3e2f19e122b0cecf58e49351d920e9d12",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/32399798535"
+    },
+    "entries": [
+      {
+        "name": "admin-users-detail",
+        "spec": "users",
+        "status": "removed",
+        "before": "screens/admin-users-detail.before.png"
+      },
+      {
+        "name": "admin-users-sorted",
+        "spec": "users",
+        "status": "removed",
+        "before": "screens/admin-users-sorted.before.png"
+      }
+    ],
+    "skipped": {
+      "total": 154,
+      "differing": 67
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "users-a-platform-admin-lis-2f314-rs-pages-and-inspects-users-chromium",
+      "spec": "users",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/users-a-platform-admin-lis-2f314-rs-pages-and-inspects-users-chromium.gif",
+      "mp4": "clips/users-a-platform-admin-lis-2f314-rs-pages-and-inspects-users-chromium.mp4",
+      "gifBytes": 8712369
+    },
+    {
+      "slug": "users-a-platform-admin-lis-2f314-rs-pages-and-inspects-users-chromium-retry1",
+      "spec": "users",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/users-a-platform-admin-lis-2f314-rs-pages-and-inspects-users-chromium-retry1.gif",
+      "mp4": "clips/users-a-platform-admin-lis-2f314-rs-pages-and-inspects-users-chromium-retry1.mp4",
+      "gifBytes": 852988
+    }
+  ],
+  "changedSpecs": []
+}
