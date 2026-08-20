@@ -1,0 +1,146 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "8337eee3e2f19e122b0cecf58e49351d920e9d12",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/32399798535"
+    },
+    "entries": [
+      {
+        "name": "admin-users-list",
+        "spec": "users",
+        "status": "changed",
+        "ratio": 0.0021375868055555558,
+        "resized": false,
+        "before": "screens/admin-users-list.before.png",
+        "after": "screens/admin-users-list.after.png",
+        "diff": "screens/admin-users-list.diff.png"
+      },
+      {
+        "name": "admin-users-actions-before",
+        "spec": "users",
+        "status": "changed",
+        "ratio": 0.0009884982638888888,
+        "resized": false,
+        "before": "screens/admin-users-actions-before.before.png",
+        "after": "screens/admin-users-actions-before.after.png",
+        "diff": "screens/admin-users-actions-before.diff.png"
+      },
+      {
+        "name": "admin-users-filtered",
+        "spec": "users",
+        "status": "changed",
+        "ratio": 0.0008279079861111111,
+        "resized": false,
+        "before": "screens/admin-users-filtered.before.png",
+        "after": "screens/admin-users-filtered.after.png",
+        "diff": "screens/admin-users-filtered.diff.png"
+      },
+      {
+        "name": "admin-users-actions-after",
+        "spec": "users",
+        "status": "changed",
+        "ratio": 0.0007834201388888888,
+        "resized": false,
+        "before": "screens/admin-users-actions-after.before.png",
+        "after": "screens/admin-users-actions-after.after.png",
+        "diff": "screens/admin-users-actions-after.diff.png"
+      },
+      {
+        "name": "admin-users-detail",
+        "spec": "users",
+        "status": "changed",
+        "ratio": 0.0007400173611111111,
+        "resized": false,
+        "before": "screens/admin-users-detail.before.png",
+        "after": "screens/admin-users-detail.after.png",
+        "diff": "screens/admin-users-detail.diff.png"
+      },
+      {
+        "name": "admin-users-date-preset",
+        "spec": "users",
+        "status": "changed",
+        "ratio": 0.0007204861111111111,
+        "resized": false,
+        "before": "screens/admin-users-date-preset.before.png",
+        "after": "screens/admin-users-date-preset.after.png",
+        "diff": "screens/admin-users-date-preset.diff.png"
+      },
+      {
+        "name": "admin-users-sorted",
+        "spec": "users",
+        "status": "changed",
+        "ratio": 0.0007172309027777778,
+        "resized": false,
+        "before": "screens/admin-users-sorted.before.png",
+        "after": "screens/admin-users-sorted.after.png",
+        "diff": "screens/admin-users-sorted.diff.png"
+      },
+      {
+        "name": "admin-users-guard-rail",
+        "spec": "users",
+        "status": "changed",
+        "ratio": 0.0005685763888888889,
+        "resized": false,
+        "before": "screens/admin-users-guard-rail.before.png",
+        "after": "screens/admin-users-guard-rail.after.png",
+        "diff": "screens/admin-users-guard-rail.diff.png"
+      },
+      {
+        "name": "admin-users-block-confirm",
+        "spec": "users",
+        "status": "identical",
+        "ratio": 0.00008463541666666667,
+        "resized": false,
+        "before": "screens/admin-users-block-confirm.before.png",
+        "after": "screens/admin-users-block-confirm.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 147,
+      "differing": 61
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "users-a-platform-admin-lis-2f314-rs-pages-and-inspects-users-chromium",
+      "spec": "users",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/users-a-platform-admin-lis-2f314-rs-pages-and-inspects-users-chromium.gif",
+      "mp4": "clips/users-a-platform-admin-lis-2f314-rs-pages-and-inspects-users-chromium.mp4",
+      "gifBytes": 4643723
+    },
+    {
+      "slug": "users-a-platform-admin-lis-2f314-rs-pages-and-inspects-users-chromium-retry1",
+      "spec": "users",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/users-a-platform-admin-lis-2f314-rs-pages-and-inspects-users-chromium-retry1.gif",
+      "mp4": "clips/users-a-platform-admin-lis-2f314-rs-pages-and-inspects-users-chromium-retry1.mp4",
+      "gifBytes": 786415
+    },
+    {
+      "slug": "users-a-plain-user-never-sees-the-users-screen-chromium",
+      "spec": "users",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/users-a-plain-user-never-sees-the-users-screen-chromium.gif",
+      "mp4": "clips/users-a-plain-user-never-sees-the-users-screen-chromium.mp4",
+      "gifBytes": 1413220
+    },
+    {
+      "slug": "users-the-guard-rails-refuse-with-the-server-s-reason-chromium",
+      "spec": "users",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/users-the-guard-rails-refuse-with-the-server-s-reason-chromium.gif",
+      "mp4": "clips/users-the-guard-rails-refuse-with-the-server-s-reason-chromium.mp4",
+      "gifBytes": 1363570
+    }
+  ],
+  "changedSpecs": [
+    "users"
+  ]
+}
