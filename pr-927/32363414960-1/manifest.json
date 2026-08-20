@@ -1,0 +1,57 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "905e50135c4eb734ca6e3c7c68094d81bbaa6316",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/32361041638"
+    },
+    "entries": [
+      {
+        "name": "session-ended-elsewhere",
+        "spec": "login",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/session-ended-elsewhere.before.png",
+        "after": "screens/session-ended-elsewhere.after.png"
+      },
+      {
+        "name": "shell-home",
+        "spec": "login",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/shell-home.before.png",
+        "after": "screens/shell-home.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 146,
+      "differing": 45
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "login-authentication-an-un-a7142-sit-lands-on-the-login-page-chromium",
+      "spec": "login",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/login-authentication-an-un-a7142-sit-lands-on-the-login-page-chromium.gif",
+      "mp4": "clips/login-authentication-an-un-a7142-sit-lands-on-the-login-page-chromium.mp4",
+      "gifBytes": 151026
+    },
+    {
+      "slug": "login-authentication-signi-84db5-door-lands-in-the-app-shell-chromium",
+      "spec": "login",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/login-authentication-signi-84db5-door-lands-in-the-app-shell-chromium.gif",
+      "mp4": "clips/login-authentication-signi-84db5-door-lands-in-the-app-shell-chromium.mp4",
+      "gifBytes": 815819
+    }
+  ],
+  "changedSpecs": [
+    "login"
+  ]
+}
