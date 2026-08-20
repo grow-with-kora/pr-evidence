@@ -1,0 +1,342 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "7a3b9be7b650736b6c07f590bd1fc730e8851fa9",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/32368386122"
+    },
+    "entries": [
+      {
+        "name": "admin-home-tiles",
+        "spec": "admin-host-hop",
+        "status": "added",
+        "after": "screens/admin-home-tiles.after.png"
+      },
+      {
+        "name": "workspace-splash",
+        "spec": "layout",
+        "status": "added",
+        "after": "screens/workspace-splash.after.png"
+      },
+      {
+        "name": "announcement-must-accept",
+        "spec": "announcements",
+        "status": "changed",
+        "ratio": 0.9181727430555555,
+        "resized": false,
+        "before": "screens/announcement-must-accept.before.png",
+        "after": "screens/announcement-must-accept.after.png",
+        "diff": "screens/announcement-must-accept.diff.png"
+      },
+      {
+        "name": "suppressed-recipients-release-confirm",
+        "spec": "suppressed-recipients",
+        "status": "changed",
+        "ratio": 0.8802018229166667,
+        "resized": false,
+        "before": "screens/suppressed-recipients-release-confirm.before.png",
+        "after": "screens/suppressed-recipients-release-confirm.after.png",
+        "diff": "screens/suppressed-recipients-release-confirm.diff.png"
+      },
+      {
+        "name": "notification-deliveries-bounce-detail",
+        "spec": "notification-deliveries",
+        "status": "changed",
+        "ratio": 0.6630837673611111,
+        "resized": false,
+        "before": "screens/notification-deliveries-bounce-detail.before.png",
+        "after": "screens/notification-deliveries-bounce-detail.after.png",
+        "diff": "screens/notification-deliveries-bounce-detail.diff.png"
+      },
+      {
+        "name": "notification-deliveries-failure-detail",
+        "spec": "notification-deliveries",
+        "status": "changed",
+        "ratio": 0.6630533854166667,
+        "resized": false,
+        "before": "screens/notification-deliveries-failure-detail.before.png",
+        "after": "screens/notification-deliveries-failure-detail.after.png",
+        "diff": "screens/notification-deliveries-failure-detail.diff.png"
+      },
+      {
+        "name": "audit-log-detail",
+        "spec": "audit-log",
+        "status": "changed",
+        "ratio": 0.6380414496527778,
+        "resized": false,
+        "before": "screens/audit-log-detail.before.png",
+        "after": "screens/audit-log-detail.after.png",
+        "diff": "screens/audit-log-detail.diff.png"
+      },
+      {
+        "name": "announcements-admin-list",
+        "spec": "announcements",
+        "status": "changed",
+        "ratio": 0.0076844618055555555,
+        "resized": false,
+        "before": "screens/announcements-admin-list.before.png",
+        "after": "screens/announcements-admin-list.after.png",
+        "diff": "screens/announcements-admin-list.diff.png"
+      },
+      {
+        "name": "suppressed-recipients-list",
+        "spec": "suppressed-recipients",
+        "status": "changed",
+        "ratio": 0.003934461805555556,
+        "resized": false,
+        "before": "screens/suppressed-recipients-list.before.png",
+        "after": "screens/suppressed-recipients-list.after.png",
+        "diff": "screens/suppressed-recipients-list.diff.png"
+      },
+      {
+        "name": "notification-deliveries-list",
+        "spec": "notification-deliveries",
+        "status": "changed",
+        "ratio": 0.003917100694444444,
+        "resized": false,
+        "before": "screens/notification-deliveries-list.before.png",
+        "after": "screens/notification-deliveries-list.after.png",
+        "diff": "screens/notification-deliveries-list.diff.png"
+      },
+      {
+        "name": "audit-log-actor-picker",
+        "spec": "audit-log",
+        "status": "changed",
+        "ratio": 0.0038671875,
+        "resized": false,
+        "before": "screens/audit-log-actor-picker.before.png",
+        "after": "screens/audit-log-actor-picker.after.png",
+        "diff": "screens/audit-log-actor-picker.diff.png"
+      },
+      {
+        "name": "audit-log-date-preset",
+        "spec": "audit-log",
+        "status": "changed",
+        "ratio": 0.0038671875,
+        "resized": false,
+        "before": "screens/audit-log-date-preset.before.png",
+        "after": "screens/audit-log-date-preset.after.png",
+        "diff": "screens/audit-log-date-preset.diff.png"
+      },
+      {
+        "name": "audit-log-entity-link",
+        "spec": "audit-log",
+        "status": "changed",
+        "ratio": 0.0038671875,
+        "resized": false,
+        "before": "screens/audit-log-entity-link.before.png",
+        "after": "screens/audit-log-entity-link.after.png",
+        "diff": "screens/audit-log-entity-link.diff.png"
+      },
+      {
+        "name": "audit-log-filtered",
+        "spec": "audit-log",
+        "status": "changed",
+        "ratio": 0.0038671875,
+        "resized": false,
+        "before": "screens/audit-log-filtered.before.png",
+        "after": "screens/audit-log-filtered.after.png",
+        "diff": "screens/audit-log-filtered.diff.png"
+      },
+      {
+        "name": "notification-deliveries-bounced",
+        "spec": "notification-deliveries",
+        "status": "changed",
+        "ratio": 0.0038671875,
+        "resized": false,
+        "before": "screens/notification-deliveries-bounced.before.png",
+        "after": "screens/notification-deliveries-bounced.after.png",
+        "diff": "screens/notification-deliveries-bounced.diff.png"
+      },
+      {
+        "name": "notification-deliveries-failed",
+        "spec": "notification-deliveries",
+        "status": "changed",
+        "ratio": 0.0038671875,
+        "resized": false,
+        "before": "screens/notification-deliveries-failed.before.png",
+        "after": "screens/notification-deliveries-failed.after.png",
+        "diff": "screens/notification-deliveries-failed.diff.png"
+      },
+      {
+        "name": "notification-deliveries-recipient-search",
+        "spec": "notification-deliveries",
+        "status": "changed",
+        "ratio": 0.0038671875,
+        "resized": false,
+        "before": "screens/notification-deliveries-recipient-search.before.png",
+        "after": "screens/notification-deliveries-recipient-search.after.png",
+        "diff": "screens/notification-deliveries-recipient-search.diff.png"
+      },
+      {
+        "name": "suppressed-recipients-released",
+        "spec": "suppressed-recipients",
+        "status": "changed",
+        "ratio": 0.0038671875,
+        "resized": false,
+        "before": "screens/suppressed-recipients-released.before.png",
+        "after": "screens/suppressed-recipients-released.after.png",
+        "diff": "screens/suppressed-recipients-released.diff.png"
+      },
+      {
+        "name": "suppressed-recipients-search",
+        "spec": "suppressed-recipients",
+        "status": "changed",
+        "ratio": 0.0038671875,
+        "resized": false,
+        "before": "screens/suppressed-recipients-search.before.png",
+        "after": "screens/suppressed-recipients-search.after.png",
+        "diff": "screens/suppressed-recipients-search.diff.png"
+      },
+      {
+        "name": "audit-log-list",
+        "spec": "audit-log",
+        "status": "changed",
+        "ratio": 0.0038585069444444444,
+        "resized": false,
+        "before": "screens/audit-log-list.before.png",
+        "after": "screens/audit-log-list.after.png",
+        "diff": "screens/audit-log-list.diff.png"
+      },
+      {
+        "name": "announcement-banner",
+        "spec": "announcements",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/announcement-banner.before.png",
+        "after": "screens/announcement-banner.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 131,
+      "differing": 75
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "admin-host-hop-the-admin-h-1f028-t-signed-in-on-the-app-host-chromium",
+      "spec": "admin",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/admin-host-hop-the-admin-h-1f028-t-signed-in-on-the-app-host-chromium.gif",
+      "mp4": "clips/admin-host-hop-the-admin-h-1f028-t-signed-in-on-the-app-host-chromium.mp4",
+      "gifBytes": 2380115
+    },
+    {
+      "slug": "announcements-a-banner-rea-c0098-ordinary-user-and-dismisses-chromium",
+      "spec": "announcements",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/announcements-a-banner-rea-c0098-ordinary-user-and-dismisses-chromium.gif",
+      "mp4": "clips/announcements-a-banner-rea-c0098-ordinary-user-and-dismisses-chromium.mp4",
+      "gifBytes": 956762
+    },
+    {
+      "slug": "announcements-a-must-accep-8ecd2-cepted-and-offers-a-way-out-chromium",
+      "spec": "announcements",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/announcements-a-must-accep-8ecd2-cepted-and-offers-a-way-out-chromium.gif",
+      "mp4": "clips/announcements-a-must-accep-8ecd2-cepted-and-offers-a-way-out-chromium.mp4",
+      "gifBytes": 1049677
+    },
+    {
+      "slug": "announcements-a-plain-user-never-sees-the-authoring-screen-chromium",
+      "spec": "announcements",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/announcements-a-plain-user-never-sees-the-authoring-screen-chromium.gif",
+      "mp4": "clips/announcements-a-plain-user-never-sees-the-authoring-screen-chromium.mp4",
+      "gifBytes": 1281423
+    },
+    {
+      "slug": "announcements-a-platform-a-948d2-publishes-it-and-it-appears-chromium",
+      "spec": "announcements",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/announcements-a-platform-a-948d2-publishes-it-and-it-appears-chromium.gif",
+      "mp4": "clips/announcements-a-platform-a-948d2-publishes-it-and-it-appears-chromium.mp4",
+      "gifBytes": 1644551
+    },
+    {
+      "slug": "audit-log-a-plain-user-never-sees-the-audit-log-chromium",
+      "spec": "audit-log",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/audit-log-a-plain-user-never-sees-the-audit-log-chromium.gif",
+      "mp4": "clips/audit-log-a-plain-user-never-sees-the-audit-log-chromium.mp4",
+      "gifBytes": 1204515
+    },
+    {
+      "slug": "audit-log-a-platform-admin-10ede-nd-inspects-the-audit-trail-chromium",
+      "spec": "audit-log",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/audit-log-a-platform-admin-10ede-nd-inspects-the-audit-trail-chromium.gif",
+      "mp4": "clips/audit-log-a-platform-admin-10ede-nd-inspects-the-audit-trail-chromium.mp4",
+      "gifBytes": 3286674
+    },
+    {
+      "slug": "layout-the-resolve-hold-is-shaped-like-the-shell-it-precedes-chromium",
+      "spec": "layout",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/layout-the-resolve-hold-is-shaped-like-the-shell-it-precedes-chromium.gif",
+      "mp4": "clips/layout-the-resolve-hold-is-shaped-like-the-shell-it-precedes-chromium.mp4",
+      "gifBytes": 751286
+    },
+    {
+      "slug": "notification-deliveries-a--3d5bf-er-sees-the-delivery-ledger-chromium",
+      "spec": "notification-deliveries",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/notification-deliveries-a--3d5bf-er-sees-the-delivery-ledger-chromium.gif",
+      "mp4": "clips/notification-deliveries-a--3d5bf-er-sees-the-delivery-ledger-chromium.mp4",
+      "gifBytes": 1219994
+    },
+    {
+      "slug": "notification-deliveries-a--4cd65-m-the-message-was-delivered-chromium",
+      "spec": "notification-deliveries",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/notification-deliveries-a--4cd65-m-the-message-was-delivered-chromium.gif",
+      "mp4": "clips/notification-deliveries-a--4cd65-m-the-message-was-delivered-chromium.mp4",
+      "gifBytes": 1030679
+    },
+    {
+      "slug": "notification-deliveries-a--aeb91-dger-and-inspects-a-failure-chromium",
+      "spec": "notification-deliveries",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/notification-deliveries-a--aeb91-dger-and-inspects-a-failure-chromium.gif",
+      "mp4": "clips/notification-deliveries-a--aeb91-dger-and-inspects-a-failure-chromium.mp4",
+      "gifBytes": 3544354
+    },
+    {
+      "slug": "suppressed-recipients-a-pl-3661b-sed-address-and-releases-it-chromium",
+      "spec": "suppressed-recipients",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/suppressed-recipients-a-pl-3661b-sed-address-and-releases-it-chromium.gif",
+      "mp4": "clips/suppressed-recipients-a-pl-3661b-sed-address-and-releases-it-chromium.mp4",
+      "gifBytes": 2422010
+    },
+    {
+      "slug": "suppressed-recipients-a-pl-511c9-r-sees-the-suppression-list-chromium",
+      "spec": "suppressed-recipients",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/suppressed-recipients-a-pl-511c9-r-sees-the-suppression-list-chromium.gif",
+      "mp4": "clips/suppressed-recipients-a-pl-511c9-r-sees-the-suppression-list-chromium.mp4",
+      "gifBytes": 1179833
+    }
+  ],
+  "changedSpecs": [
+    "announcements",
+    "audit-log",
+    "notification-deliveries",
+    "suppressed-recipients"
+  ]
+}
