@@ -1,0 +1,125 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "728845eb6c025f7afcd07f8989f23a60dea8a8be",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/32364239326"
+    },
+    "entries": [
+      {
+        "name": "legal-sub-processors",
+        "spec": "legal",
+        "status": "changed",
+        "ratio": 0.055396050347222225,
+        "resized": false,
+        "before": "screens/legal-sub-processors.before.png",
+        "after": "screens/legal-sub-processors.after.png",
+        "diff": "screens/legal-sub-processors.diff.png"
+      },
+      {
+        "name": "support",
+        "spec": "legal",
+        "status": "changed",
+        "ratio": 0.051527777777777777,
+        "resized": false,
+        "before": "screens/support.before.png",
+        "after": "screens/support.after.png",
+        "diff": "screens/support.diff.png"
+      },
+      {
+        "name": "legal-index",
+        "spec": "legal",
+        "status": "changed",
+        "ratio": 0.050032552083333334,
+        "resized": false,
+        "before": "screens/legal-index.before.png",
+        "after": "screens/legal-index.after.png",
+        "diff": "screens/legal-index.diff.png"
+      },
+      {
+        "name": "legal-placeholder",
+        "spec": "legal",
+        "status": "changed",
+        "ratio": 0.03764214409722222,
+        "resized": false,
+        "before": "screens/legal-placeholder.before.png",
+        "after": "screens/legal-placeholder.after.png",
+        "diff": "screens/legal-placeholder.diff.png"
+      },
+      {
+        "name": "login-with-footer",
+        "spec": "legal",
+        "status": "changed",
+        "ratio": 0.01897677951388889,
+        "resized": false,
+        "before": "screens/login-with-footer.before.png",
+        "after": "screens/login-with-footer.after.png",
+        "diff": "screens/login-with-footer.diff.png"
+      }
+    ],
+    "skipped": {
+      "total": 143,
+      "differing": 61
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "legal-legal-an-unwritten-d-4fc3a-ys-so-instead-of-pretending-chromium",
+      "spec": "legal",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/legal-legal-an-unwritten-d-4fc3a-ys-so-instead-of-pretending-chromium.gif",
+      "mp4": "clips/legal-legal-an-unwritten-d-4fc3a-ys-so-instead-of-pretending-chromium.mp4",
+      "gifBytes": 268173
+    },
+    {
+      "slug": "legal-legal-support-names--44cbd-s-while-there-is-no-mailbox-chromium",
+      "spec": "legal",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/legal-legal-support-names--44cbd-s-while-there-is-no-mailbox-chromium.gif",
+      "mp4": "clips/legal-legal-support-names--44cbd-s-while-there-is-no-mailbox-chromium.mp4",
+      "gifBytes": 472149
+    },
+    {
+      "slug": "legal-legal-the-index-list-2a4ac-s-published-and-what-is-not-chromium",
+      "spec": "legal",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/legal-legal-the-index-list-2a4ac-s-published-and-what-is-not-chromium.gif",
+      "mp4": "clips/legal-legal-the-index-list-2a4ac-s-published-and-what-is-not-chromium.mp4",
+      "gifBytes": 392230
+    },
+    {
+      "slug": "legal-legal-the-public-foo-f9452-olicies-and-the-status-page-chromium",
+      "spec": "legal",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/legal-legal-the-public-foo-f9452-olicies-and-the-status-page-chromium.gif",
+      "mp4": "clips/legal-legal-the-public-foo-f9452-olicies-and-the-status-page-chromium.mp4",
+      "gifBytes": 148361
+    },
+    {
+      "slug": "legal-legal-the-signed-in--5d7da-same-pages-from-the-sidebar-chromium",
+      "spec": "legal",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/legal-legal-the-signed-in--5d7da-same-pages-from-the-sidebar-chromium.gif",
+      "mp4": "clips/legal-legal-the-signed-in--5d7da-same-pages-from-the-sidebar-chromium.mp4",
+      "gifBytes": 557889
+    },
+    {
+      "slug": "legal-legal-the-sub-processor-list-names-who-receives-what-chromium",
+      "spec": "legal",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/legal-legal-the-sub-processor-list-names-who-receives-what-chromium.gif",
+      "mp4": "clips/legal-legal-the-sub-processor-list-names-who-receives-what-chromium.mp4",
+      "gifBytes": 414820
+    }
+  ],
+  "changedSpecs": [
+    "legal"
+  ]
+}
