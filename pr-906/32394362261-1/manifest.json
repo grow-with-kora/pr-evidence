@@ -1,0 +1,34 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "461072e2d75f9c89dc81964879aab3a82a26c3e6",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/32380043827"
+    },
+    "entries": [
+      {
+        "name": "members-manage-member",
+        "spec": "invites",
+        "status": "added",
+        "after": "screens/members-manage-member.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 155,
+      "differing": 50
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "invites-removing-a-colleag-c8384--projects-it-takes-them-off-chromium",
+      "spec": "invites",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/invites-removing-a-colleag-c8384--projects-it-takes-them-off-chromium.gif",
+      "mp4": "clips/invites-removing-a-colleag-c8384--projects-it-takes-them-off-chromium.mp4",
+      "gifBytes": 1546502
+    }
+  ],
+  "changedSpecs": []
+}
