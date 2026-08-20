@@ -1,0 +1,100 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "929cf2fdb36c1b178e2c9a82d454ada036e5fa80",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/32376173855"
+    },
+    "entries": [
+      {
+        "name": "announcement-banner-queue",
+        "spec": "announcements",
+        "status": "added",
+        "after": "screens/announcement-banner-queue.after.png"
+      },
+      {
+        "name": "announcements-admin-list",
+        "spec": "announcements",
+        "status": "changed",
+        "ratio": 0.003781467013888889,
+        "resized": false,
+        "before": "screens/announcements-admin-list.before.png",
+        "after": "screens/announcements-admin-list.after.png",
+        "diff": "screens/announcements-admin-list.diff.png"
+      },
+      {
+        "name": "announcement-banner",
+        "spec": "announcements",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/announcement-banner.before.png",
+        "after": "screens/announcement-banner.after.png"
+      },
+      {
+        "name": "announcement-must-accept",
+        "spec": "announcements",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/announcement-must-accept.before.png",
+        "after": "screens/announcement-must-accept.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 149,
+      "differing": 46
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "announcements-a-banner-rea-c0098-ordinary-user-and-dismisses-chromium",
+      "spec": "announcements",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/announcements-a-banner-rea-c0098-ordinary-user-and-dismisses-chromium.gif",
+      "mp4": "clips/announcements-a-banner-rea-c0098-ordinary-user-and-dismisses-chromium.mp4",
+      "gifBytes": 886736
+    },
+    {
+      "slug": "announcements-a-must-accep-8ecd2-cepted-and-offers-a-way-out-chromium",
+      "spec": "announcements",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/announcements-a-must-accep-8ecd2-cepted-and-offers-a-way-out-chromium.gif",
+      "mp4": "clips/announcements-a-must-accep-8ecd2-cepted-and-offers-a-way-out-chromium.mp4",
+      "gifBytes": 893374
+    },
+    {
+      "slug": "announcements-a-plain-user-never-sees-the-authoring-screen-chromium",
+      "spec": "announcements",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/announcements-a-plain-user-never-sees-the-authoring-screen-chromium.gif",
+      "mp4": "clips/announcements-a-plain-user-never-sees-the-authoring-screen-chromium.mp4",
+      "gifBytes": 1193491
+    },
+    {
+      "slug": "announcements-a-platform-a-948d2-publishes-it-and-it-appears-chromium",
+      "spec": "announcements",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/announcements-a-platform-a-948d2-publishes-it-and-it-appears-chromium.gif",
+      "mp4": "clips/announcements-a-platform-a-948d2-publishes-it-and-it-appears-chromium.mp4",
+      "gifBytes": 1542361
+    },
+    {
+      "slug": "announcements-a-queue-of-banners-is-visible-and-steppable-chromium",
+      "spec": "announcements",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/announcements-a-queue-of-banners-is-visible-and-steppable-chromium.gif",
+      "mp4": "clips/announcements-a-queue-of-banners-is-visible-and-steppable-chromium.mp4",
+      "gifBytes": 858785
+    }
+  ],
+  "changedSpecs": [
+    "announcements"
+  ]
+}
