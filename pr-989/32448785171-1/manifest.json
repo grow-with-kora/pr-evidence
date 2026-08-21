@@ -1,0 +1,75 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "af763017d8e5cb00e50af5b5f14882022eee8359",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/32424411566"
+    },
+    "entries": [
+      {
+        "name": "audit-log-entity-search",
+        "spec": "audit-log",
+        "status": "added",
+        "after": "screens/audit-log-entity-search.after.png"
+      },
+      {
+        "name": "project-work-complete",
+        "spec": "project-work",
+        "status": "added",
+        "after": "screens/project-work-complete.after.png"
+      },
+      {
+        "name": "project-work-photo",
+        "spec": "project-work",
+        "status": "added",
+        "after": "screens/project-work-photo.after.png"
+      },
+      {
+        "name": "project-work-saved",
+        "spec": "project-work",
+        "status": "added",
+        "after": "screens/project-work-saved.after.png"
+      },
+      {
+        "name": "project-work-signoff",
+        "spec": "project-work",
+        "status": "added",
+        "after": "screens/project-work-signoff.after.png"
+      },
+      {
+        "name": "project-work-step",
+        "spec": "project-work",
+        "status": "added",
+        "after": "screens/project-work-step.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 157,
+      "differing": 95
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "audit-log-a-platform-admin-10ede-nd-inspects-the-audit-trail-chromium",
+      "spec": "audit",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/audit-log-a-platform-admin-10ede-nd-inspects-the-audit-trail-chromium.gif",
+      "mp4": "clips/audit-log-a-platform-admin-10ede-nd-inspects-the-audit-trail-chromium.mp4",
+      "gifBytes": 3435781
+    },
+    {
+      "slug": "project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium",
+      "spec": "project-work",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium.gif",
+      "mp4": "clips/project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium.mp4",
+      "gifBytes": 2471976
+    }
+  ],
+  "changedSpecs": [
+    "project-work"
+  ]
+}
