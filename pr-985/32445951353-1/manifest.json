@@ -1,0 +1,91 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "af763017d8e5cb00e50af5b5f14882022eee8359",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/32424411566"
+    },
+    "entries": [
+      {
+        "name": "audit-log-entity-search",
+        "spec": "audit-log",
+        "status": "added",
+        "after": "screens/audit-log-entity-search.after.png"
+      },
+      {
+        "name": "dashboards-narrow",
+        "spec": "dashboards",
+        "status": "changed",
+        "ratio": 0.0027676509903998055,
+        "resized": false,
+        "before": "screens/dashboards-narrow.before.png",
+        "after": "screens/dashboards-narrow.after.png",
+        "diff": "screens/dashboards-narrow.diff.png"
+      }
+    ],
+    "skipped": {
+      "total": 156,
+      "differing": 70
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "audit-log-a-platform-admin-10ede-nd-inspects-the-audit-trail-chromium",
+      "spec": "audit",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/audit-log-a-platform-admin-10ede-nd-inspects-the-audit-trail-chromium.gif",
+      "mp4": "clips/audit-log-a-platform-admin-10ede-nd-inspects-the-audit-trail-chromium.mp4",
+      "gifBytes": 2602644
+    },
+    {
+      "slug": "dashboards-a-stacked-board-9a6d2-get-in-full-not-a-72px-band-chromium",
+      "spec": "dashboards",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/dashboards-a-stacked-board-9a6d2-get-in-full-not-a-72px-band-chromium.gif",
+      "mp4": "clips/dashboards-a-stacked-board-9a6d2-get-in-full-not-a-72px-band-chromium.mp4",
+      "gifBytes": 1563568
+    },
+    {
+      "slug": "dashboards-dragging-a-widget-persists-its-new-place-chromium",
+      "spec": "dashboards",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/dashboards-dragging-a-widget-persists-its-new-place-chromium.gif",
+      "mp4": "clips/dashboards-dragging-a-widget-persists-its-new-place-chromium.mp4",
+      "gifBytes": 2360840
+    },
+    {
+      "slug": "dashboards-resizing-a-widget-persists-its-new-size-chromium",
+      "spec": "dashboards",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/dashboards-resizing-a-widget-persists-its-new-size-chromium.gif",
+      "mp4": "clips/dashboards-resizing-a-widget-persists-its-new-size-chromium.mp4",
+      "gifBytes": 2255485
+    },
+    {
+      "slug": "dashboards-the-management--a9607-ard-default-delete-fallback-chromium",
+      "spec": "dashboards",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/dashboards-the-management--a9607-ard-default-delete-fallback-chromium.gif",
+      "mp4": "clips/dashboards-the-management--a9607-ard-default-delete-fallback-chromium.mp4",
+      "gifBytes": 3932710
+    },
+    {
+      "slug": "dashboards-the-workspace-home-renders-the-seeded-dashboard-chromium",
+      "spec": "dashboards",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/dashboards-the-workspace-home-renders-the-seeded-dashboard-chromium.gif",
+      "mp4": "clips/dashboards-the-workspace-home-renders-the-seeded-dashboard-chromium.mp4",
+      "gifBytes": 1493844
+    }
+  ],
+  "changedSpecs": [
+    "dashboards"
+  ]
+}
