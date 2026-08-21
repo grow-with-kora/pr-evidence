@@ -1,0 +1,54 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "af763017d8e5cb00e50af5b5f14882022eee8359",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/32424411566"
+    },
+    "entries": [
+      {
+        "name": "project-work-complete",
+        "spec": "project-work",
+        "status": "added",
+        "after": "screens/project-work-complete.after.png"
+      },
+      {
+        "name": "project-work-saved",
+        "spec": "project-work",
+        "status": "added",
+        "after": "screens/project-work-saved.after.png"
+      },
+      {
+        "name": "project-work-signoff",
+        "spec": "project-work",
+        "status": "added",
+        "after": "screens/project-work-signoff.after.png"
+      },
+      {
+        "name": "project-work-step",
+        "spec": "project-work",
+        "status": "added",
+        "after": "screens/project-work-step.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 157,
+      "differing": 57
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium",
+      "spec": "project-work",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium.gif",
+      "mp4": "clips/project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium.mp4",
+      "gifBytes": 2377469
+    }
+  ],
+  "changedSpecs": [
+    "project-work"
+  ]
+}
