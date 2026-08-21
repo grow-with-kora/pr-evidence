@@ -1,0 +1,443 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "af763017d8e5cb00e50af5b5f14882022eee8359",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/32424411566"
+    },
+    "entries": [
+      {
+        "name": "layout-narrow-top-bar",
+        "spec": "layout",
+        "status": "removed",
+        "before": "screens/layout-narrow-top-bar.before.png"
+      },
+      {
+        "name": "audit-log-entity-search",
+        "spec": "audit-log",
+        "status": "added",
+        "after": "screens/audit-log-entity-search.after.png"
+      },
+      {
+        "name": "dashboards-widget-picker",
+        "spec": "dashboards",
+        "status": "added",
+        "after": "screens/dashboards-widget-picker.after.png"
+      },
+      {
+        "name": "project-members",
+        "spec": "projects",
+        "status": "added",
+        "after": "screens/project-members.after.png"
+      },
+      {
+        "name": "project-nav-pane",
+        "spec": "projects",
+        "status": "added",
+        "after": "screens/project-nav-pane.after.png"
+      },
+      {
+        "name": "project-work-complete",
+        "spec": "project-work",
+        "status": "added",
+        "after": "screens/project-work-complete.after.png"
+      },
+      {
+        "name": "project-work-photo",
+        "spec": "project-work",
+        "status": "added",
+        "after": "screens/project-work-photo.after.png"
+      },
+      {
+        "name": "project-work-saved",
+        "spec": "project-work",
+        "status": "added",
+        "after": "screens/project-work-saved.after.png"
+      },
+      {
+        "name": "project-work-signoff",
+        "spec": "project-work",
+        "status": "added",
+        "after": "screens/project-work-signoff.after.png"
+      },
+      {
+        "name": "project-work-step",
+        "spec": "project-work",
+        "status": "added",
+        "after": "screens/project-work-step.after.png"
+      },
+      {
+        "name": "project-people-invitation-pending",
+        "spec": "project-invites",
+        "status": "changed",
+        "ratio": 0.189169921875,
+        "resized": false,
+        "before": "screens/project-people-invitation-pending.before.png",
+        "after": "screens/project-people-invitation-pending.after.png",
+        "diff": "screens/project-people-invitation-pending.diff.png"
+      },
+      {
+        "name": "project-people-before-invite",
+        "spec": "project-invites",
+        "status": "changed",
+        "ratio": 0.1872243923611111,
+        "resized": false,
+        "before": "screens/project-people-before-invite.before.png",
+        "after": "screens/project-people-before-invite.after.png",
+        "diff": "screens/project-people-before-invite.diff.png"
+      },
+      {
+        "name": "project-people-after-acceptance",
+        "spec": "project-invites",
+        "status": "changed",
+        "ratio": 0.17981987847222222,
+        "resized": false,
+        "before": "screens/project-people-after-acceptance.before.png",
+        "after": "screens/project-people-after-acceptance.after.png",
+        "diff": "screens/project-people-after-acceptance.diff.png"
+      },
+      {
+        "name": "project-visibility-owner-without-a-row",
+        "spec": "project-visibility",
+        "status": "changed",
+        "ratio": 0.13283094618055555,
+        "resized": false,
+        "before": "screens/project-visibility-owner-without-a-row.before.png",
+        "after": "screens/project-visibility-owner-without-a-row.after.png",
+        "diff": "screens/project-visibility-owner-without-a-row.diff.png"
+      },
+      {
+        "name": "project-detail",
+        "spec": "projects",
+        "status": "changed",
+        "ratio": 0.11856662326388889,
+        "resized": false,
+        "before": "screens/project-detail.before.png",
+        "after": "screens/project-detail.after.png",
+        "diff": "screens/project-detail.diff.png"
+      },
+      {
+        "name": "project-breadcrumb",
+        "spec": "projects",
+        "status": "changed",
+        "ratio": 0.11149848090277778,
+        "resized": false,
+        "before": "screens/project-breadcrumb.before.png",
+        "after": "screens/project-breadcrumb.after.png",
+        "diff": "screens/project-breadcrumb.diff.png"
+      },
+      {
+        "name": "project-manage-member",
+        "spec": "project-invites",
+        "status": "changed",
+        "ratio": 0.06819986979166667,
+        "resized": false,
+        "before": "screens/project-manage-member.before.png",
+        "after": "screens/project-manage-member.after.png",
+        "diff": "screens/project-manage-member.diff.png"
+      },
+      {
+        "name": "project-cover-collaborator",
+        "spec": "projects",
+        "status": "changed",
+        "ratio": 0.05870008680555556,
+        "resized": false,
+        "before": "screens/project-cover-collaborator.before.png",
+        "after": "screens/project-cover-collaborator.after.png",
+        "diff": "screens/project-cover-collaborator.diff.png"
+      },
+      {
+        "name": "project-invite-dialog",
+        "spec": "project-invites",
+        "status": "changed",
+        "ratio": 0.05587022569444444,
+        "resized": false,
+        "before": "screens/project-invite-dialog.before.png",
+        "after": "screens/project-invite-dialog.after.png",
+        "diff": "screens/project-invite-dialog.diff.png"
+      },
+      {
+        "name": "project-invite-accepted-project",
+        "spec": "project-invites",
+        "status": "changed",
+        "ratio": 0.053450520833333334,
+        "resized": false,
+        "before": "screens/project-invite-accepted-project.before.png",
+        "after": "screens/project-invite-accepted-project.after.png",
+        "diff": "screens/project-invite-accepted-project.diff.png"
+      },
+      {
+        "name": "project-cover-removed",
+        "spec": "projects",
+        "status": "changed",
+        "ratio": 0.042566189236111114,
+        "resized": false,
+        "before": "screens/project-cover-removed.before.png",
+        "after": "screens/project-cover-removed.after.png",
+        "diff": "screens/project-cover-removed.diff.png"
+      },
+      {
+        "name": "project-cover-set",
+        "spec": "projects",
+        "status": "changed",
+        "ratio": 0.03582465277777778,
+        "resized": false,
+        "before": "screens/project-cover-set.before.png",
+        "after": "screens/project-cover-set.after.png",
+        "diff": "screens/project-cover-set.diff.png"
+      },
+      {
+        "name": "project-invite-accepted-projects",
+        "spec": "project-invites",
+        "status": "changed",
+        "ratio": 0.009055989583333333,
+        "resized": false,
+        "before": "screens/project-invite-accepted-projects.before.png",
+        "after": "screens/project-invite-accepted-projects.after.png",
+        "diff": "screens/project-invite-accepted-projects.diff.png"
+      },
+      {
+        "name": "project-cover-framing",
+        "spec": "projects",
+        "status": "changed",
+        "ratio": 0.008447265625,
+        "resized": false,
+        "before": "screens/project-cover-framing.before.png",
+        "after": "screens/project-cover-framing.after.png",
+        "diff": "screens/project-cover-framing.diff.png"
+      },
+      {
+        "name": "project-visibility-member-direct-url",
+        "spec": "project-visibility",
+        "status": "changed",
+        "ratio": 0.008043619791666666,
+        "resized": false,
+        "before": "screens/project-visibility-member-direct-url.before.png",
+        "after": "screens/project-visibility-member-direct-url.after.png",
+        "diff": "screens/project-visibility-member-direct-url.diff.png"
+      },
+      {
+        "name": "project-remove-member-confirm",
+        "spec": "project-invites",
+        "status": "changed",
+        "ratio": 0.0037782118055555555,
+        "resized": false,
+        "before": "screens/project-remove-member-confirm.before.png",
+        "after": "screens/project-remove-member-confirm.after.png",
+        "diff": "screens/project-remove-member-confirm.diff.png"
+      },
+      {
+        "name": "projects-list-with-cover",
+        "spec": "projects",
+        "status": "changed",
+        "ratio": 0.0008615451388888889,
+        "resized": false,
+        "before": "screens/projects-list-with-cover.before.png",
+        "after": "screens/projects-list-with-cover.after.png",
+        "diff": "screens/projects-list-with-cover.diff.png"
+      },
+      {
+        "name": "projects-list",
+        "spec": "projects",
+        "status": "changed",
+        "ratio": 0.00060546875,
+        "resized": false,
+        "before": "screens/projects-list.before.png",
+        "after": "screens/projects-list.after.png",
+        "diff": "screens/projects-list.diff.png"
+      },
+      {
+        "name": "project-visibility-member-grid",
+        "spec": "project-visibility",
+        "status": "identical",
+        "ratio": 0.00016710069444444444,
+        "resized": false,
+        "before": "screens/project-visibility-member-grid.before.png",
+        "after": "screens/project-visibility-member-grid.after.png"
+      },
+      {
+        "name": "projects-empty",
+        "spec": "projects",
+        "status": "identical",
+        "ratio": 0.00016710069444444444,
+        "resized": false,
+        "before": "screens/projects-empty.before.png",
+        "after": "screens/projects-empty.after.png"
+      },
+      {
+        "name": "project-invite-join-choice",
+        "spec": "project-invites",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/project-invite-join-choice.before.png",
+        "after": "screens/project-invite-join-choice.after.png"
+      },
+      {
+        "name": "project-visibility-member-palette",
+        "spec": "project-visibility",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/project-visibility-member-palette.before.png",
+        "after": "screens/project-visibility-member-palette.after.png"
+      },
+      {
+        "name": "projects-create-dialog",
+        "spec": "projects",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/projects-create-dialog.before.png",
+        "after": "screens/projects-create-dialog.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 133,
+      "differing": 79
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "layout-a-long-page-name-stays-inside-the-top-bar-on-a-phone-chromium",
+      "spec": "layout",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/layout-a-long-page-name-stays-inside-the-top-bar-on-a-phone-chromium.gif",
+      "mp4": "clips/layout-a-long-page-name-stays-inside-the-top-bar-on-a-phone-chromium.mp4",
+      "gifBytes": 600743
+    },
+    {
+      "slug": "layout-a-long-page-name-stays-inside-the-top-bar-on-a-phone-chromium-retry1",
+      "spec": "layout",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/layout-a-long-page-name-stays-inside-the-top-bar-on-a-phone-chromium-retry1.gif",
+      "mp4": "clips/layout-a-long-page-name-stays-inside-the-top-bar-on-a-phone-chromium-retry1.mp4",
+      "gifBytes": 750711
+    },
+    {
+      "slug": "audit-log-a-platform-admin-10ede-nd-inspects-the-audit-trail-chromium",
+      "spec": "audit",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/audit-log-a-platform-admin-10ede-nd-inspects-the-audit-trail-chromium.gif",
+      "mp4": "clips/audit-log-a-platform-admin-10ede-nd-inspects-the-audit-trail-chromium.mp4",
+      "gifBytes": 2934545
+    },
+    {
+      "slug": "dashboards-the-management--a9607-ard-default-delete-fallback-chromium",
+      "spec": "dashboards",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/dashboards-the-management--a9607-ard-default-delete-fallback-chromium.gif",
+      "mp4": "clips/dashboards-the-management--a9607-ard-default-delete-fallback-chromium.mp4",
+      "gifBytes": 4969442
+    },
+    {
+      "slug": "project-invites-an-outside-32715-ailed-joins-and-lands-on-it-chromium",
+      "spec": "project-invites",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/project-invites-an-outside-32715-ailed-joins-and-lands-on-it-chromium.gif",
+      "mp4": "clips/project-invites-an-outside-32715-ailed-joins-and-lands-on-it-chromium.mp4",
+      "gifBytes": 2973601
+    },
+    {
+      "slug": "project-visibility-a-works-1c99c-ill-open-and-administer-one-chromium",
+      "spec": "project-visibility",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/project-visibility-a-works-1c99c-ill-open-and-administer-one-chromium.gif",
+      "mp4": "clips/project-visibility-a-works-1c99c-ill-open-and-administer-one-chromium.mp4",
+      "gifBytes": 1288112
+    },
+    {
+      "slug": "project-visibility-a-works-fe0b1-f-a-project-they-are-not-on-chromium",
+      "spec": "project-visibility",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/project-visibility-a-works-fe0b1-f-a-project-they-are-not-on-chromium.gif",
+      "mp4": "clips/project-visibility-a-works-fe0b1-f-a-project-they-are-not-on-chromium.mp4",
+      "gifBytes": 1817772
+    },
+    {
+      "slug": "project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium",
+      "spec": "project",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium.gif",
+      "mp4": "clips/project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium.mp4",
+      "gifBytes": 3153597
+    },
+    {
+      "slug": "projects-a-collaborator-se-0d35d--without-any-cover-controls-chromium",
+      "spec": "projects",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/projects-a-collaborator-se-0d35d--without-any-cover-controls-chromium.gif",
+      "mp4": "clips/projects-a-collaborator-se-0d35d--without-any-cover-controls-chromium.mp4",
+      "gifBytes": 1602614
+    },
+    {
+      "slug": "projects-a-list-page-shows-a-plain-title-not-a-trail-chromium",
+      "spec": "projects",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/projects-a-list-page-shows-a-plain-title-not-a-trail-chromium.gif",
+      "mp4": "clips/projects-a-list-page-shows-a-plain-title-not-a-trail-chromium.mp4",
+      "gifBytes": 1201985
+    },
+    {
+      "slug": "projects-a-member-sets-replaces-and-removes-the-cover-photo-chromium",
+      "spec": "projects",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/projects-a-member-sets-replaces-and-removes-the-cover-photo-chromium.gif",
+      "mp4": "clips/projects-a-member-sets-replaces-and-removes-the-cover-photo-chromium.mp4",
+      "gifBytes": 1954060
+    },
+    {
+      "slug": "projects-a-project-collaps-e061b-bar-and-leaving-restores-it-chromium",
+      "spec": "projects",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/projects-a-project-collaps-e061b-bar-and-leaving-restores-it-chromium.gif",
+      "mp4": "clips/projects-a-project-collaps-e061b-bar-and-leaving-restores-it-chromium.mp4",
+      "gifBytes": 1665215
+    },
+    {
+      "slug": "projects-a-project-s-top-b-71917-es-a-trail-back-to-the-list-chromium",
+      "spec": "projects",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/projects-a-project-s-top-b-71917-es-a-trail-back-to-the-list-chromium.gif",
+      "mp4": "clips/projects-a-project-s-top-b-71917-es-a-trail-back-to-the-list-chromium.mp4",
+      "gifBytes": 1201380
+    },
+    {
+      "slug": "projects-an-owner-creates-a-project-and-lands-on-it-chromium",
+      "spec": "projects",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/projects-an-owner-creates-a-project-and-lands-on-it-chromium.gif",
+      "mp4": "clips/projects-an-owner-creates-a-project-and-lands-on-it-chromium.mp4",
+      "gifBytes": 2038717
+    },
+    {
+      "slug": "projects-the-sidebar-reaches-projects-on-a-workspace-host-chromium",
+      "spec": "projects",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/projects-the-sidebar-reaches-projects-on-a-workspace-host-chromium.gif",
+      "mp4": "clips/projects-the-sidebar-reaches-projects-on-a-workspace-host-chromium.mp4",
+      "gifBytes": 1341011
+    }
+  ],
+  "changedSpecs": [
+    "project-invites",
+    "project-visibility",
+    "projects"
+  ]
+}
