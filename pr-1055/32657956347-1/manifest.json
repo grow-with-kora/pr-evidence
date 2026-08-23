@@ -1,0 +1,408 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "d338407ef4a10b8a3c6a6da77a4f36e19afe3e1a",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/32632949654"
+    },
+    "entries": [
+      {
+        "name": "sidebar-invite-accepted",
+        "spec": "invites",
+        "status": "removed",
+        "before": "screens/sidebar-invite-accepted.before.png"
+      },
+      {
+        "name": "invite-in-app-notification",
+        "spec": "invites",
+        "status": "added",
+        "after": "screens/invite-in-app-notification.after.png"
+      },
+      {
+        "name": "members-invite-already-here",
+        "spec": "invites",
+        "status": "added",
+        "after": "screens/members-invite-already-here.after.png"
+      },
+      {
+        "name": "project-invite-already-invited",
+        "spec": "project-invites",
+        "status": "added",
+        "after": "screens/project-invite-already-invited.after.png"
+      },
+      {
+        "name": "project-invite-colleague-picked",
+        "spec": "project-invites",
+        "status": "added",
+        "after": "screens/project-invite-colleague-picked.after.png"
+      },
+      {
+        "name": "project-invite-suggestions",
+        "spec": "project-invites",
+        "status": "added",
+        "after": "screens/project-invite-suggestions.after.png"
+      },
+      {
+        "name": "project-invite-accepted-project",
+        "spec": "project-invites",
+        "status": "changed",
+        "ratio": 0.04137261284722222,
+        "resized": false,
+        "before": "screens/project-invite-accepted-project.before.png",
+        "after": "screens/project-invite-accepted-project.after.png",
+        "diff": "screens/project-invite-accepted-project.diff.png"
+      },
+      {
+        "name": "members-manage-member",
+        "spec": "invites",
+        "status": "changed",
+        "ratio": 0.01871310763888889,
+        "resized": false,
+        "before": "screens/members-manage-member.before.png",
+        "after": "screens/members-manage-member.after.png",
+        "diff": "screens/members-manage-member.diff.png"
+      },
+      {
+        "name": "members-remove-confirm",
+        "spec": "invites",
+        "status": "changed",
+        "ratio": 0.012019314236111111,
+        "resized": false,
+        "before": "screens/members-remove-confirm.before.png",
+        "after": "screens/members-remove-confirm.after.png",
+        "diff": "screens/members-remove-confirm.diff.png"
+      },
+      {
+        "name": "invite-accepted-workspace",
+        "spec": "invites",
+        "status": "changed",
+        "ratio": 0.005897352430555555,
+        "resized": false,
+        "before": "screens/invite-accepted-workspace.before.png",
+        "after": "screens/invite-accepted-workspace.after.png",
+        "diff": "screens/invite-accepted-workspace.diff.png"
+      },
+      {
+        "name": "members-invitation-pending",
+        "spec": "invites",
+        "status": "changed",
+        "ratio": 0.002615017361111111,
+        "resized": false,
+        "before": "screens/members-invitation-pending.before.png",
+        "after": "screens/members-invitation-pending.after.png",
+        "diff": "screens/members-invitation-pending.diff.png"
+      },
+      {
+        "name": "members-after-acceptance",
+        "spec": "invites",
+        "status": "changed",
+        "ratio": 0.0025759548611111113,
+        "resized": false,
+        "before": "screens/members-after-acceptance.before.png",
+        "after": "screens/members-after-acceptance.after.png",
+        "diff": "screens/members-after-acceptance.diff.png"
+      },
+      {
+        "name": "members-after-removal",
+        "spec": "invites",
+        "status": "changed",
+        "ratio": 0.0023990885416666666,
+        "resized": false,
+        "before": "screens/members-after-removal.before.png",
+        "after": "screens/members-after-removal.after.png",
+        "diff": "screens/members-after-removal.diff.png"
+      },
+      {
+        "name": "members-before-invite",
+        "spec": "invites",
+        "status": "changed",
+        "ratio": 0.0023470052083333333,
+        "resized": false,
+        "before": "screens/members-before-invite.before.png",
+        "after": "screens/members-before-invite.after.png",
+        "diff": "screens/members-before-invite.diff.png"
+      },
+      {
+        "name": "members-blocked-colleague",
+        "spec": "invites",
+        "status": "changed",
+        "ratio": 0.0019379340277777778,
+        "resized": false,
+        "before": "screens/members-blocked-colleague.before.png",
+        "after": "screens/members-blocked-colleague.after.png",
+        "diff": "screens/members-blocked-colleague.diff.png"
+      },
+      {
+        "name": "sidebar-pending-invites",
+        "spec": "invites",
+        "status": "changed",
+        "ratio": 0.0016775173611111112,
+        "resized": false,
+        "before": "screens/sidebar-pending-invites.before.png",
+        "after": "screens/sidebar-pending-invites.after.png",
+        "diff": "screens/sidebar-pending-invites.diff.png"
+      },
+      {
+        "name": "project-invite-accepted-projects",
+        "spec": "project-invites",
+        "status": "changed",
+        "ratio": 0.0013780381944444445,
+        "resized": false,
+        "before": "screens/project-invite-accepted-projects.before.png",
+        "after": "screens/project-invite-accepted-projects.after.png",
+        "diff": "screens/project-invite-accepted-projects.diff.png"
+      },
+      {
+        "name": "quick-search-muted-hit",
+        "spec": "invites",
+        "status": "changed",
+        "ratio": 0.0011284722222222221,
+        "resized": false,
+        "before": "screens/quick-search-muted-hit.before.png",
+        "after": "screens/quick-search-muted-hit.after.png",
+        "diff": "screens/quick-search-muted-hit.diff.png"
+      },
+      {
+        "name": "project-people-invitation-pending",
+        "spec": "project-invites",
+        "status": "changed",
+        "ratio": 0.0009060329861111111,
+        "resized": false,
+        "before": "screens/project-people-invitation-pending.before.png",
+        "after": "screens/project-people-invitation-pending.after.png",
+        "diff": "screens/project-people-invitation-pending.diff.png"
+      },
+      {
+        "name": "project-people-after-acceptance",
+        "spec": "project-invites",
+        "status": "changed",
+        "ratio": 0.0008832465277777778,
+        "resized": false,
+        "before": "screens/project-people-after-acceptance.before.png",
+        "after": "screens/project-people-after-acceptance.after.png",
+        "diff": "screens/project-people-after-acceptance.diff.png"
+      },
+      {
+        "name": "members-as-member",
+        "spec": "invites",
+        "status": "changed",
+        "ratio": 0.0008528645833333333,
+        "resized": false,
+        "before": "screens/members-as-member.before.png",
+        "after": "screens/members-as-member.after.png",
+        "diff": "screens/members-as-member.diff.png"
+      },
+      {
+        "name": "project-people-before-invite",
+        "spec": "project-invites",
+        "status": "changed",
+        "ratio": 0.000654296875,
+        "resized": false,
+        "before": "screens/project-people-before-invite.before.png",
+        "after": "screens/project-people-before-invite.after.png",
+        "diff": "screens/project-people-before-invite.diff.png"
+      },
+      {
+        "name": "project-invite-dialog",
+        "spec": "project-invites",
+        "status": "changed",
+        "ratio": 0.0006325954861111111,
+        "resized": false,
+        "before": "screens/project-invite-dialog.before.png",
+        "after": "screens/project-invite-dialog.after.png",
+        "diff": "screens/project-invite-dialog.diff.png"
+      },
+      {
+        "name": "invite-email-mismatch",
+        "spec": "invites",
+        "status": "identical",
+        "ratio": 0.0003298611111111111,
+        "resized": false,
+        "before": "screens/invite-email-mismatch.before.png",
+        "after": "screens/invite-email-mismatch.after.png"
+      },
+      {
+        "name": "invite-login-hint",
+        "spec": "invites",
+        "status": "identical",
+        "ratio": 0.0003298611111111111,
+        "resized": false,
+        "before": "screens/invite-login-hint.before.png",
+        "after": "screens/invite-login-hint.after.png"
+      },
+      {
+        "name": "project-manage-member",
+        "spec": "project-invites",
+        "status": "identical",
+        "ratio": 0.0002289496527777778,
+        "resized": false,
+        "before": "screens/project-manage-member.before.png",
+        "after": "screens/project-manage-member.after.png"
+      },
+      {
+        "name": "invite-accept-choice",
+        "spec": "invites",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/invite-accept-choice.before.png",
+        "after": "screens/invite-accept-choice.after.png"
+      },
+      {
+        "name": "invite-after-switch",
+        "spec": "invites",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/invite-after-switch.before.png",
+        "after": "screens/invite-after-switch.after.png"
+      },
+      {
+        "name": "members-last-owner",
+        "spec": "invites",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/members-last-owner.before.png",
+        "after": "screens/members-last-owner.after.png"
+      },
+      {
+        "name": "project-invite-join-choice",
+        "spec": "project-invites",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/project-invite-join-choice.before.png",
+        "after": "screens/project-invite-join-choice.after.png"
+      },
+      {
+        "name": "project-remove-member-confirm",
+        "spec": "project-invites",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/project-remove-member-confirm.before.png",
+        "after": "screens/project-remove-member-confirm.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 143,
+      "differing": 59
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "invites-the-sidebar-surfac-42cb6-nvitations-wherever-you-are-chromium",
+      "spec": "invites",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/invites-the-sidebar-surfac-42cb6-nvitations-wherever-you-are-chromium.gif",
+      "mp4": "clips/invites-the-sidebar-surfac-42cb6-nvitations-wherever-you-are-chromium.mp4",
+      "gifBytes": 3646225
+    },
+    {
+      "slug": "invites-the-sidebar-surfac-42cb6-nvitations-wherever-you-are-chromium-retry1",
+      "spec": "invites",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/invites-the-sidebar-surfac-42cb6-nvitations-wherever-you-are-chromium-retry1.gif",
+      "mp4": "clips/invites-the-sidebar-surfac-42cb6-nvitations-wherever-you-are-chromium-retry1.mp4",
+      "gifBytes": 3813947
+    },
+    {
+      "slug": "invites-a-blocked-colleagu-60e72-ow-and-both-surfaces-say-so-chromium",
+      "spec": "invites",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/invites-a-blocked-colleagu-60e72-ow-and-both-surfaces-say-so-chromium.gif",
+      "mp4": "clips/invites-a-blocked-colleagu-60e72-ow-and-both-surfaces-say-so-chromium.mp4",
+      "gifBytes": 1742938
+    },
+    {
+      "slug": "invites-a-member-sees-who-else-is-here-but-cannot-invite-chromium",
+      "spec": "invites",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/invites-a-member-sees-who-else-is-here-but-cannot-invite-chromium.gif",
+      "mp4": "clips/invites-a-member-sees-who-else-is-here-but-cannot-invite-chromium.mp4",
+      "gifBytes": 1567476
+    },
+    {
+      "slug": "invites-a-revoked-invitati-543b3-ailed-and-frees-the-address-chromium",
+      "spec": "invites",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/invites-a-revoked-invitati-543b3-ailed-and-frees-the-address-chromium.gif",
+      "mp4": "clips/invites-a-revoked-invitati-543b3-ailed-and-frees-the-address-chromium.mp4",
+      "gifBytes": 2349840
+    },
+    {
+      "slug": "invites-an-existing-member-6a5de-e-product-not-only-by-email-chromium",
+      "spec": "invites",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/invites-an-existing-member-6a5de-e-product-not-only-by-email-chromium.gif",
+      "mp4": "clips/invites-an-existing-member-6a5de-e-product-not-only-by-email-chromium.mp4",
+      "gifBytes": 2091803
+    },
+    {
+      "slug": "invites-an-invite-link-ope-de41e-s-the-mismatch-and-switches-chromium",
+      "spec": "invites",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/invites-an-invite-link-ope-de41e-s-the-mismatch-and-switches-chromium.gif",
+      "mp4": "clips/invites-an-invite-link-ope-de41e-s-the-mismatch-and-switches-chromium.mp4",
+      "gifBytes": 2294220
+    },
+    {
+      "slug": "invites-an-invited-colleag-9e21b-ce-and-shows-up-as-a-member-chromium",
+      "spec": "invites",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/invites-an-invited-colleag-9e21b-ce-and-shows-up-as-a-member-chromium.gif",
+      "mp4": "clips/invites-an-invited-colleag-9e21b-ce-and-shows-up-as-a-member-chromium.mp4",
+      "gifBytes": 2603928
+    },
+    {
+      "slug": "invites-removing-a-colleag-c8384--projects-it-takes-them-off-chromium",
+      "spec": "invites",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/invites-removing-a-colleag-c8384--projects-it-takes-them-off-chromium.gif",
+      "mp4": "clips/invites-removing-a-colleag-c8384--projects-it-takes-them-off-chromium.mp4",
+      "gifBytes": 2059454
+    },
+    {
+      "slug": "invites-the-only-owner-cannot-be-removed-and-is-told-why-chromium",
+      "spec": "invites",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/invites-the-only-owner-cannot-be-removed-and-is-told-why-chromium.gif",
+      "mp4": "clips/invites-the-only-owner-cannot-be-removed-and-is-told-why-chromium.mp4",
+      "gifBytes": 1550561
+    },
+    {
+      "slug": "project-invites-a-colleagu-13fbe-ddress-sent-is-the-roster-s-chromium",
+      "spec": "project-invites",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/project-invites-a-colleagu-13fbe-ddress-sent-is-the-roster-s-chromium.gif",
+      "mp4": "clips/project-invites-a-colleagu-13fbe-ddress-sent-is-the-roster-s-chromium.mp4",
+      "gifBytes": 1942482
+    },
+    {
+      "slug": "project-invites-an-outside-32715-ailed-joins-and-lands-on-it-chromium",
+      "spec": "project-invites",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/project-invites-an-outside-32715-ailed-joins-and-lands-on-it-chromium.gif",
+      "mp4": "clips/project-invites-an-outside-32715-ailed-joins-and-lands-on-it-chromium.mp4",
+      "gifBytes": 3524309
+    }
+  ],
+  "changedSpecs": [
+    "invites",
+    "project-invites"
+  ]
+}
