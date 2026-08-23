@@ -1,0 +1,34 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "d338407ef4a10b8a3c6a6da77a4f36e19afe3e1a",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/32632949654"
+    },
+    "entries": [
+      {
+        "name": "invite-in-app-notification",
+        "spec": "invites",
+        "status": "added",
+        "after": "screens/invite-in-app-notification.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 169,
+      "differing": 80
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "invites-an-existing-member-6a5de-e-product-not-only-by-email-chromium",
+      "spec": "invites",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/invites-an-existing-member-6a5de-e-product-not-only-by-email-chromium.gif",
+      "mp4": "clips/invites-an-existing-member-6a5de-e-product-not-only-by-email-chromium.mp4",
+      "gifBytes": 1845926
+    }
+  ],
+  "changedSpecs": []
+}
