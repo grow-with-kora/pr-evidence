@@ -1,1 +1,1 @@
-{"spec":"failure-paths","outputDir":"failure-paths-failure-path-43b45-ion-shows-exactly-one-toast-chromium","volatileRegions":[{"x":320,"y":319,"width":86,"height":16},{"x":962,"y":188,"width":76,"height":18}]}
+{"spec":"failure-paths","outputDir":"failure-paths-failure-path-43b45-ion-shows-exactly-one-toast-chromium","volatileRegions":[{"x":320,"y":319,"width":93,"height":16},{"x":962,"y":188,"width":82,"height":18}]}
