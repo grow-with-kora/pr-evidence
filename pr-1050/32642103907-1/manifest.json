@@ -1,0 +1,105 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "d338407ef4a10b8a3c6a6da77a4f36e19afe3e1a",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/32632949654"
+    },
+    "entries": [
+      {
+        "name": "time-travel-shift-banner",
+        "spec": "time-travel",
+        "status": "changed",
+        "ratio": 0.0019542100694444446,
+        "resized": false,
+        "before": "screens/time-travel-shift-banner.before.png",
+        "after": "screens/time-travel-shift-banner.after.png",
+        "diff": "screens/time-travel-shift-banner.diff.png"
+      },
+      {
+        "name": "time-travel-grace-readonly",
+        "spec": "time-travel",
+        "status": "changed",
+        "ratio": 0.0013053385416666667,
+        "resized": false,
+        "before": "screens/time-travel-grace-readonly.before.png",
+        "after": "screens/time-travel-grace-readonly.after.png",
+        "diff": "screens/time-travel-grace-readonly.diff.png"
+      },
+      {
+        "name": "time-travel-trial-final-day",
+        "spec": "time-travel",
+        "status": "changed",
+        "ratio": 0.0013053385416666667,
+        "resized": false,
+        "before": "screens/time-travel-trial-final-day.before.png",
+        "after": "screens/time-travel-trial-final-day.after.png",
+        "diff": "screens/time-travel-trial-final-day.diff.png"
+      },
+      {
+        "name": "time-travel-greeting-shifted",
+        "spec": "time-travel",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/time-travel-greeting-shifted.before.png",
+        "after": "screens/time-travel-greeting-shifted.after.png"
+      },
+      {
+        "name": "time-travel-suspended",
+        "spec": "time-travel",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/time-travel-suspended.before.png",
+        "after": "screens/time-travel-suspended.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 164,
+      "differing": 72
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "time-travel-the-billing-cl-11ea0--then-suspends-—-on-its-own-chromium",
+      "spec": "time-travel",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/time-travel-the-billing-cl-11ea0--then-suspends-—-on-its-own-chromium.gif",
+      "mp4": "clips/time-travel-the-billing-cl-11ea0--then-suspends-—-on-its-own-chromium.mp4",
+      "gifBytes": 2988254
+    },
+    {
+      "slug": "time-travel-the-billing-cl-11ea0--then-suspends-—-on-its-own-chromium-retry1",
+      "spec": "time-travel",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/time-travel-the-billing-cl-11ea0--then-suspends-—-on-its-own-chromium-retry1.gif",
+      "mp4": "clips/time-travel-the-billing-cl-11ea0--then-suspends-—-on-its-own-chromium-retry1.mp4",
+      "gifBytes": 3750073
+    },
+    {
+      "slug": "time-travel-the-Home-greet-3b183-ted-clock-not-the-browser-s-chromium-retry1",
+      "spec": "time-travel",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/time-travel-the-Home-greet-3b183-ted-clock-not-the-browser-s-chromium-retry1.gif",
+      "mp4": "clips/time-travel-the-Home-greet-3b183-ted-clock-not-the-browser-s-chromium-retry1.mp4",
+      "gifBytes": 1370034
+    },
+    {
+      "slug": "time-travel-the-shift-bann-94293-ed-date-and-reset-clears-it-chromium-retry1",
+      "spec": "time-travel",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/time-travel-the-shift-bann-94293-ed-date-and-reset-clears-it-chromium-retry1.gif",
+      "mp4": "clips/time-travel-the-shift-bann-94293-ed-date-and-reset-clears-it-chromium-retry1.mp4",
+      "gifBytes": 1426744
+    }
+  ],
+  "changedSpecs": [
+    "time-travel"
+  ]
+}
