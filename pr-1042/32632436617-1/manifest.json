@@ -1,0 +1,40 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "db5cabe4610701e7b6b5375b0ad87f60a05aece8",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/32489759617"
+    },
+    "entries": [
+      {
+        "name": "project-work-locked",
+        "spec": "project-work",
+        "status": "added",
+        "after": "screens/project-work-locked.after.png"
+      },
+      {
+        "name": "project-work-unlocked",
+        "spec": "project-work",
+        "status": "added",
+        "after": "screens/project-work-unlocked.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 167,
+      "differing": 62
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium",
+      "spec": "project",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium.gif",
+      "mp4": "clips/project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium.mp4",
+      "gifBytes": 3503937
+    }
+  ],
+  "changedSpecs": []
+}
