@@ -1,0 +1,327 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "d338407ef4a10b8a3c6a6da77a4f36e19afe3e1a",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/32632949654"
+    },
+    "entries": [
+      {
+        "name": "invite-in-app-notification",
+        "spec": "invites",
+        "status": "added",
+        "after": "screens/invite-in-app-notification.after.png"
+      },
+      {
+        "name": "members-invite-already-here",
+        "spec": "invites",
+        "status": "added",
+        "after": "screens/members-invite-already-here.after.png"
+      },
+      {
+        "name": "project-go-live",
+        "spec": "project-work",
+        "status": "added",
+        "after": "screens/project-go-live.after.png"
+      },
+      {
+        "name": "project-invite-already-invited",
+        "spec": "project-invites",
+        "status": "added",
+        "after": "screens/project-invite-already-invited.after.png"
+      },
+      {
+        "name": "project-invite-colleague-picked",
+        "spec": "project-invites",
+        "status": "added",
+        "after": "screens/project-invite-colleague-picked.after.png"
+      },
+      {
+        "name": "project-invite-suggestions",
+        "spec": "project-invites",
+        "status": "added",
+        "after": "screens/project-invite-suggestions.after.png"
+      },
+      {
+        "name": "project-live",
+        "spec": "project-work",
+        "status": "added",
+        "after": "screens/project-live.after.png"
+      },
+      {
+        "name": "project-work-photo",
+        "spec": "project-work",
+        "status": "changed",
+        "ratio": 0.06410373263888888,
+        "resized": false,
+        "before": "screens/project-work-photo.before.png",
+        "after": "screens/project-work-photo.after.png",
+        "diff": "screens/project-work-photo.diff.png"
+      },
+      {
+        "name": "project-work-step",
+        "spec": "project-work",
+        "status": "changed",
+        "ratio": 0.05265407986111111,
+        "resized": false,
+        "before": "screens/project-work-step.before.png",
+        "after": "screens/project-work-step.after.png",
+        "diff": "screens/project-work-step.diff.png"
+      },
+      {
+        "name": "project-work-locked",
+        "spec": "project-work",
+        "status": "changed",
+        "ratio": 0.044964192708333336,
+        "resized": false,
+        "before": "screens/project-work-locked.before.png",
+        "after": "screens/project-work-locked.after.png",
+        "diff": "screens/project-work-locked.diff.png"
+      },
+      {
+        "name": "project-work-unlocked",
+        "spec": "project-work",
+        "status": "changed",
+        "ratio": 0.044964192708333336,
+        "resized": false,
+        "before": "screens/project-work-unlocked.before.png",
+        "after": "screens/project-work-unlocked.after.png",
+        "diff": "screens/project-work-unlocked.diff.png"
+      },
+      {
+        "name": "project-work-complete",
+        "spec": "project-work",
+        "status": "changed",
+        "ratio": 0.018153211805555555,
+        "resized": false,
+        "before": "screens/project-work-complete.before.png",
+        "after": "screens/project-work-complete.after.png",
+        "diff": "screens/project-work-complete.diff.png"
+      },
+      {
+        "name": "project-work-signoff",
+        "spec": "project-work",
+        "status": "changed",
+        "ratio": 0.018153211805555555,
+        "resized": false,
+        "before": "screens/project-work-signoff.before.png",
+        "after": "screens/project-work-signoff.after.png",
+        "diff": "screens/project-work-signoff.diff.png"
+      },
+      {
+        "name": "billing-member-cap",
+        "spec": "billing",
+        "status": "changed",
+        "ratio": 0.00849609375,
+        "resized": false,
+        "before": "screens/billing-member-cap.before.png",
+        "after": "screens/billing-member-cap.after.png",
+        "diff": "screens/billing-member-cap.diff.png"
+      },
+      {
+        "name": "billing-trial-countdown",
+        "spec": "billing",
+        "status": "changed",
+        "ratio": 0.005079210069444445,
+        "resized": false,
+        "before": "screens/billing-trial-countdown.before.png",
+        "after": "screens/billing-trial-countdown.after.png",
+        "diff": "screens/billing-trial-countdown.diff.png"
+      },
+      {
+        "name": "billing-project-cap",
+        "spec": "billing",
+        "status": "changed",
+        "ratio": 0.004078776041666667,
+        "resized": false,
+        "before": "screens/billing-project-cap.before.png",
+        "after": "screens/billing-project-cap.after.png",
+        "diff": "screens/billing-project-cap.diff.png"
+      },
+      {
+        "name": "compare-plans",
+        "spec": "billing",
+        "status": "changed",
+        "ratio": 0.0006564670138888889,
+        "resized": false,
+        "before": "screens/compare-plans.before.png",
+        "after": "screens/compare-plans.after.png",
+        "diff": "screens/compare-plans.diff.png"
+      },
+      {
+        "name": "project-work-saved",
+        "spec": "project-work",
+        "status": "changed",
+        "ratio": 0.0006412760416666666,
+        "resized": false,
+        "before": "screens/project-work-saved.before.png",
+        "after": "screens/project-work-saved.after.png",
+        "diff": "screens/project-work-saved.diff.png"
+      },
+      {
+        "name": "billing-grace-readonly",
+        "spec": "billing",
+        "status": "identical",
+        "ratio": 0.00029947916666666664,
+        "resized": false,
+        "before": "screens/billing-grace-readonly.before.png",
+        "after": "screens/billing-grace-readonly.after.png"
+      },
+      {
+        "name": "billing-change-plan",
+        "spec": "billing",
+        "status": "identical",
+        "ratio": 0.00005859375,
+        "resized": false,
+        "before": "screens/billing-change-plan.before.png",
+        "after": "screens/billing-change-plan.after.png"
+      },
+      {
+        "name": "billing-suspended-member",
+        "spec": "billing",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/billing-suspended-member.before.png",
+        "after": "screens/billing-suspended-member.after.png"
+      },
+      {
+        "name": "billing-suspended-owner",
+        "spec": "billing",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/billing-suspended-owner.before.png",
+        "after": "screens/billing-suspended-owner.after.png"
+      },
+      {
+        "name": "billing-tab",
+        "spec": "billing",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/billing-tab.before.png",
+        "after": "screens/billing-tab.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 153,
+      "differing": 49
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "billing-a-downgrade-the-wo-3ebbf-fused-with-the-excess-named-chromium",
+      "spec": "billing",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/billing-a-downgrade-the-wo-3ebbf-fused-with-the-excess-named-chromium.gif",
+      "mp4": "clips/billing-a-downgrade-the-wo-3ebbf-fused-with-the-excess-named-chromium.mp4",
+      "gifBytes": 1291840
+    },
+    {
+      "slug": "billing-a-suspended-worksp-0a486-er-to-go-and-find-the-owner-chromium",
+      "spec": "billing",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/billing-a-suspended-worksp-0a486-er-to-go-and-find-the-owner-chromium.gif",
+      "mp4": "clips/billing-a-suspended-worksp-0a486-er-to-go-and-find-the-owner-chromium.mp4",
+      "gifBytes": 1045474
+    },
+    {
+      "slug": "billing-a-suspended-worksp-c319d-owner-at-the-paywall-screen-chromium",
+      "spec": "billing",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/billing-a-suspended-worksp-c319d-owner-at-the-paywall-screen-chromium.gif",
+      "mp4": "clips/billing-a-suspended-worksp-c319d-owner-at-the-paywall-screen-chromium.mp4",
+      "gifBytes": 1373477
+    },
+    {
+      "slug": "billing-at-the-member-cap--585c6-nce-gives-way-to-the-reason-chromium",
+      "spec": "billing",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/billing-at-the-member-cap--585c6-nce-gives-way-to-the-reason-chromium.gif",
+      "mp4": "clips/billing-at-the-member-cap--585c6-nce-gives-way-to-the-reason-chromium.mp4",
+      "gifBytes": 1434941
+    },
+    {
+      "slug": "billing-at-the-project-cap-19898--—-the-cap-bites-at-go-live-chromium",
+      "spec": "billing",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/billing-at-the-project-cap-19898--—-the-cap-bites-at-go-live-chromium.gif",
+      "mp4": "clips/billing-at-the-project-cap-19898--—-the-cap-bites-at-go-live-chromium.mp4",
+      "gifBytes": 1158838
+    },
+    {
+      "slug": "billing-grace-is-read-only-01658-explains-the-affordances-go-chromium",
+      "spec": "billing",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/billing-grace-is-read-only-01658-explains-the-affordances-go-chromium.gif",
+      "mp4": "clips/billing-grace-is-read-only-01658-explains-the-affordances-go-chromium.mp4",
+      "gifBytes": 1626075
+    },
+    {
+      "slug": "billing-the-billing-tab-sh-0ac19-and-subscribes-via-Checkout-chromium",
+      "spec": "billing",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/billing-the-billing-tab-sh-0ac19-and-subscribes-via-Checkout-chromium.gif",
+      "mp4": "clips/billing-the-billing-tab-sh-0ac19-and-subscribes-via-Checkout-chromium.mp4",
+      "gifBytes": 1434824
+    },
+    {
+      "slug": "billing-the-trial-s-final-days-show-a-countdown-banner-chromium",
+      "spec": "billing",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/billing-the-trial-s-final-days-show-a-countdown-banner-chromium.gif",
+      "mp4": "clips/billing-the-trial-s-final-days-show-a-countdown-banner-chromium.mp4",
+      "gifBytes": 1413349
+    },
+    {
+      "slug": "invites-an-existing-member-6a5de-e-product-not-only-by-email-chromium",
+      "spec": "invites",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/invites-an-existing-member-6a5de-e-product-not-only-by-email-chromium.gif",
+      "mp4": "clips/invites-an-existing-member-6a5de-e-product-not-only-by-email-chromium.mp4",
+      "gifBytes": 1869622
+    },
+    {
+      "slug": "invites-an-invited-colleag-9e21b-ce-and-shows-up-as-a-member-chromium",
+      "spec": "invites",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/invites-an-invited-colleag-9e21b-ce-and-shows-up-as-a-member-chromium.gif",
+      "mp4": "clips/invites-an-invited-colleag-9e21b-ce-and-shows-up-as-a-member-chromium.mp4",
+      "gifBytes": 2524946
+    },
+    {
+      "slug": "project-invites-a-colleagu-13fbe-ddress-sent-is-the-roster-s-chromium",
+      "spec": "project",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/project-invites-a-colleagu-13fbe-ddress-sent-is-the-roster-s-chromium.gif",
+      "mp4": "clips/project-invites-a-colleagu-13fbe-ddress-sent-is-the-roster-s-chromium.mp4",
+      "gifBytes": 2028288
+    },
+    {
+      "slug": "project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium",
+      "spec": "project-work",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium.gif",
+      "mp4": "clips/project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium.mp4",
+      "gifBytes": 3804116
+    }
+  ],
+  "changedSpecs": [
+    "billing",
+    "project-work"
+  ]
+}
