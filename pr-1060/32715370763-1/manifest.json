@@ -1,0 +1,189 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "d338407ef4a10b8a3c6a6da77a4f36e19afe3e1a",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/32632949654"
+    },
+    "entries": [
+      {
+        "name": "billing-project-cap",
+        "spec": "billing",
+        "status": "removed",
+        "before": "screens/billing-project-cap.before.png"
+      },
+      {
+        "name": "invite-in-app-notification",
+        "spec": "invites",
+        "status": "added",
+        "after": "screens/invite-in-app-notification.after.png"
+      },
+      {
+        "name": "members-invite-already-here",
+        "spec": "invites",
+        "status": "added",
+        "after": "screens/members-invite-already-here.after.png"
+      },
+      {
+        "name": "project-invite-already-invited",
+        "spec": "project-invites",
+        "status": "added",
+        "after": "screens/project-invite-already-invited.after.png"
+      },
+      {
+        "name": "project-invite-colleague-picked",
+        "spec": "project-invites",
+        "status": "added",
+        "after": "screens/project-invite-colleague-picked.after.png"
+      },
+      {
+        "name": "project-invite-suggestions",
+        "spec": "project-invites",
+        "status": "added",
+        "after": "screens/project-invite-suggestions.after.png"
+      },
+      {
+        "name": "project-work-photo",
+        "spec": "project-work",
+        "status": "changed",
+        "ratio": 0.11374131944444445,
+        "resized": false,
+        "before": "screens/project-work-photo.before.png",
+        "after": "screens/project-work-photo.after.png",
+        "diff": "screens/project-work-photo.diff.png"
+      },
+      {
+        "name": "project-work-step",
+        "spec": "project-work",
+        "status": "changed",
+        "ratio": 0.08677300347222222,
+        "resized": false,
+        "before": "screens/project-work-step.before.png",
+        "after": "screens/project-work-step.after.png",
+        "diff": "screens/project-work-step.diff.png"
+      },
+      {
+        "name": "project-work-locked",
+        "spec": "project-work",
+        "status": "changed",
+        "ratio": 0.07908311631944444,
+        "resized": false,
+        "before": "screens/project-work-locked.before.png",
+        "after": "screens/project-work-locked.after.png",
+        "diff": "screens/project-work-locked.diff.png"
+      },
+      {
+        "name": "project-work-unlocked",
+        "spec": "project-work",
+        "status": "changed",
+        "ratio": 0.07908311631944444,
+        "resized": false,
+        "before": "screens/project-work-unlocked.before.png",
+        "after": "screens/project-work-unlocked.after.png",
+        "diff": "screens/project-work-unlocked.diff.png"
+      },
+      {
+        "name": "project-work-complete",
+        "spec": "project-work",
+        "status": "changed",
+        "ratio": 0.03463107638888889,
+        "resized": false,
+        "before": "screens/project-work-complete.before.png",
+        "after": "screens/project-work-complete.after.png",
+        "diff": "screens/project-work-complete.diff.png"
+      },
+      {
+        "name": "project-work-signoff",
+        "spec": "project-work",
+        "status": "changed",
+        "ratio": 0.03463107638888889,
+        "resized": false,
+        "before": "screens/project-work-signoff.before.png",
+        "after": "screens/project-work-signoff.after.png",
+        "diff": "screens/project-work-signoff.diff.png"
+      },
+      {
+        "name": "project-work-saved",
+        "spec": "project-work",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/project-work-saved.before.png",
+        "after": "screens/project-work-saved.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 161,
+      "differing": 51
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "billing-at-the-project-cap-e8fd4-nce-gives-way-to-the-reason-chromium",
+      "spec": "billing",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/billing-at-the-project-cap-e8fd4-nce-gives-way-to-the-reason-chromium.gif",
+      "mp4": "clips/billing-at-the-project-cap-e8fd4-nce-gives-way-to-the-reason-chromium.mp4",
+      "gifBytes": 1781911
+    },
+    {
+      "slug": "billing-at-the-project-cap-e8fd4-nce-gives-way-to-the-reason-chromium-retry1",
+      "spec": "billing",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/billing-at-the-project-cap-e8fd4-nce-gives-way-to-the-reason-chromium-retry1.gif",
+      "mp4": "clips/billing-at-the-project-cap-e8fd4-nce-gives-way-to-the-reason-chromium-retry1.mp4",
+      "gifBytes": 2308285
+    },
+    {
+      "slug": "project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium",
+      "spec": "project-work",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium.gif",
+      "mp4": "clips/project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium.mp4",
+      "gifBytes": 4604797
+    },
+    {
+      "slug": "project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium-retry1",
+      "spec": "project-work",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium-retry1.gif",
+      "mp4": "clips/project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium-retry1.mp4",
+      "gifBytes": 5072551
+    },
+    {
+      "slug": "invites-an-existing-member-6a5de-e-product-not-only-by-email-chromium",
+      "spec": "invites",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/invites-an-existing-member-6a5de-e-product-not-only-by-email-chromium.gif",
+      "mp4": "clips/invites-an-existing-member-6a5de-e-product-not-only-by-email-chromium.mp4",
+      "gifBytes": 1758406
+    },
+    {
+      "slug": "invites-an-invited-colleag-9e21b-ce-and-shows-up-as-a-member-chromium",
+      "spec": "invites",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/invites-an-invited-colleag-9e21b-ce-and-shows-up-as-a-member-chromium.gif",
+      "mp4": "clips/invites-an-invited-colleag-9e21b-ce-and-shows-up-as-a-member-chromium.mp4",
+      "gifBytes": 2356849
+    },
+    {
+      "slug": "project-invites-a-colleagu-13fbe-ddress-sent-is-the-roster-s-chromium",
+      "spec": "project",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/project-invites-a-colleagu-13fbe-ddress-sent-is-the-roster-s-chromium.gif",
+      "mp4": "clips/project-invites-a-colleagu-13fbe-ddress-sent-is-the-roster-s-chromium.mp4",
+      "gifBytes": 2342993
+    }
+  ],
+  "changedSpecs": [
+    "project-work"
+  ]
+}
