@@ -1,0 +1,200 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "d338407ef4a10b8a3c6a6da77a4f36e19afe3e1a",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/32632949654"
+    },
+    "entries": [
+      {
+        "name": "invite-in-app-notification",
+        "spec": "invites",
+        "status": "added",
+        "after": "screens/invite-in-app-notification.after.png"
+      },
+      {
+        "name": "members-invite-already-here",
+        "spec": "invites",
+        "status": "added",
+        "after": "screens/members-invite-already-here.after.png"
+      },
+      {
+        "name": "notifications-page",
+        "spec": "notifications",
+        "status": "added",
+        "after": "screens/notifications-page.after.png"
+      },
+      {
+        "name": "notifications-page-no-matches",
+        "spec": "notifications",
+        "status": "added",
+        "after": "screens/notifications-page-no-matches.after.png"
+      },
+      {
+        "name": "project-invite-already-invited",
+        "spec": "project-invites",
+        "status": "added",
+        "after": "screens/project-invite-already-invited.after.png"
+      },
+      {
+        "name": "project-invite-colleague-picked",
+        "spec": "project-invites",
+        "status": "added",
+        "after": "screens/project-invite-colleague-picked.after.png"
+      },
+      {
+        "name": "project-invite-suggestions",
+        "spec": "project-invites",
+        "status": "added",
+        "after": "screens/project-invite-suggestions.after.png"
+      },
+      {
+        "name": "long-feed-top",
+        "spec": "notifications",
+        "status": "changed",
+        "ratio": 0.012192925347222222,
+        "resized": false,
+        "before": "screens/long-feed-top.before.png",
+        "after": "screens/long-feed-top.after.png",
+        "diff": "screens/long-feed-top.diff.png"
+      },
+      {
+        "name": "long-feed-scrolled",
+        "spec": "notifications",
+        "status": "changed",
+        "ratio": 0.010651041666666666,
+        "resized": false,
+        "before": "screens/long-feed-scrolled.before.png",
+        "after": "screens/long-feed-scrolled.after.png",
+        "diff": "screens/long-feed-scrolled.diff.png"
+      },
+      {
+        "name": "landed-with-welcome",
+        "spec": "notifications",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/landed-with-welcome.before.png",
+        "after": "screens/landed-with-welcome.after.png"
+      },
+      {
+        "name": "setup-screen",
+        "spec": "notifications",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/setup-screen.before.png",
+        "after": "screens/setup-screen.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 165,
+      "differing": 63
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "invites-an-existing-member-6a5de-e-product-not-only-by-email-chromium",
+      "spec": "invites",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/invites-an-existing-member-6a5de-e-product-not-only-by-email-chromium.gif",
+      "mp4": "clips/invites-an-existing-member-6a5de-e-product-not-only-by-email-chromium.mp4",
+      "gifBytes": 1854104
+    },
+    {
+      "slug": "invites-an-invited-colleag-9e21b-ce-and-shows-up-as-a-member-chromium",
+      "spec": "invites",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/invites-an-invited-colleag-9e21b-ce-and-shows-up-as-a-member-chromium.gif",
+      "mp4": "clips/invites-an-invited-colleag-9e21b-ce-and-shows-up-as-a-member-chromium.mp4",
+      "gifBytes": 2512292
+    },
+    {
+      "slug": "notifications-notification-2cfa9-the-welcome-already-present-chromium",
+      "spec": "notifications",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/notifications-notification-2cfa9-the-welcome-already-present-chromium.gif",
+      "mp4": "clips/notifications-notification-2cfa9-the-welcome-already-present-chromium.mp4",
+      "gifBytes": 892503
+    },
+    {
+      "slug": "notifications-notification-31ee5-nd-opening-it-marks-it-read-chromium",
+      "spec": "notifications",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/notifications-notification-31ee5-nd-opening-it-marks-it-read-chromium.gif",
+      "mp4": "clips/notifications-notification-31ee5-nd-opening-it-marks-it-read-chromium.mp4",
+      "gifBytes": 1014132
+    },
+    {
+      "slug": "notifications-notification-53e22-d-as-no-filter-not-an-error-chromium",
+      "spec": "notifications",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/notifications-notification-53e22-d-as-no-filter-not-an-error-chromium.gif",
+      "mp4": "clips/notifications-notification-53e22-d-as-no-filter-not-an-error-chromium.mp4",
+      "gifBytes": 916404
+    },
+    {
+      "slug": "notifications-notification-5d398-atrix-and-toggles-a-channel-chromium",
+      "spec": "notifications",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/notifications-notification-5d398-atrix-and-toggles-a-channel-chromium.gif",
+      "mp4": "clips/notifications-notification-5d398-atrix-and-toggles-a-channel-chromium.mp4",
+      "gifBytes": 977430
+    },
+    {
+      "slug": "notifications-notification-89d8b-d-Show-older-stay-reachable-chromium",
+      "spec": "notifications",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/notifications-notification-89d8b-d-Show-older-stay-reachable-chromium.gif",
+      "mp4": "clips/notifications-notification-89d8b-d-Show-older-stay-reachable-chromium.mp4",
+      "gifBytes": 1227234
+    },
+    {
+      "slug": "notifications-notification-942fe-ody-can-satisfy-and-says-so-chromium",
+      "spec": "notifications",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/notifications-notification-942fe-ody-can-satisfy-and-says-so-chromium.gif",
+      "mp4": "clips/notifications-notification-942fe-ody-can-satisfy-and-says-so-chromium.mp4",
+      "gifBytes": 948958
+    },
+    {
+      "slug": "notifications-notification-cca2d-he-filters-reach-the-server-chromium",
+      "spec": "notifications",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/notifications-notification-cca2d-he-filters-reach-the-server-chromium.gif",
+      "mp4": "clips/notifications-notification-cca2d-he-filters-reach-the-server-chromium.mp4",
+      "gifBytes": 897233
+    },
+    {
+      "slug": "notifications-notification-f0a0c-ll-as-read-clears-the-badge-chromium",
+      "spec": "notifications",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/notifications-notification-f0a0c-ll-as-read-clears-the-badge-chromium.gif",
+      "mp4": "clips/notifications-notification-f0a0c-ll-as-read-clears-the-badge-chromium.mp4",
+      "gifBytes": 908357
+    },
+    {
+      "slug": "project-invites-a-colleagu-13fbe-ddress-sent-is-the-roster-s-chromium",
+      "spec": "project",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/project-invites-a-colleagu-13fbe-ddress-sent-is-the-roster-s-chromium.gif",
+      "mp4": "clips/project-invites-a-colleagu-13fbe-ddress-sent-is-the-roster-s-chromium.mp4",
+      "gifBytes": 2261763
+    }
+  ],
+  "changedSpecs": [
+    "notifications"
+  ]
+}
