@@ -1,0 +1,76 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "d338407ef4a10b8a3c6a6da77a4f36e19afe3e1a",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/32632949654"
+    },
+    "entries": [
+      {
+        "name": "invite-in-app-notification",
+        "spec": "invites",
+        "status": "added",
+        "after": "screens/invite-in-app-notification.after.png"
+      },
+      {
+        "name": "members-invite-already-here",
+        "spec": "invites",
+        "status": "added",
+        "after": "screens/members-invite-already-here.after.png"
+      },
+      {
+        "name": "project-invite-already-invited",
+        "spec": "project-invites",
+        "status": "added",
+        "after": "screens/project-invite-already-invited.after.png"
+      },
+      {
+        "name": "project-invite-colleague-picked",
+        "spec": "project-invites",
+        "status": "added",
+        "after": "screens/project-invite-colleague-picked.after.png"
+      },
+      {
+        "name": "project-invite-suggestions",
+        "spec": "project-invites",
+        "status": "added",
+        "after": "screens/project-invite-suggestions.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 169,
+      "differing": 59
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "invites-an-existing-member-6a5de-e-product-not-only-by-email-chromium",
+      "spec": "invites",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/invites-an-existing-member-6a5de-e-product-not-only-by-email-chromium.gif",
+      "mp4": "clips/invites-an-existing-member-6a5de-e-product-not-only-by-email-chromium.mp4",
+      "gifBytes": 1932395
+    },
+    {
+      "slug": "invites-an-invited-colleag-9e21b-ce-and-shows-up-as-a-member-chromium",
+      "spec": "invites",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/invites-an-invited-colleag-9e21b-ce-and-shows-up-as-a-member-chromium.gif",
+      "mp4": "clips/invites-an-invited-colleag-9e21b-ce-and-shows-up-as-a-member-chromium.mp4",
+      "gifBytes": 2695266
+    },
+    {
+      "slug": "project-invites-a-colleagu-13fbe-ddress-sent-is-the-roster-s-chromium",
+      "spec": "project",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/project-invites-a-colleagu-13fbe-ddress-sent-is-the-roster-s-chromium.gif",
+      "mp4": "clips/project-invites-a-colleagu-13fbe-ddress-sent-is-the-roster-s-chromium.mp4",
+      "gifBytes": 2372874
+    }
+  ],
+  "changedSpecs": []
+}
