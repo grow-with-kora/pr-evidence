@@ -1,0 +1,267 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "6406321cececdaf9eeabae97310990ca06ffdd40",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/32766089141"
+    },
+    "entries": [
+      {
+        "name": "invite-accepted-workspace",
+        "spec": "invites",
+        "status": "removed",
+        "before": "screens/invite-accepted-workspace.before.png"
+      },
+      {
+        "name": "members-after-acceptance",
+        "spec": "invites",
+        "status": "removed",
+        "before": "screens/members-after-acceptance.before.png"
+      },
+      {
+        "name": "members-invite-already-here",
+        "spec": "invites",
+        "status": "removed",
+        "before": "screens/members-invite-already-here.before.png"
+      },
+      {
+        "name": "onboarding-member-opened-workspace",
+        "spec": "onboarding",
+        "status": "removed",
+        "before": "screens/onboarding-member-opened-workspace.before.png"
+      },
+      {
+        "name": "project-invite-accepted-project",
+        "spec": "project-invites",
+        "status": "removed",
+        "before": "screens/project-invite-accepted-project.before.png"
+      },
+      {
+        "name": "project-invite-accepted-projects",
+        "spec": "project-invites",
+        "status": "removed",
+        "before": "screens/project-invite-accepted-projects.before.png"
+      },
+      {
+        "name": "project-manage-member",
+        "spec": "project-invites",
+        "status": "removed",
+        "before": "screens/project-manage-member.before.png"
+      },
+      {
+        "name": "project-people-after-acceptance",
+        "spec": "project-invites",
+        "status": "removed",
+        "before": "screens/project-people-after-acceptance.before.png"
+      },
+      {
+        "name": "project-remove-member-confirm",
+        "spec": "project-invites",
+        "status": "removed",
+        "before": "screens/project-remove-member-confirm.before.png"
+      },
+      {
+        "name": "sidebar-invite-accepted",
+        "spec": "invites",
+        "status": "removed",
+        "before": "screens/sidebar-invite-accepted.before.png"
+      },
+      {
+        "name": "workspace-home",
+        "spec": "workspaces",
+        "status": "removed",
+        "before": "screens/workspace-home.before.png"
+      },
+      {
+        "name": "project-work-comment",
+        "spec": "project-work",
+        "status": "added",
+        "after": "screens/project-work-comment.after.png"
+      },
+      {
+        "name": "workspace-general-with-photo",
+        "spec": "workspaces",
+        "status": "changed",
+        "ratio": 0.0009136284722222223,
+        "resized": false,
+        "before": "screens/workspace-general-with-photo.before.png",
+        "after": "screens/workspace-general-with-photo.after.png",
+        "diff": "screens/workspace-general-with-photo.diff.png"
+      },
+      {
+        "name": "workspace-switcher-with-photos",
+        "spec": "workspaces",
+        "status": "changed",
+        "ratio": 0.0009136284722222223,
+        "resized": false,
+        "before": "screens/workspace-switcher-with-photos.before.png",
+        "after": "screens/workspace-switcher-with-photos.after.png",
+        "diff": "screens/workspace-switcher-with-photos.diff.png"
+      }
+    ],
+    "skipped": {
+      "total": 167,
+      "differing": 79
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "invites-an-invited-colleag-9e21b-ce-and-shows-up-as-a-member-chromium",
+      "spec": "invites",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/invites-an-invited-colleag-9e21b-ce-and-shows-up-as-a-member-chromium.gif",
+      "mp4": "clips/invites-an-invited-colleag-9e21b-ce-and-shows-up-as-a-member-chromium.mp4",
+      "gifBytes": 2208924
+    },
+    {
+      "slug": "invites-an-invited-colleag-9e21b-ce-and-shows-up-as-a-member-chromium-retry1",
+      "spec": "invites",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/invites-an-invited-colleag-9e21b-ce-and-shows-up-as-a-member-chromium-retry1.gif",
+      "mp4": "clips/invites-an-invited-colleag-9e21b-ce-and-shows-up-as-a-member-chromium-retry1.mp4",
+      "gifBytes": 2528761
+    },
+    {
+      "slug": "invites-the-sidebar-surfac-42cb6-nvitations-wherever-you-are-chromium",
+      "spec": "invites",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/invites-the-sidebar-surfac-42cb6-nvitations-wherever-you-are-chromium.gif",
+      "mp4": "clips/invites-the-sidebar-surfac-42cb6-nvitations-wherever-you-are-chromium.mp4",
+      "gifBytes": 2588641
+    },
+    {
+      "slug": "invites-the-sidebar-surfac-42cb6-nvitations-wherever-you-are-chromium-retry1",
+      "spec": "invites",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/invites-the-sidebar-surfac-42cb6-nvitations-wherever-you-are-chromium-retry1.gif",
+      "mp4": "clips/invites-the-sidebar-surfac-42cb6-nvitations-wherever-you-are-chromium-retry1.mp4",
+      "gifBytes": 3080050
+    },
+    {
+      "slug": "onboarding-a-member-lands--ee728-kspace-through-the-selector-chromium",
+      "spec": "onboarding",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/onboarding-a-member-lands--ee728-kspace-through-the-selector-chromium.gif",
+      "mp4": "clips/onboarding-a-member-lands--ee728-kspace-through-the-selector-chromium.mp4",
+      "gifBytes": 1760117
+    },
+    {
+      "slug": "onboarding-a-member-lands--ee728-kspace-through-the-selector-chromium-retry1",
+      "spec": "onboarding",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/onboarding-a-member-lands--ee728-kspace-through-the-selector-chromium-retry1.gif",
+      "mp4": "clips/onboarding-a-member-lands--ee728-kspace-through-the-selector-chromium-retry1.mp4",
+      "gifBytes": 2071680
+    },
+    {
+      "slug": "project-invites-an-outside-32715-ailed-joins-and-lands-on-it-chromium",
+      "spec": "project",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/project-invites-an-outside-32715-ailed-joins-and-lands-on-it-chromium.gif",
+      "mp4": "clips/project-invites-an-outside-32715-ailed-joins-and-lands-on-it-chromium.mp4",
+      "gifBytes": 2770304
+    },
+    {
+      "slug": "project-invites-an-outside-32715-ailed-joins-and-lands-on-it-chromium-retry1",
+      "spec": "project",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/project-invites-an-outside-32715-ailed-joins-and-lands-on-it-chromium-retry1.gif",
+      "mp4": "clips/project-invites-an-outside-32715-ailed-joins-and-lands-on-it-chromium-retry1.mp4",
+      "gifBytes": 3696825
+    },
+    {
+      "slug": "workspaces-an-owner-rename-5a3e6-e-and-every-surface-follows-chromium",
+      "spec": "workspaces",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/workspaces-an-owner-rename-5a3e6-e-and-every-surface-follows-chromium.gif",
+      "mp4": "clips/workspaces-an-owner-rename-5a3e6-e-and-every-surface-follows-chromium.mp4",
+      "gifBytes": 2399548
+    },
+    {
+      "slug": "workspaces-an-owner-rename-5a3e6-e-and-every-surface-follows-chromium-retry1",
+      "spec": "workspaces",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/workspaces-an-owner-rename-5a3e6-e-and-every-surface-follows-chromium-retry1.gif",
+      "mp4": "clips/workspaces-an-owner-rename-5a3e6-e-and-every-surface-follows-chromium-retry1.mp4",
+      "gifBytes": 2524346
+    },
+    {
+      "slug": "workspaces-opening-a-works-7c282-s-on-its-own-host-signed-in-chromium",
+      "spec": "workspaces",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/workspaces-opening-a-works-7c282-s-on-its-own-host-signed-in-chromium.gif",
+      "mp4": "clips/workspaces-opening-a-works-7c282-s-on-its-own-host-signed-in-chromium.mp4",
+      "gifBytes": 1841194
+    },
+    {
+      "slug": "workspaces-opening-a-works-7c282-s-on-its-own-host-signed-in-chromium-retry1",
+      "spec": "workspaces",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/workspaces-opening-a-works-7c282-s-on-its-own-host-signed-in-chromium-retry1.gif",
+      "mp4": "clips/workspaces-opening-a-works-7c282-s-on-its-own-host-signed-in-chromium-retry1.mp4",
+      "gifBytes": 2427228
+    },
+    {
+      "slug": "project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium",
+      "spec": "project",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium.gif",
+      "mp4": "clips/project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium.mp4",
+      "gifBytes": 4709186
+    },
+    {
+      "slug": "theme-the-chosen-theme-fol-996e9--user-onto-the-admin-origin-chromium",
+      "spec": "theme",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/theme-the-chosen-theme-fol-996e9--user-onto-the-admin-origin-chromium.gif",
+      "mp4": "clips/theme-the-chosen-theme-fol-996e9--user-onto-the-admin-origin-chromium.mp4",
+      "gifBytes": 1074950
+    },
+    {
+      "slug": "workspaces-a-collaborator--86c6f-ace-but-no-way-to-change-it-chromium",
+      "spec": "workspaces",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/workspaces-a-collaborator--86c6f-ace-but-no-way-to-change-it-chromium.gif",
+      "mp4": "clips/workspaces-a-collaborator--86c6f-ace-but-no-way-to-change-it-chromium.mp4",
+      "gifBytes": 1535111
+    },
+    {
+      "slug": "workspaces-an-owner-gives--bcea8-to-and-the-switcher-follows-chromium",
+      "spec": "workspaces",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/workspaces-an-owner-gives--bcea8-to-and-the-switcher-follows-chromium.gif",
+      "mp4": "clips/workspaces-an-owner-gives--bcea8-to-and-the-switcher-follows-chromium.mp4",
+      "gifBytes": 1605625
+    },
+    {
+      "slug": "workspaces-the-selector-re-81e5d-ery-workspace-and-your-role-chromium",
+      "spec": "workspaces",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/workspaces-the-selector-re-81e5d-ery-workspace-and-your-role-chromium.gif",
+      "mp4": "clips/workspaces-the-selector-re-81e5d-ery-workspace-and-your-role-chromium.mp4",
+      "gifBytes": 907011
+    }
+  ],
+  "changedSpecs": [
+    "theme",
+    "workspaces"
+  ]
+}
