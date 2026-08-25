@@ -1,0 +1,27 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "3892ba119048c512e1faf3f4a951ff82d8f8f125",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/32908114684"
+    },
+    "entries": [],
+    "skipped": {
+      "total": 185,
+      "differing": 69
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "dashboards-resizing-a-widget-persists-its-new-size-chromium",
+      "spec": "dashboards",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/dashboards-resizing-a-widget-persists-its-new-size-chromium.gif",
+      "mp4": "clips/dashboards-resizing-a-widget-persists-its-new-size-chromium.mp4",
+      "gifBytes": 3085091
+    }
+  ],
+  "changedSpecs": []
+}
