@@ -1,0 +1,51 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "9463ce0b38c3709b84ff067badf81cda4d2324a5",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/32882453188"
+    },
+    "entries": [
+      {
+        "name": "login-signup-handoff",
+        "spec": "front-door-handoff",
+        "status": "added",
+        "after": "screens/login-signup-handoff.after.png"
+      },
+      {
+        "name": "plans-public",
+        "spec": "front-door-handoff",
+        "status": "added",
+        "after": "screens/plans-public.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 181,
+      "differing": 75
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "front-door-handoff-front-d-1713c--into-a-create-account-door-chromium",
+      "spec": "front-door-handoff",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/front-door-handoff-front-d-1713c--into-a-create-account-door-chromium.gif",
+      "mp4": "clips/front-door-handoff-front-d-1713c--into-a-create-account-door-chromium.mp4",
+      "gifBytes": 459897
+    },
+    {
+      "slug": "front-door-handoff-front-d-71d00-ice-list-without-signing-in-chromium",
+      "spec": "front-door-handoff",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/front-door-handoff-front-d-71d00-ice-list-without-signing-in-chromium.gif",
+      "mp4": "clips/front-door-handoff-front-d-71d00-ice-list-without-signing-in-chromium.mp4",
+      "gifBytes": 308067
+    }
+  ],
+  "changedSpecs": [
+    "front-door-handoff"
+  ]
+}
