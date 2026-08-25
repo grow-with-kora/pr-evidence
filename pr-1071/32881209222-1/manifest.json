@@ -1,0 +1,699 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "6406321cececdaf9eeabae97310990ca06ffdd40",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/32766089141"
+    },
+    "entries": [
+      {
+        "name": "project-work-comment",
+        "spec": "project-work",
+        "status": "added",
+        "after": "screens/project-work-comment.after.png"
+      },
+      {
+        "name": "project-people-invitation-pending",
+        "spec": "project-invites",
+        "status": "changed",
+        "ratio": 0.24621744791666667,
+        "resized": false,
+        "before": "screens/project-people-invitation-pending.before.png",
+        "after": "screens/project-people-invitation-pending.after.png",
+        "diff": "screens/project-people-invitation-pending.diff.png"
+      },
+      {
+        "name": "project-people-before-invite",
+        "spec": "project-invites",
+        "status": "changed",
+        "ratio": 0.24343098958333334,
+        "resized": false,
+        "before": "screens/project-people-before-invite.before.png",
+        "after": "screens/project-people-before-invite.after.png",
+        "diff": "screens/project-people-before-invite.diff.png"
+      },
+      {
+        "name": "project-people-after-acceptance",
+        "spec": "project-invites",
+        "status": "changed",
+        "ratio": 0.17953125,
+        "resized": false,
+        "before": "screens/project-people-after-acceptance.before.png",
+        "after": "screens/project-people-after-acceptance.after.png",
+        "diff": "screens/project-people-after-acceptance.diff.png"
+      },
+      {
+        "name": "project-invite-colleague-picked",
+        "spec": "project-invites",
+        "status": "changed",
+        "ratio": 0.07137912326388889,
+        "resized": false,
+        "before": "screens/project-invite-colleague-picked.before.png",
+        "after": "screens/project-invite-colleague-picked.after.png",
+        "diff": "screens/project-invite-colleague-picked.diff.png"
+      },
+      {
+        "name": "project-invite-already-invited",
+        "spec": "project-invites",
+        "status": "changed",
+        "ratio": 0.06541015625,
+        "resized": false,
+        "before": "screens/project-invite-already-invited.before.png",
+        "after": "screens/project-invite-already-invited.after.png",
+        "diff": "screens/project-invite-already-invited.diff.png"
+      },
+      {
+        "name": "project-invite-suggestions",
+        "spec": "project-invites",
+        "status": "changed",
+        "ratio": 0.06373263888888889,
+        "resized": false,
+        "before": "screens/project-invite-suggestions.before.png",
+        "after": "screens/project-invite-suggestions.after.png",
+        "diff": "screens/project-invite-suggestions.diff.png"
+      },
+      {
+        "name": "project-manage-member",
+        "spec": "project-invites",
+        "status": "changed",
+        "ratio": 0.04927734375,
+        "resized": false,
+        "before": "screens/project-manage-member.before.png",
+        "after": "screens/project-manage-member.after.png",
+        "diff": "screens/project-manage-member.diff.png"
+      },
+      {
+        "name": "project-invite-dialog",
+        "spec": "project-invites",
+        "status": "changed",
+        "ratio": 0.04357204861111111,
+        "resized": false,
+        "before": "screens/project-invite-dialog.before.png",
+        "after": "screens/project-invite-dialog.after.png",
+        "diff": "screens/project-invite-dialog.diff.png"
+      },
+      {
+        "name": "project-invite-accepted-project",
+        "spec": "project-invites",
+        "status": "changed",
+        "ratio": 0.03263454861111111,
+        "resized": false,
+        "before": "screens/project-invite-accepted-project.before.png",
+        "after": "screens/project-invite-accepted-project.after.png",
+        "diff": "screens/project-invite-accepted-project.diff.png"
+      },
+      {
+        "name": "onboarding-member-personal-home",
+        "spec": "onboarding",
+        "status": "changed",
+        "ratio": 0.005411241319444445,
+        "resized": false,
+        "before": "screens/onboarding-member-personal-home.before.png",
+        "after": "screens/onboarding-member-personal-home.after.png",
+        "diff": "screens/onboarding-member-personal-home.diff.png"
+      },
+      {
+        "name": "onboarding-created-workspace-home",
+        "spec": "onboarding",
+        "status": "changed",
+        "ratio": 0.003727213541666667,
+        "resized": false,
+        "before": "screens/onboarding-created-workspace-home.before.png",
+        "after": "screens/onboarding-created-workspace-home.after.png",
+        "diff": "screens/onboarding-created-workspace-home.diff.png"
+      },
+      {
+        "name": "project-remove-member-confirm",
+        "spec": "project-invites",
+        "status": "changed",
+        "ratio": 0.0035416666666666665,
+        "resized": false,
+        "before": "screens/project-remove-member-confirm.before.png",
+        "after": "screens/project-remove-member-confirm.after.png",
+        "diff": "screens/project-remove-member-confirm.diff.png"
+      },
+      {
+        "name": "members-invitation-pending",
+        "spec": "invites",
+        "status": "changed",
+        "ratio": 0.0035275607638888887,
+        "resized": false,
+        "before": "screens/members-invitation-pending.before.png",
+        "after": "screens/members-invitation-pending.after.png",
+        "diff": "screens/members-invitation-pending.diff.png"
+      },
+      {
+        "name": "onboarding-member-opened-workspace",
+        "spec": "onboarding",
+        "status": "changed",
+        "ratio": 0.003517795138888889,
+        "resized": false,
+        "before": "screens/onboarding-member-opened-workspace.before.png",
+        "after": "screens/onboarding-member-opened-workspace.after.png",
+        "diff": "screens/onboarding-member-opened-workspace.diff.png"
+      },
+      {
+        "name": "invite-accepted-workspace",
+        "spec": "invites",
+        "status": "changed",
+        "ratio": 0.0034168836805555554,
+        "resized": false,
+        "before": "screens/invite-accepted-workspace.before.png",
+        "after": "screens/invite-accepted-workspace.after.png",
+        "diff": "screens/invite-accepted-workspace.diff.png"
+      },
+      {
+        "name": "members-as-member",
+        "spec": "invites",
+        "status": "changed",
+        "ratio": 0.0031456163194444444,
+        "resized": false,
+        "before": "screens/members-as-member.before.png",
+        "after": "screens/members-as-member.after.png",
+        "diff": "screens/members-as-member.diff.png"
+      },
+      {
+        "name": "dashboards-narrow",
+        "spec": "dashboards",
+        "status": "changed",
+        "ratio": 0.0029499331632033055,
+        "resized": false,
+        "before": "screens/dashboards-narrow.before.png",
+        "after": "screens/dashboards-narrow.after.png",
+        "diff": "screens/dashboards-narrow.diff.png"
+      },
+      {
+        "name": "members-after-acceptance",
+        "spec": "invites",
+        "status": "changed",
+        "ratio": 0.00251953125,
+        "resized": false,
+        "before": "screens/members-after-acceptance.before.png",
+        "after": "screens/members-after-acceptance.after.png",
+        "diff": "screens/members-after-acceptance.diff.png"
+      },
+      {
+        "name": "members-before-invite",
+        "spec": "invites",
+        "status": "changed",
+        "ratio": 0.0023253038194444445,
+        "resized": false,
+        "before": "screens/members-before-invite.before.png",
+        "after": "screens/members-before-invite.after.png",
+        "diff": "screens/members-before-invite.diff.png"
+      },
+      {
+        "name": "members-blocked-colleague",
+        "spec": "invites",
+        "status": "changed",
+        "ratio": 0.0021549479166666666,
+        "resized": false,
+        "before": "screens/members-blocked-colleague.before.png",
+        "after": "screens/members-blocked-colleague.after.png",
+        "diff": "screens/members-blocked-colleague.diff.png"
+      },
+      {
+        "name": "project-invite-accepted-projects",
+        "spec": "project-invites",
+        "status": "changed",
+        "ratio": 0.0012706163194444444,
+        "resized": false,
+        "before": "screens/project-invite-accepted-projects.before.png",
+        "after": "screens/project-invite-accepted-projects.after.png",
+        "diff": "screens/project-invite-accepted-projects.diff.png"
+      },
+      {
+        "name": "sidebar-invite-accepted",
+        "spec": "invites",
+        "status": "changed",
+        "ratio": 0.0011501736111111111,
+        "resized": false,
+        "before": "screens/sidebar-invite-accepted.before.png",
+        "after": "screens/sidebar-invite-accepted.after.png",
+        "diff": "screens/sidebar-invite-accepted.diff.png"
+      },
+      {
+        "name": "members-manage-member",
+        "spec": "invites",
+        "status": "changed",
+        "ratio": 0.0011469184027777777,
+        "resized": false,
+        "before": "screens/members-manage-member.before.png",
+        "after": "screens/members-manage-member.after.png",
+        "diff": "screens/members-manage-member.diff.png"
+      },
+      {
+        "name": "quick-search-muted-hit",
+        "spec": "invites",
+        "status": "changed",
+        "ratio": 0.0010872395833333333,
+        "resized": false,
+        "before": "screens/quick-search-muted-hit.before.png",
+        "after": "screens/quick-search-muted-hit.after.png",
+        "diff": "screens/quick-search-muted-hit.diff.png"
+      },
+      {
+        "name": "onboarding-invite-accepted",
+        "spec": "onboarding",
+        "status": "changed",
+        "ratio": 0.001023220486111111,
+        "resized": false,
+        "before": "screens/onboarding-invite-accepted.before.png",
+        "after": "screens/onboarding-invite-accepted.after.png",
+        "diff": "screens/onboarding-invite-accepted.diff.png"
+      },
+      {
+        "name": "workspace-home",
+        "spec": "workspaces",
+        "status": "changed",
+        "ratio": 0.0009993489583333334,
+        "resized": false,
+        "before": "screens/workspace-home.before.png",
+        "after": "screens/workspace-home.after.png",
+        "diff": "screens/workspace-home.diff.png"
+      },
+      {
+        "name": "workspace-general-with-photo",
+        "spec": "workspaces",
+        "status": "changed",
+        "ratio": 0.0008930121527777777,
+        "resized": false,
+        "before": "screens/workspace-general-with-photo.before.png",
+        "after": "screens/workspace-general-with-photo.after.png",
+        "diff": "screens/workspace-general-with-photo.diff.png"
+      },
+      {
+        "name": "workspace-switcher-with-photos",
+        "spec": "workspaces",
+        "status": "changed",
+        "ratio": 0.0008930121527777777,
+        "resized": false,
+        "before": "screens/workspace-switcher-with-photos.before.png",
+        "after": "screens/workspace-switcher-with-photos.after.png",
+        "diff": "screens/workspace-switcher-with-photos.diff.png"
+      },
+      {
+        "name": "invite-email-mismatch",
+        "spec": "invites",
+        "status": "identical",
+        "ratio": 0.000361328125,
+        "resized": false,
+        "before": "screens/invite-email-mismatch.before.png",
+        "after": "screens/invite-email-mismatch.after.png"
+      },
+      {
+        "name": "invite-login-hint",
+        "spec": "invites",
+        "status": "identical",
+        "ratio": 0.000361328125,
+        "resized": false,
+        "before": "screens/invite-login-hint.before.png",
+        "after": "screens/invite-login-hint.after.png"
+      },
+      {
+        "name": "members-invite-already-here",
+        "spec": "invites",
+        "status": "identical",
+        "ratio": 0.00015950520833333333,
+        "resized": false,
+        "before": "screens/members-invite-already-here.before.png",
+        "after": "screens/members-invite-already-here.after.png"
+      },
+      {
+        "name": "members-after-removal",
+        "spec": "invites",
+        "status": "identical",
+        "ratio": 0.00006727430555555556,
+        "resized": false,
+        "before": "screens/members-after-removal.before.png",
+        "after": "screens/members-after-removal.after.png"
+      },
+      {
+        "name": "dashboards-widget-picker",
+        "spec": "dashboards",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/dashboards-widget-picker.before.png",
+        "after": "screens/dashboards-widget-picker.after.png"
+      },
+      {
+        "name": "invite-accept-choice",
+        "spec": "invites",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/invite-accept-choice.before.png",
+        "after": "screens/invite-accept-choice.after.png"
+      },
+      {
+        "name": "invite-after-switch",
+        "spec": "invites",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/invite-after-switch.before.png",
+        "after": "screens/invite-after-switch.after.png"
+      },
+      {
+        "name": "invite-in-app-notification",
+        "spec": "invites",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/invite-in-app-notification.before.png",
+        "after": "screens/invite-in-app-notification.after.png"
+      },
+      {
+        "name": "members-last-owner",
+        "spec": "invites",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/members-last-owner.before.png",
+        "after": "screens/members-last-owner.after.png"
+      },
+      {
+        "name": "members-remove-confirm",
+        "spec": "invites",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/members-remove-confirm.before.png",
+        "after": "screens/members-remove-confirm.after.png"
+      },
+      {
+        "name": "onboarding-field-limit-reached",
+        "spec": "onboarding",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/onboarding-field-limit-reached.before.png",
+        "after": "screens/onboarding-field-limit-reached.after.png"
+      },
+      {
+        "name": "onboarding-forced-create",
+        "spec": "onboarding",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/onboarding-forced-create.before.png",
+        "after": "screens/onboarding-forced-create.after.png"
+      },
+      {
+        "name": "onboarding-invite-choice",
+        "spec": "onboarding",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/onboarding-invite-choice.before.png",
+        "after": "screens/onboarding-invite-choice.after.png"
+      },
+      {
+        "name": "project-invite-join-choice",
+        "spec": "project-invites",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/project-invite-join-choice.before.png",
+        "after": "screens/project-invite-join-choice.after.png"
+      },
+      {
+        "name": "sidebar-pending-invites",
+        "spec": "invites",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/sidebar-pending-invites.before.png",
+        "after": "screens/sidebar-pending-invites.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 137,
+      "differing": 52
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "dashboards-a-stacked-board-9a6d2-get-in-full-not-a-72px-band-chromium",
+      "spec": "dashboards",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/dashboards-a-stacked-board-9a6d2-get-in-full-not-a-72px-band-chromium.gif",
+      "mp4": "clips/dashboards-a-stacked-board-9a6d2-get-in-full-not-a-72px-band-chromium.mp4",
+      "gifBytes": 1726009
+    },
+    {
+      "slug": "dashboards-dragging-a-widget-persists-its-new-place-chromium",
+      "spec": "dashboards",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/dashboards-dragging-a-widget-persists-its-new-place-chromium.gif",
+      "mp4": "clips/dashboards-dragging-a-widget-persists-its-new-place-chromium.mp4",
+      "gifBytes": 2422684
+    },
+    {
+      "slug": "dashboards-resizing-a-widget-persists-its-new-size-chromium",
+      "spec": "dashboards",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/dashboards-resizing-a-widget-persists-its-new-size-chromium.gif",
+      "mp4": "clips/dashboards-resizing-a-widget-persists-its-new-size-chromium.mp4",
+      "gifBytes": 2502879
+    },
+    {
+      "slug": "dashboards-the-management--a9607-ard-default-delete-fallback-chromium",
+      "spec": "dashboards",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/dashboards-the-management--a9607-ard-default-delete-fallback-chromium.gif",
+      "mp4": "clips/dashboards-the-management--a9607-ard-default-delete-fallback-chromium.mp4",
+      "gifBytes": 4486306
+    },
+    {
+      "slug": "dashboards-the-workspace-home-renders-the-seeded-dashboard-chromium",
+      "spec": "dashboards",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/dashboards-the-workspace-home-renders-the-seeded-dashboard-chromium.gif",
+      "mp4": "clips/dashboards-the-workspace-home-renders-the-seeded-dashboard-chromium.mp4",
+      "gifBytes": 1509561
+    },
+    {
+      "slug": "invites-a-blocked-colleagu-60e72-ow-and-both-surfaces-say-so-chromium",
+      "spec": "invites",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/invites-a-blocked-colleagu-60e72-ow-and-both-surfaces-say-so-chromium.gif",
+      "mp4": "clips/invites-a-blocked-colleagu-60e72-ow-and-both-surfaces-say-so-chromium.mp4",
+      "gifBytes": 1669719
+    },
+    {
+      "slug": "invites-a-member-sees-who-else-is-here-but-cannot-invite-chromium",
+      "spec": "invites",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/invites-a-member-sees-who-else-is-here-but-cannot-invite-chromium.gif",
+      "mp4": "clips/invites-a-member-sees-who-else-is-here-but-cannot-invite-chromium.mp4",
+      "gifBytes": 1506089
+    },
+    {
+      "slug": "invites-a-revoked-invitati-543b3-ailed-and-frees-the-address-chromium",
+      "spec": "invites",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/invites-a-revoked-invitati-543b3-ailed-and-frees-the-address-chromium.gif",
+      "mp4": "clips/invites-a-revoked-invitati-543b3-ailed-and-frees-the-address-chromium.mp4",
+      "gifBytes": 2505133
+    },
+    {
+      "slug": "invites-an-existing-member-6a5de-e-product-not-only-by-email-chromium",
+      "spec": "invites",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/invites-an-existing-member-6a5de-e-product-not-only-by-email-chromium.gif",
+      "mp4": "clips/invites-an-existing-member-6a5de-e-product-not-only-by-email-chromium.mp4",
+      "gifBytes": 2021133
+    },
+    {
+      "slug": "invites-an-invite-link-ope-de41e-s-the-mismatch-and-switches-chromium",
+      "spec": "invites",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/invites-an-invite-link-ope-de41e-s-the-mismatch-and-switches-chromium.gif",
+      "mp4": "clips/invites-an-invite-link-ope-de41e-s-the-mismatch-and-switches-chromium.mp4",
+      "gifBytes": 2046947
+    },
+    {
+      "slug": "invites-an-invited-colleag-9e21b-ce-and-shows-up-as-a-member-chromium",
+      "spec": "invites",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/invites-an-invited-colleag-9e21b-ce-and-shows-up-as-a-member-chromium.gif",
+      "mp4": "clips/invites-an-invited-colleag-9e21b-ce-and-shows-up-as-a-member-chromium.mp4",
+      "gifBytes": 2626382
+    },
+    {
+      "slug": "invites-removing-a-colleag-c8384--projects-it-takes-them-off-chromium",
+      "spec": "invites",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/invites-removing-a-colleag-c8384--projects-it-takes-them-off-chromium.gif",
+      "mp4": "clips/invites-removing-a-colleag-c8384--projects-it-takes-them-off-chromium.mp4",
+      "gifBytes": 1921085
+    },
+    {
+      "slug": "invites-the-only-owner-cannot-be-removed-and-is-told-why-chromium",
+      "spec": "invites",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/invites-the-only-owner-cannot-be-removed-and-is-told-why-chromium.gif",
+      "mp4": "clips/invites-the-only-owner-cannot-be-removed-and-is-told-why-chromium.mp4",
+      "gifBytes": 1648283
+    },
+    {
+      "slug": "invites-the-sidebar-surfac-42cb6-nvitations-wherever-you-are-chromium",
+      "spec": "invites",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/invites-the-sidebar-surfac-42cb6-nvitations-wherever-you-are-chromium.gif",
+      "mp4": "clips/invites-the-sidebar-surfac-42cb6-nvitations-wherever-you-are-chromium.mp4",
+      "gifBytes": 2486100
+    },
+    {
+      "slug": "onboarding-a-member-lands--ee728-kspace-through-the-selector-chromium",
+      "spec": "onboarding",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/onboarding-a-member-lands--ee728-kspace-through-the-selector-chromium.gif",
+      "mp4": "clips/onboarding-a-member-lands--ee728-kspace-through-the-selector-chromium.mp4",
+      "gifBytes": 1071296
+    },
+    {
+      "slug": "onboarding-a-new-user-is-f-34aff-on-the-workspace-s-own-host-chromium",
+      "spec": "onboarding",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/onboarding-a-new-user-is-f-34aff-on-the-workspace-s-own-host-chromium.gif",
+      "mp4": "clips/onboarding-a-new-user-is-f-34aff-on-the-workspace-s-own-host-chromium.mp4",
+      "gifBytes": 1192201
+    },
+    {
+      "slug": "onboarding-a-returning-use-2b035-s-held-at-create-every-time-chromium",
+      "spec": "onboarding",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/onboarding-a-returning-use-2b035-s-held-at-create-every-time-chromium.gif",
+      "mp4": "clips/onboarding-a-returning-use-2b035-s-held-at-create-every-time-chromium.mp4",
+      "gifBytes": 596164
+    },
+    {
+      "slug": "onboarding-a-seeded-invita-c837f-he-invited-workspace-s-host-chromium",
+      "spec": "onboarding",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/onboarding-a-seeded-invita-c837f-he-invited-workspace-s-host-chromium.gif",
+      "mp4": "clips/onboarding-a-seeded-invita-c837f-he-invited-workspace-s-host-chromium.mp4",
+      "gifBytes": 1305006
+    },
+    {
+      "slug": "onboarding-bounded-fields--64d69-o-when-they-drop-characters-chromium",
+      "spec": "onboarding",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/onboarding-bounded-fields--64d69-o-when-they-drop-characters-chromium.gif",
+      "mp4": "clips/onboarding-bounded-fields--64d69-o-when-they-drop-characters-chromium.mp4",
+      "gifBytes": 566456
+    },
+    {
+      "slug": "project-invites-a-colleagu-13fbe-ddress-sent-is-the-roster-s-chromium",
+      "spec": "project-invites",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/project-invites-a-colleagu-13fbe-ddress-sent-is-the-roster-s-chromium.gif",
+      "mp4": "clips/project-invites-a-colleagu-13fbe-ddress-sent-is-the-roster-s-chromium.mp4",
+      "gifBytes": 2119061
+    },
+    {
+      "slug": "project-invites-an-outside-32715-ailed-joins-and-lands-on-it-chromium",
+      "spec": "project-invites",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/project-invites-an-outside-32715-ailed-joins-and-lands-on-it-chromium.gif",
+      "mp4": "clips/project-invites-an-outside-32715-ailed-joins-and-lands-on-it-chromium.mp4",
+      "gifBytes": 3663281
+    },
+    {
+      "slug": "project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium",
+      "spec": "project",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium.gif",
+      "mp4": "clips/project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium.mp4",
+      "gifBytes": 4825755
+    },
+    {
+      "slug": "theme-the-chosen-theme-fol-996e9--user-onto-the-admin-origin-chromium",
+      "spec": "theme",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/theme-the-chosen-theme-fol-996e9--user-onto-the-admin-origin-chromium.gif",
+      "mp4": "clips/theme-the-chosen-theme-fol-996e9--user-onto-the-admin-origin-chromium.mp4",
+      "gifBytes": 1789148
+    },
+    {
+      "slug": "workspaces-a-collaborator--86c6f-ace-but-no-way-to-change-it-chromium",
+      "spec": "workspaces",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/workspaces-a-collaborator--86c6f-ace-but-no-way-to-change-it-chromium.gif",
+      "mp4": "clips/workspaces-a-collaborator--86c6f-ace-but-no-way-to-change-it-chromium.mp4",
+      "gifBytes": 1691665
+    },
+    {
+      "slug": "workspaces-an-owner-gives--bcea8-to-and-the-switcher-follows-chromium",
+      "spec": "workspaces",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/workspaces-an-owner-gives--bcea8-to-and-the-switcher-follows-chromium.gif",
+      "mp4": "clips/workspaces-an-owner-gives--bcea8-to-and-the-switcher-follows-chromium.mp4",
+      "gifBytes": 1736872
+    },
+    {
+      "slug": "workspaces-an-owner-rename-5a3e6-e-and-every-surface-follows-chromium",
+      "spec": "workspaces",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/workspaces-an-owner-rename-5a3e6-e-and-every-surface-follows-chromium.gif",
+      "mp4": "clips/workspaces-an-owner-rename-5a3e6-e-and-every-surface-follows-chromium.mp4",
+      "gifBytes": 1346069
+    },
+    {
+      "slug": "workspaces-opening-a-works-7c282-s-on-its-own-host-signed-in-chromium",
+      "spec": "workspaces",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/workspaces-opening-a-works-7c282-s-on-its-own-host-signed-in-chromium.gif",
+      "mp4": "clips/workspaces-opening-a-works-7c282-s-on-its-own-host-signed-in-chromium.mp4",
+      "gifBytes": 1238116
+    },
+    {
+      "slug": "workspaces-the-selector-re-81e5d-ery-workspace-and-your-role-chromium",
+      "spec": "workspaces",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/workspaces-the-selector-re-81e5d-ery-workspace-and-your-role-chromium.gif",
+      "mp4": "clips/workspaces-the-selector-re-81e5d-ery-workspace-and-your-role-chromium.mp4",
+      "gifBytes": 859188
+    }
+  ],
+  "changedSpecs": [
+    "dashboards",
+    "invites",
+    "onboarding",
+    "project-invites",
+    "theme",
+    "workspaces"
+  ]
+}
