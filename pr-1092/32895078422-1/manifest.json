@@ -1,0 +1,90 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "9463ce0b38c3709b84ff067badf81cda4d2324a5",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/32882453188"
+    },
+    "entries": [
+      {
+        "name": "login-signup-handoff",
+        "spec": "front-door-handoff",
+        "status": "added",
+        "after": "screens/login-signup-handoff.after.png"
+      },
+      {
+        "name": "plans-public",
+        "spec": "front-door-handoff",
+        "status": "added",
+        "after": "screens/plans-public.after.png"
+      },
+      {
+        "name": "saved-filters-picker",
+        "spec": "saved-filters",
+        "status": "changed",
+        "ratio": 0.01155056423611111,
+        "resized": false,
+        "before": "screens/saved-filters-picker.before.png",
+        "after": "screens/saved-filters-picker.after.png",
+        "diff": "screens/saved-filters-picker.diff.png"
+      },
+      {
+        "name": "saved-filters-modified",
+        "spec": "saved-filters",
+        "status": "changed",
+        "ratio": 0.008510199652777778,
+        "resized": false,
+        "before": "screens/saved-filters-modified.before.png",
+        "after": "screens/saved-filters-modified.after.png",
+        "diff": "screens/saved-filters-modified.diff.png"
+      },
+      {
+        "name": "saved-filters-applied",
+        "spec": "saved-filters",
+        "status": "changed",
+        "ratio": 0.007788628472222222,
+        "resized": false,
+        "before": "screens/saved-filters-applied.before.png",
+        "after": "screens/saved-filters-applied.after.png",
+        "diff": "screens/saved-filters-applied.diff.png"
+      }
+    ],
+    "skipped": {
+      "total": 178,
+      "differing": 69
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "front-door-handoff-front-d-1713c--into-a-create-account-door-chromium",
+      "spec": "front",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/front-door-handoff-front-d-1713c--into-a-create-account-door-chromium.gif",
+      "mp4": "clips/front-door-handoff-front-d-1713c--into-a-create-account-door-chromium.mp4",
+      "gifBytes": 387832
+    },
+    {
+      "slug": "front-door-handoff-front-d-71d00-ice-list-without-signing-in-chromium",
+      "spec": "front",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/front-door-handoff-front-d-71d00-ice-list-without-signing-in-chromium.gif",
+      "mp4": "clips/front-door-handoff-front-d-71d00-ice-list-without-signing-in-chromium.mp4",
+      "gifBytes": 223351
+    },
+    {
+      "slug": "saved-filters-a-platform-a-04625-t-shares-one-and-deletes-it-chromium",
+      "spec": "saved-filters",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/saved-filters-a-platform-a-04625-t-shares-one-and-deletes-it-chromium.gif",
+      "mp4": "clips/saved-filters-a-platform-a-04625-t-shares-one-and-deletes-it-chromium.mp4",
+      "gifBytes": 4931748
+    }
+  ],
+  "changedSpecs": [
+    "saved-filters"
+  ]
+}
