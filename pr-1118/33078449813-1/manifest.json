@@ -1,0 +1,192 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "cc472c13ef89d434c2585851ae9b7bbba787813f",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/33069055467"
+    },
+    "entries": [
+      {
+        "name": "project-tasks",
+        "spec": "project-work",
+        "status": "added",
+        "after": "screens/project-tasks.after.png"
+      },
+      {
+        "name": "project-tasks-done",
+        "spec": "project-work",
+        "status": "added",
+        "after": "screens/project-tasks-done.after.png"
+      },
+      {
+        "name": "project-work-collection",
+        "spec": "project-work",
+        "status": "changed",
+        "ratio": 0.10530598958333333,
+        "resized": false,
+        "before": "screens/project-work-collection.before.png",
+        "after": "screens/project-work-collection.after.png",
+        "diff": "screens/project-work-collection.diff.png"
+      },
+      {
+        "name": "project-work-not-applicable",
+        "spec": "project-work",
+        "status": "changed",
+        "ratio": 0.10525499131944445,
+        "resized": false,
+        "before": "screens/project-work-not-applicable.before.png",
+        "after": "screens/project-work-not-applicable.after.png",
+        "diff": "screens/project-work-not-applicable.diff.png"
+      },
+      {
+        "name": "project-work-photo",
+        "spec": "project-work",
+        "status": "changed",
+        "ratio": 0.105234375,
+        "resized": false,
+        "before": "screens/project-work-photo.before.png",
+        "after": "screens/project-work-photo.after.png",
+        "diff": "screens/project-work-photo.diff.png"
+      },
+      {
+        "name": "project-work-step",
+        "spec": "project-work",
+        "status": "changed",
+        "ratio": 0.09031141493055556,
+        "resized": false,
+        "before": "screens/project-work-step.before.png",
+        "after": "screens/project-work-step.after.png",
+        "diff": "screens/project-work-step.diff.png"
+      },
+      {
+        "name": "project-work-locked",
+        "spec": "project-work",
+        "status": "changed",
+        "ratio": 0.07865234375,
+        "resized": false,
+        "before": "screens/project-work-locked.before.png",
+        "after": "screens/project-work-locked.after.png",
+        "diff": "screens/project-work-locked.diff.png"
+      },
+      {
+        "name": "project-work-unlocked",
+        "spec": "project-work",
+        "status": "changed",
+        "ratio": 0.07855251736111112,
+        "resized": false,
+        "before": "screens/project-work-unlocked.before.png",
+        "after": "screens/project-work-unlocked.after.png",
+        "diff": "screens/project-work-unlocked.diff.png"
+      },
+      {
+        "name": "project-live",
+        "spec": "project-work",
+        "status": "changed",
+        "ratio": 0.031787109375,
+        "resized": false,
+        "before": "screens/project-live.before.png",
+        "after": "screens/project-live.after.png",
+        "diff": "screens/project-live.diff.png"
+      },
+      {
+        "name": "project-work-mention",
+        "spec": "project-work",
+        "status": "changed",
+        "ratio": 0.024622395833333335,
+        "resized": false,
+        "before": "screens/project-work-mention.before.png",
+        "after": "screens/project-work-mention.after.png",
+        "diff": "screens/project-work-mention.diff.png"
+      },
+      {
+        "name": "project-work-complete",
+        "spec": "project-work",
+        "status": "changed",
+        "ratio": 0.02324652777777778,
+        "resized": false,
+        "before": "screens/project-work-complete.before.png",
+        "after": "screens/project-work-complete.after.png",
+        "diff": "screens/project-work-complete.diff.png"
+      },
+      {
+        "name": "project-work-comment",
+        "spec": "project-work",
+        "status": "changed",
+        "ratio": 0.023185763888888888,
+        "resized": false,
+        "before": "screens/project-work-comment.before.png",
+        "after": "screens/project-work-comment.after.png",
+        "diff": "screens/project-work-comment.diff.png"
+      },
+      {
+        "name": "project-work-mention-hovercard",
+        "spec": "project-work",
+        "status": "changed",
+        "ratio": 0.023185763888888888,
+        "resized": false,
+        "before": "screens/project-work-mention-hovercard.before.png",
+        "after": "screens/project-work-mention-hovercard.after.png",
+        "diff": "screens/project-work-mention-hovercard.diff.png"
+      },
+      {
+        "name": "project-work-mention-picker",
+        "spec": "project-work",
+        "status": "changed",
+        "ratio": 0.023185763888888888,
+        "resized": false,
+        "before": "screens/project-work-mention-picker.before.png",
+        "after": "screens/project-work-mention-picker.after.png",
+        "diff": "screens/project-work-mention-picker.diff.png"
+      },
+      {
+        "name": "project-work-signoff",
+        "spec": "project-work",
+        "status": "changed",
+        "ratio": 0.023185763888888888,
+        "resized": false,
+        "before": "screens/project-work-signoff.before.png",
+        "after": "screens/project-work-signoff.after.png",
+        "diff": "screens/project-work-signoff.diff.png"
+      },
+      {
+        "name": "project-go-live",
+        "spec": "project-work",
+        "status": "changed",
+        "ratio": 0.009231770833333333,
+        "resized": false,
+        "before": "screens/project-go-live.before.png",
+        "after": "screens/project-go-live.after.png",
+        "diff": "screens/project-go-live.diff.png"
+      },
+      {
+        "name": "project-work-saved",
+        "spec": "project-work",
+        "status": "changed",
+        "ratio": 0.002451171875,
+        "resized": false,
+        "before": "screens/project-work-saved.before.png",
+        "after": "screens/project-work-saved.after.png",
+        "diff": "screens/project-work-saved.diff.png"
+      }
+    ],
+    "skipped": {
+      "total": 171,
+      "differing": 71
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium",
+      "spec": "project-work",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium.gif",
+      "mp4": "clips/project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium.mp4",
+      "gifBytes": 5565854
+    }
+  ],
+  "changedSpecs": [
+    "project-work"
+  ]
+}
