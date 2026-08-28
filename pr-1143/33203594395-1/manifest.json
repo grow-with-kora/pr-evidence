@@ -1,0 +1,60 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "c3a87aaf3c3aca55c8e3a2a516fa675abaf4c942",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/33202748935"
+    },
+    "entries": [
+      {
+        "name": "workspace-access-history",
+        "spec": "access-history",
+        "status": "added",
+        "after": "screens/workspace-access-history.after.png"
+      },
+      {
+        "name": "workspace-access-history-widened",
+        "spec": "access-history",
+        "status": "added",
+        "after": "screens/workspace-access-history-widened.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 192,
+      "differing": 83
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "access-history-a-grant-wid-2fa21--reason-it-is-not-a-refusal-chromium",
+      "spec": "access-history",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/access-history-a-grant-wid-2fa21--reason-it-is-not-a-refusal-chromium.gif",
+      "mp4": "clips/access-history-a-grant-wid-2fa21--reason-it-is-not-a-refusal-chromium.mp4",
+      "gifBytes": 1439208
+    },
+    {
+      "slug": "access-history-a-member-is-4b546--refused-if-they-ask-anyway-chromium",
+      "spec": "access-history",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/access-history-a-member-is-4b546--refused-if-they-ask-anyway-chromium.gif",
+      "mp4": "clips/access-history-a-member-is-4b546--refused-if-they-ask-anyway-chromium.mp4",
+      "gifBytes": 1538939
+    },
+    {
+      "slug": "access-history-an-owner-re-d323b-rds-rather-than-event-names-chromium",
+      "spec": "access-history",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/access-history-an-owner-re-d323b-rds-rather-than-event-names-chromium.gif",
+      "mp4": "clips/access-history-an-owner-re-d323b-rds-rather-than-event-names-chromium.mp4",
+      "gifBytes": 1650769
+    }
+  ],
+  "changedSpecs": [
+    "access-history"
+  ]
+}
