@@ -1,0 +1,65 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "6c0aa47b035b5c39e59440be9ac84ed70329f062",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/33198044478"
+    },
+    "entries": [],
+    "skipped": {
+      "total": 192,
+      "differing": 83
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "access-history-a-grant-wid-2fa21--reason-it-is-not-a-refusal-chromium",
+      "spec": "access-history",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/access-history-a-grant-wid-2fa21--reason-it-is-not-a-refusal-chromium.gif",
+      "mp4": "clips/access-history-a-grant-wid-2fa21--reason-it-is-not-a-refusal-chromium.mp4",
+      "gifBytes": 1441995
+    },
+    {
+      "slug": "access-history-a-grant-wid-2fa21--reason-it-is-not-a-refusal-chromium-retry1",
+      "spec": "access-history",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/access-history-a-grant-wid-2fa21--reason-it-is-not-a-refusal-chromium-retry1.gif",
+      "mp4": "clips/access-history-a-grant-wid-2fa21--reason-it-is-not-a-refusal-chromium-retry1.mp4",
+      "gifBytes": 2033824
+    },
+    {
+      "slug": "access-history-an-owner-re-d323b-rds-rather-than-event-names-chromium",
+      "spec": "access-history",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/access-history-an-owner-re-d323b-rds-rather-than-event-names-chromium.gif",
+      "mp4": "clips/access-history-an-owner-re-d323b-rds-rather-than-event-names-chromium.mp4",
+      "gifBytes": 1883825
+    },
+    {
+      "slug": "access-history-an-owner-re-d323b-rds-rather-than-event-names-chromium-retry1",
+      "spec": "access-history",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/access-history-an-owner-re-d323b-rds-rather-than-event-names-chromium-retry1.gif",
+      "mp4": "clips/access-history-an-owner-re-d323b-rds-rather-than-event-names-chromium-retry1.mp4",
+      "gifBytes": 1749218
+    },
+    {
+      "slug": "access-history-a-member-is-4b546--refused-if-they-ask-anyway-chromium",
+      "spec": "access-history",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/access-history-a-member-is-4b546--refused-if-they-ask-anyway-chromium.gif",
+      "mp4": "clips/access-history-a-member-is-4b546--refused-if-they-ask-anyway-chromium.mp4",
+      "gifBytes": 1486538
+    }
+  ],
+  "changedSpecs": [
+    "access-history"
+  ]
+}
