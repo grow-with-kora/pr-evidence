@@ -1,0 +1,66 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "a5183749fb71a7efa9186685ebc0e24daaf725a0",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/33184797566"
+    },
+    "entries": [
+      {
+        "name": "project-access-map",
+        "spec": "project-access",
+        "status": "added",
+        "after": "screens/project-access-map.after.png"
+      },
+      {
+        "name": "project-access-member",
+        "spec": "project-access",
+        "status": "added",
+        "after": "screens/project-access-member.after.png"
+      },
+      {
+        "name": "project-access-own",
+        "spec": "project-access",
+        "status": "added",
+        "after": "screens/project-access-own.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 189,
+      "differing": 71
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "dashboards-resizing-a-widget-persists-its-new-size-chromium",
+      "spec": "dashboards",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/dashboards-resizing-a-widget-persists-its-new-size-chromium.gif",
+      "mp4": "clips/dashboards-resizing-a-widget-persists-its-new-size-chromium.mp4",
+      "gifBytes": 3520360
+    },
+    {
+      "slug": "project-access-access-is-d-95afe-n-as-exactly-what-they-hold-chromium",
+      "spec": "project-access",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/project-access-access-is-d-95afe-n-as-exactly-what-they-hold-chromium.gif",
+      "mp4": "clips/project-access-access-is-d-95afe-n-as-exactly-what-they-hold-chromium.mp4",
+      "gifBytes": 2712795
+    },
+    {
+      "slug": "project-access-access-is-d-95afe-n-as-exactly-what-they-hold-chromium-retry1",
+      "spec": "project-access",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/project-access-access-is-d-95afe-n-as-exactly-what-they-hold-chromium-retry1.gif",
+      "mp4": "clips/project-access-access-is-d-95afe-n-as-exactly-what-they-hold-chromium-retry1.mp4",
+      "gifBytes": 2945265
+    }
+  ],
+  "changedSpecs": [
+    "project-access"
+  ]
+}
