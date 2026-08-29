@@ -1,0 +1,60 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "40e3fccb62d7f4682413e1cbd964f64caf757387",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/33252249711"
+    },
+    "entries": [
+      {
+        "name": "workspace-library-folder",
+        "spec": "library",
+        "status": "added",
+        "after": "screens/workspace-library-folder.after.png"
+      },
+      {
+        "name": "workspace-library-root",
+        "spec": "library",
+        "status": "added",
+        "after": "screens/workspace-library-root.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 194,
+      "differing": 86
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "project-access-access-is-d-95afe-n-as-exactly-what-they-hold-chromium",
+      "spec": "project",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/project-access-access-is-d-95afe-n-as-exactly-what-they-hold-chromium.gif",
+      "mp4": "clips/project-access-access-is-d-95afe-n-as-exactly-what-they-hold-chromium.mp4",
+      "gifBytes": 3110367
+    },
+    {
+      "slug": "library-an-owner-files-a-d-ba592-e-until-it-has-been-scanned-chromium",
+      "spec": "library",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/library-an-owner-files-a-d-ba592-e-until-it-has-been-scanned-chromium.gif",
+      "mp4": "clips/library-an-owner-files-a-d-ba592-e-until-it-has-been-scanned-chromium.mp4",
+      "gifBytes": 956271
+    },
+    {
+      "slug": "library-removing-a-documen-dbae0-er-that-held-it-can-then-go-chromium",
+      "spec": "library",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/library-removing-a-documen-dbae0-er-that-held-it-can-then-go-chromium.gif",
+      "mp4": "clips/library-removing-a-documen-dbae0-er-that-held-it-can-then-go-chromium.mp4",
+      "gifBytes": 1009160
+    }
+  ],
+  "changedSpecs": [
+    "library"
+  ]
+}
