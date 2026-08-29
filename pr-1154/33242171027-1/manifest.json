@@ -1,0 +1,27 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "26de0d3d2989648515fe38ec33b94734e549f932",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/33241589843"
+    },
+    "entries": [],
+    "skipped": {
+      "total": 194,
+      "differing": 67
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "project-invites-an-outside-32715-ailed-joins-and-lands-on-it-chromium",
+      "spec": "project",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/project-invites-an-outside-32715-ailed-joins-and-lands-on-it-chromium.gif",
+      "mp4": "clips/project-invites-an-outside-32715-ailed-joins-and-lands-on-it-chromium.mp4",
+      "gifBytes": 3312975
+    }
+  ],
+  "changedSpecs": []
+}
