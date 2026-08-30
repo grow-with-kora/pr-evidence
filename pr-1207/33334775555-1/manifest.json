@@ -1,0 +1,28 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "126fc18fb810e16c295fc1da0f66d8262dd96830",
+      "capturedAt": "2026-08-30T20:19:26Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/33332704516"
+    },
+    "entries": [],
+    "skipped": {
+      "total": 196,
+      "differing": 64
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "library-an-owner-files-a-d-ba592-e-until-it-has-been-scanned-chromium",
+      "spec": "library",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/library-an-owner-files-a-d-ba592-e-until-it-has-been-scanned-chromium.gif",
+      "mp4": "clips/library-an-owner-files-a-d-ba592-e-until-it-has-been-scanned-chromium.mp4",
+      "gifBytes": 1987572
+    }
+  ],
+  "changedSpecs": []
+}
