@@ -1,0 +1,62 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "82ff9312fec15950769f91da97500486a59751d7",
+      "capturedAt": "2026-08-31T12:56:38Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/33393094986"
+    },
+    "entries": [
+      {
+        "name": "project-detail",
+        "spec": "projects",
+        "status": "removed",
+        "before": "screens/project-detail.before.png"
+      },
+      {
+        "name": "project-members",
+        "spec": "projects",
+        "status": "removed",
+        "before": "screens/project-members.before.png"
+      },
+      {
+        "name": "projects-create-dialog",
+        "spec": "projects",
+        "status": "removed",
+        "before": "screens/projects-create-dialog.before.png"
+      },
+      {
+        "name": "projects-list",
+        "spec": "projects",
+        "status": "removed",
+        "before": "screens/projects-list.before.png"
+      }
+    ],
+    "skipped": {
+      "total": 195,
+      "differing": 79
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "projects-an-owner-creates-a-project-and-lands-on-it-chromium",
+      "spec": "projects",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/projects-an-owner-creates-a-project-and-lands-on-it-chromium.gif",
+      "mp4": "clips/projects-an-owner-creates-a-project-and-lands-on-it-chromium.mp4",
+      "gifBytes": 2257513
+    },
+    {
+      "slug": "projects-an-owner-creates-a-project-and-lands-on-it-chromium-retry1",
+      "spec": "projects",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/projects-an-owner-creates-a-project-and-lands-on-it-chromium-retry1.gif",
+      "mp4": "clips/projects-an-owner-creates-a-project-and-lands-on-it-chromium-retry1.mp4",
+      "gifBytes": 2701474
+    }
+  ],
+  "changedSpecs": []
+}
