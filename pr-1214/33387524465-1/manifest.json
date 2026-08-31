@@ -1,0 +1,76 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "ea2097e5270cd915bbd3a500a7ce5373fc5ab459",
+      "capturedAt": "2026-08-31T10:26:58Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/33381416304"
+    },
+    "entries": [
+      {
+        "name": "document-explorer-masked",
+        "spec": "project-access",
+        "status": "added",
+        "after": "screens/document-explorer-masked.after.png"
+      },
+      {
+        "name": "project-access-member",
+        "spec": "project-access",
+        "status": "changed",
+        "ratio": 0.03535590277777778,
+        "resized": false,
+        "before": "screens/project-access-member.before.png",
+        "after": "screens/project-access-member.after.png",
+        "diff": "screens/project-access-member.diff.png"
+      },
+      {
+        "name": "project-access-map",
+        "spec": "project-access",
+        "status": "changed",
+        "ratio": 0.03533637152777778,
+        "resized": false,
+        "before": "screens/project-access-map.before.png",
+        "after": "screens/project-access-map.after.png",
+        "diff": "screens/project-access-map.diff.png"
+      },
+      {
+        "name": "project-access-own",
+        "spec": "project-access",
+        "status": "changed",
+        "ratio": 0.03533637152777778,
+        "resized": false,
+        "before": "screens/project-access-own.before.png",
+        "after": "screens/project-access-own.after.png",
+        "diff": "screens/project-access-own.diff.png"
+      }
+    ],
+    "skipped": {
+      "total": 195,
+      "differing": 62
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium",
+      "spec": "project",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium.gif",
+      "mp4": "clips/project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium.mp4",
+      "gifBytes": 3662855
+    },
+    {
+      "slug": "project-access-access-is-d-95afe-n-as-exactly-what-they-hold-chromium",
+      "spec": "project-access",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/project-access-access-is-d-95afe-n-as-exactly-what-they-hold-chromium.gif",
+      "mp4": "clips/project-access-access-is-d-95afe-n-as-exactly-what-they-hold-chromium.mp4",
+      "gifBytes": 3223575
+    }
+  ],
+  "changedSpecs": [
+    "project-access"
+  ]
+}
