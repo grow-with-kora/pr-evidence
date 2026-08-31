@@ -1,0 +1,128 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "dc566293fbacd1bd6ffa8d3a5dfb3fd519529eca",
+      "capturedAt": "2026-08-31T14:45:42Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/33402935530"
+    },
+    "entries": [
+      {
+        "name": "project-go-live",
+        "spec": "project-work",
+        "status": "removed",
+        "before": "screens/project-go-live.before.png"
+      },
+      {
+        "name": "project-live",
+        "spec": "project-work",
+        "status": "removed",
+        "before": "screens/project-live.before.png"
+      },
+      {
+        "name": "project-step-tasks",
+        "spec": "project-work",
+        "status": "removed",
+        "before": "screens/project-step-tasks.before.png"
+      },
+      {
+        "name": "project-tasks",
+        "spec": "project-work",
+        "status": "removed",
+        "before": "screens/project-tasks.before.png"
+      },
+      {
+        "name": "project-tasks-done",
+        "spec": "project-work",
+        "status": "removed",
+        "before": "screens/project-tasks-done.before.png"
+      },
+      {
+        "name": "project-work-collection",
+        "spec": "project-work",
+        "status": "removed",
+        "before": "screens/project-work-collection.before.png"
+      },
+      {
+        "name": "project-work-comment",
+        "spec": "project-work",
+        "status": "removed",
+        "before": "screens/project-work-comment.before.png"
+      },
+      {
+        "name": "project-work-complete",
+        "spec": "project-work",
+        "status": "removed",
+        "before": "screens/project-work-complete.before.png"
+      },
+      {
+        "name": "project-work-document",
+        "spec": "project-work",
+        "status": "removed",
+        "before": "screens/project-work-document.before.png"
+      },
+      {
+        "name": "project-work-document-superseded",
+        "spec": "project-work",
+        "status": "removed",
+        "before": "screens/project-work-document-superseded.before.png"
+      },
+      {
+        "name": "project-work-mention",
+        "spec": "project-work",
+        "status": "removed",
+        "before": "screens/project-work-mention.before.png"
+      },
+      {
+        "name": "project-work-mention-hovercard",
+        "spec": "project-work",
+        "status": "removed",
+        "before": "screens/project-work-mention-hovercard.before.png"
+      },
+      {
+        "name": "project-work-mention-picker",
+        "spec": "project-work",
+        "status": "removed",
+        "before": "screens/project-work-mention-picker.before.png"
+      },
+      {
+        "name": "project-work-not-applicable",
+        "spec": "project-work",
+        "status": "removed",
+        "before": "screens/project-work-not-applicable.before.png"
+      },
+      {
+        "name": "project-work-signoff",
+        "spec": "project-work",
+        "status": "removed",
+        "before": "screens/project-work-signoff.before.png"
+      }
+    ],
+    "skipped": {
+      "total": 184,
+      "differing": 80
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium",
+      "spec": "project",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium.gif",
+      "mp4": "clips/project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium.mp4",
+      "gifBytes": 3728785
+    },
+    {
+      "slug": "project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium-retry1",
+      "spec": "project",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium-retry1.gif",
+      "mp4": "clips/project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium-retry1.mp4",
+      "gifBytes": 4258573
+    }
+  ],
+  "changedSpecs": []
+}
