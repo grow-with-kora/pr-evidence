@@ -1,0 +1,68 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "f511084cd3187a799c1ef9d2fa0ad92a175c1e19",
+      "capturedAt": "2026-09-01T19:25:22Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/33548097175"
+    },
+    "entries": [
+      {
+        "name": "workspace-library-folder",
+        "spec": "library",
+        "status": "changed",
+        "ratio": 0.0007942708333333334,
+        "resized": false,
+        "before": "screens/workspace-library-folder.before.png",
+        "after": "screens/workspace-library-folder.after.png",
+        "diff": "screens/workspace-library-folder.diff.png"
+      },
+      {
+        "name": "workspace-library-root",
+        "spec": "library",
+        "status": "identical",
+        "ratio": 0.00005859375,
+        "resized": false,
+        "before": "screens/workspace-library-root.before.png",
+        "after": "screens/workspace-library-root.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 198,
+      "differing": 65
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "project-access-access-is-d-95afe-n-as-exactly-what-they-hold-chromium",
+      "spec": "project",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/project-access-access-is-d-95afe-n-as-exactly-what-they-hold-chromium.gif",
+      "mp4": "clips/project-access-access-is-d-95afe-n-as-exactly-what-they-hold-chromium.mp4",
+      "gifBytes": 3424066
+    },
+    {
+      "slug": "library-an-owner-files-a-d-ba592-e-until-it-has-been-scanned-chromium",
+      "spec": "library",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/library-an-owner-files-a-d-ba592-e-until-it-has-been-scanned-chromium.gif",
+      "mp4": "clips/library-an-owner-files-a-d-ba592-e-until-it-has-been-scanned-chromium.mp4",
+      "gifBytes": 1603677
+    },
+    {
+      "slug": "library-removing-a-documen-dbae0-er-that-held-it-can-then-go-chromium",
+      "spec": "library",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/library-removing-a-documen-dbae0-er-that-held-it-can-then-go-chromium.gif",
+      "mp4": "clips/library-removing-a-documen-dbae0-er-that-held-it-can-then-go-chromium.mp4",
+      "gifBytes": 1851048
+    }
+  ],
+  "changedSpecs": [
+    "library"
+  ]
+}
