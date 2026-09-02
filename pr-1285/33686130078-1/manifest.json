@@ -1,0 +1,49 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "c755cefff12fd8e2d1821b05e6e7ca93c2ebaa3a",
+      "capturedAt": "2026-09-02T20:34:06Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/33678709603"
+    },
+    "entries": [
+      {
+        "name": "project-access-history",
+        "spec": "project-activity",
+        "status": "added",
+        "after": "screens/project-access-history.after.png"
+      },
+      {
+        "name": "project-activity",
+        "spec": "project-activity",
+        "status": "added",
+        "after": "screens/project-activity.after.png"
+      },
+      {
+        "name": "project-activity-empty",
+        "spec": "project-activity",
+        "status": "added",
+        "after": "screens/project-activity-empty.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 204,
+      "differing": 82
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "project-activity-a-leave-r-d26f0-e-row-stays-behind-the-gate-chromium",
+      "spec": "project-activity",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/project-activity-a-leave-r-d26f0-e-row-stays-behind-the-gate-chromium.gif",
+      "mp4": "clips/project-activity-a-leave-r-d26f0-e-row-stays-behind-the-gate-chromium.mp4",
+      "gifBytes": 3634628
+    }
+  ],
+  "changedSpecs": [
+    "project-activity"
+  ]
+}
