@@ -1,0 +1,28 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "e3cab5804aa84cca627c869dba1c07241cdf388f",
+      "capturedAt": "2026-09-01T21:13:11Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/33558389123"
+    },
+    "entries": [],
+    "skipped": {
+      "total": 200,
+      "differing": 71
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "admin-workspaces-the-escap-d919c-cue-and-suspend-a-workspace-chromium",
+      "spec": "admin",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/admin-workspaces-the-escap-d919c-cue-and-suspend-a-workspace-chromium.gif",
+      "mp4": "clips/admin-workspaces-the-escap-d919c-cue-and-suspend-a-workspace-chromium.mp4",
+      "gifBytes": 2830331
+    }
+  ],
+  "changedSpecs": []
+}
