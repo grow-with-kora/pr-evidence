@@ -1,0 +1,73 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "777c71f659db4b41a0f23ceafc32deb10e761d6d",
+      "capturedAt": "2026-09-02T09:49:23Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/33614960388"
+    },
+    "entries": [
+      {
+        "name": "admin-user-sessions",
+        "spec": "sessions",
+        "status": "added",
+        "after": "screens/admin-user-sessions.after.png"
+      },
+      {
+        "name": "admin-user-sessions-emptied",
+        "spec": "sessions",
+        "status": "added",
+        "after": "screens/admin-user-sessions-emptied.after.png"
+      },
+      {
+        "name": "settings-devices",
+        "spec": "sessions",
+        "status": "added",
+        "after": "screens/settings-devices.after.png"
+      },
+      {
+        "name": "settings-devices-after-revoke",
+        "spec": "sessions",
+        "status": "added",
+        "after": "screens/settings-devices-after-revoke.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 200,
+      "differing": 87
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "sessions-an-admin-sees-a-u-5c48f-ck-button-and-ends-them-all-chromium",
+      "spec": "sessions",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/sessions-an-admin-sees-a-u-5c48f-ck-button-and-ends-them-all-chromium.gif",
+      "mp4": "clips/sessions-an-admin-sees-a-u-5c48f-ck-button-and-ends-them-all-chromium.mp4",
+      "gifBytes": 864194
+    },
+    {
+      "slug": "sessions-my-devices-listed-8901b-enamed-and-ended-one-by-one-chromium",
+      "spec": "sessions",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/sessions-my-devices-listed-8901b-enamed-and-ended-one-by-one-chromium.gif",
+      "mp4": "clips/sessions-my-devices-listed-8901b-enamed-and-ended-one-by-one-chromium.mp4",
+      "gifBytes": 920245
+    },
+    {
+      "slug": "sessions-with-no-sessions--c56a7-ead-of-showing-an-empty-box-chromium",
+      "spec": "sessions",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/sessions-with-no-sessions--c56a7-ead-of-showing-an-empty-box-chromium.gif",
+      "mp4": "clips/sessions-with-no-sessions--c56a7-ead-of-showing-an-empty-box-chromium.mp4",
+      "gifBytes": 660821
+    }
+  ],
+  "changedSpecs": [
+    "sessions"
+  ]
+}
