@@ -1,0 +1,86 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "55c0406b17ffd8be78feec4c3ab0d081b811bea5",
+      "capturedAt": "2026-09-02T15:38:40Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/33648385086"
+    },
+    "entries": [
+      {
+        "name": "after-first-run-name",
+        "spec": "first-run",
+        "status": "removed",
+        "before": "screens/after-first-run-name.before.png"
+      },
+      {
+        "name": "after-first-run-resend",
+        "spec": "first-run",
+        "status": "removed",
+        "before": "screens/after-first-run-resend.before.png"
+      },
+      {
+        "name": "after-first-run-shell",
+        "spec": "first-run",
+        "status": "removed",
+        "before": "screens/after-first-run-shell.before.png"
+      },
+      {
+        "name": "after-first-run-verify",
+        "spec": "first-run",
+        "status": "removed",
+        "before": "screens/after-first-run-verify.before.png"
+      },
+      {
+        "name": "document-explorer-masked",
+        "spec": "project-access",
+        "status": "removed",
+        "before": "screens/document-explorer-masked.before.png"
+      }
+    ],
+    "skipped": {
+      "total": 199,
+      "differing": 70
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "first-run-an-unverified-em-a462c-self-and-lands-in-the-shell-chromium",
+      "spec": "first",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/first-run-an-unverified-em-a462c-self-and-lands-in-the-shell-chromium.gif",
+      "mp4": "clips/first-run-an-unverified-em-a462c-self-and-lands-in-the-shell-chromium.mp4",
+      "gifBytes": 389145
+    },
+    {
+      "slug": "first-run-an-unverified-em-a462c-self-and-lands-in-the-shell-chromium-retry1",
+      "spec": "first",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/first-run-an-unverified-em-a462c-self-and-lands-in-the-shell-chromium-retry1.gif",
+      "mp4": "clips/first-run-an-unverified-em-a462c-self-and-lands-in-the-shell-chromium-retry1.mp4",
+      "gifBytes": 638429
+    },
+    {
+      "slug": "project-access-access-is-d-95afe-n-as-exactly-what-they-hold-chromium",
+      "spec": "project",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/project-access-access-is-d-95afe-n-as-exactly-what-they-hold-chromium.gif",
+      "mp4": "clips/project-access-access-is-d-95afe-n-as-exactly-what-they-hold-chromium.mp4",
+      "gifBytes": 3023565
+    },
+    {
+      "slug": "project-access-access-is-d-95afe-n-as-exactly-what-they-hold-chromium-retry1",
+      "spec": "project",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/project-access-access-is-d-95afe-n-as-exactly-what-they-hold-chromium-retry1.gif",
+      "mp4": "clips/project-access-access-is-d-95afe-n-as-exactly-what-they-hold-chromium-retry1.mp4",
+      "gifBytes": 4111405
+    }
+  ],
+  "changedSpecs": []
+}
