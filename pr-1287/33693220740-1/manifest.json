@@ -1,0 +1,121 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "091f1ff4330c55bc34c5215fa3dc945f772391c4",
+      "capturedAt": "2026-09-02T22:07:04Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/33687564179"
+    },
+    "entries": [
+      {
+        "name": "project-discovery-grid",
+        "spec": "project-visibility",
+        "status": "added",
+        "after": "screens/project-discovery-grid.after.png"
+      },
+      {
+        "name": "project-discovery-override",
+        "spec": "project-visibility",
+        "status": "added",
+        "after": "screens/project-discovery-override.after.png"
+      },
+      {
+        "name": "project-discovery-shell",
+        "spec": "project-visibility",
+        "status": "added",
+        "after": "screens/project-discovery-shell.after.png"
+      },
+      {
+        "name": "workspace-discovery-setting",
+        "spec": "project-visibility",
+        "status": "added",
+        "after": "screens/workspace-discovery-setting.after.png"
+      },
+      {
+        "name": "project-visibility-owner-without-a-row",
+        "spec": "project-visibility",
+        "status": "changed",
+        "ratio": 0.08271050347222222,
+        "resized": false,
+        "before": "screens/project-visibility-owner-without-a-row.before.png",
+        "after": "screens/project-visibility-owner-without-a-row.after.png",
+        "diff": "screens/project-visibility-owner-without-a-row.diff.png"
+      },
+      {
+        "name": "project-visibility-member-direct-url",
+        "spec": "project-visibility",
+        "status": "changed",
+        "ratio": 0.000654296875,
+        "resized": false,
+        "before": "screens/project-visibility-member-direct-url.before.png",
+        "after": "screens/project-visibility-member-direct-url.after.png",
+        "diff": "screens/project-visibility-member-direct-url.diff.png"
+      },
+      {
+        "name": "project-visibility-member-grid",
+        "spec": "project-visibility",
+        "status": "changed",
+        "ratio": 0.000654296875,
+        "resized": false,
+        "before": "screens/project-visibility-member-grid.before.png",
+        "after": "screens/project-visibility-member-grid.after.png",
+        "diff": "screens/project-visibility-member-grid.diff.png"
+      },
+      {
+        "name": "project-visibility-member-palette",
+        "spec": "project-visibility",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/project-visibility-member-palette.before.png",
+        "after": "screens/project-visibility-member-palette.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 203,
+      "differing": 84
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "project-access-access-is-d-95afe-n-as-exactly-what-they-hold-chromium",
+      "spec": "project",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/project-access-access-is-d-95afe-n-as-exactly-what-they-hold-chromium.gif",
+      "mp4": "clips/project-access-access-is-d-95afe-n-as-exactly-what-they-hold-chromium.mp4",
+      "gifBytes": 2810338
+    },
+    {
+      "slug": "project-visibility-a-works-1c99c-ill-open-and-administer-one-chromium",
+      "spec": "project-visibility",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/project-visibility-a-works-1c99c-ill-open-and-administer-one-chromium.gif",
+      "mp4": "clips/project-visibility-a-works-1c99c-ill-open-and-administer-one-chromium.mp4",
+      "gifBytes": 1592833
+    },
+    {
+      "slug": "project-visibility-a-works-fe0b1-f-a-project-they-are-not-on-chromium",
+      "spec": "project-visibility",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/project-visibility-a-works-fe0b1-f-a-project-they-are-not-on-chromium.gif",
+      "mp4": "clips/project-visibility-a-works-fe0b1-f-a-project-they-are-not-on-chromium.mp4",
+      "gifBytes": 2738441
+    },
+    {
+      "slug": "project-visibility-discove-3fe0b-nd-the-shell-and-never-more-chromium",
+      "spec": "project-visibility",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/project-visibility-discove-3fe0b-nd-the-shell-and-never-more-chromium.gif",
+      "mp4": "clips/project-visibility-discove-3fe0b-nd-the-shell-and-never-more-chromium.mp4",
+      "gifBytes": 3427874
+    }
+  ],
+  "changedSpecs": [
+    "project-visibility"
+  ]
+}
