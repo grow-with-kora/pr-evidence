@@ -1,0 +1,30 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "9e0eaf07fa8cc01f8429dd35bc3c974f19c190e9",
+      "capturedAt": "2026-09-02T10:07:10Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/33616651849"
+    },
+    "entries": [],
+    "skipped": {
+      "total": 204,
+      "differing": 98
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "theme-the-chosen-theme-fol-50fa2-count-onto-the-admin-origin-chromium",
+      "spec": "theme",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/theme-the-chosen-theme-fol-50fa2-count-onto-the-admin-origin-chromium.gif",
+      "mp4": "clips/theme-the-chosen-theme-fol-50fa2-count-onto-the-admin-origin-chromium.mp4",
+      "gifBytes": 2023217
+    }
+  ],
+  "changedSpecs": [
+    "theme"
+  ]
+}
