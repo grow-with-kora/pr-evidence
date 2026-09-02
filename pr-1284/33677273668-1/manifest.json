@@ -1,0 +1,37 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "e6034dd1740475a074216ab112ace6e948c15b11",
+      "capturedAt": "2026-09-02T18:27:39Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/33665956129"
+    },
+    "entries": [],
+    "skipped": {
+      "total": 204,
+      "differing": 84
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "first-run-an-unverified-em-a462c-self-and-lands-in-the-shell-chromium",
+      "spec": "first",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/first-run-an-unverified-em-a462c-self-and-lands-in-the-shell-chromium.gif",
+      "mp4": "clips/first-run-an-unverified-em-a462c-self-and-lands-in-the-shell-chromium.mp4",
+      "gifBytes": 1385447
+    },
+    {
+      "slug": "project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium",
+      "spec": "project",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium.gif",
+      "mp4": "clips/project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium.mp4",
+      "gifBytes": 4220014
+    }
+  ],
+  "changedSpecs": []
+}
