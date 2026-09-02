@@ -1,0 +1,44 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "f92753940d6d5004d8b2453b3b0e8438dd08fb80",
+      "capturedAt": "2026-09-02T07:17:36Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/33601751119"
+    },
+    "entries": [
+      {
+        "name": "saved-filters-picker",
+        "spec": "saved-filters",
+        "status": "removed",
+        "before": "screens/saved-filters-picker.before.png"
+      }
+    ],
+    "skipped": {
+      "total": 199,
+      "differing": 76
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "saved-filters-a-platform-a-04625-t-shares-one-and-deletes-it-chromium",
+      "spec": "saved",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/saved-filters-a-platform-a-04625-t-shares-one-and-deletes-it-chromium.gif",
+      "mp4": "clips/saved-filters-a-platform-a-04625-t-shares-one-and-deletes-it-chromium.mp4",
+      "gifBytes": 4635782
+    },
+    {
+      "slug": "saved-filters-a-platform-a-04625-t-shares-one-and-deletes-it-chromium-retry1",
+      "spec": "saved",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/saved-filters-a-platform-a-04625-t-shares-one-and-deletes-it-chromium-retry1.gif",
+      "mp4": "clips/saved-filters-a-platform-a-04625-t-shares-one-and-deletes-it-chromium-retry1.mp4",
+      "gifBytes": 3483339
+    }
+  ],
+  "changedSpecs": []
+}
