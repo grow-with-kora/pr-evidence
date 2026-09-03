@@ -1,0 +1,52 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "693ff7a78473429b2bd2066b8975b067e1a84010",
+      "capturedAt": "2026-09-03T06:45:02Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/33723644127"
+    },
+    "entries": [
+      {
+        "name": "admin-auth-events",
+        "spec": "auth-events",
+        "status": "added",
+        "after": "screens/admin-auth-events.after.png"
+      },
+      {
+        "name": "admin-auth-events-filtered",
+        "spec": "auth-events",
+        "status": "added",
+        "after": "screens/admin-auth-events-filtered.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 211,
+      "differing": 108
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "auth-events-a-plain-user-never-sees-the-sign-in-activity-chromium",
+      "spec": "auth-events",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/auth-events-a-plain-user-never-sees-the-sign-in-activity-chromium.gif",
+      "mp4": "clips/auth-events-a-plain-user-never-sees-the-sign-in-activity-chromium.mp4",
+      "gifBytes": 1301705
+    },
+    {
+      "slug": "auth-events-a-platform-adm-04b26--signed-in-and-who-tried-to-chromium",
+      "spec": "auth-events",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/auth-events-a-platform-adm-04b26--signed-in-and-who-tried-to-chromium.gif",
+      "mp4": "clips/auth-events-a-platform-adm-04b26--signed-in-and-who-tried-to-chromium.mp4",
+      "gifBytes": 1147842
+    }
+  ],
+  "changedSpecs": [
+    "auth-events"
+  ]
+}
