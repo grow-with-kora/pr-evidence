@@ -1,0 +1,28 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "18fee2f2f6f126a52f6b5a5f1d97b36eb5695dee",
+      "capturedAt": "2026-09-06T10:15:13Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/34026209964"
+    },
+    "entries": [],
+    "skipped": {
+      "total": 220,
+      "differing": 97
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "notification-deliveries-a--4cd65-m-the-message-was-delivered-chromium",
+      "spec": "notification",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/notification-deliveries-a--4cd65-m-the-message-was-delivered-chromium.gif",
+      "mp4": "clips/notification-deliveries-a--4cd65-m-the-message-was-delivered-chromium.mp4",
+      "gifBytes": 1358955
+    }
+  ],
+  "changedSpecs": []
+}
