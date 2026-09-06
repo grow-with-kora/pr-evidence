@@ -1,0 +1,75 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "775ac4b1d9a7cf8fcfe02e39241aad750ca82b6d",
+      "capturedAt": "2026-09-06T08:59:16Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/34022698229"
+    },
+    "entries": [
+      {
+        "name": "templates-admin-detail",
+        "spec": "templates",
+        "status": "removed",
+        "before": "screens/templates-admin-detail.before.png"
+      },
+      {
+        "name": "templates-admin-list",
+        "spec": "templates",
+        "status": "changed",
+        "ratio": 0.008861762152777777,
+        "resized": false,
+        "before": "screens/templates-admin-list.before.png",
+        "after": "screens/templates-admin-list.after.png",
+        "diff": "screens/templates-admin-list.diff.png"
+      },
+      {
+        "name": "templates-admin-editor",
+        "spec": "templates",
+        "status": "changed",
+        "ratio": 0.001501736111111111,
+        "resized": false,
+        "before": "screens/templates-admin-editor.before.png",
+        "after": "screens/templates-admin-editor.after.png",
+        "diff": "screens/templates-admin-editor.diff.png"
+      },
+      {
+        "name": "templates-admin-outline",
+        "spec": "templates",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/templates-admin-outline.before.png",
+        "after": "screens/templates-admin-outline.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 215,
+      "differing": 83
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "templates-a-platform-admin-fd933-it-and-finds-it-in-the-list-chromium",
+      "spec": "templates",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/templates-a-platform-admin-fd933-it-and-finds-it-in-the-list-chromium.gif",
+      "mp4": "clips/templates-a-platform-admin-fd933-it-and-finds-it-in-the-list-chromium.mp4",
+      "gifBytes": 2129394
+    },
+    {
+      "slug": "templates-a-platform-admin-fd933-it-and-finds-it-in-the-list-chromium-retry1",
+      "spec": "templates",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/templates-a-platform-admin-fd933-it-and-finds-it-in-the-list-chromium-retry1.gif",
+      "mp4": "clips/templates-a-platform-admin-fd933-it-and-finds-it-in-the-list-chromium-retry1.mp4",
+      "gifBytes": 2945969
+    }
+  ],
+  "changedSpecs": [
+    "templates"
+  ]
+}
