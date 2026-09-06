@@ -1,0 +1,66 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "56de8229f0b69f1e81a56d6e16aa7132019434fa",
+      "capturedAt": "2026-09-06T07:49:44Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/34019562252"
+    },
+    "entries": [
+      {
+        "name": "templates-admin-outline",
+        "spec": "templates",
+        "status": "added",
+        "after": "screens/templates-admin-outline.after.png"
+      },
+      {
+        "name": "templates-admin-editor",
+        "spec": "templates",
+        "status": "changed",
+        "ratio": 0.02129340277777778,
+        "resized": false,
+        "before": "screens/templates-admin-editor.before.png",
+        "after": "screens/templates-admin-editor.after.png",
+        "diff": "screens/templates-admin-editor.diff.png"
+      },
+      {
+        "name": "templates-admin-detail",
+        "spec": "templates",
+        "status": "changed",
+        "ratio": 0.0005034722222222222,
+        "resized": false,
+        "before": "screens/templates-admin-detail.before.png",
+        "after": "screens/templates-admin-detail.after.png",
+        "diff": "screens/templates-admin-detail.diff.png"
+      },
+      {
+        "name": "templates-admin-list",
+        "spec": "templates",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/templates-admin-list.before.png",
+        "after": "screens/templates-admin-list.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 215,
+      "differing": 84
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "templates-a-platform-admin-fd933-it-and-finds-it-in-the-list-chromium",
+      "spec": "templates",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/templates-a-platform-admin-fd933-it-and-finds-it-in-the-list-chromium.gif",
+      "mp4": "clips/templates-a-platform-admin-fd933-it-and-finds-it-in-the-list-chromium.mp4",
+      "gifBytes": 3149930
+    }
+  ],
+  "changedSpecs": [
+    "templates"
+  ]
+}
