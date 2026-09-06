@@ -1,0 +1,37 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "56de8229f0b69f1e81a56d6e16aa7132019434fa",
+      "capturedAt": "2026-09-06T07:49:44Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/34019562252"
+    },
+    "entries": [
+      {
+        "name": "templates-admin-detail",
+        "spec": "templates",
+        "status": "removed",
+        "before": "screens/templates-admin-detail.before.png"
+      },
+      {
+        "name": "templates-admin-editor",
+        "spec": "templates",
+        "status": "removed",
+        "before": "screens/templates-admin-editor.before.png"
+      },
+      {
+        "name": "templates-admin-list",
+        "spec": "templates",
+        "status": "removed",
+        "before": "screens/templates-admin-list.before.png"
+      }
+    ],
+    "skipped": {
+      "total": 215,
+      "differing": 108
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [],
+  "changedSpecs": []
+}
