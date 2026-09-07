@@ -1,0 +1,134 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "1c1a56e2f4a633aa55917c86fe939fed586dbbf0",
+      "capturedAt": "2026-09-07T06:41:33Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/34090882637"
+    },
+    "entries": [
+      {
+        "name": "templates-admin-actions",
+        "spec": "templates",
+        "status": "added",
+        "after": "screens/templates-admin-actions.after.png"
+      },
+      {
+        "name": "templates-admin-readonly",
+        "spec": "templates",
+        "status": "added",
+        "after": "screens/templates-admin-readonly.after.png"
+      },
+      {
+        "name": "templates-admin-visibility",
+        "spec": "templates",
+        "status": "added",
+        "after": "screens/templates-admin-visibility.after.png"
+      },
+      {
+        "name": "templates-admin-detail",
+        "spec": "templates",
+        "status": "changed",
+        "ratio": 0.018526475694444444,
+        "resized": false,
+        "before": "screens/templates-admin-detail.before.png",
+        "after": "screens/templates-admin-detail.after.png",
+        "diff": "screens/templates-admin-detail.diff.png"
+      },
+      {
+        "name": "templates-admin-preview",
+        "spec": "templates",
+        "status": "changed",
+        "ratio": 0.014180772569444444,
+        "resized": false,
+        "before": "screens/templates-admin-preview.before.png",
+        "after": "screens/templates-admin-preview.after.png",
+        "diff": "screens/templates-admin-preview.diff.png"
+      },
+      {
+        "name": "templates-admin-editor",
+        "spec": "templates",
+        "status": "changed",
+        "ratio": 0.0010698784722222223,
+        "resized": false,
+        "before": "screens/templates-admin-editor.before.png",
+        "after": "screens/templates-admin-editor.after.png",
+        "diff": "screens/templates-admin-editor.diff.png"
+      },
+      {
+        "name": "templates-admin-audience",
+        "spec": "templates",
+        "status": "changed",
+        "ratio": 0.0007942708333333334,
+        "resized": false,
+        "before": "screens/templates-admin-audience.before.png",
+        "after": "screens/templates-admin-audience.after.png",
+        "diff": "screens/templates-admin-audience.diff.png"
+      },
+      {
+        "name": "templates-admin-condition",
+        "spec": "templates",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/templates-admin-condition.before.png",
+        "after": "screens/templates-admin-condition.after.png"
+      },
+      {
+        "name": "templates-admin-grants",
+        "spec": "templates",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/templates-admin-grants.before.png",
+        "after": "screens/templates-admin-grants.after.png"
+      },
+      {
+        "name": "templates-admin-list",
+        "spec": "templates",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/templates-admin-list.before.png",
+        "after": "screens/templates-admin-list.after.png"
+      },
+      {
+        "name": "templates-admin-outline",
+        "spec": "templates",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/templates-admin-outline.before.png",
+        "after": "screens/templates-admin-outline.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 215,
+      "differing": 89
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "project-access-access-is-d-95afe-n-as-exactly-what-they-hold-chromium",
+      "spec": "project",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/project-access-access-is-d-95afe-n-as-exactly-what-they-hold-chromium.gif",
+      "mp4": "clips/project-access-access-is-d-95afe-n-as-exactly-what-they-hold-chromium.mp4",
+      "gifBytes": 2678158
+    },
+    {
+      "slug": "templates-a-platform-admin-fd933-it-and-finds-it-in-the-list-chromium",
+      "spec": "templates",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/templates-a-platform-admin-fd933-it-and-finds-it-in-the-list-chromium.gif",
+      "mp4": "clips/templates-a-platform-admin-fd933-it-and-finds-it-in-the-list-chromium.mp4",
+      "gifBytes": 5269267
+    }
+  ],
+  "changedSpecs": [
+    "templates"
+  ]
+}
