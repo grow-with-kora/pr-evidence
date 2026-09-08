@@ -1,0 +1,137 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "fd978cbe5a5307a72a4d212882693c86720821d2",
+      "capturedAt": "2026-09-08T05:50:45Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/34191243837"
+    },
+    "entries": [
+      {
+        "name": "templates-admin-visibility",
+        "spec": "templates",
+        "status": "changed",
+        "ratio": 0.005330946180555555,
+        "resized": false,
+        "before": "screens/templates-admin-visibility.before.png",
+        "after": "screens/templates-admin-visibility.after.png",
+        "diff": "screens/templates-admin-visibility.diff.png"
+      },
+      {
+        "name": "templates-admin-readonly",
+        "spec": "templates",
+        "status": "changed",
+        "ratio": 0.002790798611111111,
+        "resized": false,
+        "before": "screens/templates-admin-readonly.before.png",
+        "after": "screens/templates-admin-readonly.after.png",
+        "diff": "screens/templates-admin-readonly.diff.png"
+      },
+      {
+        "name": "templates-admin-editor",
+        "spec": "templates",
+        "status": "changed",
+        "ratio": 0.0009526909722222222,
+        "resized": false,
+        "before": "screens/templates-admin-editor.before.png",
+        "after": "screens/templates-admin-editor.after.png",
+        "diff": "screens/templates-admin-editor.diff.png"
+      },
+      {
+        "name": "templates-admin-detail",
+        "spec": "templates",
+        "status": "changed",
+        "ratio": 0.0007931857638888888,
+        "resized": false,
+        "before": "screens/templates-admin-detail.before.png",
+        "after": "screens/templates-admin-detail.after.png",
+        "diff": "screens/templates-admin-detail.diff.png"
+      },
+      {
+        "name": "templates-admin-actions",
+        "spec": "templates",
+        "status": "changed",
+        "ratio": 0.0007302517361111111,
+        "resized": false,
+        "before": "screens/templates-admin-actions.before.png",
+        "after": "screens/templates-admin-actions.after.png",
+        "diff": "screens/templates-admin-actions.diff.png"
+      },
+      {
+        "name": "templates-admin-audience",
+        "spec": "templates",
+        "status": "changed",
+        "ratio": 0.0007302517361111111,
+        "resized": false,
+        "before": "screens/templates-admin-audience.before.png",
+        "after": "screens/templates-admin-audience.after.png",
+        "diff": "screens/templates-admin-audience.diff.png"
+      },
+      {
+        "name": "templates-admin-preview",
+        "spec": "templates",
+        "status": "changed",
+        "ratio": 0.0007302517361111111,
+        "resized": false,
+        "before": "screens/templates-admin-preview.before.png",
+        "after": "screens/templates-admin-preview.after.png",
+        "diff": "screens/templates-admin-preview.diff.png"
+      },
+      {
+        "name": "templates-admin-grants",
+        "spec": "templates",
+        "status": "identical",
+        "ratio": 0.000014105902777777777,
+        "resized": false,
+        "before": "screens/templates-admin-grants.before.png",
+        "after": "screens/templates-admin-grants.after.png"
+      },
+      {
+        "name": "templates-admin-condition",
+        "spec": "templates",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/templates-admin-condition.before.png",
+        "after": "screens/templates-admin-condition.after.png"
+      },
+      {
+        "name": "templates-admin-list",
+        "spec": "templates",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/templates-admin-list.before.png",
+        "after": "screens/templates-admin-list.after.png"
+      },
+      {
+        "name": "templates-admin-outline",
+        "spec": "templates",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/templates-admin-outline.before.png",
+        "after": "screens/templates-admin-outline.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 215,
+      "differing": 94
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "templates-a-platform-admin-fd933-it-and-finds-it-in-the-list-chromium",
+      "spec": "templates",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/templates-a-platform-admin-fd933-it-and-finds-it-in-the-list-chromium.gif",
+      "mp4": "clips/templates-a-platform-admin-fd933-it-and-finds-it-in-the-list-chromium.mp4",
+      "gifBytes": 5877186
+    }
+  ],
+  "changedSpecs": [
+    "templates"
+  ]
+}
