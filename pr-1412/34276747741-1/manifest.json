@@ -1,0 +1,28 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "c4818e6603d7d442157dcf4b1ded6211affce95e",
+      "capturedAt": "2026-09-08T20:23:48Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/34273078947"
+    },
+    "entries": [],
+    "skipped": {
+      "total": 230,
+      "differing": 131
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "project-access-access-is-d-95afe-n-as-exactly-what-they-hold-chromium",
+      "spec": "project",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/project-access-access-is-d-95afe-n-as-exactly-what-they-hold-chromium.gif",
+      "mp4": "clips/project-access-access-is-d-95afe-n-as-exactly-what-they-hold-chromium.mp4",
+      "gifBytes": 2799212
+    }
+  ],
+  "changedSpecs": []
+}
