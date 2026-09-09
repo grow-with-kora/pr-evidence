@@ -1,0 +1,71 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "9f41f8845ecb8e02f05652e8edee97c06dac87df",
+      "capturedAt": "2026-09-09T16:40:25Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/34376985211"
+    },
+    "entries": [
+      {
+        "name": "collaboration-live-comment",
+        "spec": "collaboration",
+        "status": "changed",
+        "ratio": 0.06453667534722222,
+        "resized": false,
+        "before": "screens/collaboration-live-comment.before.png",
+        "after": "screens/collaboration-live-comment.after.png",
+        "diff": "screens/collaboration-live-comment.diff.png"
+      },
+      {
+        "name": "collaboration-presence",
+        "spec": "collaboration",
+        "status": "changed",
+        "ratio": 0.06453667534722222,
+        "resized": false,
+        "before": "screens/collaboration-presence.before.png",
+        "after": "screens/collaboration-presence.after.png",
+        "diff": "screens/collaboration-presence.diff.png"
+      },
+      {
+        "name": "collaboration-writing",
+        "spec": "collaboration",
+        "status": "changed",
+        "ratio": 0.06453667534722222,
+        "resized": false,
+        "before": "screens/collaboration-writing.before.png",
+        "after": "screens/collaboration-writing.after.png",
+        "diff": "screens/collaboration-writing.diff.png"
+      },
+      {
+        "name": "collaboration-reaction",
+        "spec": "collaboration",
+        "status": "changed",
+        "ratio": 0.0011197916666666667,
+        "resized": false,
+        "before": "screens/collaboration-reaction.before.png",
+        "after": "screens/collaboration-reaction.after.png",
+        "diff": "screens/collaboration-reaction.diff.png"
+      }
+    ],
+    "skipped": {
+      "total": 227,
+      "differing": 82
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "collaboration-two-people-i-4143c-other-and-each-other-s-work-chromium",
+      "spec": "collaboration",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/collaboration-two-people-i-4143c-other-and-each-other-s-work-chromium.gif",
+      "mp4": "clips/collaboration-two-people-i-4143c-other-and-each-other-s-work-chromium.mp4",
+      "gifBytes": 3049300
+    }
+  ],
+  "changedSpecs": [
+    "collaboration"
+  ]
+}
