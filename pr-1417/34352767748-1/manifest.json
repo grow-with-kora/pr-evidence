@@ -1,0 +1,59 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "fad2302025540d0039f29a993509ffb1575b6e43",
+      "capturedAt": "2026-09-09T12:16:21Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/34348683305"
+    },
+    "entries": [
+      {
+        "name": "workspace-library-folder",
+        "spec": "library",
+        "status": "changed",
+        "ratio": 0.0008940972222222222,
+        "resized": false,
+        "before": "screens/workspace-library-folder.before.png",
+        "after": "screens/workspace-library-folder.after.png",
+        "diff": "screens/workspace-library-folder.diff.png"
+      },
+      {
+        "name": "workspace-library-root",
+        "spec": "library",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/workspace-library-root.before.png",
+        "after": "screens/workspace-library-root.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 229,
+      "differing": 87
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "library-an-owner-files-a-d-ba592-e-until-it-has-been-scanned-chromium",
+      "spec": "library",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/library-an-owner-files-a-d-ba592-e-until-it-has-been-scanned-chromium.gif",
+      "mp4": "clips/library-an-owner-files-a-d-ba592-e-until-it-has-been-scanned-chromium.mp4",
+      "gifBytes": 1604185
+    },
+    {
+      "slug": "library-removing-a-documen-dbae0-er-that-held-it-can-then-go-chromium",
+      "spec": "library",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/library-removing-a-documen-dbae0-er-that-held-it-can-then-go-chromium.gif",
+      "mp4": "clips/library-removing-a-documen-dbae0-er-that-held-it-can-then-go-chromium.mp4",
+      "gifBytes": 2123926
+    }
+  ],
+  "changedSpecs": [
+    "library"
+  ]
+}
