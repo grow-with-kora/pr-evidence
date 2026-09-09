@@ -1,0 +1,69 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "8cb79726cf762038ff76c46682165ee49a42e5e2",
+      "capturedAt": "2026-09-09T07:23:50Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/34322403738"
+    },
+    "entries": [
+      {
+        "name": "workspace-library-folder",
+        "spec": "library",
+        "status": "changed",
+        "ratio": 0.0032411024305555557,
+        "resized": false,
+        "before": "screens/workspace-library-folder.before.png",
+        "after": "screens/workspace-library-folder.after.png",
+        "diff": "screens/workspace-library-folder.diff.png"
+      },
+      {
+        "name": "workspace-library-root",
+        "spec": "library",
+        "status": "changed",
+        "ratio": 0.003185763888888889,
+        "resized": false,
+        "before": "screens/workspace-library-root.before.png",
+        "after": "screens/workspace-library-root.after.png",
+        "diff": "screens/workspace-library-root.diff.png"
+      }
+    ],
+    "skipped": {
+      "total": 228,
+      "differing": 95
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "library-removing-a-documen-dbae0-er-that-held-it-can-then-go-chromium",
+      "spec": "library",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/library-removing-a-documen-dbae0-er-that-held-it-can-then-go-chromium.gif",
+      "mp4": "clips/library-removing-a-documen-dbae0-er-that-held-it-can-then-go-chromium.mp4",
+      "gifBytes": 3684069
+    },
+    {
+      "slug": "library-removing-a-documen-dbae0-er-that-held-it-can-then-go-chromium-retry1",
+      "spec": "library",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/library-removing-a-documen-dbae0-er-that-held-it-can-then-go-chromium-retry1.gif",
+      "mp4": "clips/library-removing-a-documen-dbae0-er-that-held-it-can-then-go-chromium-retry1.mp4",
+      "gifBytes": 4100938
+    },
+    {
+      "slug": "library-an-owner-files-a-d-ba592-e-until-it-has-been-scanned-chromium",
+      "spec": "library",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/library-an-owner-files-a-d-ba592-e-until-it-has-been-scanned-chromium.gif",
+      "mp4": "clips/library-an-owner-files-a-d-ba592-e-until-it-has-been-scanned-chromium.mp4",
+      "gifBytes": 1646014
+    }
+  ],
+  "changedSpecs": [
+    "library"
+  ]
+}
