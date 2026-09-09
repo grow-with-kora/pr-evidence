@@ -1,0 +1,87 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "9f41f8845ecb8e02f05652e8edee97c06dac87df",
+      "capturedAt": "2026-09-09T16:40:25Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/34376985211"
+    },
+    "entries": [
+      {
+        "name": "settings-devices",
+        "spec": "sessions",
+        "status": "changed",
+        "ratio": 0.0049989149305555555,
+        "resized": false,
+        "before": "screens/settings-devices.before.png",
+        "after": "screens/settings-devices.after.png",
+        "diff": "screens/settings-devices.diff.png"
+      },
+      {
+        "name": "settings-devices-after-revoke",
+        "spec": "sessions",
+        "status": "changed",
+        "ratio": 0.0039409722222222224,
+        "resized": false,
+        "before": "screens/settings-devices-after-revoke.before.png",
+        "after": "screens/settings-devices-after-revoke.after.png",
+        "diff": "screens/settings-devices-after-revoke.diff.png"
+      },
+      {
+        "name": "admin-user-sessions",
+        "spec": "sessions",
+        "status": "identical",
+        "ratio": 0.000048828125,
+        "resized": false,
+        "before": "screens/admin-user-sessions.before.png",
+        "after": "screens/admin-user-sessions.after.png"
+      },
+      {
+        "name": "admin-user-sessions-emptied",
+        "spec": "sessions",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/admin-user-sessions-emptied.before.png",
+        "after": "screens/admin-user-sessions-emptied.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 227,
+      "differing": 89
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "sessions-an-admin-sees-a-u-5c48f-ck-button-and-ends-them-all-chromium",
+      "spec": "sessions",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/sessions-an-admin-sees-a-u-5c48f-ck-button-and-ends-them-all-chromium.gif",
+      "mp4": "clips/sessions-an-admin-sees-a-u-5c48f-ck-button-and-ends-them-all-chromium.mp4",
+      "gifBytes": 1320457
+    },
+    {
+      "slug": "sessions-my-devices-listed-8901b-enamed-and-ended-one-by-one-chromium",
+      "spec": "sessions",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/sessions-my-devices-listed-8901b-enamed-and-ended-one-by-one-chromium.gif",
+      "mp4": "clips/sessions-my-devices-listed-8901b-enamed-and-ended-one-by-one-chromium.mp4",
+      "gifBytes": 1172176
+    },
+    {
+      "slug": "sessions-with-no-sessions--c56a7-ead-of-showing-an-empty-box-chromium",
+      "spec": "sessions",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/sessions-with-no-sessions--c56a7-ead-of-showing-an-empty-box-chromium.gif",
+      "mp4": "clips/sessions-with-no-sessions--c56a7-ead-of-showing-an-empty-box-chromium.mp4",
+      "gifBytes": 1096677
+    }
+  ],
+  "changedSpecs": [
+    "sessions"
+  ]
+}
