@@ -1,0 +1,35 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "784685a27f8377aed602e1808b3c7ad5690f29f7",
+      "capturedAt": "2026-09-10T19:21:32Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/34518363234"
+    },
+    "entries": [
+      {
+        "name": "project-task-undo",
+        "spec": "project-work",
+        "status": "added",
+        "after": "screens/project-task-undo.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 232,
+      "differing": 94
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium",
+      "spec": "project",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium.gif",
+      "mp4": "clips/project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium.mp4",
+      "gifBytes": 9865400
+    }
+  ],
+  "changedSpecs": []
+}
