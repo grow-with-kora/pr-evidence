@@ -1,0 +1,72 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "016670d894dddb301205b52e27249b7fd4c0b898",
+      "capturedAt": "2026-09-10T18:30:54Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/34513165647"
+    },
+    "entries": [
+      {
+        "name": "project-activity-empty",
+        "spec": "project-activity",
+        "status": "removed",
+        "before": "screens/project-activity-empty.before.png"
+      },
+      {
+        "name": "project-activity-member",
+        "spec": "project-activity",
+        "status": "added",
+        "after": "screens/project-activity-member.after.png"
+      },
+      {
+        "name": "project-access-history",
+        "spec": "project-activity",
+        "status": "changed",
+        "ratio": 0.134853515625,
+        "resized": false,
+        "before": "screens/project-access-history.before.png",
+        "after": "screens/project-access-history.after.png",
+        "diff": "screens/project-access-history.diff.png"
+      },
+      {
+        "name": "project-activity",
+        "spec": "project-activity",
+        "status": "changed",
+        "ratio": 0.07780490451388888,
+        "resized": false,
+        "before": "screens/project-activity.before.png",
+        "after": "screens/project-activity.after.png",
+        "diff": "screens/project-activity.diff.png"
+      }
+    ],
+    "skipped": {
+      "total": 229,
+      "differing": 92
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "time-travel-the-billing-cl-11ea0--then-suspends-—-on-its-own-chromium",
+      "spec": "time",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/time-travel-the-billing-cl-11ea0--then-suspends-—-on-its-own-chromium.gif",
+      "mp4": "clips/time-travel-the-billing-cl-11ea0--then-suspends-—-on-its-own-chromium.mp4",
+      "gifBytes": 3661505
+    },
+    {
+      "slug": "project-activity-a-leave-r-d26f0-e-row-stays-behind-the-gate-chromium",
+      "spec": "project-activity",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/project-activity-a-leave-r-d26f0-e-row-stays-behind-the-gate-chromium.gif",
+      "mp4": "clips/project-activity-a-leave-r-d26f0-e-row-stays-behind-the-gate-chromium.mp4",
+      "gifBytes": 5641928
+    }
+  ],
+  "changedSpecs": [
+    "project-activity"
+  ]
+}
