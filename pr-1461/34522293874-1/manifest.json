@@ -1,0 +1,61 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "784685a27f8377aed602e1808b3c7ad5690f29f7",
+      "capturedAt": "2026-09-10T19:21:32Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/34518363234"
+    },
+    "entries": [
+      {
+        "name": "project-activity",
+        "spec": "project-activity",
+        "status": "changed",
+        "ratio": 0.028974609375,
+        "resized": false,
+        "before": "screens/project-activity.before.png",
+        "after": "screens/project-activity.after.png",
+        "diff": "screens/project-activity.diff.png"
+      },
+      {
+        "name": "project-activity-member",
+        "spec": "project-activity",
+        "status": "changed",
+        "ratio": 0.018549262152777777,
+        "resized": false,
+        "before": "screens/project-activity-member.before.png",
+        "after": "screens/project-activity-member.after.png",
+        "diff": "screens/project-activity-member.diff.png"
+      },
+      {
+        "name": "project-access-history",
+        "spec": "project-activity",
+        "status": "changed",
+        "ratio": 0.01650390625,
+        "resized": false,
+        "before": "screens/project-access-history.before.png",
+        "after": "screens/project-access-history.after.png",
+        "diff": "screens/project-access-history.diff.png"
+      }
+    ],
+    "skipped": {
+      "total": 229,
+      "differing": 88
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "project-activity-a-leave-r-d26f0-e-row-stays-behind-the-gate-chromium",
+      "spec": "project-activity",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/project-activity-a-leave-r-d26f0-e-row-stays-behind-the-gate-chromium.gif",
+      "mp4": "clips/project-activity-a-leave-r-d26f0-e-row-stays-behind-the-gate-chromium.mp4",
+      "gifBytes": 4727617
+    }
+  ],
+  "changedSpecs": [
+    "project-activity"
+  ]
+}
