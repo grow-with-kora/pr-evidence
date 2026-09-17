@@ -1,0 +1,85 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "6b5221835fdb65c65f8e4a7d982bc8d086bd8775",
+      "capturedAt": "2026-09-17T18:59:46Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/35260369892"
+    },
+    "entries": [
+      {
+        "name": "workspace-library-document-details",
+        "spec": "library",
+        "status": "added",
+        "after": "screens/workspace-library-document-details.after.png"
+      },
+      {
+        "name": "library-remove-undo",
+        "spec": "library",
+        "status": "changed",
+        "ratio": 0.014385850694444445,
+        "resized": false,
+        "before": "screens/library-remove-undo.before.png",
+        "after": "screens/library-remove-undo.after.png",
+        "diff": "screens/library-remove-undo.diff.png"
+      },
+      {
+        "name": "workspace-library-folder",
+        "spec": "library",
+        "status": "changed",
+        "ratio": 0.012986111111111111,
+        "resized": false,
+        "before": "screens/workspace-library-folder.before.png",
+        "after": "screens/workspace-library-folder.after.png",
+        "diff": "screens/workspace-library-folder.diff.png"
+      },
+      {
+        "name": "workspace-library-root",
+        "spec": "library",
+        "status": "changed",
+        "ratio": 0.010779079861111112,
+        "resized": false,
+        "before": "screens/workspace-library-root.before.png",
+        "after": "screens/workspace-library-root.after.png",
+        "diff": "screens/workspace-library-root.diff.png"
+      }
+    ],
+    "skipped": {
+      "total": 241,
+      "differing": 109
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "admin-workspaces-the-escap-d919c-cue-and-suspend-a-workspace-chromium",
+      "spec": "admin",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/admin-workspaces-the-escap-d919c-cue-and-suspend-a-workspace-chromium.gif",
+      "mp4": "clips/admin-workspaces-the-escap-d919c-cue-and-suspend-a-workspace-chromium.mp4",
+      "gifBytes": 2208763
+    },
+    {
+      "slug": "library-an-owner-files-a-d-ba592-e-until-it-has-been-scanned-chromium",
+      "spec": "library",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/library-an-owner-files-a-d-ba592-e-until-it-has-been-scanned-chromium.gif",
+      "mp4": "clips/library-an-owner-files-a-d-ba592-e-until-it-has-been-scanned-chromium.mp4",
+      "gifBytes": 2082772
+    },
+    {
+      "slug": "library-removing-a-documen-dbae0-er-that-held-it-can-then-go-chromium",
+      "spec": "library",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/library-removing-a-documen-dbae0-er-that-held-it-can-then-go-chromium.gif",
+      "mp4": "clips/library-removing-a-documen-dbae0-er-that-held-it-can-then-go-chromium.mp4",
+      "gifBytes": 2439109
+    }
+  ],
+  "changedSpecs": [
+    "library"
+  ]
+}
