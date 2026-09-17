@@ -1,0 +1,158 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "b033b45eec540949700e8073a2e7431e783582b7",
+      "capturedAt": "2026-09-16T11:15:27Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/35087831207"
+    },
+    "entries": [
+      {
+        "name": "project-cover-removed",
+        "spec": "projects",
+        "status": "removed",
+        "before": "screens/project-cover-removed.before.png"
+      },
+      {
+        "name": "projects-list-with-cover",
+        "spec": "projects",
+        "status": "removed",
+        "before": "screens/projects-list-with-cover.before.png"
+      },
+      {
+        "name": "project-discovery-shell",
+        "spec": "project-visibility",
+        "status": "changed",
+        "ratio": 0.043755425347222224,
+        "resized": false,
+        "before": "screens/project-discovery-shell.before.png",
+        "after": "screens/project-discovery-shell.after.png",
+        "diff": "screens/project-discovery-shell.diff.png"
+      },
+      {
+        "name": "project-discovery-grid",
+        "spec": "project-visibility",
+        "status": "changed",
+        "ratio": 0.039356553819444445,
+        "resized": false,
+        "before": "screens/project-discovery-grid.before.png",
+        "after": "screens/project-discovery-grid.after.png",
+        "diff": "screens/project-discovery-grid.diff.png"
+      },
+      {
+        "name": "project-visibility-owner-without-a-row",
+        "spec": "project-visibility",
+        "status": "changed",
+        "ratio": 0.03892252604166667,
+        "resized": false,
+        "before": "screens/project-visibility-owner-without-a-row.before.png",
+        "after": "screens/project-visibility-owner-without-a-row.after.png",
+        "diff": "screens/project-visibility-owner-without-a-row.diff.png"
+      },
+      {
+        "name": "project-visibility-member-palette",
+        "spec": "project-visibility",
+        "status": "changed",
+        "ratio": 0.011092664930555555,
+        "resized": false,
+        "before": "screens/project-visibility-member-palette.before.png",
+        "after": "screens/project-visibility-member-palette.after.png",
+        "diff": "screens/project-visibility-member-palette.diff.png"
+      },
+      {
+        "name": "project-visibility-member-grid",
+        "spec": "project-visibility",
+        "status": "changed",
+        "ratio": 0.009032118055555555,
+        "resized": false,
+        "before": "screens/project-visibility-member-grid.before.png",
+        "after": "screens/project-visibility-member-grid.after.png",
+        "diff": "screens/project-visibility-member-grid.diff.png"
+      },
+      {
+        "name": "workspace-discovery-setting",
+        "spec": "project-visibility",
+        "status": "changed",
+        "ratio": 0.0011338975694444445,
+        "resized": false,
+        "before": "screens/workspace-discovery-setting.before.png",
+        "after": "screens/workspace-discovery-setting.after.png",
+        "diff": "screens/workspace-discovery-setting.diff.png"
+      },
+      {
+        "name": "project-visibility-member-direct-url",
+        "spec": "project-visibility",
+        "status": "changed",
+        "ratio": 0.0006716579861111112,
+        "resized": false,
+        "before": "screens/project-visibility-member-direct-url.before.png",
+        "after": "screens/project-visibility-member-direct-url.after.png",
+        "diff": "screens/project-visibility-member-direct-url.diff.png"
+      },
+      {
+        "name": "project-discovery-override",
+        "spec": "project-visibility",
+        "status": "identical",
+        "ratio": 0.000030381944444444444,
+        "resized": false,
+        "before": "screens/project-discovery-override.before.png",
+        "after": "screens/project-discovery-override.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 230,
+      "differing": 101
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "projects-a-project-admin-s-bb941-and-removes-the-cover-photo-chromium",
+      "spec": "projects",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/projects-a-project-admin-s-bb941-and-removes-the-cover-photo-chromium.gif",
+      "mp4": "clips/projects-a-project-admin-s-bb941-and-removes-the-cover-photo-chromium.mp4",
+      "gifBytes": 2757534
+    },
+    {
+      "slug": "projects-a-project-admin-s-bb941-and-removes-the-cover-photo-chromium-retry1",
+      "spec": "projects",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/projects-a-project-admin-s-bb941-and-removes-the-cover-photo-chromium-retry1.gif",
+      "mp4": "clips/projects-a-project-admin-s-bb941-and-removes-the-cover-photo-chromium-retry1.mp4",
+      "gifBytes": 3249789
+    },
+    {
+      "slug": "project-visibility-a-works-1c99c-ill-open-and-administer-one-chromium",
+      "spec": "project-visibility",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/project-visibility-a-works-1c99c-ill-open-and-administer-one-chromium.gif",
+      "mp4": "clips/project-visibility-a-works-1c99c-ill-open-and-administer-one-chromium.mp4",
+      "gifBytes": 1737799
+    },
+    {
+      "slug": "project-visibility-a-works-fe0b1-f-a-project-they-are-not-on-chromium",
+      "spec": "project-visibility",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/project-visibility-a-works-fe0b1-f-a-project-they-are-not-on-chromium.gif",
+      "mp4": "clips/project-visibility-a-works-fe0b1-f-a-project-they-are-not-on-chromium.mp4",
+      "gifBytes": 3026486
+    },
+    {
+      "slug": "project-visibility-discove-3fe0b-nd-the-shell-and-never-more-chromium",
+      "spec": "project-visibility",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/project-visibility-discove-3fe0b-nd-the-shell-and-never-more-chromium.gif",
+      "mp4": "clips/project-visibility-discove-3fe0b-nd-the-shell-and-never-more-chromium.mp4",
+      "gifBytes": 4496226
+    }
+  ],
+  "changedSpecs": [
+    "project-visibility"
+  ]
+}
