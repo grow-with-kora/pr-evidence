@@ -1,0 +1,25 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "c4a73f952805c18ae067038bbc0b9b78dca37b22",
+      "capturedAt": "2026-09-17T16:34:50Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/35245545530"
+    },
+    "entries": [
+      {
+        "name": "session-ended-elsewhere",
+        "spec": "login",
+        "status": "removed",
+        "before": "screens/session-ended-elsewhere.before.png"
+      }
+    ],
+    "skipped": {
+      "total": 243,
+      "differing": 130
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [],
+  "changedSpecs": []
+}
