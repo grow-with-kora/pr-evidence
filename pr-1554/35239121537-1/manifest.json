@@ -1,0 +1,55 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "c37cad4c43cbb118d984a1bcedd6ad2dbdba82b9",
+      "capturedAt": "2026-09-17T14:00:46Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/35229026797"
+    },
+    "entries": [
+      {
+        "name": "project-risk-entry",
+        "spec": "risk-register",
+        "status": "added",
+        "after": "screens/project-risk-entry.after.png"
+      },
+      {
+        "name": "project-risks",
+        "spec": "risk-register",
+        "status": "added",
+        "after": "screens/project-risks.after.png"
+      },
+      {
+        "name": "project-risks-empty",
+        "spec": "risk-register",
+        "status": "added",
+        "after": "screens/project-risks-empty.after.png"
+      },
+      {
+        "name": "project-risks-raise",
+        "spec": "risk-register",
+        "status": "added",
+        "after": "screens/project-risks-raise.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 240,
+      "differing": 115
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "risk-register-a-risk-is-ra-30fac-ed-with-a-note-and-reopened-chromium",
+      "spec": "risk-register",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/risk-register-a-risk-is-ra-30fac-ed-with-a-note-and-reopened-chromium.gif",
+      "mp4": "clips/risk-register-a-risk-is-ra-30fac-ed-with-a-note-and-reopened-chromium.mp4",
+      "gifBytes": 4205329
+    }
+  ],
+  "changedSpecs": [
+    "risk-register"
+  ]
+}
