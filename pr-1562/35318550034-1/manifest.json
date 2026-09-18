@@ -1,0 +1,28 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "a70ca6c427d739858672122b3f9ee28a7561e98e",
+      "capturedAt": "2026-09-18T06:45:49Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/35315025708"
+    },
+    "entries": [],
+    "skipped": {
+      "total": 245,
+      "differing": 93
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "library-removing-a-documen-dbae0-er-that-held-it-can-then-go-chromium",
+      "spec": "library",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/library-removing-a-documen-dbae0-er-that-held-it-can-then-go-chromium.gif",
+      "mp4": "clips/library-removing-a-documen-dbae0-er-that-held-it-can-then-go-chromium.mp4",
+      "gifBytes": 1823749
+    }
+  ],
+  "changedSpecs": []
+}
