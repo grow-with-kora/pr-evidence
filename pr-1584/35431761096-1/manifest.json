@@ -1,0 +1,44 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "bed49711c5a9e6cc663f4bdbc82992a7cdc79c6a",
+      "capturedAt": "2026-09-19T08:11:15Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/35430628640"
+    },
+    "entries": [
+      {
+        "name": "workspace-library-open-the-step",
+        "spec": "project-work",
+        "status": "removed",
+        "before": "screens/workspace-library-open-the-step.before.png"
+      }
+    ],
+    "skipped": {
+      "total": 254,
+      "differing": 87
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium",
+      "spec": "project",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium.gif",
+      "mp4": "clips/project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium.mp4",
+      "gifBytes": 15078805
+    },
+    {
+      "slug": "project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium-retry1",
+      "spec": "project",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium-retry1.gif",
+      "mp4": "clips/project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium-retry1.mp4",
+      "gifBytes": 5334919
+    }
+  ],
+  "changedSpecs": []
+}
