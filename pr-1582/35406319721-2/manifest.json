@@ -1,0 +1,276 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "ed1c9dbfd47e4ab669df1f9029ef808b636e114d",
+      "capturedAt": "2026-09-18T16:30:09Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/35367166397"
+    },
+    "entries": [
+      {
+        "name": "admin-user-timeline",
+        "spec": "users",
+        "status": "added",
+        "after": "screens/admin-user-timeline.after.png"
+      },
+      {
+        "name": "admin-users-resend-verification",
+        "spec": "users",
+        "status": "added",
+        "after": "screens/admin-users-resend-verification.after.png"
+      },
+      {
+        "name": "admin-workspace-timeline",
+        "spec": "admin-workspaces",
+        "status": "added",
+        "after": "screens/admin-workspace-timeline.after.png"
+      },
+      {
+        "name": "admin-workspaces-reason",
+        "spec": "admin-workspaces",
+        "status": "changed",
+        "ratio": 0.029975043402777776,
+        "resized": false,
+        "before": "screens/admin-workspaces-reason.before.png",
+        "after": "screens/admin-workspaces-reason.after.png",
+        "diff": "screens/admin-workspaces-reason.diff.png"
+      },
+      {
+        "name": "admin-users-sorted",
+        "spec": "users",
+        "status": "changed",
+        "ratio": 0.020194227430555555,
+        "resized": false,
+        "before": "screens/admin-users-sorted.before.png",
+        "after": "screens/admin-users-sorted.after.png",
+        "diff": "screens/admin-users-sorted.diff.png"
+      },
+      {
+        "name": "admin-workspaces-hatches",
+        "spec": "admin-workspaces",
+        "status": "changed",
+        "ratio": 0.01595703125,
+        "resized": false,
+        "before": "screens/admin-workspaces-hatches.before.png",
+        "after": "screens/admin-workspaces-hatches.after.png",
+        "diff": "screens/admin-workspaces-hatches.diff.png"
+      },
+      {
+        "name": "admin-workspaces-invitations",
+        "spec": "admin-workspaces",
+        "status": "changed",
+        "ratio": 0.015850694444444445,
+        "resized": false,
+        "before": "screens/admin-workspaces-invitations.before.png",
+        "after": "screens/admin-workspaces-invitations.after.png",
+        "diff": "screens/admin-workspaces-invitations.diff.png"
+      },
+      {
+        "name": "admin-users-actions-before",
+        "spec": "users",
+        "status": "changed",
+        "ratio": 0.008844401041666667,
+        "resized": false,
+        "before": "screens/admin-users-actions-before.before.png",
+        "after": "screens/admin-users-actions-before.after.png",
+        "diff": "screens/admin-users-actions-before.diff.png"
+      },
+      {
+        "name": "admin-workspaces-deep-link",
+        "spec": "admin-workspaces",
+        "status": "changed",
+        "ratio": 0.006278211805555556,
+        "resized": false,
+        "before": "screens/admin-workspaces-deep-link.before.png",
+        "after": "screens/admin-workspaces-deep-link.after.png",
+        "diff": "screens/admin-workspaces-deep-link.diff.png"
+      },
+      {
+        "name": "admin-workspaces-list",
+        "spec": "admin-workspaces",
+        "status": "changed",
+        "ratio": 0.0024034288194444446,
+        "resized": false,
+        "before": "screens/admin-workspaces-list.before.png",
+        "after": "screens/admin-workspaces-list.after.png",
+        "diff": "screens/admin-workspaces-list.diff.png"
+      },
+      {
+        "name": "admin-users-list",
+        "spec": "users",
+        "status": "changed",
+        "ratio": 0.0006705729166666666,
+        "resized": false,
+        "before": "screens/admin-users-list.before.png",
+        "after": "screens/admin-users-list.after.png",
+        "diff": "screens/admin-users-list.diff.png"
+      },
+      {
+        "name": "admin-users-filtered",
+        "spec": "users",
+        "status": "changed",
+        "ratio": 0.0005805121527777778,
+        "resized": false,
+        "before": "screens/admin-users-filtered.before.png",
+        "after": "screens/admin-users-filtered.after.png",
+        "diff": "screens/admin-users-filtered.diff.png"
+      },
+      {
+        "name": "admin-users-date-preset",
+        "spec": "users",
+        "status": "changed",
+        "ratio": 0.0005555555555555556,
+        "resized": false,
+        "before": "screens/admin-users-date-preset.before.png",
+        "after": "screens/admin-users-date-preset.after.png",
+        "diff": "screens/admin-users-date-preset.diff.png"
+      },
+      {
+        "name": "admin-workspaces-filtered",
+        "spec": "admin-workspaces",
+        "status": "identical",
+        "ratio": 0.0004220920138888889,
+        "resized": false,
+        "before": "screens/admin-workspaces-filtered.before.png",
+        "after": "screens/admin-workspaces-filtered.after.png"
+      },
+      {
+        "name": "admin-workspaces-detail",
+        "spec": "admin-workspaces",
+        "status": "identical",
+        "ratio": 0.0002756076388888889,
+        "resized": false,
+        "before": "screens/admin-workspaces-detail.before.png",
+        "after": "screens/admin-workspaces-detail.after.png"
+      },
+      {
+        "name": "admin-workspaces-comped",
+        "spec": "admin-workspaces",
+        "status": "identical",
+        "ratio": 0.00020399305555555557,
+        "resized": false,
+        "before": "screens/admin-workspaces-comped.before.png",
+        "after": "screens/admin-workspaces-comped.after.png"
+      },
+      {
+        "name": "admin-users-actions-after",
+        "spec": "users",
+        "status": "identical",
+        "ratio": 0.0001953125,
+        "resized": false,
+        "before": "screens/admin-users-actions-after.before.png",
+        "after": "screens/admin-users-actions-after.after.png"
+      },
+      {
+        "name": "admin-users-guard-rail",
+        "spec": "users",
+        "status": "identical",
+        "ratio": 0.00007269965277777777,
+        "resized": false,
+        "before": "screens/admin-users-guard-rail.before.png",
+        "after": "screens/admin-users-guard-rail.after.png"
+      },
+      {
+        "name": "admin-users-detail",
+        "spec": "users",
+        "status": "identical",
+        "ratio": 0.00006076388888888889,
+        "resized": false,
+        "before": "screens/admin-users-detail.before.png",
+        "after": "screens/admin-users-detail.after.png"
+      },
+      {
+        "name": "admin-users-block-confirm",
+        "spec": "users",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/admin-users-block-confirm.before.png",
+        "after": "screens/admin-users-block-confirm.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 235,
+      "differing": 89
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "admin-workspaces-a-workspa-49cd1-th-no-list-behind-it-at-all-chromium",
+      "spec": "admin-workspaces",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/admin-workspaces-a-workspa-49cd1-th-no-list-behind-it-at-all-chromium.gif",
+      "mp4": "clips/admin-workspaces-a-workspa-49cd1-th-no-list-behind-it-at-all-chromium.mp4",
+      "gifBytes": 1697149
+    },
+    {
+      "slug": "admin-workspaces-the-compl-6bc5f-revoked-from-the-same-sheet-chromium",
+      "spec": "admin-workspaces",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/admin-workspaces-the-compl-6bc5f-revoked-from-the-same-sheet-chromium.gif",
+      "mp4": "clips/admin-workspaces-the-compl-6bc5f-revoked-from-the-same-sheet-chromium.mp4",
+      "gifBytes": 2468719
+    },
+    {
+      "slug": "admin-workspaces-the-direc-2c144-ers-on-the-columns-it-shows-chromium",
+      "spec": "admin-workspaces",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/admin-workspaces-the-direc-2c144-ers-on-the-columns-it-shows-chromium.gif",
+      "mp4": "clips/admin-workspaces-the-direc-2c144-ers-on-the-columns-it-shows-chromium.mp4",
+      "gifBytes": 2052632
+    },
+    {
+      "slug": "admin-workspaces-the-escap-d919c-cue-and-suspend-a-workspace-chromium",
+      "spec": "admin-workspaces",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/admin-workspaces-the-escap-d919c-cue-and-suspend-a-workspace-chromium.gif",
+      "mp4": "clips/admin-workspaces-the-escap-d919c-cue-and-suspend-a-workspace-chromium.mp4",
+      "gifBytes": 3525756
+    },
+    {
+      "slug": "users-a-plain-user-never-sees-the-users-screen-chromium",
+      "spec": "users",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/users-a-plain-user-never-sees-the-users-screen-chromium.gif",
+      "mp4": "clips/users-a-plain-user-never-sees-the-users-screen-chromium.mp4",
+      "gifBytes": 1228355
+    },
+    {
+      "slug": "users-a-platform-admin-lis-2f314-rs-pages-and-inspects-users-chromium",
+      "spec": "users",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/users-a-platform-admin-lis-2f314-rs-pages-and-inspects-users-chromium.gif",
+      "mp4": "clips/users-a-platform-admin-lis-2f314-rs-pages-and-inspects-users-chromium.mp4",
+      "gifBytes": 6366123
+    },
+    {
+      "slug": "users-support-can-resend-a-f9079-tion-email-and-nothing-more-chromium",
+      "spec": "users",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/users-support-can-resend-a-f9079-tion-email-and-nothing-more-chromium.gif",
+      "mp4": "clips/users-support-can-resend-a-f9079-tion-email-and-nothing-more-chromium.mp4",
+      "gifBytes": 1382618
+    },
+    {
+      "slug": "users-the-guard-rails-refuse-with-the-server-s-reason-chromium",
+      "spec": "users",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/users-the-guard-rails-refuse-with-the-server-s-reason-chromium.gif",
+      "mp4": "clips/users-the-guard-rails-refuse-with-the-server-s-reason-chromium.mp4",
+      "gifBytes": 1391900
+    }
+  ],
+  "changedSpecs": [
+    "admin-workspaces",
+    "users"
+  ]
+}
