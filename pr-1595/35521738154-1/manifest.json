@@ -1,0 +1,28 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "cf82c4a6f924b2cb966f684b9cb41963d4ac9bf7",
+      "capturedAt": "2026-09-20T09:54:54Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/35502935921"
+    },
+    "entries": [],
+    "skipped": {
+      "total": 257,
+      "differing": 116
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "time-travel-the-billing-cl-11ea0--then-suspends-—-on-its-own-chromium",
+      "spec": "time",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/time-travel-the-billing-cl-11ea0--then-suspends-—-on-its-own-chromium.gif",
+      "mp4": "clips/time-travel-the-billing-cl-11ea0--then-suspends-—-on-its-own-chromium.mp4",
+      "gifBytes": 3916117
+    }
+  ],
+  "changedSpecs": []
+}
