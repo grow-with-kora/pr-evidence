@@ -1,0 +1,107 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "344fdb5a4d1c147b429742548f6ce712ab9c05cf",
+      "capturedAt": "2026-09-20T17:22:02Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/35524638984"
+    },
+    "entries": [
+      {
+        "name": "project-risk-entry-history",
+        "spec": "risk-register",
+        "status": "added",
+        "after": "screens/project-risk-entry-history.after.png"
+      },
+      {
+        "name": "project-risks-duplicate",
+        "spec": "risk-register",
+        "status": "changed",
+        "ratio": 0.020516493055555557,
+        "resized": false,
+        "before": "screens/project-risks-duplicate.before.png",
+        "after": "screens/project-risks-duplicate.after.png",
+        "diff": "screens/project-risks-duplicate.diff.png"
+      },
+      {
+        "name": "project-risks",
+        "spec": "risk-register",
+        "status": "changed",
+        "ratio": 0.0164453125,
+        "resized": false,
+        "before": "screens/project-risks.before.png",
+        "after": "screens/project-risks.after.png",
+        "diff": "screens/project-risks.diff.png"
+      },
+      {
+        "name": "project-risk-entry-comments",
+        "spec": "risk-register",
+        "status": "changed",
+        "ratio": 0.01495334201388889,
+        "resized": false,
+        "before": "screens/project-risk-entry-comments.before.png",
+        "after": "screens/project-risk-entry-comments.after.png",
+        "diff": "screens/project-risk-entry-comments.diff.png"
+      },
+      {
+        "name": "project-risks-empty",
+        "spec": "risk-register",
+        "status": "changed",
+        "ratio": 0.01424587673611111,
+        "resized": false,
+        "before": "screens/project-risks-empty.before.png",
+        "after": "screens/project-risks-empty.after.png",
+        "diff": "screens/project-risks-empty.diff.png"
+      },
+      {
+        "name": "project-risks-raise",
+        "spec": "risk-register",
+        "status": "changed",
+        "ratio": 0.013843315972222223,
+        "resized": false,
+        "before": "screens/project-risks-raise.before.png",
+        "after": "screens/project-risks-raise.after.png",
+        "diff": "screens/project-risks-raise.diff.png"
+      },
+      {
+        "name": "project-risk-entry-tasks",
+        "spec": "risk-register",
+        "status": "changed",
+        "ratio": 0.0011382378472222221,
+        "resized": false,
+        "before": "screens/project-risk-entry-tasks.before.png",
+        "after": "screens/project-risk-entry-tasks.after.png",
+        "diff": "screens/project-risk-entry-tasks.diff.png"
+      },
+      {
+        "name": "project-risk-entry",
+        "spec": "risk-register",
+        "status": "changed",
+        "ratio": 0.001072048611111111,
+        "resized": false,
+        "before": "screens/project-risk-entry.before.png",
+        "after": "screens/project-risk-entry.after.png",
+        "diff": "screens/project-risk-entry.diff.png"
+      }
+    ],
+    "skipped": {
+      "total": 250,
+      "differing": 132
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "risk-register-a-risk-is-ra-30fac-ed-with-a-note-and-reopened-chromium",
+      "spec": "risk-register",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/risk-register-a-risk-is-ra-30fac-ed-with-a-note-and-reopened-chromium.gif",
+      "mp4": "clips/risk-register-a-risk-is-ra-30fac-ed-with-a-note-and-reopened-chromium.mp4",
+      "gifBytes": 6032111
+    }
+  ],
+  "changedSpecs": [
+    "risk-register"
+  ]
+}
