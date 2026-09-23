@@ -1,0 +1,93 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "ecbaa8f7696a89c21ba89466355739b47b6cf435",
+      "capturedAt": "2026-09-23T08:39:23Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/35836536396"
+    },
+    "entries": [],
+    "skipped": {
+      "total": 262,
+      "differing": 108
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "layout-the-admin-screens-follow-the-same-page-layout-chromium",
+      "spec": "layout",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/layout-the-admin-screens-follow-the-same-page-layout-chromium.gif",
+      "mp4": "clips/layout-the-admin-screens-follow-the-same-page-layout-chromium.mp4",
+      "gifBytes": 1501872
+    },
+    {
+      "slug": "login-landing-a-login-on-t-85b5d-ues-into-its-only-workspace-chromium",
+      "spec": "login-landing",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/login-landing-a-login-on-t-85b5d-ues-into-its-only-workspace-chromium.gif",
+      "mp4": "clips/login-landing-a-login-on-t-85b5d-ues-into-its-only-workspace-chromium.mp4",
+      "gifBytes": 1583858
+    },
+    {
+      "slug": "login-landing-a-login-on-t-85b5d-ues-into-its-only-workspace-chromium-retry1",
+      "spec": "login-landing",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/login-landing-a-login-on-t-85b5d-ues-into-its-only-workspace-chromium-retry1.gif",
+      "mp4": "clips/login-landing-a-login-on-t-85b5d-ues-into-its-only-workspace-chromium-retry1.mp4",
+      "gifBytes": 1952343
+    },
+    {
+      "slug": "login-landing-a-closed-favourite-is-skipped-chromium",
+      "spec": "login-landing",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/login-landing-a-closed-favourite-is-skipped-chromium.gif",
+      "mp4": "clips/login-landing-a-closed-favourite-is-skipped-chromium.mp4",
+      "gifBytes": 1286597
+    },
+    {
+      "slug": "login-landing-a-deep-link-beats-all-of-it-chromium",
+      "spec": "login-landing",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/login-landing-a-deep-link-beats-all-of-it-chromium.gif",
+      "mp4": "clips/login-landing-a-deep-link-beats-all-of-it-chromium.mp4",
+      "gifBytes": 1482803
+    },
+    {
+      "slug": "login-landing-a-favourite-wins-over-a-recent-chromium",
+      "spec": "login-landing",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/login-landing-a-favourite-wins-over-a-recent-chromium.gif",
+      "mp4": "clips/login-landing-a-favourite-wins-over-a-recent-chromium.mp4",
+      "gifBytes": 1522899
+    },
+    {
+      "slug": "login-landing-a-recent-wins-over-the-newest-project-chromium",
+      "spec": "login-landing",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/login-landing-a-recent-wins-over-the-newest-project-chromium.gif",
+      "mp4": "clips/login-landing-a-recent-wins-over-the-newest-project-chromium.mp4",
+      "gifBytes": 1280227
+    },
+    {
+      "slug": "login-landing-with-several-17d00--on-the-all-workspaces-home-chromium",
+      "spec": "login-landing",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/login-landing-with-several-17d00--on-the-all-workspaces-home-chromium.gif",
+      "mp4": "clips/login-landing-with-several-17d00--on-the-all-workspaces-home-chromium.mp4",
+      "gifBytes": 1219412
+    }
+  ],
+  "changedSpecs": [
+    "login-landing"
+  ]
+}
