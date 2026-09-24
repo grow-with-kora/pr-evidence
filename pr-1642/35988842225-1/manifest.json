@@ -1,0 +1,37 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "8c8b720114adfbd774f420526b77df513c0e4c48",
+      "capturedAt": "2026-09-24T10:25:28Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/35985432734"
+    },
+    "entries": [],
+    "skipped": {
+      "total": 261,
+      "differing": 116
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "layout-the-admin-screens-follow-the-same-page-layout-chromium",
+      "spec": "layout",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/layout-the-admin-screens-follow-the-same-page-layout-chromium.gif",
+      "mp4": "clips/layout-the-admin-screens-follow-the-same-page-layout-chromium.mp4",
+      "gifBytes": 1405158
+    },
+    {
+      "slug": "library-removing-a-documen-dbae0-er-that-held-it-can-then-go-chromium",
+      "spec": "library",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/library-removing-a-documen-dbae0-er-that-held-it-can-then-go-chromium.gif",
+      "mp4": "clips/library-removing-a-documen-dbae0-er-that-held-it-can-then-go-chromium.mp4",
+      "gifBytes": 2771390
+    }
+  ],
+  "changedSpecs": []
+}
