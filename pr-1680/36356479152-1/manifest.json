@@ -1,0 +1,107 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "055c429ea0b4c6841dece53868715a90b0d11ab2",
+      "capturedAt": "2026-09-27T22:27:25Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/36354498587"
+    },
+    "entries": [
+      {
+        "name": "announcements-admin-list",
+        "spec": "announcements",
+        "status": "changed",
+        "ratio": 0.007966579861111111,
+        "resized": false,
+        "before": "screens/announcements-admin-list.before.png",
+        "after": "screens/announcements-admin-list.after.png",
+        "diff": "screens/announcements-admin-list.diff.png"
+      },
+      {
+        "name": "announcement-banner",
+        "spec": "announcements",
+        "status": "changed",
+        "ratio": 0.004131944444444444,
+        "resized": false,
+        "before": "screens/announcement-banner.before.png",
+        "after": "screens/announcement-banner.after.png",
+        "diff": "screens/announcement-banner.diff.png"
+      },
+      {
+        "name": "announcement-banner-queue",
+        "spec": "announcements",
+        "status": "changed",
+        "ratio": 0.003234592013888889,
+        "resized": false,
+        "before": "screens/announcement-banner-queue.before.png",
+        "after": "screens/announcement-banner-queue.after.png",
+        "diff": "screens/announcement-banner-queue.diff.png"
+      },
+      {
+        "name": "announcement-must-accept",
+        "spec": "announcements",
+        "status": "changed",
+        "ratio": 0.0010319010416666666,
+        "resized": false,
+        "before": "screens/announcement-must-accept.before.png",
+        "after": "screens/announcement-must-accept.after.png",
+        "diff": "screens/announcement-must-accept.diff.png"
+      }
+    ],
+    "skipped": {
+      "total": 257,
+      "differing": 80
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "announcements-a-banner-rea-c0098-ordinary-user-and-dismisses-chromium",
+      "spec": "announcements",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/announcements-a-banner-rea-c0098-ordinary-user-and-dismisses-chromium.gif",
+      "mp4": "clips/announcements-a-banner-rea-c0098-ordinary-user-and-dismisses-chromium.mp4",
+      "gifBytes": 1511372
+    },
+    {
+      "slug": "announcements-a-must-accep-8ecd2-cepted-and-offers-a-way-out-chromium",
+      "spec": "announcements",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/announcements-a-must-accep-8ecd2-cepted-and-offers-a-way-out-chromium.gif",
+      "mp4": "clips/announcements-a-must-accep-8ecd2-cepted-and-offers-a-way-out-chromium.mp4",
+      "gifBytes": 1206794
+    },
+    {
+      "slug": "announcements-a-plain-user-never-sees-the-authoring-screen-chromium",
+      "spec": "announcements",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/announcements-a-plain-user-never-sees-the-authoring-screen-chromium.gif",
+      "mp4": "clips/announcements-a-plain-user-never-sees-the-authoring-screen-chromium.mp4",
+      "gifBytes": 1679619
+    },
+    {
+      "slug": "announcements-a-platform-a-948d2-publishes-it-and-it-appears-chromium",
+      "spec": "announcements",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/announcements-a-platform-a-948d2-publishes-it-and-it-appears-chromium.gif",
+      "mp4": "clips/announcements-a-platform-a-948d2-publishes-it-and-it-appears-chromium.mp4",
+      "gifBytes": 2474206
+    },
+    {
+      "slug": "announcements-a-queue-of-banners-is-visible-and-steppable-chromium",
+      "spec": "announcements",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/announcements-a-queue-of-banners-is-visible-and-steppable-chromium.gif",
+      "mp4": "clips/announcements-a-queue-of-banners-is-visible-and-steppable-chromium.mp4",
+      "gifBytes": 1210099
+    }
+  ],
+  "changedSpecs": [
+    "announcements"
+  ]
+}
