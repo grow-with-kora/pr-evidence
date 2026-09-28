@@ -1,0 +1,28 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "647ae9b598ff58372e2a38db41991640c016688d",
+      "capturedAt": "2026-09-28T20:20:47Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/36476535679"
+    },
+    "entries": [],
+    "skipped": {
+      "total": 261,
+      "differing": 86
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "workspaces-an-owner-rename-5a3e6-e-and-every-surface-follows-chromium",
+      "spec": "workspaces",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/workspaces-an-owner-rename-5a3e6-e-and-every-surface-follows-chromium.gif",
+      "mp4": "clips/workspaces-an-owner-rename-5a3e6-e-and-every-surface-follows-chromium.mp4",
+      "gifBytes": 2556683
+    }
+  ],
+  "changedSpecs": []
+}
