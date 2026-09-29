@@ -1,0 +1,18 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "597ab2fcf69290ad71905cb00d08aea4cb9b260b",
+      "capturedAt": "2026-09-29T05:21:02Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/36524388475"
+    },
+    "entries": [],
+    "skipped": {
+      "total": 263,
+      "differing": 135
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [],
+  "changedSpecs": []
+}
