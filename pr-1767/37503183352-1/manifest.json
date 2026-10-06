@@ -1,0 +1,28 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "c33263531d12c2423dd21ec6857d7b00d6bf1e3e",
+      "capturedAt": "2026-10-06T13:19:07Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/37467408864"
+    },
+    "entries": [],
+    "skipped": {
+      "total": 265,
+      "differing": 114
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "admin-workspaces-the-compl-6bc5f-revoked-from-the-same-sheet-chromium",
+      "spec": "admin",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/admin-workspaces-the-compl-6bc5f-revoked-from-the-same-sheet-chromium.gif",
+      "mp4": "clips/admin-workspaces-the-compl-6bc5f-revoked-from-the-same-sheet-chromium.mp4",
+      "gifBytes": 2805634
+    }
+  ],
+  "changedSpecs": []
+}
