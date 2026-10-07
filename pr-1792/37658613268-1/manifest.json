@@ -1,0 +1,385 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "afe21b4f8b5a8b631d51610538173fa2f126b3f3",
+      "capturedAt": "2026-10-07T12:48:40Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/37621873083"
+    },
+    "entries": [
+      {
+        "name": "admin-member-project-view",
+        "spec": "users",
+        "status": "removed",
+        "before": "screens/admin-member-project-view.before.png"
+      },
+      {
+        "name": "admin-nuke-data-confirm",
+        "spec": "zz-nuke-data",
+        "status": "removed",
+        "before": "screens/admin-nuke-data-confirm.before.png"
+      },
+      {
+        "name": "admin-nuke-data-result",
+        "spec": "zz-nuke-data",
+        "status": "removed",
+        "before": "screens/admin-nuke-data-result.before.png"
+      },
+      {
+        "name": "admin-nuke-data-selected",
+        "spec": "zz-nuke-data",
+        "status": "removed",
+        "before": "screens/admin-nuke-data-selected.before.png"
+      },
+      {
+        "name": "admin-user-sessions",
+        "spec": "sessions",
+        "status": "removed",
+        "before": "screens/admin-user-sessions.before.png"
+      },
+      {
+        "name": "admin-user-sessions-emptied",
+        "spec": "sessions",
+        "status": "removed",
+        "before": "screens/admin-user-sessions-emptied.before.png"
+      },
+      {
+        "name": "admin-user-timeline",
+        "spec": "users",
+        "status": "removed",
+        "before": "screens/admin-user-timeline.before.png"
+      },
+      {
+        "name": "admin-users-actions-after",
+        "spec": "users",
+        "status": "removed",
+        "before": "screens/admin-users-actions-after.before.png"
+      },
+      {
+        "name": "admin-users-actions-before",
+        "spec": "users",
+        "status": "removed",
+        "before": "screens/admin-users-actions-before.before.png"
+      },
+      {
+        "name": "admin-users-block-confirm",
+        "spec": "users",
+        "status": "removed",
+        "before": "screens/admin-users-block-confirm.before.png"
+      },
+      {
+        "name": "admin-users-date-preset",
+        "spec": "users",
+        "status": "removed",
+        "before": "screens/admin-users-date-preset.before.png"
+      },
+      {
+        "name": "admin-users-detail",
+        "spec": "users",
+        "status": "removed",
+        "before": "screens/admin-users-detail.before.png"
+      },
+      {
+        "name": "admin-users-filtered",
+        "spec": "users",
+        "status": "removed",
+        "before": "screens/admin-users-filtered.before.png"
+      },
+      {
+        "name": "admin-users-guard-rail",
+        "spec": "users",
+        "status": "removed",
+        "before": "screens/admin-users-guard-rail.before.png"
+      },
+      {
+        "name": "admin-users-list",
+        "spec": "users",
+        "status": "removed",
+        "before": "screens/admin-users-list.before.png"
+      },
+      {
+        "name": "admin-users-resend-verification",
+        "spec": "users",
+        "status": "removed",
+        "before": "screens/admin-users-resend-verification.before.png"
+      },
+      {
+        "name": "admin-users-sorted",
+        "spec": "users",
+        "status": "removed",
+        "before": "screens/admin-users-sorted.before.png"
+      },
+      {
+        "name": "library-project-risk-register",
+        "spec": "risk-register",
+        "status": "removed",
+        "before": "screens/library-project-risk-register.before.png"
+      },
+      {
+        "name": "project-risk-entry",
+        "spec": "risk-register",
+        "status": "removed",
+        "before": "screens/project-risk-entry.before.png"
+      },
+      {
+        "name": "project-risk-entry-comments",
+        "spec": "risk-register",
+        "status": "removed",
+        "before": "screens/project-risk-entry-comments.before.png"
+      },
+      {
+        "name": "project-risk-entry-documents",
+        "spec": "risk-register",
+        "status": "removed",
+        "before": "screens/project-risk-entry-documents.before.png"
+      },
+      {
+        "name": "project-risk-entry-history",
+        "spec": "risk-register",
+        "status": "removed",
+        "before": "screens/project-risk-entry-history.before.png"
+      },
+      {
+        "name": "project-risk-entry-tasks",
+        "spec": "risk-register",
+        "status": "removed",
+        "before": "screens/project-risk-entry-tasks.before.png"
+      },
+      {
+        "name": "project-risks",
+        "spec": "risk-register",
+        "status": "removed",
+        "before": "screens/project-risks.before.png"
+      },
+      {
+        "name": "project-risks-duplicate",
+        "spec": "risk-register",
+        "status": "removed",
+        "before": "screens/project-risks-duplicate.before.png"
+      },
+      {
+        "name": "project-risks-empty",
+        "spec": "risk-register",
+        "status": "removed",
+        "before": "screens/project-risks-empty.before.png"
+      },
+      {
+        "name": "project-risks-raise",
+        "spec": "risk-register",
+        "status": "removed",
+        "before": "screens/project-risks-raise.before.png"
+      },
+      {
+        "name": "project-step-raise-risk",
+        "spec": "risk-register",
+        "status": "removed",
+        "before": "screens/project-step-raise-risk.before.png"
+      },
+      {
+        "name": "saved-filters-applied",
+        "spec": "saved-filters",
+        "status": "removed",
+        "before": "screens/saved-filters-applied.before.png"
+      },
+      {
+        "name": "saved-filters-modified",
+        "spec": "saved-filters",
+        "status": "removed",
+        "before": "screens/saved-filters-modified.before.png"
+      },
+      {
+        "name": "saved-filters-picker",
+        "spec": "saved-filters",
+        "status": "removed",
+        "before": "screens/saved-filters-picker.before.png"
+      },
+      {
+        "name": "settings-devices",
+        "spec": "sessions",
+        "status": "removed",
+        "before": "screens/settings-devices.before.png"
+      },
+      {
+        "name": "settings-devices-after-revoke",
+        "spec": "sessions",
+        "status": "removed",
+        "before": "screens/settings-devices-after-revoke.before.png"
+      },
+      {
+        "name": "settings-photo-framing",
+        "spec": "settings",
+        "status": "removed",
+        "before": "screens/settings-photo-framing.before.png"
+      },
+      {
+        "name": "settings-profile-with-photo",
+        "spec": "settings",
+        "status": "removed",
+        "before": "screens/settings-profile-with-photo.before.png"
+      },
+      {
+        "name": "settings-security",
+        "spec": "security-settings",
+        "status": "removed",
+        "before": "screens/settings-security.before.png"
+      },
+      {
+        "name": "suppressed-recipients-list",
+        "spec": "suppressed-recipients",
+        "status": "removed",
+        "before": "screens/suppressed-recipients-list.before.png"
+      },
+      {
+        "name": "suppressed-recipients-release-confirm",
+        "spec": "suppressed-recipients",
+        "status": "removed",
+        "before": "screens/suppressed-recipients-release-confirm.before.png"
+      },
+      {
+        "name": "suppressed-recipients-released",
+        "spec": "suppressed-recipients",
+        "status": "removed",
+        "before": "screens/suppressed-recipients-released.before.png"
+      },
+      {
+        "name": "suppressed-recipients-search",
+        "spec": "suppressed-recipients",
+        "status": "removed",
+        "before": "screens/suppressed-recipients-search.before.png"
+      },
+      {
+        "name": "templates-admin-actions",
+        "spec": "templates",
+        "status": "removed",
+        "before": "screens/templates-admin-actions.before.png"
+      },
+      {
+        "name": "templates-admin-audience",
+        "spec": "templates",
+        "status": "removed",
+        "before": "screens/templates-admin-audience.before.png"
+      },
+      {
+        "name": "templates-admin-condition",
+        "spec": "templates",
+        "status": "removed",
+        "before": "screens/templates-admin-condition.before.png"
+      },
+      {
+        "name": "templates-admin-detail",
+        "spec": "templates",
+        "status": "removed",
+        "before": "screens/templates-admin-detail.before.png"
+      },
+      {
+        "name": "templates-admin-editor",
+        "spec": "templates",
+        "status": "removed",
+        "before": "screens/templates-admin-editor.before.png"
+      },
+      {
+        "name": "templates-admin-grants",
+        "spec": "templates",
+        "status": "removed",
+        "before": "screens/templates-admin-grants.before.png"
+      },
+      {
+        "name": "templates-admin-list",
+        "spec": "templates",
+        "status": "removed",
+        "before": "screens/templates-admin-list.before.png"
+      },
+      {
+        "name": "templates-admin-outline",
+        "spec": "templates",
+        "status": "removed",
+        "before": "screens/templates-admin-outline.before.png"
+      },
+      {
+        "name": "templates-admin-preview",
+        "spec": "templates",
+        "status": "removed",
+        "before": "screens/templates-admin-preview.before.png"
+      },
+      {
+        "name": "templates-admin-readonly",
+        "spec": "templates",
+        "status": "removed",
+        "before": "screens/templates-admin-readonly.before.png"
+      },
+      {
+        "name": "templates-admin-visibility",
+        "spec": "templates",
+        "status": "removed",
+        "before": "screens/templates-admin-visibility.before.png"
+      },
+      {
+        "name": "time-travel-grace-readonly",
+        "spec": "time-travel",
+        "status": "removed",
+        "before": "screens/time-travel-grace-readonly.before.png"
+      },
+      {
+        "name": "time-travel-greeting-shifted",
+        "spec": "time-travel",
+        "status": "removed",
+        "before": "screens/time-travel-greeting-shifted.before.png"
+      },
+      {
+        "name": "time-travel-shift-banner",
+        "spec": "time-travel",
+        "status": "removed",
+        "before": "screens/time-travel-shift-banner.before.png"
+      },
+      {
+        "name": "time-travel-suspended",
+        "spec": "time-travel",
+        "status": "removed",
+        "before": "screens/time-travel-suspended.before.png"
+      },
+      {
+        "name": "time-travel-trial-final-day",
+        "spec": "time-travel",
+        "status": "removed",
+        "before": "screens/time-travel-trial-final-day.before.png"
+      },
+      {
+        "name": "wall-board",
+        "spec": "wall-board",
+        "status": "removed",
+        "before": "screens/wall-board.before.png"
+      },
+      {
+        "name": "wall-board-full-screen",
+        "spec": "wall-board",
+        "status": "removed",
+        "before": "screens/wall-board-full-screen.before.png"
+      },
+      {
+        "name": "workspace-general-with-photo",
+        "spec": "workspaces",
+        "status": "removed",
+        "before": "screens/workspace-general-with-photo.before.png"
+      },
+      {
+        "name": "workspace-home",
+        "spec": "workspaces",
+        "status": "removed",
+        "before": "screens/workspace-home.before.png"
+      },
+      {
+        "name": "workspace-switcher-with-photos",
+        "spec": "workspaces",
+        "status": "removed",
+        "before": "screens/workspace-switcher-with-photos.before.png"
+      }
+    ],
+    "skipped": {
+      "total": 204,
+      "differing": 98
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [],
+  "changedSpecs": []
+}
