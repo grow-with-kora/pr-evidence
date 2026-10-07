@@ -1,0 +1,235 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "c717886da00ccee0a66c9015f6e4307596cc17be",
+      "capturedAt": "2026-10-07T07:50:50Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/37587851221"
+    },
+    "entries": [
+      {
+        "name": "projects-list",
+        "spec": "projects",
+        "status": "changed",
+        "ratio": 0.0069520399305555555,
+        "resized": false,
+        "before": "screens/projects-list.before.png",
+        "after": "screens/projects-list.after.png",
+        "diff": "screens/projects-list.diff.png"
+      },
+      {
+        "name": "project-overview",
+        "spec": "projects",
+        "status": "changed",
+        "ratio": 0.0009027777777777777,
+        "resized": false,
+        "before": "screens/project-overview.before.png",
+        "after": "screens/project-overview.after.png",
+        "diff": "screens/project-overview.diff.png"
+      },
+      {
+        "name": "project-members",
+        "spec": "projects",
+        "status": "changed",
+        "ratio": 0.0008875868055555555,
+        "resized": false,
+        "before": "screens/project-members.before.png",
+        "after": "screens/project-members.after.png",
+        "diff": "screens/project-members.diff.png"
+      },
+      {
+        "name": "project-detail",
+        "spec": "projects",
+        "status": "changed",
+        "ratio": 0.0006749131944444445,
+        "resized": false,
+        "before": "screens/project-detail.before.png",
+        "after": "screens/project-detail.after.png",
+        "diff": "screens/project-detail.diff.png"
+      },
+      {
+        "name": "project-step-nav",
+        "spec": "projects",
+        "status": "changed",
+        "ratio": 0.0006749131944444445,
+        "resized": false,
+        "before": "screens/project-step-nav.before.png",
+        "after": "screens/project-step-nav.after.png",
+        "diff": "screens/project-step-nav.diff.png"
+      },
+      {
+        "name": "projects-empty",
+        "spec": "projects",
+        "status": "changed",
+        "ratio": 0.0006749131944444445,
+        "resized": false,
+        "before": "screens/projects-empty.before.png",
+        "after": "screens/projects-empty.after.png",
+        "diff": "screens/projects-empty.diff.png"
+      },
+      {
+        "name": "project-cover-set",
+        "spec": "projects",
+        "status": "identical",
+        "ratio": 0.0004253472222222222,
+        "resized": false,
+        "before": "screens/project-cover-set.before.png",
+        "after": "screens/project-cover-set.after.png"
+      },
+      {
+        "name": "projects-list-with-cover",
+        "spec": "projects",
+        "status": "identical",
+        "ratio": 0.0004253472222222222,
+        "resized": false,
+        "before": "screens/projects-list-with-cover.before.png",
+        "after": "screens/projects-list-with-cover.after.png"
+      },
+      {
+        "name": "project-address-dialog",
+        "spec": "projects",
+        "status": "identical",
+        "ratio": 0.0004166666666666667,
+        "resized": false,
+        "before": "screens/project-address-dialog.before.png",
+        "after": "screens/project-address-dialog.after.png"
+      },
+      {
+        "name": "projects-create-dialog",
+        "spec": "projects",
+        "status": "identical",
+        "ratio": 0.0004144965277777778,
+        "resized": false,
+        "before": "screens/projects-create-dialog.before.png",
+        "after": "screens/projects-create-dialog.after.png"
+      },
+      {
+        "name": "project-cover-removed",
+        "spec": "projects",
+        "status": "identical",
+        "ratio": 0.0004123263888888889,
+        "resized": false,
+        "before": "screens/project-cover-removed.before.png",
+        "after": "screens/project-cover-removed.after.png"
+      },
+      {
+        "name": "project-nav-pane",
+        "spec": "projects",
+        "status": "identical",
+        "ratio": 0.0003298611111111111,
+        "resized": false,
+        "before": "screens/project-nav-pane.before.png",
+        "after": "screens/project-nav-pane.after.png"
+      },
+      {
+        "name": "project-cover-collaborator",
+        "spec": "projects",
+        "status": "identical",
+        "ratio": 0.00028428819444444443,
+        "resized": false,
+        "before": "screens/project-cover-collaborator.before.png",
+        "after": "screens/project-cover-collaborator.after.png"
+      },
+      {
+        "name": "project-breadcrumb",
+        "spec": "projects",
+        "status": "identical",
+        "ratio": 0.00019639756944444444,
+        "resized": false,
+        "before": "screens/project-breadcrumb.before.png",
+        "after": "screens/project-breadcrumb.after.png"
+      },
+      {
+        "name": "project-cover-framing",
+        "spec": "projects",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/project-cover-framing.before.png",
+        "after": "screens/project-cover-framing.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 250,
+      "differing": 115
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "projects-a-collaborator-se-0d35d--without-any-cover-controls-chromium",
+      "spec": "projects",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/projects-a-collaborator-se-0d35d--without-any-cover-controls-chromium.gif",
+      "mp4": "clips/projects-a-collaborator-se-0d35d--without-any-cover-controls-chromium.mp4",
+      "gifBytes": 2034267
+    },
+    {
+      "slug": "projects-a-list-page-shows-a-plain-title-not-a-trail-chromium",
+      "spec": "projects",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/projects-a-list-page-shows-a-plain-title-not-a-trail-chromium.gif",
+      "mp4": "clips/projects-a-list-page-shows-a-plain-title-not-a-trail-chromium.mp4",
+      "gifBytes": 1569444
+    },
+    {
+      "slug": "projects-a-project-admin-s-bb941-and-removes-the-cover-photo-chromium",
+      "spec": "projects",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/projects-a-project-admin-s-bb941-and-removes-the-cover-photo-chromium.gif",
+      "mp4": "clips/projects-a-project-admin-s-bb941-and-removes-the-cover-photo-chromium.mp4",
+      "gifBytes": 3028335
+    },
+    {
+      "slug": "projects-a-project-collaps-e061b-bar-and-leaving-restores-it-chromium",
+      "spec": "projects",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/projects-a-project-collaps-e061b-bar-and-leaving-restores-it-chromium.gif",
+      "mp4": "clips/projects-a-project-collaps-e061b-bar-and-leaving-restores-it-chromium.mp4",
+      "gifBytes": 1968264
+    },
+    {
+      "slug": "projects-a-project-s-top-b-71917-es-a-trail-back-to-the-list-chromium",
+      "spec": "projects",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/projects-a-project-s-top-b-71917-es-a-trail-back-to-the-list-chromium.gif",
+      "mp4": "clips/projects-a-project-s-top-b-71917-es-a-trail-back-to-the-list-chromium.mp4",
+      "gifBytes": 1574837
+    },
+    {
+      "slug": "projects-an-owner-creates-a-project-and-lands-on-it-chromium",
+      "spec": "projects",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/projects-an-owner-creates-a-project-and-lands-on-it-chromium.gif",
+      "mp4": "clips/projects-an-owner-creates-a-project-and-lands-on-it-chromium.mp4",
+      "gifBytes": 3461417
+    },
+    {
+      "slug": "projects-the-sidebar-reaches-projects-on-a-workspace-host-chromium",
+      "spec": "projects",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/projects-the-sidebar-reaches-projects-on-a-workspace-host-chromium.gif",
+      "mp4": "clips/projects-the-sidebar-reaches-projects-on-a-workspace-host-chromium.mp4",
+      "gifBytes": 1559135
+    },
+    {
+      "slug": "projects-the-stage-filter-narrows-the-grid-to-that-stage-chromium",
+      "spec": "projects",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/projects-the-stage-filter-narrows-the-grid-to-that-stage-chromium.gif",
+      "mp4": "clips/projects-the-stage-filter-narrows-the-grid-to-that-stage-chromium.mp4",
+      "gifBytes": 1707717
+    }
+  ],
+  "changedSpecs": [
+    "projects"
+  ]
+}
