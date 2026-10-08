@@ -1,0 +1,337 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "86b561c54514cc31756024c40c5536b9f90a24e1",
+      "capturedAt": "2026-10-08T09:52:23Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/37757466390"
+    },
+    "entries": [
+      {
+        "name": "admin-auth-events",
+        "spec": "auth-events",
+        "status": "removed",
+        "before": "screens/admin-auth-events.before.png"
+      },
+      {
+        "name": "admin-auth-events-filtered",
+        "spec": "auth-events",
+        "status": "removed",
+        "before": "screens/admin-auth-events-filtered.before.png"
+      },
+      {
+        "name": "admin-home-tiles",
+        "spec": "admin-host-hop",
+        "status": "removed",
+        "before": "screens/admin-home-tiles.before.png"
+      },
+      {
+        "name": "admin-workspace-timeline",
+        "spec": "admin-workspaces",
+        "status": "removed",
+        "before": "screens/admin-workspace-timeline.before.png"
+      },
+      {
+        "name": "admin-workspaces-comped",
+        "spec": "admin-workspaces",
+        "status": "removed",
+        "before": "screens/admin-workspaces-comped.before.png"
+      },
+      {
+        "name": "admin-workspaces-deep-link",
+        "spec": "admin-workspaces",
+        "status": "removed",
+        "before": "screens/admin-workspaces-deep-link.before.png"
+      },
+      {
+        "name": "admin-workspaces-detail",
+        "spec": "admin-workspaces",
+        "status": "removed",
+        "before": "screens/admin-workspaces-detail.before.png"
+      },
+      {
+        "name": "admin-workspaces-filtered",
+        "spec": "admin-workspaces",
+        "status": "removed",
+        "before": "screens/admin-workspaces-filtered.before.png"
+      },
+      {
+        "name": "admin-workspaces-hatches",
+        "spec": "admin-workspaces",
+        "status": "removed",
+        "before": "screens/admin-workspaces-hatches.before.png"
+      },
+      {
+        "name": "admin-workspaces-invitations",
+        "spec": "admin-workspaces",
+        "status": "removed",
+        "before": "screens/admin-workspaces-invitations.before.png"
+      },
+      {
+        "name": "admin-workspaces-list",
+        "spec": "admin-workspaces",
+        "status": "removed",
+        "before": "screens/admin-workspaces-list.before.png"
+      },
+      {
+        "name": "admin-workspaces-notes",
+        "spec": "admin-workspaces",
+        "status": "removed",
+        "before": "screens/admin-workspaces-notes.before.png"
+      },
+      {
+        "name": "admin-workspaces-reason",
+        "spec": "admin-workspaces",
+        "status": "removed",
+        "before": "screens/admin-workspaces-reason.before.png"
+      },
+      {
+        "name": "after-first-run-name",
+        "spec": "first-run",
+        "status": "removed",
+        "before": "screens/after-first-run-name.before.png"
+      },
+      {
+        "name": "after-first-run-resend",
+        "spec": "first-run",
+        "status": "removed",
+        "before": "screens/after-first-run-resend.before.png"
+      },
+      {
+        "name": "after-first-run-shell",
+        "spec": "first-run",
+        "status": "removed",
+        "before": "screens/after-first-run-shell.before.png"
+      },
+      {
+        "name": "after-first-run-verify",
+        "spec": "first-run",
+        "status": "removed",
+        "before": "screens/after-first-run-verify.before.png"
+      },
+      {
+        "name": "announcement-banner",
+        "spec": "announcements",
+        "status": "removed",
+        "before": "screens/announcement-banner.before.png"
+      },
+      {
+        "name": "announcement-banner-queue",
+        "spec": "announcements",
+        "status": "removed",
+        "before": "screens/announcement-banner-queue.before.png"
+      },
+      {
+        "name": "announcement-must-accept",
+        "spec": "announcements",
+        "status": "removed",
+        "before": "screens/announcement-must-accept.before.png"
+      },
+      {
+        "name": "announcements-admin-list",
+        "spec": "announcements",
+        "status": "removed",
+        "before": "screens/announcements-admin-list.before.png"
+      },
+      {
+        "name": "audit-log-actor-picker",
+        "spec": "audit-log",
+        "status": "removed",
+        "before": "screens/audit-log-actor-picker.before.png"
+      },
+      {
+        "name": "audit-log-date-preset",
+        "spec": "audit-log",
+        "status": "removed",
+        "before": "screens/audit-log-date-preset.before.png"
+      },
+      {
+        "name": "audit-log-detail",
+        "spec": "audit-log",
+        "status": "removed",
+        "before": "screens/audit-log-detail.before.png"
+      },
+      {
+        "name": "audit-log-entity-link",
+        "spec": "audit-log",
+        "status": "removed",
+        "before": "screens/audit-log-entity-link.before.png"
+      },
+      {
+        "name": "audit-log-entity-search",
+        "spec": "audit-log",
+        "status": "removed",
+        "before": "screens/audit-log-entity-search.before.png"
+      },
+      {
+        "name": "audit-log-filtered",
+        "spec": "audit-log",
+        "status": "removed",
+        "before": "screens/audit-log-filtered.before.png"
+      },
+      {
+        "name": "audit-log-list",
+        "spec": "audit-log",
+        "status": "removed",
+        "before": "screens/audit-log-list.before.png"
+      },
+      {
+        "name": "billing-change-plan",
+        "spec": "billing",
+        "status": "removed",
+        "before": "screens/billing-change-plan.before.png"
+      },
+      {
+        "name": "billing-grace-readonly",
+        "spec": "billing",
+        "status": "removed",
+        "before": "screens/billing-grace-readonly.before.png"
+      },
+      {
+        "name": "billing-member-cap",
+        "spec": "billing",
+        "status": "removed",
+        "before": "screens/billing-member-cap.before.png"
+      },
+      {
+        "name": "billing-project-cap",
+        "spec": "billing",
+        "status": "removed",
+        "before": "screens/billing-project-cap.before.png"
+      },
+      {
+        "name": "billing-suspended-member",
+        "spec": "billing",
+        "status": "removed",
+        "before": "screens/billing-suspended-member.before.png"
+      },
+      {
+        "name": "billing-suspended-owner",
+        "spec": "billing",
+        "status": "removed",
+        "before": "screens/billing-suspended-owner.before.png"
+      },
+      {
+        "name": "billing-tab",
+        "spec": "billing",
+        "status": "removed",
+        "before": "screens/billing-tab.before.png"
+      },
+      {
+        "name": "billing-trial-countdown",
+        "spec": "billing",
+        "status": "removed",
+        "before": "screens/billing-trial-countdown.before.png"
+      },
+      {
+        "name": "collaboration-live-comment",
+        "spec": "collaboration",
+        "status": "removed",
+        "before": "screens/collaboration-live-comment.before.png"
+      },
+      {
+        "name": "collaboration-presence",
+        "spec": "collaboration",
+        "status": "removed",
+        "before": "screens/collaboration-presence.before.png"
+      },
+      {
+        "name": "collaboration-reaction",
+        "spec": "collaboration",
+        "status": "removed",
+        "before": "screens/collaboration-reaction.before.png"
+      },
+      {
+        "name": "collaboration-writing",
+        "spec": "collaboration",
+        "status": "removed",
+        "before": "screens/collaboration-writing.before.png"
+      },
+      {
+        "name": "compare-plans",
+        "spec": "billing",
+        "status": "removed",
+        "before": "screens/compare-plans.before.png"
+      },
+      {
+        "name": "cookie-policy",
+        "spec": "cookie-policy",
+        "status": "removed",
+        "before": "screens/cookie-policy.before.png"
+      },
+      {
+        "name": "dashboards-narrow",
+        "spec": "dashboards",
+        "status": "removed",
+        "before": "screens/dashboards-narrow.before.png"
+      },
+      {
+        "name": "dashboards-widget-picker",
+        "spec": "dashboards",
+        "status": "removed",
+        "before": "screens/dashboards-widget-picker.before.png"
+      },
+      {
+        "name": "degraded-banner",
+        "spec": "failure-paths",
+        "status": "removed",
+        "before": "screens/degraded-banner.before.png"
+      },
+      {
+        "name": "design-system-dark",
+        "spec": "design-system",
+        "status": "removed",
+        "before": "screens/design-system-dark.before.png"
+      },
+      {
+        "name": "design-system-light",
+        "spec": "design-system",
+        "status": "removed",
+        "before": "screens/design-system-light.before.png"
+      },
+      {
+        "name": "not-found",
+        "spec": "failure-paths",
+        "status": "removed",
+        "before": "screens/not-found.before.png"
+      },
+      {
+        "name": "recovered-after-retry",
+        "spec": "failure-paths",
+        "status": "removed",
+        "before": "screens/recovered-after-retry.before.png"
+      },
+      {
+        "name": "settings-privacy",
+        "spec": "cookie-policy",
+        "status": "removed",
+        "before": "screens/settings-privacy.before.png"
+      },
+      {
+        "name": "single-403-toast",
+        "spec": "failure-paths",
+        "status": "removed",
+        "before": "screens/single-403-toast.before.png"
+      },
+      {
+        "name": "workspace-access-history",
+        "spec": "access-history",
+        "status": "removed",
+        "before": "screens/workspace-access-history.before.png"
+      },
+      {
+        "name": "workspace-access-history-widened",
+        "spec": "access-history",
+        "status": "removed",
+        "before": "screens/workspace-access-history-widened.before.png"
+      }
+    ],
+    "skipped": {
+      "total": 214,
+      "differing": 90
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [],
+  "changedSpecs": []
+}
