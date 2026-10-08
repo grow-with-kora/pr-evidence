@@ -1,0 +1,674 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "86b561c54514cc31756024c40c5536b9f90a24e1",
+      "capturedAt": "2026-10-08T09:52:23Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/37757466390"
+    },
+    "entries": [
+      {
+        "name": "document-explorer-masked",
+        "spec": "project-access",
+        "status": "removed",
+        "before": "screens/document-explorer-masked.before.png"
+      },
+      {
+        "name": "inbox-cleared",
+        "spec": "notifications",
+        "status": "removed",
+        "before": "screens/inbox-cleared.before.png"
+      },
+      {
+        "name": "inbox-item-opened",
+        "spec": "notifications",
+        "status": "removed",
+        "before": "screens/inbox-item-opened.before.png"
+      },
+      {
+        "name": "inbox-no-matches",
+        "spec": "notifications",
+        "status": "removed",
+        "before": "screens/inbox-no-matches.before.png"
+      },
+      {
+        "name": "inbox-other",
+        "spec": "notifications",
+        "status": "removed",
+        "before": "screens/inbox-other.before.png"
+      },
+      {
+        "name": "inbox-popup-other",
+        "spec": "notifications",
+        "status": "removed",
+        "before": "screens/inbox-popup-other.before.png"
+      },
+      {
+        "name": "inbox-primary-caught-up",
+        "spec": "notifications",
+        "status": "removed",
+        "before": "screens/inbox-primary-caught-up.before.png"
+      },
+      {
+        "name": "landed-with-welcome",
+        "spec": "notifications",
+        "status": "removed",
+        "before": "screens/landed-with-welcome.before.png"
+      },
+      {
+        "name": "long-feed-scrolled",
+        "spec": "notifications",
+        "status": "removed",
+        "before": "screens/long-feed-scrolled.before.png"
+      },
+      {
+        "name": "long-feed-top",
+        "spec": "notifications",
+        "status": "removed",
+        "before": "screens/long-feed-top.before.png"
+      },
+      {
+        "name": "notification-deliveries-bounce-detail",
+        "spec": "notification-deliveries",
+        "status": "removed",
+        "before": "screens/notification-deliveries-bounce-detail.before.png"
+      },
+      {
+        "name": "notification-deliveries-bounced",
+        "spec": "notification-deliveries",
+        "status": "removed",
+        "before": "screens/notification-deliveries-bounced.before.png"
+      },
+      {
+        "name": "notification-deliveries-failed",
+        "spec": "notification-deliveries",
+        "status": "removed",
+        "before": "screens/notification-deliveries-failed.before.png"
+      },
+      {
+        "name": "notification-deliveries-failure-detail",
+        "spec": "notification-deliveries",
+        "status": "removed",
+        "before": "screens/notification-deliveries-failure-detail.before.png"
+      },
+      {
+        "name": "notification-deliveries-list",
+        "spec": "notification-deliveries",
+        "status": "removed",
+        "before": "screens/notification-deliveries-list.before.png"
+      },
+      {
+        "name": "notification-deliveries-recipient-search",
+        "spec": "notification-deliveries",
+        "status": "removed",
+        "before": "screens/notification-deliveries-recipient-search.before.png"
+      },
+      {
+        "name": "onboarding-created-workspace-home",
+        "spec": "onboarding",
+        "status": "removed",
+        "before": "screens/onboarding-created-workspace-home.before.png"
+      },
+      {
+        "name": "onboarding-field-limit-reached",
+        "spec": "onboarding",
+        "status": "removed",
+        "before": "screens/onboarding-field-limit-reached.before.png"
+      },
+      {
+        "name": "onboarding-forced-create",
+        "spec": "onboarding",
+        "status": "removed",
+        "before": "screens/onboarding-forced-create.before.png"
+      },
+      {
+        "name": "onboarding-invite-accepted",
+        "spec": "onboarding",
+        "status": "removed",
+        "before": "screens/onboarding-invite-accepted.before.png"
+      },
+      {
+        "name": "onboarding-invite-choice",
+        "spec": "onboarding",
+        "status": "removed",
+        "before": "screens/onboarding-invite-choice.before.png"
+      },
+      {
+        "name": "onboarding-member-opened-workspace",
+        "spec": "onboarding",
+        "status": "removed",
+        "before": "screens/onboarding-member-opened-workspace.before.png"
+      },
+      {
+        "name": "project-access-history",
+        "spec": "project-activity",
+        "status": "removed",
+        "before": "screens/project-access-history.before.png"
+      },
+      {
+        "name": "project-access-map",
+        "spec": "project-access",
+        "status": "removed",
+        "before": "screens/project-access-map.before.png"
+      },
+      {
+        "name": "project-access-member",
+        "spec": "project-access",
+        "status": "removed",
+        "before": "screens/project-access-member.before.png"
+      },
+      {
+        "name": "project-access-own",
+        "spec": "project-access",
+        "status": "removed",
+        "before": "screens/project-access-own.before.png"
+      },
+      {
+        "name": "project-activity",
+        "spec": "project-activity",
+        "status": "removed",
+        "before": "screens/project-activity.before.png"
+      },
+      {
+        "name": "project-activity-member",
+        "spec": "project-activity",
+        "status": "removed",
+        "before": "screens/project-activity-member.before.png"
+      },
+      {
+        "name": "project-address-dialog",
+        "spec": "projects",
+        "status": "removed",
+        "before": "screens/project-address-dialog.before.png"
+      },
+      {
+        "name": "project-breadcrumb",
+        "spec": "projects",
+        "status": "removed",
+        "before": "screens/project-breadcrumb.before.png"
+      },
+      {
+        "name": "project-cover-collaborator",
+        "spec": "projects",
+        "status": "removed",
+        "before": "screens/project-cover-collaborator.before.png"
+      },
+      {
+        "name": "project-cover-framing",
+        "spec": "projects",
+        "status": "removed",
+        "before": "screens/project-cover-framing.before.png"
+      },
+      {
+        "name": "project-cover-removed",
+        "spec": "projects",
+        "status": "removed",
+        "before": "screens/project-cover-removed.before.png"
+      },
+      {
+        "name": "project-cover-set",
+        "spec": "projects",
+        "status": "removed",
+        "before": "screens/project-cover-set.before.png"
+      },
+      {
+        "name": "project-detail",
+        "spec": "projects",
+        "status": "removed",
+        "before": "screens/project-detail.before.png"
+      },
+      {
+        "name": "project-discovery-grid",
+        "spec": "project-visibility",
+        "status": "removed",
+        "before": "screens/project-discovery-grid.before.png"
+      },
+      {
+        "name": "project-discovery-override",
+        "spec": "project-visibility",
+        "status": "removed",
+        "before": "screens/project-discovery-override.before.png"
+      },
+      {
+        "name": "project-discovery-shell",
+        "spec": "project-visibility",
+        "status": "removed",
+        "before": "screens/project-discovery-shell.before.png"
+      },
+      {
+        "name": "project-gallery-grid",
+        "spec": "project-gallery",
+        "status": "removed",
+        "before": "screens/project-gallery-grid.before.png"
+      },
+      {
+        "name": "project-gallery-viewer",
+        "spec": "project-gallery",
+        "status": "removed",
+        "before": "screens/project-gallery-viewer.before.png"
+      },
+      {
+        "name": "project-go-live",
+        "spec": "project-work",
+        "status": "removed",
+        "before": "screens/project-go-live.before.png"
+      },
+      {
+        "name": "project-invite-accepted-project",
+        "spec": "project-invites",
+        "status": "removed",
+        "before": "screens/project-invite-accepted-project.before.png"
+      },
+      {
+        "name": "project-invite-accepted-projects",
+        "spec": "project-invites",
+        "status": "removed",
+        "before": "screens/project-invite-accepted-projects.before.png"
+      },
+      {
+        "name": "project-invite-already-invited",
+        "spec": "project-invites",
+        "status": "removed",
+        "before": "screens/project-invite-already-invited.before.png"
+      },
+      {
+        "name": "project-invite-colleague-picked",
+        "spec": "project-invites",
+        "status": "removed",
+        "before": "screens/project-invite-colleague-picked.before.png"
+      },
+      {
+        "name": "project-invite-dialog",
+        "spec": "project-invites",
+        "status": "removed",
+        "before": "screens/project-invite-dialog.before.png"
+      },
+      {
+        "name": "project-invite-join-choice",
+        "spec": "project-invites",
+        "status": "removed",
+        "before": "screens/project-invite-join-choice.before.png"
+      },
+      {
+        "name": "project-invite-suggestions",
+        "spec": "project-invites",
+        "status": "removed",
+        "before": "screens/project-invite-suggestions.before.png"
+      },
+      {
+        "name": "project-live",
+        "spec": "project-work",
+        "status": "removed",
+        "before": "screens/project-live.before.png"
+      },
+      {
+        "name": "project-manage-member",
+        "spec": "project-invites",
+        "status": "removed",
+        "before": "screens/project-manage-member.before.png"
+      },
+      {
+        "name": "project-members",
+        "spec": "projects",
+        "status": "removed",
+        "before": "screens/project-members.before.png"
+      },
+      {
+        "name": "project-nav-pane",
+        "spec": "projects",
+        "status": "removed",
+        "before": "screens/project-nav-pane.before.png"
+      },
+      {
+        "name": "project-overview",
+        "spec": "projects",
+        "status": "removed",
+        "before": "screens/project-overview.before.png"
+      },
+      {
+        "name": "project-people-after-acceptance",
+        "spec": "project-invites",
+        "status": "removed",
+        "before": "screens/project-people-after-acceptance.before.png"
+      },
+      {
+        "name": "project-people-before-invite",
+        "spec": "project-invites",
+        "status": "removed",
+        "before": "screens/project-people-before-invite.before.png"
+      },
+      {
+        "name": "project-people-invitation-pending",
+        "spec": "project-invites",
+        "status": "removed",
+        "before": "screens/project-people-invitation-pending.before.png"
+      },
+      {
+        "name": "project-remove-member-confirm",
+        "spec": "project-invites",
+        "status": "removed",
+        "before": "screens/project-remove-member-confirm.before.png"
+      },
+      {
+        "name": "project-step-nav",
+        "spec": "projects",
+        "status": "removed",
+        "before": "screens/project-step-nav.before.png"
+      },
+      {
+        "name": "project-step-tasks",
+        "spec": "project-work",
+        "status": "removed",
+        "before": "screens/project-step-tasks.before.png"
+      },
+      {
+        "name": "project-task-assigned",
+        "spec": "project-work",
+        "status": "removed",
+        "before": "screens/project-task-assigned.before.png"
+      },
+      {
+        "name": "project-task-details",
+        "spec": "project-work",
+        "status": "removed",
+        "before": "screens/project-task-details.before.png"
+      },
+      {
+        "name": "project-task-in-progress",
+        "spec": "project-work",
+        "status": "removed",
+        "before": "screens/project-task-in-progress.before.png"
+      },
+      {
+        "name": "project-task-started-from-detail",
+        "spec": "project-work",
+        "status": "removed",
+        "before": "screens/project-task-started-from-detail.before.png"
+      },
+      {
+        "name": "project-task-undo",
+        "spec": "project-work",
+        "status": "removed",
+        "before": "screens/project-task-undo.before.png"
+      },
+      {
+        "name": "project-tasks",
+        "spec": "project-work",
+        "status": "removed",
+        "before": "screens/project-tasks.before.png"
+      },
+      {
+        "name": "project-tasks-done",
+        "spec": "project-work",
+        "status": "removed",
+        "before": "screens/project-tasks-done.before.png"
+      },
+      {
+        "name": "project-visibility-member-direct-url",
+        "spec": "project-visibility",
+        "status": "removed",
+        "before": "screens/project-visibility-member-direct-url.before.png"
+      },
+      {
+        "name": "project-visibility-member-grid",
+        "spec": "project-visibility",
+        "status": "removed",
+        "before": "screens/project-visibility-member-grid.before.png"
+      },
+      {
+        "name": "project-visibility-member-palette",
+        "spec": "project-visibility",
+        "status": "removed",
+        "before": "screens/project-visibility-member-palette.before.png"
+      },
+      {
+        "name": "project-visibility-owner-without-a-row",
+        "spec": "project-visibility",
+        "status": "removed",
+        "before": "screens/project-visibility-owner-without-a-row.before.png"
+      },
+      {
+        "name": "project-work-collection",
+        "spec": "project-work",
+        "status": "removed",
+        "before": "screens/project-work-collection.before.png"
+      },
+      {
+        "name": "project-work-comment",
+        "spec": "project-work",
+        "status": "removed",
+        "before": "screens/project-work-comment.before.png"
+      },
+      {
+        "name": "project-work-complete",
+        "spec": "project-work",
+        "status": "removed",
+        "before": "screens/project-work-complete.before.png"
+      },
+      {
+        "name": "project-work-document",
+        "spec": "project-work",
+        "status": "removed",
+        "before": "screens/project-work-document.before.png"
+      },
+      {
+        "name": "project-work-document-details",
+        "spec": "project-work",
+        "status": "removed",
+        "before": "screens/project-work-document-details.before.png"
+      },
+      {
+        "name": "project-work-document-rename",
+        "spec": "project-work",
+        "status": "removed",
+        "before": "screens/project-work-document-rename.before.png"
+      },
+      {
+        "name": "project-work-document-superseded",
+        "spec": "project-work",
+        "status": "removed",
+        "before": "screens/project-work-document-superseded.before.png"
+      },
+      {
+        "name": "project-work-locked",
+        "spec": "project-work",
+        "status": "removed",
+        "before": "screens/project-work-locked.before.png"
+      },
+      {
+        "name": "project-work-mention",
+        "spec": "project-work",
+        "status": "removed",
+        "before": "screens/project-work-mention.before.png"
+      },
+      {
+        "name": "project-work-mention-hovercard",
+        "spec": "project-work",
+        "status": "removed",
+        "before": "screens/project-work-mention-hovercard.before.png"
+      },
+      {
+        "name": "project-work-mention-picker",
+        "spec": "project-work",
+        "status": "removed",
+        "before": "screens/project-work-mention-picker.before.png"
+      },
+      {
+        "name": "project-work-node-menu",
+        "spec": "project-work",
+        "status": "removed",
+        "before": "screens/project-work-node-menu.before.png"
+      },
+      {
+        "name": "project-work-not-applicable",
+        "spec": "project-work",
+        "status": "removed",
+        "before": "screens/project-work-not-applicable.before.png"
+      },
+      {
+        "name": "project-work-photo",
+        "spec": "project-work",
+        "status": "removed",
+        "before": "screens/project-work-photo.before.png"
+      },
+      {
+        "name": "project-work-photo-undo",
+        "spec": "project-work",
+        "status": "removed",
+        "before": "screens/project-work-photo-undo.before.png"
+      },
+      {
+        "name": "project-work-saved",
+        "spec": "project-work",
+        "status": "removed",
+        "before": "screens/project-work-saved.before.png"
+      },
+      {
+        "name": "project-work-signoff",
+        "spec": "project-work",
+        "status": "removed",
+        "before": "screens/project-work-signoff.before.png"
+      },
+      {
+        "name": "project-work-step",
+        "spec": "project-work",
+        "status": "removed",
+        "before": "screens/project-work-step.before.png"
+      },
+      {
+        "name": "project-work-unlocked",
+        "spec": "project-work",
+        "status": "removed",
+        "before": "screens/project-work-unlocked.before.png"
+      },
+      {
+        "name": "projects-create-dialog",
+        "spec": "projects",
+        "status": "removed",
+        "before": "screens/projects-create-dialog.before.png"
+      },
+      {
+        "name": "projects-empty",
+        "spec": "projects",
+        "status": "removed",
+        "before": "screens/projects-empty.before.png"
+      },
+      {
+        "name": "projects-list",
+        "spec": "projects",
+        "status": "removed",
+        "before": "screens/projects-list.before.png"
+      },
+      {
+        "name": "projects-list-with-cover",
+        "spec": "projects",
+        "status": "removed",
+        "before": "screens/projects-list-with-cover.before.png"
+      },
+      {
+        "name": "quick-search-action-dialog",
+        "spec": "quick-search",
+        "status": "removed",
+        "before": "screens/quick-search-action-dialog.before.png"
+      },
+      {
+        "name": "quick-search-all-workspaces",
+        "spec": "quick-search",
+        "status": "removed",
+        "before": "screens/quick-search-all-workspaces.before.png"
+      },
+      {
+        "name": "quick-search-app-host",
+        "spec": "quick-search",
+        "status": "removed",
+        "before": "screens/quick-search-app-host.before.png"
+      },
+      {
+        "name": "quick-search-by-address",
+        "spec": "quick-search",
+        "status": "removed",
+        "before": "screens/quick-search-by-address.before.png"
+      },
+      {
+        "name": "quick-search-open",
+        "spec": "quick-search",
+        "status": "removed",
+        "before": "screens/quick-search-open.before.png"
+      },
+      {
+        "name": "quick-search-recents",
+        "spec": "quick-search",
+        "status": "removed",
+        "before": "screens/quick-search-recents.before.png"
+      },
+      {
+        "name": "quick-search-results",
+        "spec": "quick-search",
+        "status": "removed",
+        "before": "screens/quick-search-results.before.png"
+      },
+      {
+        "name": "saved-filters-picker",
+        "spec": "saved-filters",
+        "status": "removed",
+        "before": "screens/saved-filters-picker.before.png"
+      },
+      {
+        "name": "session-ended-elsewhere",
+        "spec": "login",
+        "status": "removed",
+        "before": "screens/session-ended-elsewhere.before.png"
+      },
+      {
+        "name": "setup-screen",
+        "spec": "notifications",
+        "status": "removed",
+        "before": "screens/setup-screen.before.png"
+      },
+      {
+        "name": "shell-home",
+        "spec": "login",
+        "status": "removed",
+        "before": "screens/shell-home.before.png"
+      },
+      {
+        "name": "workspace-discovery-setting",
+        "spec": "project-visibility",
+        "status": "removed",
+        "before": "screens/workspace-discovery-setting.before.png"
+      },
+      {
+        "name": "workspace-library-open-the-step",
+        "spec": "project-work",
+        "status": "removed",
+        "before": "screens/workspace-library-open-the-step.before.png"
+      }
+    ],
+    "skipped": {
+      "total": 161,
+      "differing": 55
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "saved-filters-a-platform-a-04625-t-shares-one-and-deletes-it-chromium",
+      "spec": "saved",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/saved-filters-a-platform-a-04625-t-shares-one-and-deletes-it-chromium.gif",
+      "mp4": "clips/saved-filters-a-platform-a-04625-t-shares-one-and-deletes-it-chromium.mp4",
+      "gifBytes": 4752726
+    },
+    {
+      "slug": "saved-filters-a-platform-a-04625-t-shares-one-and-deletes-it-chromium-retry1",
+      "spec": "saved",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/saved-filters-a-platform-a-04625-t-shares-one-and-deletes-it-chromium-retry1.gif",
+      "mp4": "clips/saved-filters-a-platform-a-04625-t-shares-one-and-deletes-it-chromium-retry1.mp4",
+      "gifBytes": 4045897
+    }
+  ],
+  "changedSpecs": []
+}
