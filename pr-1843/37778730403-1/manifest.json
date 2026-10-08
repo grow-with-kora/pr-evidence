@@ -1,0 +1,307 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "bfed4ab7e8bbf374b71baef47d339b54be1c14e4",
+      "capturedAt": "2026-10-08T12:39:01Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/37776519921"
+    },
+    "entries": [
+      {
+        "name": "invite-accept-choice",
+        "spec": "invites",
+        "status": "removed",
+        "before": "screens/invite-accept-choice.before.png"
+      },
+      {
+        "name": "invite-accepted-workspace",
+        "spec": "invites",
+        "status": "removed",
+        "before": "screens/invite-accepted-workspace.before.png"
+      },
+      {
+        "name": "invite-after-switch",
+        "spec": "invites",
+        "status": "removed",
+        "before": "screens/invite-after-switch.before.png"
+      },
+      {
+        "name": "invite-email-mismatch",
+        "spec": "invites",
+        "status": "removed",
+        "before": "screens/invite-email-mismatch.before.png"
+      },
+      {
+        "name": "invite-in-app-notification",
+        "spec": "invites",
+        "status": "removed",
+        "before": "screens/invite-in-app-notification.before.png"
+      },
+      {
+        "name": "invite-login-hint",
+        "spec": "invites",
+        "status": "removed",
+        "before": "screens/invite-login-hint.before.png"
+      },
+      {
+        "name": "layout-account-settings",
+        "spec": "layout",
+        "status": "removed",
+        "before": "screens/layout-account-settings.before.png"
+      },
+      {
+        "name": "layout-admin-audit-log",
+        "spec": "layout",
+        "status": "removed",
+        "before": "screens/layout-admin-audit-log.before.png"
+      },
+      {
+        "name": "layout-admin-users",
+        "spec": "layout",
+        "status": "removed",
+        "before": "screens/layout-admin-users.before.png"
+      },
+      {
+        "name": "layout-home",
+        "spec": "layout",
+        "status": "removed",
+        "before": "screens/layout-home.before.png"
+      },
+      {
+        "name": "layout-mobile-menu",
+        "spec": "layout",
+        "status": "removed",
+        "before": "screens/layout-mobile-menu.before.png"
+      },
+      {
+        "name": "layout-mobile-menu-create-workspace",
+        "spec": "layout",
+        "status": "removed",
+        "before": "screens/layout-mobile-menu-create-workspace.before.png"
+      },
+      {
+        "name": "layout-mobile-menu-dismissed",
+        "spec": "layout",
+        "status": "removed",
+        "before": "screens/layout-mobile-menu-dismissed.before.png"
+      },
+      {
+        "name": "layout-narrow-top-bar",
+        "spec": "layout",
+        "status": "removed",
+        "before": "screens/layout-narrow-top-bar.before.png"
+      },
+      {
+        "name": "layout-notification-settings",
+        "spec": "layout",
+        "status": "removed",
+        "before": "screens/layout-notification-settings.before.png"
+      },
+      {
+        "name": "layout-sticky-top-bar",
+        "spec": "layout",
+        "status": "removed",
+        "before": "screens/layout-sticky-top-bar.before.png"
+      },
+      {
+        "name": "layout-workspace-billing-usage",
+        "spec": "layout",
+        "status": "removed",
+        "before": "screens/layout-workspace-billing-usage.before.png"
+      },
+      {
+        "name": "layout-workspace-members",
+        "spec": "layout",
+        "status": "removed",
+        "before": "screens/layout-workspace-members.before.png"
+      },
+      {
+        "name": "layout-workspace-settings",
+        "spec": "layout",
+        "status": "removed",
+        "before": "screens/layout-workspace-settings.before.png"
+      },
+      {
+        "name": "layout-workspaces",
+        "spec": "layout",
+        "status": "removed",
+        "before": "screens/layout-workspaces.before.png"
+      },
+      {
+        "name": "legal-index",
+        "spec": "legal",
+        "status": "removed",
+        "before": "screens/legal-index.before.png"
+      },
+      {
+        "name": "legal-placeholder",
+        "spec": "legal",
+        "status": "removed",
+        "before": "screens/legal-placeholder.before.png"
+      },
+      {
+        "name": "legal-sub-processors",
+        "spec": "legal",
+        "status": "removed",
+        "before": "screens/legal-sub-processors.before.png"
+      },
+      {
+        "name": "library-remove-undo",
+        "spec": "library",
+        "status": "removed",
+        "before": "screens/library-remove-undo.before.png"
+      },
+      {
+        "name": "login-signup-handoff",
+        "spec": "front-door-handoff",
+        "status": "removed",
+        "before": "screens/login-signup-handoff.before.png"
+      },
+      {
+        "name": "login-with-footer",
+        "spec": "legal",
+        "status": "removed",
+        "before": "screens/login-with-footer.before.png"
+      },
+      {
+        "name": "members-after-acceptance",
+        "spec": "invites",
+        "status": "removed",
+        "before": "screens/members-after-acceptance.before.png"
+      },
+      {
+        "name": "members-after-removal",
+        "spec": "invites",
+        "status": "removed",
+        "before": "screens/members-after-removal.before.png"
+      },
+      {
+        "name": "members-as-member",
+        "spec": "invites",
+        "status": "removed",
+        "before": "screens/members-as-member.before.png"
+      },
+      {
+        "name": "members-before-invite",
+        "spec": "invites",
+        "status": "removed",
+        "before": "screens/members-before-invite.before.png"
+      },
+      {
+        "name": "members-blocked-colleague",
+        "spec": "invites",
+        "status": "removed",
+        "before": "screens/members-blocked-colleague.before.png"
+      },
+      {
+        "name": "members-invitation-pending",
+        "spec": "invites",
+        "status": "removed",
+        "before": "screens/members-invitation-pending.before.png"
+      },
+      {
+        "name": "members-invite-already-here",
+        "spec": "invites",
+        "status": "removed",
+        "before": "screens/members-invite-already-here.before.png"
+      },
+      {
+        "name": "members-last-owner",
+        "spec": "invites",
+        "status": "removed",
+        "before": "screens/members-last-owner.before.png"
+      },
+      {
+        "name": "members-manage-long-name",
+        "spec": "invites",
+        "status": "removed",
+        "before": "screens/members-manage-long-name.before.png"
+      },
+      {
+        "name": "members-manage-member",
+        "spec": "invites",
+        "status": "removed",
+        "before": "screens/members-manage-member.before.png"
+      },
+      {
+        "name": "members-remove-confirm",
+        "spec": "invites",
+        "status": "removed",
+        "before": "screens/members-remove-confirm.before.png"
+      },
+      {
+        "name": "plans-public",
+        "spec": "front-door-handoff",
+        "status": "removed",
+        "before": "screens/plans-public.before.png"
+      },
+      {
+        "name": "quick-search-muted-hit",
+        "spec": "invites",
+        "status": "removed",
+        "before": "screens/quick-search-muted-hit.before.png"
+      },
+      {
+        "name": "sidebar-flyout",
+        "spec": "layout",
+        "status": "removed",
+        "before": "screens/sidebar-flyout.before.png"
+      },
+      {
+        "name": "sidebar-icon-rail",
+        "spec": "layout",
+        "status": "removed",
+        "before": "screens/sidebar-icon-rail.before.png"
+      },
+      {
+        "name": "sidebar-invite-accepted",
+        "spec": "invites",
+        "status": "removed",
+        "before": "screens/sidebar-invite-accepted.before.png"
+      },
+      {
+        "name": "sidebar-pending-invites",
+        "spec": "invites",
+        "status": "removed",
+        "before": "screens/sidebar-pending-invites.before.png"
+      },
+      {
+        "name": "support",
+        "spec": "legal",
+        "status": "removed",
+        "before": "screens/support.before.png"
+      },
+      {
+        "name": "workspace-library-document-details",
+        "spec": "library",
+        "status": "removed",
+        "before": "screens/workspace-library-document-details.before.png"
+      },
+      {
+        "name": "workspace-library-folder",
+        "spec": "library",
+        "status": "removed",
+        "before": "screens/workspace-library-folder.before.png"
+      },
+      {
+        "name": "workspace-library-root",
+        "spec": "library",
+        "status": "removed",
+        "before": "screens/workspace-library-root.before.png"
+      },
+      {
+        "name": "workspace-splash",
+        "spec": "layout",
+        "status": "removed",
+        "before": "screens/workspace-splash.before.png"
+      }
+    ],
+    "skipped": {
+      "total": 219,
+      "differing": 101
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [],
+  "changedSpecs": []
+}
