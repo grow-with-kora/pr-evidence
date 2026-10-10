@@ -1,0 +1,61 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "9592bb6d55e6affd7c0f365c0f07ec709de21ed9",
+      "capturedAt": "2026-10-10T13:35:10Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/38055315988"
+    },
+    "entries": [
+      {
+        "name": "saved-filters-modified",
+        "spec": "saved-filters",
+        "status": "changed",
+        "ratio": 0.014571397569444445,
+        "resized": false,
+        "before": "screens/saved-filters-modified.before.png",
+        "after": "screens/saved-filters-modified.after.png",
+        "diff": "screens/saved-filters-modified.diff.png"
+      },
+      {
+        "name": "saved-filters-applied",
+        "spec": "saved-filters",
+        "status": "changed",
+        "ratio": 0.012317708333333333,
+        "resized": false,
+        "before": "screens/saved-filters-applied.before.png",
+        "after": "screens/saved-filters-applied.after.png",
+        "diff": "screens/saved-filters-applied.diff.png"
+      },
+      {
+        "name": "saved-filters-picker",
+        "spec": "saved-filters",
+        "status": "changed",
+        "ratio": 0.009678819444444445,
+        "resized": false,
+        "before": "screens/saved-filters-picker.before.png",
+        "after": "screens/saved-filters-picker.after.png",
+        "diff": "screens/saved-filters-picker.diff.png"
+      }
+    ],
+    "skipped": {
+      "total": 264,
+      "differing": 90
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "saved-filters-a-platform-a-04625-t-shares-one-and-deletes-it-chromium",
+      "spec": "saved-filters",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/saved-filters-a-platform-a-04625-t-shares-one-and-deletes-it-chromium.gif",
+      "mp4": "clips/saved-filters-a-platform-a-04625-t-shares-one-and-deletes-it-chromium.mp4",
+      "gifBytes": 5871144
+    }
+  ],
+  "changedSpecs": [
+    "saved-filters"
+  ]
+}
