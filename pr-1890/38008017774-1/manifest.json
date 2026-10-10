@@ -1,0 +1,208 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "66088ca8124b47d937664f1c0b9d0fd820a7ed55",
+      "capturedAt": "2026-10-09T23:56:50Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/38005330803"
+    },
+    "entries": [
+      {
+        "name": "inbox-popup-other",
+        "spec": "notifications",
+        "status": "changed",
+        "ratio": 0.0037847222222222223,
+        "resized": false,
+        "before": "screens/inbox-popup-other.before.png",
+        "after": "screens/inbox-popup-other.after.png",
+        "diff": "screens/inbox-popup-other.diff.png"
+      },
+      {
+        "name": "landed-with-welcome",
+        "spec": "notifications",
+        "status": "changed",
+        "ratio": 0.003630642361111111,
+        "resized": false,
+        "before": "screens/landed-with-welcome.before.png",
+        "after": "screens/landed-with-welcome.after.png",
+        "diff": "screens/landed-with-welcome.diff.png"
+      },
+      {
+        "name": "long-feed-scrolled",
+        "spec": "notifications",
+        "status": "changed",
+        "ratio": 0.0035394965277777777,
+        "resized": false,
+        "before": "screens/long-feed-scrolled.before.png",
+        "after": "screens/long-feed-scrolled.after.png",
+        "diff": "screens/long-feed-scrolled.diff.png"
+      },
+      {
+        "name": "long-feed-top",
+        "spec": "notifications",
+        "status": "changed",
+        "ratio": 0.0035394965277777777,
+        "resized": false,
+        "before": "screens/long-feed-top.before.png",
+        "after": "screens/long-feed-top.after.png",
+        "diff": "screens/long-feed-top.diff.png"
+      },
+      {
+        "name": "inbox-other",
+        "spec": "notifications",
+        "status": "changed",
+        "ratio": 0.00068359375,
+        "resized": false,
+        "before": "screens/inbox-other.before.png",
+        "after": "screens/inbox-other.after.png",
+        "diff": "screens/inbox-other.diff.png"
+      },
+      {
+        "name": "inbox-primary-caught-up",
+        "spec": "notifications",
+        "status": "changed",
+        "ratio": 0.00068359375,
+        "resized": false,
+        "before": "screens/inbox-primary-caught-up.before.png",
+        "after": "screens/inbox-primary-caught-up.after.png",
+        "diff": "screens/inbox-primary-caught-up.diff.png"
+      },
+      {
+        "name": "inbox-item-opened",
+        "spec": "notifications",
+        "status": "identical",
+        "ratio": 0.00014214409722222222,
+        "resized": false,
+        "before": "screens/inbox-item-opened.before.png",
+        "after": "screens/inbox-item-opened.after.png"
+      },
+      {
+        "name": "inbox-cleared",
+        "spec": "notifications",
+        "status": "identical",
+        "ratio": 0.000028211805555555554,
+        "resized": false,
+        "before": "screens/inbox-cleared.before.png",
+        "after": "screens/inbox-cleared.after.png"
+      },
+      {
+        "name": "inbox-no-matches",
+        "spec": "notifications",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/inbox-no-matches.before.png",
+        "after": "screens/inbox-no-matches.after.png"
+      },
+      {
+        "name": "setup-screen",
+        "spec": "notifications",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/setup-screen.before.png",
+        "after": "screens/setup-screen.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 257,
+      "differing": 117
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "notifications-notification-019ac-s-to-the-Inbox-and-reads-it-chromium",
+      "spec": "notifications",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/notifications-notification-019ac-s-to-the-Inbox-and-reads-it-chromium.gif",
+      "mp4": "clips/notifications-notification-019ac-s-to-the-Inbox-and-reads-it-chromium.mp4",
+      "gifBytes": 1743606
+    },
+    {
+      "slug": "notifications-notification-2cfa9-the-welcome-already-present-chromium",
+      "spec": "notifications",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/notifications-notification-2cfa9-the-welcome-already-present-chromium.gif",
+      "mp4": "clips/notifications-notification-2cfa9-the-welcome-already-present-chromium.mp4",
+      "gifBytes": 1443009
+    },
+    {
+      "slug": "notifications-notification-53e22-d-as-no-filter-not-an-error-chromium",
+      "spec": "notifications",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/notifications-notification-53e22-d-as-no-filter-not-an-error-chromium.gif",
+      "mp4": "clips/notifications-notification-53e22-d-as-no-filter-not-an-error-chromium.mp4",
+      "gifBytes": 1449921
+    },
+    {
+      "slug": "notifications-notification-5d398-atrix-and-toggles-a-channel-chromium",
+      "spec": "notifications",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/notifications-notification-5d398-atrix-and-toggles-a-channel-chromium.gif",
+      "mp4": "clips/notifications-notification-5d398-atrix-and-toggles-a-channel-chromium.mp4",
+      "gifBytes": 1350351
+    },
+    {
+      "slug": "notifications-notification-89d8b-d-Show-older-stay-reachable-chromium",
+      "spec": "notifications",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/notifications-notification-89d8b-d-Show-older-stay-reachable-chromium.gif",
+      "mp4": "clips/notifications-notification-89d8b-d-Show-older-stay-reachable-chromium.mp4",
+      "gifBytes": 2045097
+    },
+    {
+      "slug": "notifications-notification-8b53d-up-empties-the-half-in-view-chromium",
+      "spec": "notifications",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/notifications-notification-8b53d-up-empties-the-half-in-view-chromium.gif",
+      "mp4": "clips/notifications-notification-8b53d-up-empties-the-half-in-view-chromium.mp4",
+      "gifBytes": 1493171
+    },
+    {
+      "slug": "notifications-notification-8b86f--J-and-K-and-Clear-moves-on-chromium",
+      "spec": "notifications",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/notifications-notification-8b86f--J-and-K-and-Clear-moves-on-chromium.gif",
+      "mp4": "clips/notifications-notification-8b86f--J-and-K-and-Clear-moves-on-chromium.mp4",
+      "gifBytes": 2066658
+    },
+    {
+      "slug": "notifications-notification-942fe-ody-can-satisfy-and-says-so-chromium",
+      "spec": "notifications",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/notifications-notification-942fe-ody-can-satisfy-and-says-so-chromium.gif",
+      "mp4": "clips/notifications-notification-942fe-ody-can-satisfy-and-says-so-chromium.mp4",
+      "gifBytes": 1503720
+    },
+    {
+      "slug": "notifications-notification-9bc67-he-filters-reach-the-server-chromium",
+      "spec": "notifications",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/notifications-notification-9bc67-he-filters-reach-the-server-chromium.gif",
+      "mp4": "clips/notifications-notification-9bc67-he-filters-reach-the-server-chromium.mp4",
+      "gifBytes": 1619624
+    },
+    {
+      "slug": "notifications-notification-e4b1f--can-be-restored-from-there-chromium",
+      "spec": "notifications",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/notifications-notification-e4b1f--can-be-restored-from-there-chromium.gif",
+      "mp4": "clips/notifications-notification-e4b1f--can-be-restored-from-there-chromium.mp4",
+      "gifBytes": 1706226
+    }
+  ],
+  "changedSpecs": [
+    "notifications"
+  ]
+}
