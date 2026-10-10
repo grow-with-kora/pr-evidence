@@ -1,0 +1,28 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "710bb48ba6c3d68cb7548f2e52eb2a01c42b2efb",
+      "capturedAt": "2026-10-10T17:50:55Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/38072155356"
+    },
+    "entries": [],
+    "skipped": {
+      "total": 267,
+      "differing": 100
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "users-a-platform-admin-lis-2f314-rs-pages-and-inspects-users-chromium",
+      "spec": "users",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/users-a-platform-admin-lis-2f314-rs-pages-and-inspects-users-chromium.gif",
+      "mp4": "clips/users-a-platform-admin-lis-2f314-rs-pages-and-inspects-users-chromium.mp4",
+      "gifBytes": 10842382
+    }
+  ],
+  "changedSpecs": []
+}
