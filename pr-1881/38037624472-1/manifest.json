@@ -1,0 +1,98 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "abea7feda001d55e3ffe73c024f109a9b4a30864",
+      "capturedAt": "2026-10-10T08:19:21Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/38036375144"
+    },
+    "entries": [
+      {
+        "name": "templates-admin-actions",
+        "spec": "templates",
+        "status": "removed",
+        "before": "screens/templates-admin-actions.before.png"
+      },
+      {
+        "name": "templates-admin-audience",
+        "spec": "templates",
+        "status": "removed",
+        "before": "screens/templates-admin-audience.before.png"
+      },
+      {
+        "name": "templates-admin-condition",
+        "spec": "templates",
+        "status": "removed",
+        "before": "screens/templates-admin-condition.before.png"
+      },
+      {
+        "name": "templates-admin-detail",
+        "spec": "templates",
+        "status": "removed",
+        "before": "screens/templates-admin-detail.before.png"
+      },
+      {
+        "name": "templates-admin-editor",
+        "spec": "templates",
+        "status": "removed",
+        "before": "screens/templates-admin-editor.before.png"
+      },
+      {
+        "name": "templates-admin-grants",
+        "spec": "templates",
+        "status": "removed",
+        "before": "screens/templates-admin-grants.before.png"
+      },
+      {
+        "name": "templates-admin-outline",
+        "spec": "templates",
+        "status": "removed",
+        "before": "screens/templates-admin-outline.before.png"
+      },
+      {
+        "name": "templates-admin-preview",
+        "spec": "templates",
+        "status": "removed",
+        "before": "screens/templates-admin-preview.before.png"
+      },
+      {
+        "name": "templates-admin-readonly",
+        "spec": "templates",
+        "status": "removed",
+        "before": "screens/templates-admin-readonly.before.png"
+      },
+      {
+        "name": "templates-admin-visibility",
+        "spec": "templates",
+        "status": "removed",
+        "before": "screens/templates-admin-visibility.before.png"
+      }
+    ],
+    "skipped": {
+      "total": 257,
+      "differing": 87
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "templates-a-platform-admin-fd933-it-and-finds-it-in-the-list-chromium",
+      "spec": "templates",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/templates-a-platform-admin-fd933-it-and-finds-it-in-the-list-chromium.gif",
+      "mp4": "clips/templates-a-platform-admin-fd933-it-and-finds-it-in-the-list-chromium.mp4",
+      "gifBytes": 2465145
+    },
+    {
+      "slug": "templates-a-platform-admin-fd933-it-and-finds-it-in-the-list-chromium-retry1",
+      "spec": "templates",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/templates-a-platform-admin-fd933-it-and-finds-it-in-the-list-chromium-retry1.gif",
+      "mp4": "clips/templates-a-platform-admin-fd933-it-and-finds-it-in-the-list-chromium-retry1.mp4",
+      "gifBytes": 3071533
+    }
+  ],
+  "changedSpecs": []
+}
