@@ -1,0 +1,68 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "2fb6c8202615c8fb3e59e6ba914d96de0da9ddb4",
+      "capturedAt": "2026-10-14T21:32:55Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/38638356840"
+    },
+    "entries": [
+      {
+        "name": "quick-search-action-dialog",
+        "spec": "quick-search",
+        "status": "removed",
+        "before": "screens/quick-search-action-dialog.before.png"
+      },
+      {
+        "name": "quick-search-all-workspaces",
+        "spec": "quick-search",
+        "status": "removed",
+        "before": "screens/quick-search-all-workspaces.before.png"
+      },
+      {
+        "name": "quick-search-app-host",
+        "spec": "quick-search",
+        "status": "removed",
+        "before": "screens/quick-search-app-host.before.png"
+      },
+      {
+        "name": "quick-search-by-address",
+        "spec": "quick-search",
+        "status": "removed",
+        "before": "screens/quick-search-by-address.before.png"
+      },
+      {
+        "name": "quick-search-recents",
+        "spec": "quick-search",
+        "status": "removed",
+        "before": "screens/quick-search-recents.before.png"
+      }
+    ],
+    "skipped": {
+      "total": 263,
+      "differing": 79
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium",
+      "spec": "project",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium.gif",
+      "mp4": "clips/project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium.mp4",
+      "gifBytes": 16569283
+    },
+    {
+      "slug": "quick-search-a-project-is--c9342-ddress-not-only-by-its-name-chromium",
+      "spec": "quick",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/quick-search-a-project-is--c9342-ddress-not-only-by-its-name-chromium.gif",
+      "mp4": "clips/quick-search-a-project-is--c9342-ddress-not-only-by-its-name-chromium.mp4",
+      "gifBytes": 1705731
+    }
+  ],
+  "changedSpecs": []
+}
