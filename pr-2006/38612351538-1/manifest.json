@@ -1,0 +1,124 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "81409511518bd411763fe1f25f128c8f62c275e1",
+      "capturedAt": "2026-10-14T17:55:47Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/38608018076"
+    },
+    "entries": [
+      {
+        "name": "onboarding-member-opened-workspace",
+        "spec": "onboarding",
+        "status": "changed",
+        "ratio": 0.016263020833333332,
+        "resized": false,
+        "before": "screens/onboarding-member-opened-workspace.before.png",
+        "after": "screens/onboarding-member-opened-workspace.after.png",
+        "diff": "screens/onboarding-member-opened-workspace.diff.png"
+      },
+      {
+        "name": "onboarding-created-workspace-home",
+        "spec": "onboarding",
+        "status": "changed",
+        "ratio": 0.013985460069444445,
+        "resized": false,
+        "before": "screens/onboarding-created-workspace-home.before.png",
+        "after": "screens/onboarding-created-workspace-home.after.png",
+        "diff": "screens/onboarding-created-workspace-home.diff.png"
+      },
+      {
+        "name": "onboarding-invite-accepted",
+        "spec": "onboarding",
+        "status": "changed",
+        "ratio": 0.0030653211805555555,
+        "resized": false,
+        "before": "screens/onboarding-invite-accepted.before.png",
+        "after": "screens/onboarding-invite-accepted.after.png",
+        "diff": "screens/onboarding-invite-accepted.diff.png"
+      },
+      {
+        "name": "onboarding-field-limit-reached",
+        "spec": "onboarding",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/onboarding-field-limit-reached.before.png",
+        "after": "screens/onboarding-field-limit-reached.after.png"
+      },
+      {
+        "name": "onboarding-forced-create",
+        "spec": "onboarding",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/onboarding-forced-create.before.png",
+        "after": "screens/onboarding-forced-create.after.png"
+      },
+      {
+        "name": "onboarding-invite-choice",
+        "spec": "onboarding",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/onboarding-invite-choice.before.png",
+        "after": "screens/onboarding-invite-choice.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 261,
+      "differing": 106
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "onboarding-a-member-with-o-df091-t-on-an-all-workspaces-home-chromium",
+      "spec": "onboarding",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/onboarding-a-member-with-o-df091-t-on-an-all-workspaces-home-chromium.gif",
+      "mp4": "clips/onboarding-a-member-with-o-df091-t-on-an-all-workspaces-home-chromium.mp4",
+      "gifBytes": 1083446
+    },
+    {
+      "slug": "onboarding-a-new-user-is-f-34aff-on-the-workspace-s-own-host-chromium",
+      "spec": "onboarding",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/onboarding-a-new-user-is-f-34aff-on-the-workspace-s-own-host-chromium.gif",
+      "mp4": "clips/onboarding-a-new-user-is-f-34aff-on-the-workspace-s-own-host-chromium.mp4",
+      "gifBytes": 1388083
+    },
+    {
+      "slug": "onboarding-a-returning-use-2b035-s-held-at-create-every-time-chromium",
+      "spec": "onboarding",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/onboarding-a-returning-use-2b035-s-held-at-create-every-time-chromium.gif",
+      "mp4": "clips/onboarding-a-returning-use-2b035-s-held-at-create-every-time-chromium.mp4",
+      "gifBytes": 768069
+    },
+    {
+      "slug": "onboarding-a-seeded-invita-c837f-he-invited-workspace-s-host-chromium",
+      "spec": "onboarding",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/onboarding-a-seeded-invita-c837f-he-invited-workspace-s-host-chromium.gif",
+      "mp4": "clips/onboarding-a-seeded-invita-c837f-he-invited-workspace-s-host-chromium.mp4",
+      "gifBytes": 1577043
+    },
+    {
+      "slug": "onboarding-bounded-fields--64d69-o-when-they-drop-characters-chromium",
+      "spec": "onboarding",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/onboarding-bounded-fields--64d69-o-when-they-drop-characters-chromium.gif",
+      "mp4": "clips/onboarding-bounded-fields--64d69-o-when-they-drop-characters-chromium.mp4",
+      "gifBytes": 685105
+    }
+  ],
+  "changedSpecs": [
+    "onboarding"
+  ]
+}
