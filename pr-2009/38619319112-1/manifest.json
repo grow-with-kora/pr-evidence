@@ -1,0 +1,97 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "81409511518bd411763fe1f25f128c8f62c275e1",
+      "capturedAt": "2026-10-14T17:55:47Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/38608018076"
+    },
+    "entries": [
+      {
+        "name": "quick-search-action-dialog",
+        "spec": "quick-search",
+        "status": "removed",
+        "before": "screens/quick-search-action-dialog.before.png"
+      },
+      {
+        "name": "quick-search-all-workspaces",
+        "spec": "quick-search",
+        "status": "removed",
+        "before": "screens/quick-search-all-workspaces.before.png"
+      },
+      {
+        "name": "quick-search-app-host",
+        "spec": "quick-search",
+        "status": "removed",
+        "before": "screens/quick-search-app-host.before.png"
+      },
+      {
+        "name": "quick-search-recents",
+        "spec": "quick-search",
+        "status": "removed",
+        "before": "screens/quick-search-recents.before.png"
+      },
+      {
+        "name": "keyboard-shortcuts",
+        "spec": "home",
+        "status": "added",
+        "after": "screens/keyboard-shortcuts.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 263,
+      "differing": 79
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium",
+      "spec": "project",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium.gif",
+      "mp4": "clips/project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium.mp4",
+      "gifBytes": 16540854
+    },
+    {
+      "slug": "quick-search-the-scope-swi-9a254--without-changing-the-shape-chromium",
+      "spec": "quick",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/quick-search-the-scope-swi-9a254--without-changing-the-shape-chromium.gif",
+      "mp4": "clips/quick-search-the-scope-swi-9a254--without-changing-the-shape-chromium.mp4",
+      "gifBytes": 906187
+    },
+    {
+      "slug": "home--opens-the-keyboard-s-dbef7-om-anywhere-outside-a-field-chromium",
+      "spec": "home",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/home--opens-the-keyboard-s-dbef7-om-anywhere-outside-a-field-chromium.gif",
+      "mp4": "clips/home--opens-the-keyboard-s-dbef7-om-anywhere-outside-a-field-chromium.mp4",
+      "gifBytes": 1723506
+    },
+    {
+      "slug": "home-greets-the-actor-and--0b7f4-has-nothing-that-needs-them-chromium",
+      "spec": "home",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/home-greets-the-actor-and--0b7f4-has-nothing-that-needs-them-chromium.gif",
+      "mp4": "clips/home-greets-the-actor-and--0b7f4-has-nothing-that-needs-them-chromium.mp4",
+      "gifBytes": 1631208
+    },
+    {
+      "slug": "home-what-needs-the-person-788dc-wed-and-opening-it-reads-it-chromium",
+      "spec": "home",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/home-what-needs-the-person-788dc-wed-and-opening-it-reads-it-chromium.gif",
+      "mp4": "clips/home-what-needs-the-person-788dc-wed-and-opening-it-reads-it-chromium.mp4",
+      "gifBytes": 1981752
+    }
+  ],
+  "changedSpecs": [
+    "home"
+  ]
+}
