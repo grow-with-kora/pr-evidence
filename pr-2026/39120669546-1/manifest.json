@@ -1,0 +1,304 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "6518092f7672d033d78cf8e8464a7cf9488550b9",
+      "capturedAt": "2026-10-15T08:19:58Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/38703006919"
+    },
+    "entries": [
+      {
+        "name": "project-work-document-details",
+        "spec": "project-work",
+        "status": "changed",
+        "ratio": 0.0042664930555555555,
+        "resized": false,
+        "before": "screens/project-work-document-details.before.png",
+        "after": "screens/project-work-document-details.after.png",
+        "diff": "screens/project-work-document-details.diff.png"
+      },
+      {
+        "name": "project-work-not-applicable",
+        "spec": "project-work",
+        "status": "changed",
+        "ratio": 0.00236328125,
+        "resized": false,
+        "before": "screens/project-work-not-applicable.before.png",
+        "after": "screens/project-work-not-applicable.after.png",
+        "diff": "screens/project-work-not-applicable.diff.png"
+      },
+      {
+        "name": "project-work-mention",
+        "spec": "project-work",
+        "status": "changed",
+        "ratio": 0.0019021267361111112,
+        "resized": false,
+        "before": "screens/project-work-mention.before.png",
+        "after": "screens/project-work-mention.after.png",
+        "diff": "screens/project-work-mention.diff.png"
+      },
+      {
+        "name": "project-work-document-superseded",
+        "spec": "project-work",
+        "status": "identical",
+        "ratio": 0.0003917100694444444,
+        "resized": false,
+        "before": "screens/project-work-document-superseded.before.png",
+        "after": "screens/project-work-document-superseded.after.png"
+      },
+      {
+        "name": "project-live",
+        "spec": "project-work",
+        "status": "identical",
+        "ratio": 0.000244140625,
+        "resized": false,
+        "before": "screens/project-live.before.png",
+        "after": "screens/project-live.after.png"
+      },
+      {
+        "name": "project-work-collection",
+        "spec": "project-work",
+        "status": "identical",
+        "ratio": 0.000244140625,
+        "resized": false,
+        "before": "screens/project-work-collection.before.png",
+        "after": "screens/project-work-collection.after.png"
+      },
+      {
+        "name": "project-task-in-progress",
+        "spec": "project-work",
+        "status": "identical",
+        "ratio": 0.00021592881944444445,
+        "resized": false,
+        "before": "screens/project-task-in-progress.before.png",
+        "after": "screens/project-task-in-progress.after.png"
+      },
+      {
+        "name": "project-task-started-from-detail",
+        "spec": "project-work",
+        "status": "identical",
+        "ratio": 0.00019205729166666666,
+        "resized": false,
+        "before": "screens/project-task-started-from-detail.before.png",
+        "after": "screens/project-task-started-from-detail.after.png"
+      },
+      {
+        "name": "project-task-undo",
+        "spec": "project-work",
+        "status": "identical",
+        "ratio": 0.00019205729166666666,
+        "resized": false,
+        "before": "screens/project-task-undo.before.png",
+        "after": "screens/project-task-undo.after.png"
+      },
+      {
+        "name": "project-tasks",
+        "spec": "project-work",
+        "status": "identical",
+        "ratio": 0.00019205729166666666,
+        "resized": false,
+        "before": "screens/project-tasks.before.png",
+        "after": "screens/project-tasks.after.png"
+      },
+      {
+        "name": "project-tasks-done",
+        "spec": "project-work",
+        "status": "identical",
+        "ratio": 0.00019205729166666666,
+        "resized": false,
+        "before": "screens/project-tasks-done.before.png",
+        "after": "screens/project-tasks-done.after.png"
+      },
+      {
+        "name": "project-work-signoff",
+        "spec": "project-work",
+        "status": "identical",
+        "ratio": 0.000008680555555555556,
+        "resized": false,
+        "before": "screens/project-work-signoff.before.png",
+        "after": "screens/project-work-signoff.after.png"
+      },
+      {
+        "name": "project-go-live",
+        "spec": "project-work",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/project-go-live.before.png",
+        "after": "screens/project-go-live.after.png"
+      },
+      {
+        "name": "project-step-tasks",
+        "spec": "project-work",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/project-step-tasks.before.png",
+        "after": "screens/project-step-tasks.after.png"
+      },
+      {
+        "name": "project-task-assigned",
+        "spec": "project-work",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/project-task-assigned.before.png",
+        "after": "screens/project-task-assigned.after.png"
+      },
+      {
+        "name": "project-task-details",
+        "spec": "project-work",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/project-task-details.before.png",
+        "after": "screens/project-task-details.after.png"
+      },
+      {
+        "name": "project-work-comment",
+        "spec": "project-work",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/project-work-comment.before.png",
+        "after": "screens/project-work-comment.after.png"
+      },
+      {
+        "name": "project-work-complete",
+        "spec": "project-work",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/project-work-complete.before.png",
+        "after": "screens/project-work-complete.after.png"
+      },
+      {
+        "name": "project-work-document",
+        "spec": "project-work",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/project-work-document.before.png",
+        "after": "screens/project-work-document.after.png"
+      },
+      {
+        "name": "project-work-document-rename",
+        "spec": "project-work",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/project-work-document-rename.before.png",
+        "after": "screens/project-work-document-rename.after.png"
+      },
+      {
+        "name": "project-work-locked",
+        "spec": "project-work",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/project-work-locked.before.png",
+        "after": "screens/project-work-locked.after.png"
+      },
+      {
+        "name": "project-work-mention-hovercard",
+        "spec": "project-work",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/project-work-mention-hovercard.before.png",
+        "after": "screens/project-work-mention-hovercard.after.png"
+      },
+      {
+        "name": "project-work-mention-picker",
+        "spec": "project-work",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/project-work-mention-picker.before.png",
+        "after": "screens/project-work-mention-picker.after.png"
+      },
+      {
+        "name": "project-work-node-menu",
+        "spec": "project-work",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/project-work-node-menu.before.png",
+        "after": "screens/project-work-node-menu.after.png"
+      },
+      {
+        "name": "project-work-photo",
+        "spec": "project-work",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/project-work-photo.before.png",
+        "after": "screens/project-work-photo.after.png"
+      },
+      {
+        "name": "project-work-photo-undo",
+        "spec": "project-work",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/project-work-photo-undo.before.png",
+        "after": "screens/project-work-photo-undo.after.png"
+      },
+      {
+        "name": "project-work-saved",
+        "spec": "project-work",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/project-work-saved.before.png",
+        "after": "screens/project-work-saved.after.png"
+      },
+      {
+        "name": "project-work-step",
+        "spec": "project-work",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/project-work-step.before.png",
+        "after": "screens/project-work-step.after.png"
+      },
+      {
+        "name": "project-work-unlocked",
+        "spec": "project-work",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/project-work-unlocked.before.png",
+        "after": "screens/project-work-unlocked.after.png"
+      },
+      {
+        "name": "workspace-library-open-the-step",
+        "spec": "project-work",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/workspace-library-open-the-step.before.png",
+        "after": "screens/workspace-library-open-the-step.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 238,
+      "differing": 79
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium",
+      "spec": "project-work",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium.gif",
+      "mp4": "clips/project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium.mp4",
+      "gifBytes": 16578186
+    }
+  ],
+  "changedSpecs": [
+    "project-work"
+  ]
+}
