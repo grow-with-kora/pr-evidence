@@ -1,0 +1,62 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "6518092f7672d033d78cf8e8464a7cf9488550b9",
+      "capturedAt": "2026-10-15T08:19:58Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/38703006919"
+    },
+    "entries": [
+      {
+        "name": "quick-search-action-dialog",
+        "spec": "quick-search",
+        "status": "removed",
+        "before": "screens/quick-search-action-dialog.before.png"
+      },
+      {
+        "name": "quick-search-all-workspaces",
+        "spec": "quick-search",
+        "status": "removed",
+        "before": "screens/quick-search-all-workspaces.before.png"
+      },
+      {
+        "name": "quick-search-app-host",
+        "spec": "quick-search",
+        "status": "removed",
+        "before": "screens/quick-search-app-host.before.png"
+      },
+      {
+        "name": "quick-search-recents",
+        "spec": "quick-search",
+        "status": "removed",
+        "before": "screens/quick-search-recents.before.png"
+      }
+    ],
+    "skipped": {
+      "total": 264,
+      "differing": 94
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium",
+      "spec": "project",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium.gif",
+      "mp4": "clips/project-work-a-project-s-w-81e2b-signed-off-through-the-tree-chromium.mp4",
+      "gifBytes": 17374802
+    },
+    {
+      "slug": "quick-search-the-sidebar-s-9f6db-lette-rather-than-filtering-chromium",
+      "spec": "quick",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/quick-search-the-sidebar-s-9f6db-lette-rather-than-filtering-chromium.gif",
+      "mp4": "clips/quick-search-the-sidebar-s-9f6db-lette-rather-than-filtering-chromium.mp4",
+      "gifBytes": 1650216
+    }
+  ],
+  "changedSpecs": []
+}
