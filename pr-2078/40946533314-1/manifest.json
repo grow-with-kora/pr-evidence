@@ -1,0 +1,28 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "e08825b36b4f707d9590831f6d431a5cc8bf527a",
+      "capturedAt": "2026-10-29T17:24:47Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/40917810242"
+    },
+    "entries": [],
+    "skipped": {
+      "total": 268,
+      "differing": 87
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "saved-filters-a-platform-a-04625-t-shares-one-and-deletes-it-chromium",
+      "spec": "saved",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/saved-filters-a-platform-a-04625-t-shares-one-and-deletes-it-chromium.gif",
+      "mp4": "clips/saved-filters-a-platform-a-04625-t-shares-one-and-deletes-it-chromium.mp4",
+      "gifBytes": 4070801
+    }
+  ],
+  "changedSpecs": []
+}
