@@ -1,0 +1,37 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "f4559882a163d797b36fe2e683193ad98540565b",
+      "capturedAt": "2026-10-29T23:47:05Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/40973406411"
+    },
+    "entries": [
+      {
+        "name": "admin-plans-preview",
+        "spec": "admin-plans",
+        "status": "added",
+        "after": "screens/admin-plans-preview.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 269,
+      "differing": 111
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "admin-plans-a-platform-adm-4c084-ter-a-preview-with-a-reason-chromium",
+      "spec": "admin-plans",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/admin-plans-a-platform-adm-4c084-ter-a-preview-with-a-reason-chromium.gif",
+      "mp4": "clips/admin-plans-a-platform-adm-4c084-ter-a-preview-with-a-reason-chromium.mp4",
+      "gifBytes": 1849392
+    }
+  ],
+  "changedSpecs": [
+    "admin-plans"
+  ]
+}
