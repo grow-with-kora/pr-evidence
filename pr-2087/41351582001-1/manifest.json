@@ -1,0 +1,127 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "a75299571849e5d3ae068ba94b853ce4678631e7",
+      "capturedAt": "2026-11-01T12:50:50Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/41307256015"
+    },
+    "entries": [
+      {
+        "name": "admin-workspaces-override",
+        "spec": "admin-workspaces",
+        "status": "added",
+        "after": "screens/admin-workspaces-override.after.png"
+      },
+      {
+        "name": "billing-override-extra",
+        "spec": "billing",
+        "status": "added",
+        "after": "screens/billing-override-extra.after.png"
+      },
+      {
+        "name": "workspace-general-with-photo",
+        "spec": "workspaces",
+        "status": "changed",
+        "ratio": 0.0010112847222222222,
+        "resized": false,
+        "before": "screens/workspace-general-with-photo.before.png",
+        "after": "screens/workspace-general-with-photo.after.png",
+        "diff": "screens/workspace-general-with-photo.diff.png"
+      },
+      {
+        "name": "workspace-switcher-with-photos",
+        "spec": "workspaces",
+        "status": "changed",
+        "ratio": 0.0010112847222222222,
+        "resized": false,
+        "before": "screens/workspace-switcher-with-photos.before.png",
+        "after": "screens/workspace-switcher-with-photos.after.png",
+        "diff": "screens/workspace-switcher-with-photos.diff.png"
+      },
+      {
+        "name": "workspace-home",
+        "spec": "workspaces",
+        "status": "changed",
+        "ratio": 0.0006662326388888888,
+        "resized": false,
+        "before": "screens/workspace-home.before.png",
+        "after": "screens/workspace-home.after.png",
+        "diff": "screens/workspace-home.diff.png"
+      }
+    ],
+    "skipped": {
+      "total": 267,
+      "differing": 96
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "admin-workspaces-an-Entitl-ea475-d-from-the-workspace-screen-chromium",
+      "spec": "admin",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/admin-workspaces-an-Entitl-ea475-d-from-the-workspace-screen-chromium.gif",
+      "mp4": "clips/admin-workspaces-an-Entitl-ea475-d-from-the-workspace-screen-chromium.mp4",
+      "gifBytes": 2474045
+    },
+    {
+      "slug": "billing-an-override-s-extr-41fed-g-tab-beside-the-raised-cap-chromium",
+      "spec": "billing",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/billing-an-override-s-extr-41fed-g-tab-beside-the-raised-cap-chromium.gif",
+      "mp4": "clips/billing-an-override-s-extr-41fed-g-tab-beside-the-raised-cap-chromium.mp4",
+      "gifBytes": 1884281
+    },
+    {
+      "slug": "workspaces-a-collaborator--86c6f-ace-but-no-way-to-change-it-chromium",
+      "spec": "workspaces",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/workspaces-a-collaborator--86c6f-ace-but-no-way-to-change-it-chromium.gif",
+      "mp4": "clips/workspaces-a-collaborator--86c6f-ace-but-no-way-to-change-it-chromium.mp4",
+      "gifBytes": 2573124
+    },
+    {
+      "slug": "workspaces-an-owner-gives--bcea8-to-and-the-switcher-follows-chromium",
+      "spec": "workspaces",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/workspaces-an-owner-gives--bcea8-to-and-the-switcher-follows-chromium.gif",
+      "mp4": "clips/workspaces-an-owner-gives--bcea8-to-and-the-switcher-follows-chromium.mp4",
+      "gifBytes": 2397751
+    },
+    {
+      "slug": "workspaces-an-owner-rename-5a3e6-e-and-every-surface-follows-chromium",
+      "spec": "workspaces",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/workspaces-an-owner-rename-5a3e6-e-and-every-surface-follows-chromium.gif",
+      "mp4": "clips/workspaces-an-owner-rename-5a3e6-e-and-every-surface-follows-chromium.mp4",
+      "gifBytes": 1499523
+    },
+    {
+      "slug": "workspaces-opening-a-works-7c282-s-on-its-own-host-signed-in-chromium",
+      "spec": "workspaces",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/workspaces-opening-a-works-7c282-s-on-its-own-host-signed-in-chromium.gif",
+      "mp4": "clips/workspaces-opening-a-works-7c282-s-on-its-own-host-signed-in-chromium.mp4",
+      "gifBytes": 2427536
+    },
+    {
+      "slug": "workspaces-the-selector-re-81e5d-ery-workspace-and-your-role-chromium",
+      "spec": "workspaces",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/workspaces-the-selector-re-81e5d-ery-workspace-and-your-role-chromium.gif",
+      "mp4": "clips/workspaces-the-selector-re-81e5d-ery-workspace-and-your-role-chromium.mp4",
+      "gifBytes": 1237619
+    }
+  ],
+  "changedSpecs": [
+    "workspaces"
+  ]
+}
