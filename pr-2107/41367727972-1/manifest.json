@@ -1,0 +1,50 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "a75299571849e5d3ae068ba94b853ce4678631e7",
+      "capturedAt": "2026-11-01T12:50:50Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/41307256015"
+    },
+    "entries": [
+      {
+        "name": "admin-workspaces-override",
+        "spec": "admin-workspaces",
+        "status": "added",
+        "after": "screens/admin-workspaces-override.after.png"
+      },
+      {
+        "name": "billing-override-extra",
+        "spec": "billing",
+        "status": "added",
+        "after": "screens/billing-override-extra.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 270,
+      "differing": 104
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "admin-workspaces-an-Entitl-ea475-d-from-the-workspace-screen-chromium",
+      "spec": "admin",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/admin-workspaces-an-Entitl-ea475-d-from-the-workspace-screen-chromium.gif",
+      "mp4": "clips/admin-workspaces-an-Entitl-ea475-d-from-the-workspace-screen-chromium.mp4",
+      "gifBytes": 2418713
+    },
+    {
+      "slug": "billing-an-override-s-extr-41fed-g-tab-beside-the-raised-cap-chromium",
+      "spec": "billing",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/billing-an-override-s-extr-41fed-g-tab-beside-the-raised-cap-chromium.gif",
+      "mp4": "clips/billing-an-override-s-extr-41fed-g-tab-beside-the-raised-cap-chromium.mp4",
+      "gifBytes": 1842936
+    }
+  ],
+  "changedSpecs": []
+}
