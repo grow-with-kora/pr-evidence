@@ -1,0 +1,68 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "37a20d88c0e09525f3e68593f1bf9f32c7050139",
+      "capturedAt": "2026-11-03T09:54:04Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/41612417095"
+    },
+    "entries": [
+      {
+        "name": "audit-log-actor-picker",
+        "spec": "audit-log",
+        "status": "removed",
+        "before": "screens/audit-log-actor-picker.before.png"
+      },
+      {
+        "name": "audit-log-date-preset",
+        "spec": "audit-log",
+        "status": "removed",
+        "before": "screens/audit-log-date-preset.before.png"
+      },
+      {
+        "name": "audit-log-detail",
+        "spec": "audit-log",
+        "status": "removed",
+        "before": "screens/audit-log-detail.before.png"
+      },
+      {
+        "name": "audit-log-entity-link",
+        "spec": "audit-log",
+        "status": "removed",
+        "before": "screens/audit-log-entity-link.before.png"
+      },
+      {
+        "name": "audit-log-entity-search",
+        "spec": "audit-log",
+        "status": "removed",
+        "before": "screens/audit-log-entity-search.before.png"
+      }
+    ],
+    "skipped": {
+      "total": 267,
+      "differing": 102
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "audit-log-a-platform-admin-10ede-nd-inspects-the-audit-trail-chromium",
+      "spec": "audit",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/audit-log-a-platform-admin-10ede-nd-inspects-the-audit-trail-chromium.gif",
+      "mp4": "clips/audit-log-a-platform-admin-10ede-nd-inspects-the-audit-trail-chromium.mp4",
+      "gifBytes": 3414851
+    },
+    {
+      "slug": "audit-log-a-platform-admin-10ede-nd-inspects-the-audit-trail-chromium-retry1",
+      "spec": "audit",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/audit-log-a-platform-admin-10ede-nd-inspects-the-audit-trail-chromium-retry1.gif",
+      "mp4": "clips/audit-log-a-platform-admin-10ede-nd-inspects-the-audit-trail-chromium-retry1.mp4",
+      "gifBytes": 4407960
+    }
+  ],
+  "changedSpecs": []
+}
