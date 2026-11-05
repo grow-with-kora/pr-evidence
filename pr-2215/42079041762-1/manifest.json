@@ -1,0 +1,80 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "34faa787e375a1f39e6af310ef5ba43772d65a12",
+      "capturedAt": "2026-11-05T09:49:33Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/42003200822"
+    },
+    "entries": [
+      {
+        "name": "delete-project-confirm",
+        "spec": "trash",
+        "status": "added",
+        "after": "screens/delete-project-confirm.after.png"
+      },
+      {
+        "name": "trash-with-a-project",
+        "spec": "trash",
+        "status": "added",
+        "after": "screens/trash-with-a-project.after.png"
+      },
+      {
+        "name": "plans-public",
+        "spec": "front-door-handoff",
+        "status": "changed",
+        "ratio": 0.0008723958333333333,
+        "resized": false,
+        "before": "screens/plans-public.before.png",
+        "after": "screens/plans-public.after.png",
+        "diff": "screens/plans-public.diff.png"
+      },
+      {
+        "name": "login-signup-handoff",
+        "spec": "front-door-handoff",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/login-signup-handoff.before.png",
+        "after": "screens/login-signup-handoff.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 270,
+      "differing": 173
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "front-door-handoff-front-d-1713c--into-a-create-account-door-chromium",
+      "spec": "front-door-handoff",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/front-door-handoff-front-d-1713c--into-a-create-account-door-chromium.gif",
+      "mp4": "clips/front-door-handoff-front-d-1713c--into-a-create-account-door-chromium.mp4",
+      "gifBytes": 728885
+    },
+    {
+      "slug": "front-door-handoff-front-d-71d00-ice-list-without-signing-in-chromium",
+      "spec": "front-door-handoff",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/front-door-handoff-front-d-71d00-ice-list-without-signing-in-chromium.gif",
+      "mp4": "clips/front-door-handoff-front-d-71d00-ice-list-without-signing-in-chromium.mp4",
+      "gifBytes": 297842
+    },
+    {
+      "slug": "trash-an-owner-deletes-a-p-a58d8-it-in-Trash-and-restores-it-chromium",
+      "spec": "trash",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/trash-an-owner-deletes-a-p-a58d8-it-in-Trash-and-restores-it-chromium.gif",
+      "mp4": "clips/trash-an-owner-deletes-a-p-a58d8-it-in-Trash-and-restores-it-chromium.mp4",
+      "gifBytes": 2516203
+    }
+  ],
+  "changedSpecs": [
+    "front-door-handoff"
+  ]
+}
