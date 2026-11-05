@@ -1,0 +1,43 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "2d9d8824c1a450cd7c3b0b375bddc273fc4f5288",
+      "capturedAt": "2026-11-04T09:37:55Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/41806535477"
+    },
+    "entries": [
+      {
+        "name": "delete-project-confirm",
+        "spec": "trash",
+        "status": "added",
+        "after": "screens/delete-project-confirm.after.png"
+      },
+      {
+        "name": "trash-with-a-project",
+        "spec": "trash",
+        "status": "added",
+        "after": "screens/trash-with-a-project.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 272,
+      "differing": 167
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "trash-an-owner-deletes-a-p-a58d8-it-in-Trash-and-restores-it-chromium",
+      "spec": "trash",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/trash-an-owner-deletes-a-p-a58d8-it-in-Trash-and-restores-it-chromium.gif",
+      "mp4": "clips/trash-an-owner-deletes-a-p-a58d8-it-in-Trash-and-restores-it-chromium.mp4",
+      "gifBytes": 2533033
+    }
+  ],
+  "changedSpecs": [
+    "trash"
+  ]
+}
