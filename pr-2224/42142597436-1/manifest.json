@@ -1,0 +1,703 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "34faa787e375a1f39e6af310ef5ba43772d65a12",
+      "capturedAt": "2026-11-05T09:49:33Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/42003200822"
+    },
+    "entries": [
+      {
+        "name": "admin-auth-events",
+        "spec": "auth-events",
+        "status": "removed",
+        "before": "screens/admin-auth-events.before.png"
+      },
+      {
+        "name": "admin-auth-events-filtered",
+        "spec": "auth-events",
+        "status": "removed",
+        "before": "screens/admin-auth-events-filtered.before.png"
+      },
+      {
+        "name": "admin-home-tiles",
+        "spec": "admin-host-hop",
+        "status": "removed",
+        "before": "screens/admin-home-tiles.before.png"
+      },
+      {
+        "name": "admin-member-project-view",
+        "spec": "users",
+        "status": "removed",
+        "before": "screens/admin-member-project-view.before.png"
+      },
+      {
+        "name": "admin-nuke-data-confirm",
+        "spec": "zz-nuke-data",
+        "status": "removed",
+        "before": "screens/admin-nuke-data-confirm.before.png"
+      },
+      {
+        "name": "admin-nuke-data-result",
+        "spec": "zz-nuke-data",
+        "status": "removed",
+        "before": "screens/admin-nuke-data-result.before.png"
+      },
+      {
+        "name": "admin-nuke-data-selected",
+        "spec": "zz-nuke-data",
+        "status": "removed",
+        "before": "screens/admin-nuke-data-selected.before.png"
+      },
+      {
+        "name": "admin-plans-preview",
+        "spec": "admin-plans",
+        "status": "removed",
+        "before": "screens/admin-plans-preview.before.png"
+      },
+      {
+        "name": "admin-user-sessions",
+        "spec": "sessions",
+        "status": "removed",
+        "before": "screens/admin-user-sessions.before.png"
+      },
+      {
+        "name": "admin-user-sessions-emptied",
+        "spec": "sessions",
+        "status": "removed",
+        "before": "screens/admin-user-sessions-emptied.before.png"
+      },
+      {
+        "name": "admin-user-timeline",
+        "spec": "users",
+        "status": "removed",
+        "before": "screens/admin-user-timeline.before.png"
+      },
+      {
+        "name": "admin-users-actions-after",
+        "spec": "users",
+        "status": "removed",
+        "before": "screens/admin-users-actions-after.before.png"
+      },
+      {
+        "name": "admin-users-actions-before",
+        "spec": "users",
+        "status": "removed",
+        "before": "screens/admin-users-actions-before.before.png"
+      },
+      {
+        "name": "admin-users-block-confirm",
+        "spec": "users",
+        "status": "removed",
+        "before": "screens/admin-users-block-confirm.before.png"
+      },
+      {
+        "name": "admin-users-date-preset",
+        "spec": "users",
+        "status": "removed",
+        "before": "screens/admin-users-date-preset.before.png"
+      },
+      {
+        "name": "admin-users-detail",
+        "spec": "users",
+        "status": "removed",
+        "before": "screens/admin-users-detail.before.png"
+      },
+      {
+        "name": "admin-users-filtered",
+        "spec": "users",
+        "status": "removed",
+        "before": "screens/admin-users-filtered.before.png"
+      },
+      {
+        "name": "admin-users-guard-rail",
+        "spec": "users",
+        "status": "removed",
+        "before": "screens/admin-users-guard-rail.before.png"
+      },
+      {
+        "name": "admin-users-list",
+        "spec": "users",
+        "status": "removed",
+        "before": "screens/admin-users-list.before.png"
+      },
+      {
+        "name": "admin-users-resend-verification",
+        "spec": "users",
+        "status": "removed",
+        "before": "screens/admin-users-resend-verification.before.png"
+      },
+      {
+        "name": "admin-users-sorted",
+        "spec": "users",
+        "status": "removed",
+        "before": "screens/admin-users-sorted.before.png"
+      },
+      {
+        "name": "admin-workspace-timeline",
+        "spec": "admin-workspaces",
+        "status": "removed",
+        "before": "screens/admin-workspace-timeline.before.png"
+      },
+      {
+        "name": "admin-workspaces-comped",
+        "spec": "admin-workspaces",
+        "status": "removed",
+        "before": "screens/admin-workspaces-comped.before.png"
+      },
+      {
+        "name": "admin-workspaces-deep-link",
+        "spec": "admin-workspaces",
+        "status": "removed",
+        "before": "screens/admin-workspaces-deep-link.before.png"
+      },
+      {
+        "name": "admin-workspaces-detail",
+        "spec": "admin-workspaces",
+        "status": "removed",
+        "before": "screens/admin-workspaces-detail.before.png"
+      },
+      {
+        "name": "admin-workspaces-filtered",
+        "spec": "admin-workspaces",
+        "status": "removed",
+        "before": "screens/admin-workspaces-filtered.before.png"
+      },
+      {
+        "name": "admin-workspaces-hatches",
+        "spec": "admin-workspaces",
+        "status": "removed",
+        "before": "screens/admin-workspaces-hatches.before.png"
+      },
+      {
+        "name": "admin-workspaces-invitations",
+        "spec": "admin-workspaces",
+        "status": "removed",
+        "before": "screens/admin-workspaces-invitations.before.png"
+      },
+      {
+        "name": "admin-workspaces-list",
+        "spec": "admin-workspaces",
+        "status": "removed",
+        "before": "screens/admin-workspaces-list.before.png"
+      },
+      {
+        "name": "admin-workspaces-notes",
+        "spec": "admin-workspaces",
+        "status": "removed",
+        "before": "screens/admin-workspaces-notes.before.png"
+      },
+      {
+        "name": "admin-workspaces-override",
+        "spec": "admin-workspaces",
+        "status": "removed",
+        "before": "screens/admin-workspaces-override.before.png"
+      },
+      {
+        "name": "admin-workspaces-reason",
+        "spec": "admin-workspaces",
+        "status": "removed",
+        "before": "screens/admin-workspaces-reason.before.png"
+      },
+      {
+        "name": "announcement-banner",
+        "spec": "announcements",
+        "status": "removed",
+        "before": "screens/announcement-banner.before.png"
+      },
+      {
+        "name": "announcement-banner-queue",
+        "spec": "announcements",
+        "status": "removed",
+        "before": "screens/announcement-banner-queue.before.png"
+      },
+      {
+        "name": "announcement-must-accept",
+        "spec": "announcements",
+        "status": "removed",
+        "before": "screens/announcement-must-accept.before.png"
+      },
+      {
+        "name": "announcements-admin-list",
+        "spec": "announcements",
+        "status": "removed",
+        "before": "screens/announcements-admin-list.before.png"
+      },
+      {
+        "name": "audit-log-actor-picker",
+        "spec": "audit-log",
+        "status": "removed",
+        "before": "screens/audit-log-actor-picker.before.png"
+      },
+      {
+        "name": "audit-log-date-preset",
+        "spec": "audit-log",
+        "status": "removed",
+        "before": "screens/audit-log-date-preset.before.png"
+      },
+      {
+        "name": "audit-log-detail",
+        "spec": "audit-log",
+        "status": "removed",
+        "before": "screens/audit-log-detail.before.png"
+      },
+      {
+        "name": "audit-log-entity-link",
+        "spec": "audit-log",
+        "status": "removed",
+        "before": "screens/audit-log-entity-link.before.png"
+      },
+      {
+        "name": "audit-log-entity-search",
+        "spec": "audit-log",
+        "status": "removed",
+        "before": "screens/audit-log-entity-search.before.png"
+      },
+      {
+        "name": "audit-log-filtered",
+        "spec": "audit-log",
+        "status": "removed",
+        "before": "screens/audit-log-filtered.before.png"
+      },
+      {
+        "name": "audit-log-list",
+        "spec": "audit-log",
+        "status": "removed",
+        "before": "screens/audit-log-list.before.png"
+      },
+      {
+        "name": "billing-change-plan",
+        "spec": "billing",
+        "status": "removed",
+        "before": "screens/billing-change-plan.before.png"
+      },
+      {
+        "name": "billing-grace-readonly",
+        "spec": "billing",
+        "status": "removed",
+        "before": "screens/billing-grace-readonly.before.png"
+      },
+      {
+        "name": "billing-member-cap",
+        "spec": "billing",
+        "status": "removed",
+        "before": "screens/billing-member-cap.before.png"
+      },
+      {
+        "name": "billing-override-extra",
+        "spec": "billing",
+        "status": "removed",
+        "before": "screens/billing-override-extra.before.png"
+      },
+      {
+        "name": "billing-plan-feature",
+        "spec": "billing",
+        "status": "removed",
+        "before": "screens/billing-plan-feature.before.png"
+      },
+      {
+        "name": "billing-project-cap",
+        "spec": "billing",
+        "status": "removed",
+        "before": "screens/billing-project-cap.before.png"
+      },
+      {
+        "name": "billing-suspended-member",
+        "spec": "billing",
+        "status": "removed",
+        "before": "screens/billing-suspended-member.before.png"
+      },
+      {
+        "name": "billing-suspended-owner",
+        "spec": "billing",
+        "status": "removed",
+        "before": "screens/billing-suspended-owner.before.png"
+      },
+      {
+        "name": "billing-tab",
+        "spec": "billing",
+        "status": "removed",
+        "before": "screens/billing-tab.before.png"
+      },
+      {
+        "name": "billing-trial-countdown",
+        "spec": "billing",
+        "status": "removed",
+        "before": "screens/billing-trial-countdown.before.png"
+      },
+      {
+        "name": "collaboration-live-comment",
+        "spec": "collaboration",
+        "status": "removed",
+        "before": "screens/collaboration-live-comment.before.png"
+      },
+      {
+        "name": "collaboration-presence",
+        "spec": "collaboration",
+        "status": "removed",
+        "before": "screens/collaboration-presence.before.png"
+      },
+      {
+        "name": "collaboration-reaction",
+        "spec": "collaboration",
+        "status": "removed",
+        "before": "screens/collaboration-reaction.before.png"
+      },
+      {
+        "name": "collaboration-writing",
+        "spec": "collaboration",
+        "status": "removed",
+        "before": "screens/collaboration-writing.before.png"
+      },
+      {
+        "name": "compare-plans",
+        "spec": "billing",
+        "status": "removed",
+        "before": "screens/compare-plans.before.png"
+      },
+      {
+        "name": "cookie-policy",
+        "spec": "cookie-policy",
+        "status": "removed",
+        "before": "screens/cookie-policy.before.png"
+      },
+      {
+        "name": "dashboards-narrow",
+        "spec": "dashboards",
+        "status": "removed",
+        "before": "screens/dashboards-narrow.before.png"
+      },
+      {
+        "name": "dashboards-widget-picker",
+        "spec": "dashboards",
+        "status": "removed",
+        "before": "screens/dashboards-widget-picker.before.png"
+      },
+      {
+        "name": "degraded-banner",
+        "spec": "failure-paths",
+        "status": "removed",
+        "before": "screens/degraded-banner.before.png"
+      },
+      {
+        "name": "design-system-dark",
+        "spec": "design-system",
+        "status": "removed",
+        "before": "screens/design-system-dark.before.png"
+      },
+      {
+        "name": "design-system-light",
+        "spec": "design-system",
+        "status": "removed",
+        "before": "screens/design-system-light.before.png"
+      },
+      {
+        "name": "library-project-risk-register",
+        "spec": "risk-register",
+        "status": "removed",
+        "before": "screens/library-project-risk-register.before.png"
+      },
+      {
+        "name": "not-found",
+        "spec": "failure-paths",
+        "status": "removed",
+        "before": "screens/not-found.before.png"
+      },
+      {
+        "name": "project-risk-entry",
+        "spec": "risk-register",
+        "status": "removed",
+        "before": "screens/project-risk-entry.before.png"
+      },
+      {
+        "name": "project-risk-entry-comments",
+        "spec": "risk-register",
+        "status": "removed",
+        "before": "screens/project-risk-entry-comments.before.png"
+      },
+      {
+        "name": "project-risk-entry-documents",
+        "spec": "risk-register",
+        "status": "removed",
+        "before": "screens/project-risk-entry-documents.before.png"
+      },
+      {
+        "name": "project-risk-entry-history",
+        "spec": "risk-register",
+        "status": "removed",
+        "before": "screens/project-risk-entry-history.before.png"
+      },
+      {
+        "name": "project-risk-entry-tasks",
+        "spec": "risk-register",
+        "status": "removed",
+        "before": "screens/project-risk-entry-tasks.before.png"
+      },
+      {
+        "name": "project-risks",
+        "spec": "risk-register",
+        "status": "removed",
+        "before": "screens/project-risks.before.png"
+      },
+      {
+        "name": "project-risks-duplicate",
+        "spec": "risk-register",
+        "status": "removed",
+        "before": "screens/project-risks-duplicate.before.png"
+      },
+      {
+        "name": "project-risks-empty",
+        "spec": "risk-register",
+        "status": "removed",
+        "before": "screens/project-risks-empty.before.png"
+      },
+      {
+        "name": "project-risks-raise",
+        "spec": "risk-register",
+        "status": "removed",
+        "before": "screens/project-risks-raise.before.png"
+      },
+      {
+        "name": "project-step-raise-risk",
+        "spec": "risk-register",
+        "status": "removed",
+        "before": "screens/project-step-raise-risk.before.png"
+      },
+      {
+        "name": "recovered-after-retry",
+        "spec": "failure-paths",
+        "status": "removed",
+        "before": "screens/recovered-after-retry.before.png"
+      },
+      {
+        "name": "saved-filters-applied",
+        "spec": "saved-filters",
+        "status": "removed",
+        "before": "screens/saved-filters-applied.before.png"
+      },
+      {
+        "name": "saved-filters-modified",
+        "spec": "saved-filters",
+        "status": "removed",
+        "before": "screens/saved-filters-modified.before.png"
+      },
+      {
+        "name": "saved-filters-picker",
+        "spec": "saved-filters",
+        "status": "removed",
+        "before": "screens/saved-filters-picker.before.png"
+      },
+      {
+        "name": "settings-devices",
+        "spec": "sessions",
+        "status": "removed",
+        "before": "screens/settings-devices.before.png"
+      },
+      {
+        "name": "settings-devices-after-revoke",
+        "spec": "sessions",
+        "status": "removed",
+        "before": "screens/settings-devices-after-revoke.before.png"
+      },
+      {
+        "name": "settings-photo-framing",
+        "spec": "settings",
+        "status": "removed",
+        "before": "screens/settings-photo-framing.before.png"
+      },
+      {
+        "name": "settings-privacy",
+        "spec": "cookie-policy",
+        "status": "removed",
+        "before": "screens/settings-privacy.before.png"
+      },
+      {
+        "name": "settings-profile-with-photo",
+        "spec": "settings",
+        "status": "removed",
+        "before": "screens/settings-profile-with-photo.before.png"
+      },
+      {
+        "name": "settings-security",
+        "spec": "security-settings",
+        "status": "removed",
+        "before": "screens/settings-security.before.png"
+      },
+      {
+        "name": "single-403-toast",
+        "spec": "failure-paths",
+        "status": "removed",
+        "before": "screens/single-403-toast.before.png"
+      },
+      {
+        "name": "suppressed-recipients-list",
+        "spec": "suppressed-recipients",
+        "status": "removed",
+        "before": "screens/suppressed-recipients-list.before.png"
+      },
+      {
+        "name": "suppressed-recipients-release-confirm",
+        "spec": "suppressed-recipients",
+        "status": "removed",
+        "before": "screens/suppressed-recipients-release-confirm.before.png"
+      },
+      {
+        "name": "suppressed-recipients-released",
+        "spec": "suppressed-recipients",
+        "status": "removed",
+        "before": "screens/suppressed-recipients-released.before.png"
+      },
+      {
+        "name": "suppressed-recipients-search",
+        "spec": "suppressed-recipients",
+        "status": "removed",
+        "before": "screens/suppressed-recipients-search.before.png"
+      },
+      {
+        "name": "templates-admin-actions",
+        "spec": "templates",
+        "status": "removed",
+        "before": "screens/templates-admin-actions.before.png"
+      },
+      {
+        "name": "templates-admin-audience",
+        "spec": "templates",
+        "status": "removed",
+        "before": "screens/templates-admin-audience.before.png"
+      },
+      {
+        "name": "templates-admin-condition",
+        "spec": "templates",
+        "status": "removed",
+        "before": "screens/templates-admin-condition.before.png"
+      },
+      {
+        "name": "templates-admin-detail",
+        "spec": "templates",
+        "status": "removed",
+        "before": "screens/templates-admin-detail.before.png"
+      },
+      {
+        "name": "templates-admin-editor",
+        "spec": "templates",
+        "status": "removed",
+        "before": "screens/templates-admin-editor.before.png"
+      },
+      {
+        "name": "templates-admin-grants",
+        "spec": "templates",
+        "status": "removed",
+        "before": "screens/templates-admin-grants.before.png"
+      },
+      {
+        "name": "templates-admin-list",
+        "spec": "templates",
+        "status": "removed",
+        "before": "screens/templates-admin-list.before.png"
+      },
+      {
+        "name": "templates-admin-outline",
+        "spec": "templates",
+        "status": "removed",
+        "before": "screens/templates-admin-outline.before.png"
+      },
+      {
+        "name": "templates-admin-preview",
+        "spec": "templates",
+        "status": "removed",
+        "before": "screens/templates-admin-preview.before.png"
+      },
+      {
+        "name": "templates-admin-readonly",
+        "spec": "templates",
+        "status": "removed",
+        "before": "screens/templates-admin-readonly.before.png"
+      },
+      {
+        "name": "templates-admin-visibility",
+        "spec": "templates",
+        "status": "removed",
+        "before": "screens/templates-admin-visibility.before.png"
+      },
+      {
+        "name": "time-travel-grace-readonly",
+        "spec": "time-travel",
+        "status": "removed",
+        "before": "screens/time-travel-grace-readonly.before.png"
+      },
+      {
+        "name": "time-travel-greeting-shifted",
+        "spec": "time-travel",
+        "status": "removed",
+        "before": "screens/time-travel-greeting-shifted.before.png"
+      },
+      {
+        "name": "time-travel-shift-banner",
+        "spec": "time-travel",
+        "status": "removed",
+        "before": "screens/time-travel-shift-banner.before.png"
+      },
+      {
+        "name": "time-travel-suspended",
+        "spec": "time-travel",
+        "status": "removed",
+        "before": "screens/time-travel-suspended.before.png"
+      },
+      {
+        "name": "time-travel-trial-final-day",
+        "spec": "time-travel",
+        "status": "removed",
+        "before": "screens/time-travel-trial-final-day.before.png"
+      },
+      {
+        "name": "wall-board",
+        "spec": "wall-board",
+        "status": "removed",
+        "before": "screens/wall-board.before.png"
+      },
+      {
+        "name": "wall-board-full-screen",
+        "spec": "wall-board",
+        "status": "removed",
+        "before": "screens/wall-board-full-screen.before.png"
+      },
+      {
+        "name": "workspace-access-history",
+        "spec": "access-history",
+        "status": "removed",
+        "before": "screens/workspace-access-history.before.png"
+      },
+      {
+        "name": "workspace-access-history-widened",
+        "spec": "access-history",
+        "status": "removed",
+        "before": "screens/workspace-access-history-widened.before.png"
+      },
+      {
+        "name": "workspace-general-with-photo",
+        "spec": "workspaces",
+        "status": "removed",
+        "before": "screens/workspace-general-with-photo.before.png"
+      },
+      {
+        "name": "workspace-home",
+        "spec": "workspaces",
+        "status": "removed",
+        "before": "screens/workspace-home.before.png"
+      },
+      {
+        "name": "workspace-switcher-with-photos",
+        "spec": "workspaces",
+        "status": "removed",
+        "before": "screens/workspace-switcher-with-photos.before.png"
+      }
+    ],
+    "skipped": {
+      "total": 158,
+      "differing": 113
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [],
+  "changedSpecs": []
+}
