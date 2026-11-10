@@ -1,0 +1,76 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "131e8ace22313224d94fd19fcc8e41503f176047",
+      "capturedAt": "2026-11-07T09:09:19Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/42357128818"
+    },
+    "entries": [
+      {
+        "name": "settings-developer-empty",
+        "spec": "api-tokens",
+        "status": "added",
+        "after": "screens/settings-developer-empty.after.png"
+      },
+      {
+        "name": "settings-developer-new-token",
+        "spec": "api-tokens",
+        "status": "added",
+        "after": "screens/settings-developer-new-token.after.png"
+      },
+      {
+        "name": "settings-developer-revoke",
+        "spec": "api-tokens",
+        "status": "added",
+        "after": "screens/settings-developer-revoke.after.png"
+      },
+      {
+        "name": "settings-developer-secret",
+        "spec": "api-tokens",
+        "status": "added",
+        "after": "screens/settings-developer-secret.after.png"
+      },
+      {
+        "name": "settings-developer-tokens",
+        "spec": "api-tokens",
+        "status": "added",
+        "after": "screens/settings-developer-tokens.after.png"
+      },
+      {
+        "name": "whats-new",
+        "spec": "whats-new",
+        "status": "added",
+        "after": "screens/whats-new.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 274,
+      "differing": 116
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "api-tokens-my-API-tokens-c-b39b2-own-once-edited-and-revoked-chromium",
+      "spec": "api-tokens",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/api-tokens-my-API-tokens-c-b39b2-own-once-edited-and-revoked-chromium.gif",
+      "mp4": "clips/api-tokens-my-API-tokens-c-b39b2-own-once-edited-and-revoked-chromium.mp4",
+      "gifBytes": 2373764
+    },
+    {
+      "slug": "whats-new-what-s-new-the-p-e6815-c-and-the-footer-reaches-it-chromium",
+      "spec": "whats",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/whats-new-what-s-new-the-p-e6815-c-and-the-footer-reaches-it-chromium.gif",
+      "mp4": "clips/whats-new-what-s-new-the-p-e6815-c-and-the-footer-reaches-it-chromium.mp4",
+      "gifBytes": 325672
+    }
+  ],
+  "changedSpecs": [
+    "api-tokens"
+  ]
+}
