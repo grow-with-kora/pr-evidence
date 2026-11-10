@@ -1,0 +1,59 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "131e8ace22313224d94fd19fcc8e41503f176047",
+      "capturedAt": "2026-11-07T09:09:19Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/42357128818"
+    },
+    "entries": [
+      {
+        "name": "billing-plan-feature",
+        "spec": "billing",
+        "status": "removed",
+        "before": "screens/billing-plan-feature.before.png"
+      },
+      {
+        "name": "whats-new",
+        "spec": "whats-new",
+        "status": "added",
+        "after": "screens/whats-new.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 273,
+      "differing": 125
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "billing-a-Plan-feature-swi-4679e--billing-tab-and-is-refused-chromium",
+      "spec": "billing",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/billing-a-Plan-feature-swi-4679e--billing-tab-and-is-refused-chromium.gif",
+      "mp4": "clips/billing-a-Plan-feature-swi-4679e--billing-tab-and-is-refused-chromium.mp4",
+      "gifBytes": 1663346
+    },
+    {
+      "slug": "billing-a-Plan-feature-swi-4679e--billing-tab-and-is-refused-chromium-retry1",
+      "spec": "billing",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/billing-a-Plan-feature-swi-4679e--billing-tab-and-is-refused-chromium-retry1.gif",
+      "mp4": "clips/billing-a-Plan-feature-swi-4679e--billing-tab-and-is-refused-chromium-retry1.mp4",
+      "gifBytes": 2977139
+    },
+    {
+      "slug": "whats-new-what-s-new-the-p-e6815-c-and-the-footer-reaches-it-chromium",
+      "spec": "whats",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/whats-new-what-s-new-the-p-e6815-c-and-the-footer-reaches-it-chromium.gif",
+      "mp4": "clips/whats-new-what-s-new-the-p-e6815-c-and-the-footer-reaches-it-chromium.mp4",
+      "gifBytes": 423422
+    }
+  ],
+  "changedSpecs": []
+}
