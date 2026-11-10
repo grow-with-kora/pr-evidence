@@ -1,0 +1,233 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "131e8ace22313224d94fd19fcc8e41503f176047",
+      "capturedAt": "2026-11-07T09:09:19Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/42357128818"
+    },
+    "entries": [
+      {
+        "name": "whats-new",
+        "spec": "whats-new",
+        "status": "added",
+        "after": "screens/whats-new.after.png"
+      },
+      {
+        "name": "billing-project-cap",
+        "spec": "billing",
+        "status": "changed",
+        "ratio": 0.037469618055555556,
+        "resized": false,
+        "before": "screens/billing-project-cap.before.png",
+        "after": "screens/billing-project-cap.after.png",
+        "diff": "screens/billing-project-cap.diff.png"
+      },
+      {
+        "name": "billing-member-cap",
+        "spec": "billing",
+        "status": "changed",
+        "ratio": 0.009652777777777777,
+        "resized": false,
+        "before": "screens/billing-member-cap.before.png",
+        "after": "screens/billing-member-cap.after.png",
+        "diff": "screens/billing-member-cap.diff.png"
+      },
+      {
+        "name": "billing-plan-feature",
+        "spec": "billing",
+        "status": "changed",
+        "ratio": 0.009229600694444444,
+        "resized": false,
+        "before": "screens/billing-plan-feature.before.png",
+        "after": "screens/billing-plan-feature.after.png",
+        "diff": "screens/billing-plan-feature.diff.png"
+      },
+      {
+        "name": "billing-change-plan",
+        "spec": "billing",
+        "status": "changed",
+        "ratio": 0.009185112847222222,
+        "resized": false,
+        "before": "screens/billing-change-plan.before.png",
+        "after": "screens/billing-change-plan.after.png",
+        "diff": "screens/billing-change-plan.diff.png"
+      },
+      {
+        "name": "billing-tab",
+        "spec": "billing",
+        "status": "changed",
+        "ratio": 0.006310763888888889,
+        "resized": false,
+        "before": "screens/billing-tab.before.png",
+        "after": "screens/billing-tab.after.png",
+        "diff": "screens/billing-tab.diff.png"
+      },
+      {
+        "name": "compare-plans",
+        "spec": "billing",
+        "status": "changed",
+        "ratio": 0.0014485677083333334,
+        "resized": false,
+        "before": "screens/compare-plans.before.png",
+        "after": "screens/compare-plans.after.png",
+        "diff": "screens/compare-plans.diff.png"
+      },
+      {
+        "name": "billing-trial-countdown",
+        "spec": "billing",
+        "status": "changed",
+        "ratio": 0.0007085503472222222,
+        "resized": false,
+        "before": "screens/billing-trial-countdown.before.png",
+        "after": "screens/billing-trial-countdown.after.png",
+        "diff": "screens/billing-trial-countdown.diff.png"
+      },
+      {
+        "name": "billing-grace-readonly",
+        "spec": "billing",
+        "status": "identical",
+        "ratio": 0.00034288194444444443,
+        "resized": false,
+        "before": "screens/billing-grace-readonly.before.png",
+        "after": "screens/billing-grace-readonly.after.png"
+      },
+      {
+        "name": "billing-override-extra",
+        "spec": "billing",
+        "status": "identical",
+        "ratio": 0.000016276041666666666,
+        "resized": false,
+        "before": "screens/billing-override-extra.before.png",
+        "after": "screens/billing-override-extra.after.png"
+      },
+      {
+        "name": "billing-suspended-member",
+        "spec": "billing",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/billing-suspended-member.before.png",
+        "after": "screens/billing-suspended-member.after.png"
+      },
+      {
+        "name": "billing-suspended-owner",
+        "spec": "billing",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/billing-suspended-owner.before.png",
+        "after": "screens/billing-suspended-owner.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 263,
+      "differing": 105
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "billing-a-downgrade-the-wo-3ebbf-fused-with-the-excess-named-chromium",
+      "spec": "billing",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/billing-a-downgrade-the-wo-3ebbf-fused-with-the-excess-named-chromium.gif",
+      "mp4": "clips/billing-a-downgrade-the-wo-3ebbf-fused-with-the-excess-named-chromium.mp4",
+      "gifBytes": 1608423
+    },
+    {
+      "slug": "billing-a-Plan-feature-swi-4679e--billing-tab-and-is-refused-chromium",
+      "spec": "billing",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/billing-a-Plan-feature-swi-4679e--billing-tab-and-is-refused-chromium.gif",
+      "mp4": "clips/billing-a-Plan-feature-swi-4679e--billing-tab-and-is-refused-chromium.mp4",
+      "gifBytes": 1935146
+    },
+    {
+      "slug": "billing-a-suspended-worksp-0a486-er-to-go-and-find-the-owner-chromium",
+      "spec": "billing",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/billing-a-suspended-worksp-0a486-er-to-go-and-find-the-owner-chromium.gif",
+      "mp4": "clips/billing-a-suspended-worksp-0a486-er-to-go-and-find-the-owner-chromium.mp4",
+      "gifBytes": 1466927
+    },
+    {
+      "slug": "billing-a-suspended-worksp-c319d-owner-at-the-paywall-screen-chromium",
+      "spec": "billing",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/billing-a-suspended-worksp-c319d-owner-at-the-paywall-screen-chromium.gif",
+      "mp4": "clips/billing-a-suspended-worksp-c319d-owner-at-the-paywall-screen-chromium.mp4",
+      "gifBytes": 1439609
+    },
+    {
+      "slug": "billing-an-override-s-extr-41fed-g-tab-beside-the-raised-cap-chromium",
+      "spec": "billing",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/billing-an-override-s-extr-41fed-g-tab-beside-the-raised-cap-chromium.gif",
+      "mp4": "clips/billing-an-override-s-extr-41fed-g-tab-beside-the-raised-cap-chromium.mp4",
+      "gifBytes": 2004582
+    },
+    {
+      "slug": "billing-at-the-member-cap--585c6-nce-gives-way-to-the-reason-chromium",
+      "spec": "billing",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/billing-at-the-member-cap--585c6-nce-gives-way-to-the-reason-chromium.gif",
+      "mp4": "clips/billing-at-the-member-cap--585c6-nce-gives-way-to-the-reason-chromium.mp4",
+      "gifBytes": 1799858
+    },
+    {
+      "slug": "billing-at-the-project-cap-19898--—-the-cap-bites-at-go-live-chromium",
+      "spec": "billing",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/billing-at-the-project-cap-19898--—-the-cap-bites-at-go-live-chromium.gif",
+      "mp4": "clips/billing-at-the-project-cap-19898--—-the-cap-bites-at-go-live-chromium.mp4",
+      "gifBytes": 1652233
+    },
+    {
+      "slug": "billing-grace-is-read-only-01658-explains-the-affordances-go-chromium",
+      "spec": "billing",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/billing-grace-is-read-only-01658-explains-the-affordances-go-chromium.gif",
+      "mp4": "clips/billing-grace-is-read-only-01658-explains-the-affordances-go-chromium.mp4",
+      "gifBytes": 1957601
+    },
+    {
+      "slug": "billing-the-billing-tab-sh-0ac19-and-subscribes-via-Checkout-chromium",
+      "spec": "billing",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/billing-the-billing-tab-sh-0ac19-and-subscribes-via-Checkout-chromium.gif",
+      "mp4": "clips/billing-the-billing-tab-sh-0ac19-and-subscribes-via-Checkout-chromium.mp4",
+      "gifBytes": 1702127
+    },
+    {
+      "slug": "billing-the-trial-s-final-days-show-a-countdown-banner-chromium",
+      "spec": "billing",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/billing-the-trial-s-final-days-show-a-countdown-banner-chromium.gif",
+      "mp4": "clips/billing-the-trial-s-final-days-show-a-countdown-banner-chromium.mp4",
+      "gifBytes": 1472951
+    },
+    {
+      "slug": "whats-new-what-s-new-the-p-e6815-c-and-the-footer-reaches-it-chromium",
+      "spec": "whats",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/whats-new-what-s-new-the-p-e6815-c-and-the-footer-reaches-it-chromium.gif",
+      "mp4": "clips/whats-new-what-s-new-the-p-e6815-c-and-the-footer-reaches-it-chromium.mp4",
+      "gifBytes": 333396
+    }
+  ],
+  "changedSpecs": [
+    "billing"
+  ]
+}
