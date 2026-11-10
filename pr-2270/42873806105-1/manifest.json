@@ -1,0 +1,74 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "7e0e8fc2dd39d0bfaa77cbccd9f4ddf22e808e9f",
+      "capturedAt": "2026-11-10T10:10:59Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/42794706469"
+    },
+    "entries": [
+      {
+        "name": "billing-invoices",
+        "spec": "billing",
+        "status": "added",
+        "after": "screens/billing-invoices.after.png"
+      },
+      {
+        "name": "settings-developer-empty",
+        "spec": "api-tokens",
+        "status": "added",
+        "after": "screens/settings-developer-empty.after.png"
+      },
+      {
+        "name": "settings-developer-new-token",
+        "spec": "api-tokens",
+        "status": "added",
+        "after": "screens/settings-developer-new-token.after.png"
+      },
+      {
+        "name": "settings-developer-revoke",
+        "spec": "api-tokens",
+        "status": "added",
+        "after": "screens/settings-developer-revoke.after.png"
+      },
+      {
+        "name": "settings-developer-secret",
+        "spec": "api-tokens",
+        "status": "added",
+        "after": "screens/settings-developer-secret.after.png"
+      },
+      {
+        "name": "settings-developer-tokens",
+        "spec": "api-tokens",
+        "status": "added",
+        "after": "screens/settings-developer-tokens.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 275,
+      "differing": 103
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "api-tokens-my-API-tokens-c-b39b2-own-once-edited-and-revoked-chromium",
+      "spec": "api",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/api-tokens-my-API-tokens-c-b39b2-own-once-edited-and-revoked-chromium.gif",
+      "mp4": "clips/api-tokens-my-API-tokens-c-b39b2-own-once-edited-and-revoked-chromium.mp4",
+      "gifBytes": 2164160
+    },
+    {
+      "slug": "billing-the-billing-tab-li-8c207-with-VAT-and-a-link-to-each-chromium",
+      "spec": "billing",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/billing-the-billing-tab-li-8c207-with-VAT-and-a-link-to-each-chromium.gif",
+      "mp4": "clips/billing-the-billing-tab-li-8c207-with-VAT-and-a-link-to-each-chromium.mp4",
+      "gifBytes": 6952
+    }
+  ],
+  "changedSpecs": []
+}
