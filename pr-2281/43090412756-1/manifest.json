@@ -1,0 +1,193 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "7e0e8fc2dd39d0bfaa77cbccd9f4ddf22e808e9f",
+      "capturedAt": "2026-11-10T10:10:59Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/42794706469"
+    },
+    "entries": [
+      {
+        "name": "admin-api-token",
+        "spec": "api-tokens",
+        "status": "added",
+        "after": "screens/admin-api-token.after.png"
+      },
+      {
+        "name": "admin-api-token-revoke",
+        "spec": "api-tokens",
+        "status": "added",
+        "after": "screens/admin-api-token-revoke.after.png"
+      },
+      {
+        "name": "admin-api-token-revoked",
+        "spec": "api-tokens",
+        "status": "added",
+        "after": "screens/admin-api-token-revoked.after.png"
+      },
+      {
+        "name": "admin-api-tokens",
+        "spec": "api-tokens",
+        "status": "added",
+        "after": "screens/admin-api-tokens.after.png"
+      },
+      {
+        "name": "admin-user-api-tokens",
+        "spec": "api-tokens",
+        "status": "added",
+        "after": "screens/admin-user-api-tokens.after.png"
+      },
+      {
+        "name": "admin-workspaces-cancellation",
+        "spec": "admin-workspaces",
+        "status": "added",
+        "after": "screens/admin-workspaces-cancellation.after.png"
+      },
+      {
+        "name": "billing-contact",
+        "spec": "billing",
+        "status": "added",
+        "after": "screens/billing-contact.after.png"
+      },
+      {
+        "name": "billing-invoices",
+        "spec": "billing",
+        "status": "added",
+        "after": "screens/billing-invoices.after.png"
+      },
+      {
+        "name": "settings-developer-empty",
+        "spec": "api-tokens",
+        "status": "added",
+        "after": "screens/settings-developer-empty.after.png"
+      },
+      {
+        "name": "settings-developer-new-token",
+        "spec": "api-tokens",
+        "status": "added",
+        "after": "screens/settings-developer-new-token.after.png"
+      },
+      {
+        "name": "settings-developer-revoke",
+        "spec": "api-tokens",
+        "status": "added",
+        "after": "screens/settings-developer-revoke.after.png"
+      },
+      {
+        "name": "settings-developer-secret",
+        "spec": "api-tokens",
+        "status": "added",
+        "after": "screens/settings-developer-secret.after.png"
+      },
+      {
+        "name": "settings-developer-tokens",
+        "spec": "api-tokens",
+        "status": "added",
+        "after": "screens/settings-developer-tokens.after.png"
+      },
+      {
+        "name": "settings-developer-workspace-removed",
+        "spec": "api-tokens",
+        "status": "added",
+        "after": "screens/settings-developer-workspace-removed.after.png"
+      },
+      {
+        "name": "settings-security-two-factor",
+        "spec": "security-settings",
+        "status": "added",
+        "after": "screens/settings-security-two-factor.after.png"
+      },
+      {
+        "name": "workspace-api-tokens",
+        "spec": "api-tokens",
+        "status": "added",
+        "after": "screens/workspace-api-tokens.after.png"
+      },
+      {
+        "name": "workspace-api-tokens-empty",
+        "spec": "api-tokens",
+        "status": "added",
+        "after": "screens/workspace-api-tokens-empty.after.png"
+      },
+      {
+        "name": "workspace-api-tokens-remove",
+        "spec": "api-tokens",
+        "status": "added",
+        "after": "screens/workspace-api-tokens-remove.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 275,
+      "differing": 200
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "admin-workspaces-a-custome-60aa3-ide-the-workspace-s-billing-chromium",
+      "spec": "admin",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/admin-workspaces-a-custome-60aa3-ide-the-workspace-s-billing-chromium.gif",
+      "mp4": "clips/admin-workspaces-a-custome-60aa3-ide-the-workspace-s-billing-chromium.mp4",
+      "gifBytes": 1827662
+    },
+    {
+      "slug": "api-tokens-a-workspace-s-A-e04c5--workspace-removed-from-one-chromium",
+      "spec": "api-tokens",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/api-tokens-a-workspace-s-A-e04c5--workspace-removed-from-one-chromium.gif",
+      "mp4": "clips/api-tokens-a-workspace-s-A-e04c5--workspace-removed-from-one-chromium.mp4",
+      "gifBytes": 3759950
+    },
+    {
+      "slug": "api-tokens-an-admin-finds--a412f--its-history-and-revokes-it-chromium",
+      "spec": "api-tokens",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/api-tokens-an-admin-finds--a412f--its-history-and-revokes-it-chromium.gif",
+      "mp4": "clips/api-tokens-an-admin-finds--a412f--its-history-and-revokes-it-chromium.mp4",
+      "gifBytes": 4207330
+    },
+    {
+      "slug": "api-tokens-my-API-tokens-c-b39b2-own-once-edited-and-revoked-chromium",
+      "spec": "api-tokens",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/api-tokens-my-API-tokens-c-b39b2-own-once-edited-and-revoked-chromium.gif",
+      "mp4": "clips/api-tokens-my-API-tokens-c-b39b2-own-once-edited-and-revoked-chromium.mp4",
+      "gifBytes": 2498035
+    },
+    {
+      "slug": "billing-an-owner-names-a-b-c4ac4-ontact-and-removes-it-again-chromium",
+      "spec": "billing",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/billing-an-owner-names-a-b-c4ac4-ontact-and-removes-it-again-chromium.gif",
+      "mp4": "clips/billing-an-owner-names-a-b-c4ac4-ontact-and-removes-it-again-chromium.mp4",
+      "gifBytes": 2669459
+    },
+    {
+      "slug": "billing-the-billing-tab-li-8c207-with-VAT-and-a-link-to-each-chromium",
+      "spec": "billing",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/billing-the-billing-tab-li-8c207-with-VAT-and-a-link-to-each-chromium.gif",
+      "mp4": "clips/billing-the-billing-tab-li-8c207-with-VAT-and-a-link-to-each-chromium.mp4",
+      "gifBytes": 6952
+    },
+    {
+      "slug": "security-settings-two-fact-f5de6-er-to-the-provider-to-enrol-chromium",
+      "spec": "security",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/security-settings-two-fact-f5de6-er-to-the-provider-to-enrol-chromium.gif",
+      "mp4": "clips/security-settings-two-fact-f5de6-er-to-the-provider-to-enrol-chromium.mp4",
+      "gifBytes": 1663892
+    }
+  ],
+  "changedSpecs": [
+    "api-tokens"
+  ]
+}
