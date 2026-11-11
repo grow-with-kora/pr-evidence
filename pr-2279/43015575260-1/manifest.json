@@ -1,0 +1,110 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "7e0e8fc2dd39d0bfaa77cbccd9f4ddf22e808e9f",
+      "capturedAt": "2026-11-10T10:10:59Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/42794706469"
+    },
+    "entries": [
+      {
+        "name": "billing-invoices",
+        "spec": "billing",
+        "status": "added",
+        "after": "screens/billing-invoices.after.png"
+      },
+      {
+        "name": "settings-developer-empty",
+        "spec": "api-tokens",
+        "status": "added",
+        "after": "screens/settings-developer-empty.after.png"
+      },
+      {
+        "name": "settings-developer-new-token",
+        "spec": "api-tokens",
+        "status": "added",
+        "after": "screens/settings-developer-new-token.after.png"
+      },
+      {
+        "name": "settings-developer-revoke",
+        "spec": "api-tokens",
+        "status": "added",
+        "after": "screens/settings-developer-revoke.after.png"
+      },
+      {
+        "name": "settings-developer-secret",
+        "spec": "api-tokens",
+        "status": "added",
+        "after": "screens/settings-developer-secret.after.png"
+      },
+      {
+        "name": "settings-developer-tokens",
+        "spec": "api-tokens",
+        "status": "added",
+        "after": "screens/settings-developer-tokens.after.png"
+      },
+      {
+        "name": "settings-security-two-factor",
+        "spec": "security-settings",
+        "status": "added",
+        "after": "screens/settings-security-two-factor.after.png"
+      },
+      {
+        "name": "settings-security",
+        "spec": "security-settings",
+        "status": "changed",
+        "ratio": 0.004665798611111111,
+        "resized": false,
+        "before": "screens/settings-security.before.png",
+        "after": "screens/settings-security.after.png",
+        "diff": "screens/settings-security.diff.png"
+      }
+    ],
+    "skipped": {
+      "total": 274,
+      "differing": 100
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "api-tokens-my-API-tokens-c-b39b2-own-once-edited-and-revoked-chromium",
+      "spec": "api",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/api-tokens-my-API-tokens-c-b39b2-own-once-edited-and-revoked-chromium.gif",
+      "mp4": "clips/api-tokens-my-API-tokens-c-b39b2-own-once-edited-and-revoked-chromium.mp4",
+      "gifBytes": 2411737
+    },
+    {
+      "slug": "billing-the-billing-tab-li-8c207-with-VAT-and-a-link-to-each-chromium",
+      "spec": "billing",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/billing-the-billing-tab-li-8c207-with-VAT-and-a-link-to-each-chromium.gif",
+      "mp4": "clips/billing-the-billing-tab-li-8c207-with-VAT-and-a-link-to-each-chromium.mp4",
+      "gifBytes": 6952
+    },
+    {
+      "slug": "security-settings-the-secu-90fb7-ry-way-in-and-who-owns-each-chromium",
+      "spec": "security-settings",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/security-settings-the-secu-90fb7-ry-way-in-and-who-owns-each-chromium.gif",
+      "mp4": "clips/security-settings-the-secu-90fb7-ry-way-in-and-who-owns-each-chromium.mp4",
+      "gifBytes": 1604791
+    },
+    {
+      "slug": "security-settings-two-fact-f5de6-er-to-the-provider-to-enrol-chromium",
+      "spec": "security-settings",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/security-settings-two-fact-f5de6-er-to-the-provider-to-enrol-chromium.gif",
+      "mp4": "clips/security-settings-two-fact-f5de6-er-to-the-provider-to-enrol-chromium.mp4",
+      "gifBytes": 1381336
+    }
+  ],
+  "changedSpecs": [
+    "security-settings"
+  ]
+}
