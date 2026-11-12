@@ -1,0 +1,65 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "d785bf8a01e1f91dee65f5a7c9f1a2e16ab00431",
+      "capturedAt": "2026-11-12T10:14:48Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/43195379768"
+    },
+    "entries": [
+      {
+        "name": "second-factor-required",
+        "spec": "second-factor-requirement",
+        "status": "added",
+        "after": "screens/second-factor-required.after.png"
+      },
+      {
+        "name": "workspace-audit-log",
+        "spec": "workspace-audit-log",
+        "status": "added",
+        "after": "screens/workspace-audit-log.after.png"
+      },
+      {
+        "name": "workspace-second-factor-setting",
+        "spec": "second-factor-requirement",
+        "status": "added",
+        "after": "screens/workspace-second-factor-setting.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 293,
+      "differing": 124
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "second-factor-requirement--39daf-nd-factor-cannot-turn-it-on-chromium",
+      "spec": "second",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/second-factor-requirement--39daf-nd-factor-cannot-turn-it-on-chromium.gif",
+      "mp4": "clips/second-factor-requirement--39daf-nd-factor-cannot-turn-it-on-chromium.mp4",
+      "gifBytes": 1640113
+    },
+    {
+      "slug": "second-factor-requirement--3a390-ne-on-the-two-factor-screen-chromium",
+      "spec": "second",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/second-factor-requirement--3a390-ne-on-the-two-factor-screen-chromium.gif",
+      "mp4": "clips/second-factor-requirement--3a390-ne-on-the-two-factor-screen-chromium.mp4",
+      "gifBytes": 1775044
+    },
+    {
+      "slug": "workspace-audit-log-an-own-c5220-them-and-not-support-s-acts-chromium",
+      "spec": "workspace",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/workspace-audit-log-an-own-c5220-them-and-not-support-s-acts-chromium.gif",
+      "mp4": "clips/workspace-audit-log-an-own-c5220-them-and-not-support-s-acts-chromium.mp4",
+      "gifBytes": 1966286
+    }
+  ],
+  "changedSpecs": []
+}
