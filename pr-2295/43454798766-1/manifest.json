@@ -1,0 +1,70 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "8f47c6b509ed27dd5b868c42df093035df381031",
+      "capturedAt": "2026-11-13T09:52:11Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/43402561549"
+    },
+    "entries": [
+      {
+        "name": "assistant-allow",
+        "spec": "assistants",
+        "status": "added",
+        "after": "screens/assistant-allow.after.png"
+      },
+      {
+        "name": "assistant-not-supported",
+        "spec": "assistants",
+        "status": "added",
+        "after": "screens/assistant-not-supported.after.png"
+      },
+      {
+        "name": "settings-developer-assistants",
+        "spec": "assistants",
+        "status": "added",
+        "after": "screens/settings-developer-assistants.after.png"
+      },
+      {
+        "name": "settings-developer-connect-assistant",
+        "spec": "assistants",
+        "status": "added",
+        "after": "screens/settings-developer-connect-assistant.after.png"
+      },
+      {
+        "name": "settings-developer-disconnect-assistant",
+        "spec": "assistants",
+        "status": "added",
+        "after": "screens/settings-developer-disconnect-assistant.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 296,
+      "differing": 133
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "assistants-an-assistant-al-8a66b--server-and-is-disconnected-chromium",
+      "spec": "assistants",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/assistants-an-assistant-al-8a66b--server-and-is-disconnected-chromium.gif",
+      "mp4": "clips/assistants-an-assistant-al-8a66b--server-and-is-disconnected-chromium.mp4",
+      "gifBytes": 2261505
+    },
+    {
+      "slug": "assistants-an-assistant-Pr-817ad--before-anything-is-offered-chromium",
+      "spec": "assistants",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/assistants-an-assistant-Pr-817ad--before-anything-is-offered-chromium.gif",
+      "mp4": "clips/assistants-an-assistant-Pr-817ad--before-anything-is-offered-chromium.mp4",
+      "gifBytes": 1039600
+    }
+  ],
+  "changedSpecs": [
+    "assistants"
+  ]
+}
