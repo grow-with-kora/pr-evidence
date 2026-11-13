@@ -1,0 +1,94 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "8f47c6b509ed27dd5b868c42df093035df381031",
+      "capturedAt": "2026-11-13T09:52:11Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/43402561549"
+    },
+    "entries": [
+      {
+        "name": "after-unsubscribe-page",
+        "spec": "unsubscribe",
+        "status": "added",
+        "after": "screens/after-unsubscribe-page.after.png"
+      },
+      {
+        "name": "assistant-allow",
+        "spec": "assistants",
+        "status": "added",
+        "after": "screens/assistant-allow.after.png"
+      },
+      {
+        "name": "assistant-not-supported",
+        "spec": "assistants",
+        "status": "added",
+        "after": "screens/assistant-not-supported.after.png"
+      },
+      {
+        "name": "settings-developer-assistants",
+        "spec": "assistants",
+        "status": "added",
+        "after": "screens/settings-developer-assistants.after.png"
+      },
+      {
+        "name": "settings-developer-connect-assistant",
+        "spec": "assistants",
+        "status": "added",
+        "after": "screens/settings-developer-connect-assistant.after.png"
+      },
+      {
+        "name": "settings-developer-disconnect-assistant",
+        "spec": "assistants",
+        "status": "added",
+        "after": "screens/settings-developer-disconnect-assistant.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 296,
+      "differing": 158
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "assistants-an-assistant-al-8a66b--server-and-is-disconnected-chromium",
+      "spec": "assistants",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/assistants-an-assistant-al-8a66b--server-and-is-disconnected-chromium.gif",
+      "mp4": "clips/assistants-an-assistant-al-8a66b--server-and-is-disconnected-chromium.mp4",
+      "gifBytes": 2193019
+    },
+    {
+      "slug": "assistants-an-assistant-Pr-817ad--before-anything-is-offered-chromium",
+      "spec": "assistants",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/assistants-an-assistant-Pr-817ad--before-anything-is-offered-chromium.gif",
+      "mp4": "clips/assistants-an-assistant-Pr-817ad--before-anything-is-offered-chromium.mp4",
+      "gifBytes": 1113266
+    },
+    {
+      "slug": "unsubscribe-getting-starte-73e97-uses-a-link-it-did-not-sign-chromium",
+      "spec": "unsubscribe",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/unsubscribe-getting-starte-73e97-uses-a-link-it-did-not-sign-chromium.gif",
+      "mp4": "clips/unsubscribe-getting-starte-73e97-uses-a-link-it-did-not-sign-chromium.mp4",
+      "gifBytes": 285443
+    },
+    {
+      "slug": "unsubscribe-getting-starte-e7c0d-ds-them-as-one-email-switch-chromium",
+      "spec": "unsubscribe",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/unsubscribe-getting-starte-e7c0d-ds-them-as-one-email-switch-chromium.gif",
+      "mp4": "clips/unsubscribe-getting-starte-e7c0d-ds-them-as-one-email-switch-chromium.mp4",
+      "gifBytes": 1538668
+    }
+  ],
+  "changedSpecs": [
+    "unsubscribe"
+  ]
+}
