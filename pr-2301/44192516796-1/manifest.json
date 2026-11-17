@@ -1,0 +1,68 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "126d64505ec5cd7cf1490cc8378f9078116f46e7",
+      "capturedAt": "2026-11-14T09:18:16Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/43578431070"
+    },
+    "entries": [
+      {
+        "name": "quick-search-action-dialog",
+        "spec": "quick-search",
+        "status": "removed",
+        "before": "screens/quick-search-action-dialog.before.png"
+      },
+      {
+        "name": "quick-search-all-workspaces",
+        "spec": "quick-search",
+        "status": "removed",
+        "before": "screens/quick-search-all-workspaces.before.png"
+      },
+      {
+        "name": "quick-search-app-host",
+        "spec": "quick-search",
+        "status": "removed",
+        "before": "screens/quick-search-app-host.before.png"
+      },
+      {
+        "name": "quick-search-recents",
+        "spec": "quick-search",
+        "status": "removed",
+        "before": "screens/quick-search-recents.before.png"
+      },
+      {
+        "name": "after-unsubscribe-page",
+        "spec": "unsubscribe",
+        "status": "added",
+        "after": "screens/after-unsubscribe-page.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 297,
+      "differing": 103
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "quick-search-the-scope-swi-9a254--without-changing-the-shape-chromium",
+      "spec": "quick",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/quick-search-the-scope-swi-9a254--without-changing-the-shape-chromium.gif",
+      "mp4": "clips/quick-search-the-scope-swi-9a254--without-changing-the-shape-chromium.mp4",
+      "gifBytes": 985445
+    },
+    {
+      "slug": "unsubscribe-getting-starte-73e97-uses-a-link-it-did-not-sign-chromium",
+      "spec": "unsubscribe",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/unsubscribe-getting-starte-73e97-uses-a-link-it-did-not-sign-chromium.gif",
+      "mp4": "clips/unsubscribe-getting-starte-73e97-uses-a-link-it-did-not-sign-chromium.mp4",
+      "gifBytes": 234030
+    }
+  ],
+  "changedSpecs": []
+}
