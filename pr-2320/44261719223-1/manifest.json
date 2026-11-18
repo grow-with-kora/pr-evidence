@@ -1,0 +1,62 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "126d64505ec5cd7cf1490cc8378f9078116f46e7",
+      "capturedAt": "2026-11-14T09:18:16Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/43578431070"
+    },
+    "entries": [
+      {
+        "name": "after-unsubscribe-page",
+        "spec": "unsubscribe",
+        "status": "added",
+        "after": "screens/after-unsubscribe-page.after.png"
+      },
+      {
+        "name": "workspace-companies-empty",
+        "spec": "companies",
+        "status": "added",
+        "after": "screens/workspace-companies-empty.after.png"
+      },
+      {
+        "name": "workspace-companies-move",
+        "spec": "companies",
+        "status": "added",
+        "after": "screens/workspace-companies-move.after.png"
+      },
+      {
+        "name": "workspace-companies-tree",
+        "spec": "companies",
+        "status": "added",
+        "after": "screens/workspace-companies-tree.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 301,
+      "differing": 194
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "companies-an-owner-sets-up-19f45-eath-it-and-moves-a-company-chromium",
+      "spec": "companies",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/companies-an-owner-sets-up-19f45-eath-it-and-moves-a-company-chromium.gif",
+      "mp4": "clips/companies-an-owner-sets-up-19f45-eath-it-and-moves-a-company-chromium.mp4",
+      "gifBytes": 3937135
+    },
+    {
+      "slug": "unsubscribe-getting-starte-73e97-uses-a-link-it-did-not-sign-chromium",
+      "spec": "unsubscribe",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/unsubscribe-getting-starte-73e97-uses-a-link-it-did-not-sign-chromium.gif",
+      "mp4": "clips/unsubscribe-getting-starte-73e97-uses-a-link-it-did-not-sign-chromium.mp4",
+      "gifBytes": 305050
+    }
+  ],
+  "changedSpecs": []
+}
