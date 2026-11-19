@@ -1,0 +1,55 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "848a8bf196d268eb68ba0ff5f597e29bc3001e6a",
+      "capturedAt": "2026-11-18T10:30:10Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/44283411781"
+    },
+    "entries": [
+      {
+        "name": "create-project-owning-company",
+        "spec": "owning-company",
+        "status": "added",
+        "after": "screens/create-project-owning-company.after.png"
+      },
+      {
+        "name": "project-owning-company",
+        "spec": "owning-company",
+        "status": "added",
+        "after": "screens/project-owning-company.after.png"
+      },
+      {
+        "name": "projects-company-filter",
+        "spec": "owning-company",
+        "status": "added",
+        "after": "screens/projects-company-filter.after.png"
+      },
+      {
+        "name": "projects-selected",
+        "spec": "owning-company",
+        "status": "added",
+        "after": "screens/projects-selected.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 305,
+      "differing": 304
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "owning-company-an-owner-fi-928c1--files-it-and-filters-by-it-chromium",
+      "spec": "owning-company",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/owning-company-an-owner-fi-928c1--files-it-and-filters-by-it-chromium.gif",
+      "mp4": "clips/owning-company-an-owner-fi-928c1--files-it-and-filters-by-it-chromium.mp4",
+      "gifBytes": 6120696
+    }
+  ],
+  "changedSpecs": [
+    "owning-company"
+  ]
+}
