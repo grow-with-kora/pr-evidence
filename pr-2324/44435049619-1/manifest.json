@@ -1,0 +1,333 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "848a8bf196d268eb68ba0ff5f597e29bc3001e6a",
+      "capturedAt": "2026-11-18T10:30:10Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/44283411781"
+    },
+    "entries": [
+      {
+        "name": "admin-user-sessions",
+        "spec": "sessions",
+        "status": "removed",
+        "before": "screens/admin-user-sessions.before.png"
+      },
+      {
+        "name": "admin-user-sessions-emptied",
+        "spec": "sessions",
+        "status": "removed",
+        "before": "screens/admin-user-sessions-emptied.before.png"
+      },
+      {
+        "name": "members-invite-already-here",
+        "spec": "invites",
+        "status": "changed",
+        "ratio": 0.1842426215277778,
+        "resized": false,
+        "before": "screens/members-invite-already-here.before.png",
+        "after": "screens/members-invite-already-here.after.png",
+        "diff": "screens/members-invite-already-here.diff.png"
+      },
+      {
+        "name": "members-manage-long-name",
+        "spec": "invites",
+        "status": "changed",
+        "ratio": 0.1655523003472222,
+        "resized": false,
+        "before": "screens/members-manage-long-name.before.png",
+        "after": "screens/members-manage-long-name.after.png",
+        "diff": "screens/members-manage-long-name.diff.png"
+      },
+      {
+        "name": "members-manage-member",
+        "spec": "invites",
+        "status": "changed",
+        "ratio": 0.15842881944444445,
+        "resized": false,
+        "before": "screens/members-manage-member.before.png",
+        "after": "screens/members-manage-member.after.png",
+        "diff": "screens/members-manage-member.diff.png"
+      },
+      {
+        "name": "members-remove-confirm",
+        "spec": "invites",
+        "status": "changed",
+        "ratio": 0.08279839409722223,
+        "resized": false,
+        "before": "screens/members-remove-confirm.before.png",
+        "after": "screens/members-remove-confirm.after.png",
+        "diff": "screens/members-remove-confirm.diff.png"
+      },
+      {
+        "name": "members-last-owner",
+        "spec": "invites",
+        "status": "changed",
+        "ratio": 0.07702690972222222,
+        "resized": false,
+        "before": "screens/members-last-owner.before.png",
+        "after": "screens/members-last-owner.after.png",
+        "diff": "screens/members-last-owner.diff.png"
+      },
+      {
+        "name": "quick-search-muted-hit",
+        "spec": "invites",
+        "status": "changed",
+        "ratio": 0.03721354166666667,
+        "resized": false,
+        "before": "screens/quick-search-muted-hit.before.png",
+        "after": "screens/quick-search-muted-hit.after.png",
+        "diff": "screens/quick-search-muted-hit.diff.png"
+      },
+      {
+        "name": "invite-in-app-notification",
+        "spec": "invites",
+        "status": "changed",
+        "ratio": 0.03643663194444444,
+        "resized": false,
+        "before": "screens/invite-in-app-notification.before.png",
+        "after": "screens/invite-in-app-notification.after.png",
+        "diff": "screens/invite-in-app-notification.diff.png"
+      },
+      {
+        "name": "sidebar-pending-invites",
+        "spec": "invites",
+        "status": "changed",
+        "ratio": 0.03235568576388889,
+        "resized": false,
+        "before": "screens/sidebar-pending-invites.before.png",
+        "after": "screens/sidebar-pending-invites.after.png",
+        "diff": "screens/sidebar-pending-invites.diff.png"
+      },
+      {
+        "name": "invite-email-mismatch",
+        "spec": "invites",
+        "status": "changed",
+        "ratio": 0.02939453125,
+        "resized": false,
+        "before": "screens/invite-email-mismatch.before.png",
+        "after": "screens/invite-email-mismatch.after.png",
+        "diff": "screens/invite-email-mismatch.diff.png"
+      },
+      {
+        "name": "members-blocked-colleague",
+        "spec": "invites",
+        "status": "changed",
+        "ratio": 0.02833767361111111,
+        "resized": false,
+        "before": "screens/members-blocked-colleague.before.png",
+        "after": "screens/members-blocked-colleague.after.png",
+        "diff": "screens/members-blocked-colleague.diff.png"
+      },
+      {
+        "name": "members-invitation-pending",
+        "spec": "invites",
+        "status": "changed",
+        "ratio": 0.026104600694444445,
+        "resized": false,
+        "before": "screens/members-invitation-pending.before.png",
+        "after": "screens/members-invitation-pending.after.png",
+        "diff": "screens/members-invitation-pending.diff.png"
+      },
+      {
+        "name": "members-after-acceptance",
+        "spec": "invites",
+        "status": "changed",
+        "ratio": 0.02464084201388889,
+        "resized": false,
+        "before": "screens/members-after-acceptance.before.png",
+        "after": "screens/members-after-acceptance.after.png",
+        "diff": "screens/members-after-acceptance.diff.png"
+      },
+      {
+        "name": "members-before-invite",
+        "spec": "invites",
+        "status": "changed",
+        "ratio": 0.022692057291666668,
+        "resized": false,
+        "before": "screens/members-before-invite.before.png",
+        "after": "screens/members-before-invite.after.png",
+        "diff": "screens/members-before-invite.diff.png"
+      },
+      {
+        "name": "members-after-removal",
+        "spec": "invites",
+        "status": "changed",
+        "ratio": 0.022330729166666667,
+        "resized": false,
+        "before": "screens/members-after-removal.before.png",
+        "after": "screens/members-after-removal.after.png",
+        "diff": "screens/members-after-removal.diff.png"
+      },
+      {
+        "name": "members-as-member",
+        "spec": "invites",
+        "status": "changed",
+        "ratio": 0.013547092013888888,
+        "resized": false,
+        "before": "screens/members-as-member.before.png",
+        "after": "screens/members-as-member.after.png",
+        "diff": "screens/members-as-member.diff.png"
+      },
+      {
+        "name": "sidebar-invite-accepted",
+        "spec": "invites",
+        "status": "changed",
+        "ratio": 0.013133680555555555,
+        "resized": false,
+        "before": "screens/sidebar-invite-accepted.before.png",
+        "after": "screens/sidebar-invite-accepted.after.png",
+        "diff": "screens/sidebar-invite-accepted.diff.png"
+      },
+      {
+        "name": "invite-accepted-workspace",
+        "spec": "invites",
+        "status": "changed",
+        "ratio": 0.012811414930555556,
+        "resized": false,
+        "before": "screens/invite-accepted-workspace.before.png",
+        "after": "screens/invite-accepted-workspace.after.png",
+        "diff": "screens/invite-accepted-workspace.diff.png"
+      },
+      {
+        "name": "invite-login-hint",
+        "spec": "invites",
+        "status": "changed",
+        "ratio": 0.008872612847222221,
+        "resized": false,
+        "before": "screens/invite-login-hint.before.png",
+        "after": "screens/invite-login-hint.after.png",
+        "diff": "screens/invite-login-hint.diff.png"
+      },
+      {
+        "name": "invite-accept-choice",
+        "spec": "invites",
+        "status": "changed",
+        "ratio": 0.008553602430555555,
+        "resized": false,
+        "before": "screens/invite-accept-choice.before.png",
+        "after": "screens/invite-accept-choice.after.png",
+        "diff": "screens/invite-accept-choice.diff.png"
+      },
+      {
+        "name": "invite-after-switch",
+        "spec": "invites",
+        "status": "changed",
+        "ratio": 0.007383897569444444,
+        "resized": false,
+        "before": "screens/invite-after-switch.before.png",
+        "after": "screens/invite-after-switch.after.png",
+        "diff": "screens/invite-after-switch.diff.png"
+      }
+    ],
+    "skipped": {
+      "total": 283,
+      "differing": 282
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "sessions-with-no-sessions--c56a7-ead-of-showing-an-empty-box-chromium",
+      "spec": "sessions",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/sessions-with-no-sessions--c56a7-ead-of-showing-an-empty-box-chromium.gif",
+      "mp4": "clips/sessions-with-no-sessions--c56a7-ead-of-showing-an-empty-box-chromium.mp4",
+      "gifBytes": 1779004
+    },
+    {
+      "slug": "invites-a-blocked-colleagu-60e72-ow-and-both-surfaces-say-so-chromium",
+      "spec": "invites",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/invites-a-blocked-colleagu-60e72-ow-and-both-surfaces-say-so-chromium.gif",
+      "mp4": "clips/invites-a-blocked-colleagu-60e72-ow-and-both-surfaces-say-so-chromium.mp4",
+      "gifBytes": 1943909
+    },
+    {
+      "slug": "invites-a-long-name-in-the-1bb6a-nel-clears-the-close-button-chromium",
+      "spec": "invites",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/invites-a-long-name-in-the-1bb6a-nel-clears-the-close-button-chromium.gif",
+      "mp4": "clips/invites-a-long-name-in-the-1bb6a-nel-clears-the-close-button-chromium.mp4",
+      "gifBytes": 2070806
+    },
+    {
+      "slug": "invites-a-member-sees-who-else-is-here-but-cannot-invite-chromium",
+      "spec": "invites",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/invites-a-member-sees-who-else-is-here-but-cannot-invite-chromium.gif",
+      "mp4": "clips/invites-a-member-sees-who-else-is-here-but-cannot-invite-chromium.mp4",
+      "gifBytes": 2525949
+    },
+    {
+      "slug": "invites-a-revoked-invitati-543b3-ailed-and-frees-the-address-chromium",
+      "spec": "invites",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/invites-a-revoked-invitati-543b3-ailed-and-frees-the-address-chromium.gif",
+      "mp4": "clips/invites-a-revoked-invitati-543b3-ailed-and-frees-the-address-chromium.mp4",
+      "gifBytes": 3034188
+    },
+    {
+      "slug": "invites-an-existing-member-6a5de-e-product-not-only-by-email-chromium",
+      "spec": "invites",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/invites-an-existing-member-6a5de-e-product-not-only-by-email-chromium.gif",
+      "mp4": "clips/invites-an-existing-member-6a5de-e-product-not-only-by-email-chromium.mp4",
+      "gifBytes": 3101729
+    },
+    {
+      "slug": "invites-an-invite-link-ope-de41e-s-the-mismatch-and-switches-chromium",
+      "spec": "invites",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/invites-an-invite-link-ope-de41e-s-the-mismatch-and-switches-chromium.gif",
+      "mp4": "clips/invites-an-invite-link-ope-de41e-s-the-mismatch-and-switches-chromium.mp4",
+      "gifBytes": 2620068
+    },
+    {
+      "slug": "invites-an-invited-colleag-9e21b-ce-and-shows-up-as-a-member-chromium",
+      "spec": "invites",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/invites-an-invited-colleag-9e21b-ce-and-shows-up-as-a-member-chromium.gif",
+      "mp4": "clips/invites-an-invited-colleag-9e21b-ce-and-shows-up-as-a-member-chromium.mp4",
+      "gifBytes": 3651779
+    },
+    {
+      "slug": "invites-removing-a-colleag-c8384--projects-it-takes-them-off-chromium",
+      "spec": "invites",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/invites-removing-a-colleag-c8384--projects-it-takes-them-off-chromium.gif",
+      "mp4": "clips/invites-removing-a-colleag-c8384--projects-it-takes-them-off-chromium.mp4",
+      "gifBytes": 2215228
+    },
+    {
+      "slug": "invites-the-only-owner-cannot-be-removed-and-is-told-why-chromium",
+      "spec": "invites",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/invites-the-only-owner-cannot-be-removed-and-is-told-why-chromium.gif",
+      "mp4": "clips/invites-the-only-owner-cannot-be-removed-and-is-told-why-chromium.mp4",
+      "gifBytes": 2406670
+    },
+    {
+      "slug": "invites-the-sidebar-surfac-42cb6-nvitations-wherever-you-are-chromium",
+      "spec": "invites",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/invites-the-sidebar-surfac-42cb6-nvitations-wherever-you-are-chromium.gif",
+      "mp4": "clips/invites-the-sidebar-surfac-42cb6-nvitations-wherever-you-are-chromium.mp4",
+      "gifBytes": 3418181
+    }
+  ],
+  "changedSpecs": [
+    "invites"
+  ]
+}
