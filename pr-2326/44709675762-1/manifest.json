@@ -1,0 +1,102 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "97027d9598197f258b1a0726cbf3e59db49a59f7",
+      "capturedAt": "2026-11-19T10:47:56Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/44505516892"
+    },
+    "entries": [
+      {
+        "name": "dashboards-projects-card",
+        "spec": "dashboards",
+        "status": "added",
+        "after": "screens/dashboards-projects-card.after.png"
+      },
+      {
+        "name": "dashboards-narrow",
+        "spec": "dashboards",
+        "status": "changed",
+        "ratio": 0.01862923806051768,
+        "resized": false,
+        "before": "screens/dashboards-narrow.before.png",
+        "after": "screens/dashboards-narrow.after.png",
+        "diff": "screens/dashboards-narrow.diff.png"
+      },
+      {
+        "name": "dashboards-widget-picker",
+        "spec": "dashboards",
+        "status": "changed",
+        "ratio": 0.00119775390625,
+        "resized": false,
+        "before": "screens/dashboards-widget-picker.before.png",
+        "after": "screens/dashboards-widget-picker.after.png",
+        "diff": "screens/dashboards-widget-picker.diff.png"
+      }
+    ],
+    "skipped": {
+      "total": 307,
+      "differing": 167
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "dashboards-a-stacked-board-9a6d2-get-in-full-not-a-72px-band-chromium",
+      "spec": "dashboards",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/dashboards-a-stacked-board-9a6d2-get-in-full-not-a-72px-band-chromium.gif",
+      "mp4": "clips/dashboards-a-stacked-board-9a6d2-get-in-full-not-a-72px-band-chromium.mp4",
+      "gifBytes": 1553911
+    },
+    {
+      "slug": "dashboards-dragging-a-widget-persists-its-new-place-chromium",
+      "spec": "dashboards",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/dashboards-dragging-a-widget-persists-its-new-place-chromium.gif",
+      "mp4": "clips/dashboards-dragging-a-widget-persists-its-new-place-chromium.mp4",
+      "gifBytes": 2685427
+    },
+    {
+      "slug": "dashboards-resizing-a-widget-persists-its-new-size-chromium",
+      "spec": "dashboards",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/dashboards-resizing-a-widget-persists-its-new-size-chromium.gif",
+      "mp4": "clips/dashboards-resizing-a-widget-persists-its-new-size-chromium.mp4",
+      "gifBytes": 2804307
+    },
+    {
+      "slug": "dashboards-the-management--a9607-ard-default-delete-fallback-chromium",
+      "spec": "dashboards",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/dashboards-the-management--a9607-ard-default-delete-fallback-chromium.gif",
+      "mp4": "clips/dashboards-the-management--a9607-ard-default-delete-fallback-chromium.mp4",
+      "gifBytes": 6716011
+    },
+    {
+      "slug": "dashboards-the-seeded-Proj-2c662-s-where-each-project-stands-chromium",
+      "spec": "dashboards",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/dashboards-the-seeded-Proj-2c662-s-where-each-project-stands-chromium.gif",
+      "mp4": "clips/dashboards-the-seeded-Proj-2c662-s-where-each-project-stands-chromium.mp4",
+      "gifBytes": 1904355
+    },
+    {
+      "slug": "dashboards-the-workspace-home-renders-the-seeded-dashboard-chromium",
+      "spec": "dashboards",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/dashboards-the-workspace-home-renders-the-seeded-dashboard-chromium.gif",
+      "mp4": "clips/dashboards-the-workspace-home-renders-the-seeded-dashboard-chromium.mp4",
+      "gifBytes": 1524356
+    }
+  ],
+  "changedSpecs": [
+    "dashboards"
+  ]
+}
