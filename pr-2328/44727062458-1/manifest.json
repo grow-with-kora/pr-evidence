@@ -1,0 +1,145 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "97027d9598197f258b1a0726cbf3e59db49a59f7",
+      "capturedAt": "2026-11-19T10:47:56Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/44505516892"
+    },
+    "entries": [
+      {
+        "name": "dashboards-projects-card",
+        "spec": "dashboards",
+        "status": "added",
+        "after": "screens/dashboards-projects-card.after.png"
+      },
+      {
+        "name": "workspace-general-code-address",
+        "spec": "onboarding",
+        "status": "added",
+        "after": "screens/workspace-general-code-address.after.png"
+      },
+      {
+        "name": "onboarding-member-opened-workspace",
+        "spec": "onboarding",
+        "status": "changed",
+        "ratio": 0.006495225694444444,
+        "resized": false,
+        "before": "screens/onboarding-member-opened-workspace.before.png",
+        "after": "screens/onboarding-member-opened-workspace.after.png",
+        "diff": "screens/onboarding-member-opened-workspace.diff.png"
+      },
+      {
+        "name": "onboarding-created-workspace-home",
+        "spec": "onboarding",
+        "status": "changed",
+        "ratio": 0.005186631944444444,
+        "resized": false,
+        "before": "screens/onboarding-created-workspace-home.before.png",
+        "after": "screens/onboarding-created-workspace-home.after.png",
+        "diff": "screens/onboarding-created-workspace-home.diff.png"
+      },
+      {
+        "name": "onboarding-invite-accepted",
+        "spec": "onboarding",
+        "status": "changed",
+        "ratio": 0.004815538194444444,
+        "resized": false,
+        "before": "screens/onboarding-invite-accepted.before.png",
+        "after": "screens/onboarding-invite-accepted.after.png",
+        "diff": "screens/onboarding-invite-accepted.diff.png"
+      },
+      {
+        "name": "onboarding-field-limit-reached",
+        "spec": "onboarding",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/onboarding-field-limit-reached.before.png",
+        "after": "screens/onboarding-field-limit-reached.after.png"
+      },
+      {
+        "name": "onboarding-forced-create",
+        "spec": "onboarding",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/onboarding-forced-create.before.png",
+        "after": "screens/onboarding-forced-create.after.png"
+      },
+      {
+        "name": "onboarding-invite-choice",
+        "spec": "onboarding",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/onboarding-invite-choice.before.png",
+        "after": "screens/onboarding-invite-choice.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 303,
+      "differing": 169
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "dashboards-the-seeded-Proj-2c662-s-where-each-project-stands-chromium",
+      "spec": "dashboards",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/dashboards-the-seeded-Proj-2c662-s-where-each-project-stands-chromium.gif",
+      "mp4": "clips/dashboards-the-seeded-Proj-2c662-s-where-each-project-stands-chromium.mp4",
+      "gifBytes": 2242778
+    },
+    {
+      "slug": "onboarding-a-member-with-o-df091-t-on-an-all-workspaces-home-chromium",
+      "spec": "onboarding",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/onboarding-a-member-with-o-df091-t-on-an-all-workspaces-home-chromium.gif",
+      "mp4": "clips/onboarding-a-member-with-o-df091-t-on-an-all-workspaces-home-chromium.mp4",
+      "gifBytes": 1146260
+    },
+    {
+      "slug": "onboarding-a-new-user-is-f-34aff-on-the-workspace-s-own-host-chromium",
+      "spec": "onboarding",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/onboarding-a-new-user-is-f-34aff-on-the-workspace-s-own-host-chromium.gif",
+      "mp4": "clips/onboarding-a-new-user-is-f-34aff-on-the-workspace-s-own-host-chromium.mp4",
+      "gifBytes": 2611115
+    },
+    {
+      "slug": "onboarding-a-returning-use-2b035-s-held-at-create-every-time-chromium",
+      "spec": "onboarding",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/onboarding-a-returning-use-2b035-s-held-at-create-every-time-chromium.gif",
+      "mp4": "clips/onboarding-a-returning-use-2b035-s-held-at-create-every-time-chromium.mp4",
+      "gifBytes": 835648
+    },
+    {
+      "slug": "onboarding-a-seeded-invita-c837f-he-invited-workspace-s-host-chromium",
+      "spec": "onboarding",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/onboarding-a-seeded-invita-c837f-he-invited-workspace-s-host-chromium.gif",
+      "mp4": "clips/onboarding-a-seeded-invita-c837f-he-invited-workspace-s-host-chromium.mp4",
+      "gifBytes": 1664460
+    },
+    {
+      "slug": "onboarding-bounded-fields--64d69-o-when-they-drop-characters-chromium",
+      "spec": "onboarding",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/onboarding-bounded-fields--64d69-o-when-they-drop-characters-chromium.gif",
+      "mp4": "clips/onboarding-bounded-fields--64d69-o-when-they-drop-characters-chromium.mp4",
+      "gifBytes": 504858
+    }
+  ],
+  "changedSpecs": [
+    "onboarding"
+  ]
+}
