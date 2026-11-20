@@ -1,0 +1,190 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "97027d9598197f258b1a0726cbf3e59db49a59f7",
+      "capturedAt": "2026-11-19T10:47:56Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/44505516892"
+    },
+    "entries": [
+      {
+        "name": "admin-user-sessions",
+        "spec": "sessions",
+        "status": "removed",
+        "before": "screens/admin-user-sessions.before.png"
+      },
+      {
+        "name": "admin-user-sessions-emptied",
+        "spec": "sessions",
+        "status": "removed",
+        "before": "screens/admin-user-sessions-emptied.before.png"
+      },
+      {
+        "name": "library-project-risk-register",
+        "spec": "risk-register",
+        "status": "removed",
+        "before": "screens/library-project-risk-register.before.png"
+      },
+      {
+        "name": "project-risks-duplicate",
+        "spec": "risk-register",
+        "status": "removed",
+        "before": "screens/project-risks-duplicate.before.png"
+      },
+      {
+        "name": "project-step-raise-risk",
+        "spec": "risk-register",
+        "status": "removed",
+        "before": "screens/project-step-raise-risk.before.png"
+      },
+      {
+        "name": "saved-filters-applied",
+        "spec": "saved-filters",
+        "status": "removed",
+        "before": "screens/saved-filters-applied.before.png"
+      },
+      {
+        "name": "saved-filters-modified",
+        "spec": "saved-filters",
+        "status": "removed",
+        "before": "screens/saved-filters-modified.before.png"
+      },
+      {
+        "name": "saved-filters-picker",
+        "spec": "saved-filters",
+        "status": "removed",
+        "before": "screens/saved-filters-picker.before.png"
+      },
+      {
+        "name": "second-factor-required",
+        "spec": "second-factor-requirement",
+        "status": "removed",
+        "before": "screens/second-factor-required.before.png"
+      },
+      {
+        "name": "settings-devices",
+        "spec": "sessions",
+        "status": "removed",
+        "before": "screens/settings-devices.before.png"
+      },
+      {
+        "name": "settings-devices-after-revoke",
+        "spec": "sessions",
+        "status": "removed",
+        "before": "screens/settings-devices-after-revoke.before.png"
+      },
+      {
+        "name": "settings-security",
+        "spec": "security-settings",
+        "status": "removed",
+        "before": "screens/settings-security.before.png"
+      },
+      {
+        "name": "settings-security-two-factor",
+        "spec": "security-settings",
+        "status": "removed",
+        "before": "screens/settings-security-two-factor.before.png"
+      },
+      {
+        "name": "workspace-second-factor-setting",
+        "spec": "second-factor-requirement",
+        "status": "removed",
+        "before": "screens/workspace-second-factor-setting.before.png"
+      },
+      {
+        "name": "admin-workspaces-slug-changed",
+        "spec": "admin-workspaces",
+        "status": "added",
+        "after": "screens/admin-workspaces-slug-changed.after.png"
+      },
+      {
+        "name": "dashboards-projects-card",
+        "spec": "dashboards",
+        "status": "added",
+        "after": "screens/dashboards-projects-card.after.png"
+      },
+      {
+        "name": "settings-developer-new-webhook",
+        "spec": "webhooks",
+        "status": "added",
+        "after": "screens/settings-developer-new-webhook.after.png"
+      },
+      {
+        "name": "settings-developer-webhooks",
+        "spec": "webhooks",
+        "status": "added",
+        "after": "screens/settings-developer-webhooks.after.png"
+      },
+      {
+        "name": "workspace-general-code-address",
+        "spec": "onboarding",
+        "status": "added",
+        "after": "screens/workspace-general-code-address.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 295,
+      "differing": 167
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "risk-register-a-risk-is-ra-30fac-ed-with-a-note-and-reopened-chromium",
+      "spec": "risk",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/risk-register-a-risk-is-ra-30fac-ed-with-a-note-and-reopened-chromium.gif",
+      "mp4": "clips/risk-register-a-risk-is-ra-30fac-ed-with-a-note-and-reopened-chromium.mp4",
+      "gifBytes": 7111202
+    },
+    {
+      "slug": "admin-workspaces-a-workspa-35344-ld-one-is-listed-as-retired-chromium",
+      "spec": "admin",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/admin-workspaces-a-workspa-35344-ld-one-is-listed-as-retired-chromium.gif",
+      "mp4": "clips/admin-workspaces-a-workspa-35344-ld-one-is-listed-as-retired-chromium.mp4",
+      "gifBytes": 2331752
+    },
+    {
+      "slug": "dashboards-the-seeded-Proj-2c662-s-where-each-project-stands-chromium",
+      "spec": "dashboards",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/dashboards-the-seeded-Proj-2c662-s-where-each-project-stands-chromium.gif",
+      "mp4": "clips/dashboards-the-seeded-Proj-2c662-s-where-each-project-stands-chromium.mp4",
+      "gifBytes": 2215596
+    },
+    {
+      "slug": "onboarding-a-new-user-is-f-34aff-on-the-workspace-s-own-host-chromium",
+      "spec": "onboarding",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/onboarding-a-new-user-is-f-34aff-on-the-workspace-s-own-host-chromium.gif",
+      "mp4": "clips/onboarding-a-new-user-is-f-34aff-on-the-workspace-s-own-host-chromium.mp4",
+      "gifBytes": 2909673
+    },
+    {
+      "slug": "webhooks-my-Webhooks-creat-8a99a-own-once-paused-and-deleted-chromium",
+      "spec": "webhooks",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/webhooks-my-Webhooks-creat-8a99a-own-once-paused-and-deleted-chromium.gif",
+      "mp4": "clips/webhooks-my-Webhooks-creat-8a99a-own-once-paused-and-deleted-chromium.mp4",
+      "gifBytes": 4196751
+    },
+    {
+      "slug": "webhooks-off-a-workspace-t-49e24--where-Webhooks-are-managed-chromium",
+      "spec": "webhooks",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/webhooks-off-a-workspace-t-49e24--where-Webhooks-are-managed-chromium.gif",
+      "mp4": "clips/webhooks-off-a-workspace-t-49e24--where-Webhooks-are-managed-chromium.mp4",
+      "gifBytes": 1553315
+    }
+  ],
+  "changedSpecs": [
+    "webhooks"
+  ]
+}
