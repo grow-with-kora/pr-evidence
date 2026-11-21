@@ -1,0 +1,86 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "97027d9598197f258b1a0726cbf3e59db49a59f7",
+      "capturedAt": "2026-11-19T10:47:56Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/44505516892"
+    },
+    "entries": [
+      {
+        "name": "admin-workspaces-slug-changed",
+        "spec": "admin-workspaces",
+        "status": "added",
+        "after": "screens/admin-workspaces-slug-changed.after.png"
+      },
+      {
+        "name": "dashboards-projects-card",
+        "spec": "dashboards",
+        "status": "added",
+        "after": "screens/dashboards-projects-card.after.png"
+      },
+      {
+        "name": "settings-developer-new-webhook",
+        "spec": "webhooks",
+        "status": "added",
+        "after": "screens/settings-developer-new-webhook.after.png"
+      },
+      {
+        "name": "settings-developer-webhooks",
+        "spec": "webhooks",
+        "status": "added",
+        "after": "screens/settings-developer-webhooks.after.png"
+      },
+      {
+        "name": "workspace-general-code-address",
+        "spec": "onboarding",
+        "status": "added",
+        "after": "screens/workspace-general-code-address.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 309,
+      "differing": 179
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "admin-workspaces-a-workspa-35344-ld-one-is-listed-as-retired-chromium",
+      "spec": "admin",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/admin-workspaces-a-workspa-35344-ld-one-is-listed-as-retired-chromium.gif",
+      "mp4": "clips/admin-workspaces-a-workspa-35344-ld-one-is-listed-as-retired-chromium.mp4",
+      "gifBytes": 2416882
+    },
+    {
+      "slug": "dashboards-the-seeded-Proj-2c662-s-where-each-project-stands-chromium",
+      "spec": "dashboards",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/dashboards-the-seeded-Proj-2c662-s-where-each-project-stands-chromium.gif",
+      "mp4": "clips/dashboards-the-seeded-Proj-2c662-s-where-each-project-stands-chromium.mp4",
+      "gifBytes": 2162766
+    },
+    {
+      "slug": "onboarding-a-new-user-is-f-34aff-on-the-workspace-s-own-host-chromium",
+      "spec": "onboarding",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/onboarding-a-new-user-is-f-34aff-on-the-workspace-s-own-host-chromium.gif",
+      "mp4": "clips/onboarding-a-new-user-is-f-34aff-on-the-workspace-s-own-host-chromium.mp4",
+      "gifBytes": 2179321
+    },
+    {
+      "slug": "webhooks-my-Webhooks-creat-8a99a-own-once-paused-and-deleted-chromium",
+      "spec": "webhooks",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/webhooks-my-Webhooks-creat-8a99a-own-once-paused-and-deleted-chromium.gif",
+      "mp4": "clips/webhooks-my-Webhooks-creat-8a99a-own-once-paused-and-deleted-chromium.mp4",
+      "gifBytes": 3790102
+    }
+  ],
+  "changedSpecs": []
+}
