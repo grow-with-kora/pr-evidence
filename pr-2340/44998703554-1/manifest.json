@@ -1,0 +1,86 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "13a6acab9098629fc0e880191b7153abee05c597",
+      "capturedAt": "2026-11-21T10:11:15Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/44891691615"
+    },
+    "entries": [
+      {
+        "name": "admin-user-webhooks",
+        "spec": "webhooks",
+        "status": "added",
+        "after": "screens/admin-user-webhooks.after.png"
+      },
+      {
+        "name": "admin-webhook",
+        "spec": "webhooks",
+        "status": "added",
+        "after": "screens/admin-webhook.after.png"
+      },
+      {
+        "name": "admin-webhooks",
+        "spec": "webhooks",
+        "status": "added",
+        "after": "screens/admin-webhooks.after.png"
+      },
+      {
+        "name": "settings-developer-webhooks",
+        "spec": "webhooks",
+        "status": "changed",
+        "ratio": 0.0005805121527777778,
+        "resized": false,
+        "before": "screens/settings-developer-webhooks.before.png",
+        "after": "screens/settings-developer-webhooks.after.png",
+        "diff": "screens/settings-developer-webhooks.diff.png"
+      },
+      {
+        "name": "settings-developer-new-webhook",
+        "spec": "webhooks",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/settings-developer-new-webhook.before.png",
+        "after": "screens/settings-developer-new-webhook.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 312,
+      "differing": 163
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "webhooks-an-admin-finds-a--6ae43-he-part-that-may-hold-a-key-chromium",
+      "spec": "webhooks",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/webhooks-an-admin-finds-a--6ae43-he-part-that-may-hold-a-key-chromium.gif",
+      "mp4": "clips/webhooks-an-admin-finds-a--6ae43-he-part-that-may-hold-a-key-chromium.mp4",
+      "gifBytes": 3781610
+    },
+    {
+      "slug": "webhooks-my-Webhooks-creat-8a99a-own-once-paused-and-deleted-chromium",
+      "spec": "webhooks",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/webhooks-my-Webhooks-creat-8a99a-own-once-paused-and-deleted-chromium.gif",
+      "mp4": "clips/webhooks-my-Webhooks-creat-8a99a-own-once-paused-and-deleted-chromium.mp4",
+      "gifBytes": 3688686
+    },
+    {
+      "slug": "webhooks-off-a-workspace-t-49e24--where-Webhooks-are-managed-chromium",
+      "spec": "webhooks",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/webhooks-off-a-workspace-t-49e24--where-Webhooks-are-managed-chromium.gif",
+      "mp4": "clips/webhooks-off-a-workspace-t-49e24--where-Webhooks-are-managed-chromium.mp4",
+      "gifBytes": 1442756
+    }
+  ],
+  "changedSpecs": [
+    "webhooks"
+  ]
+}
