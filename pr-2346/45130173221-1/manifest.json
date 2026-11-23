@@ -1,0 +1,188 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "7b7c54278785cb2586209df69d347e4a3b7dc1b2",
+      "capturedAt": "2026-11-22T10:06:07Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/45009415271"
+    },
+    "entries": [
+      {
+        "name": "legal-security",
+        "spec": "legal",
+        "status": "added",
+        "after": "screens/legal-security.after.png"
+      },
+      {
+        "name": "login-signup-handoff",
+        "spec": "front-door-handoff",
+        "status": "changed",
+        "ratio": 0.01703450520833333,
+        "resized": false,
+        "before": "screens/login-signup-handoff.before.png",
+        "after": "screens/login-signup-handoff.after.png",
+        "diff": "screens/login-signup-handoff.diff.png"
+      },
+      {
+        "name": "onboarding-forced-create",
+        "spec": "onboarding",
+        "status": "changed",
+        "ratio": 0.003100043402777778,
+        "resized": false,
+        "before": "screens/onboarding-forced-create.before.png",
+        "after": "screens/onboarding-forced-create.after.png",
+        "diff": "screens/onboarding-forced-create.diff.png"
+      },
+      {
+        "name": "onboarding-field-limit-reached",
+        "spec": "onboarding",
+        "status": "changed",
+        "ratio": 0.0022200520833333334,
+        "resized": false,
+        "before": "screens/onboarding-field-limit-reached.before.png",
+        "after": "screens/onboarding-field-limit-reached.after.png",
+        "diff": "screens/onboarding-field-limit-reached.diff.png"
+      },
+      {
+        "name": "plans-public",
+        "spec": "front-door-handoff",
+        "status": "changed",
+        "ratio": 0.0020627170138888887,
+        "resized": false,
+        "before": "screens/plans-public.before.png",
+        "after": "screens/plans-public.after.png",
+        "diff": "screens/plans-public.diff.png"
+      },
+      {
+        "name": "onboarding-member-opened-workspace",
+        "spec": "onboarding",
+        "status": "changed",
+        "ratio": 0.001125217013888889,
+        "resized": false,
+        "before": "screens/onboarding-member-opened-workspace.before.png",
+        "after": "screens/onboarding-member-opened-workspace.after.png",
+        "diff": "screens/onboarding-member-opened-workspace.diff.png"
+      },
+      {
+        "name": "workspace-general-code-address",
+        "spec": "onboarding",
+        "status": "changed",
+        "ratio": 0.0009049479166666666,
+        "resized": false,
+        "before": "screens/workspace-general-code-address.before.png",
+        "after": "screens/workspace-general-code-address.after.png",
+        "diff": "screens/workspace-general-code-address.diff.png"
+      },
+      {
+        "name": "onboarding-created-workspace-home",
+        "spec": "onboarding",
+        "status": "identical",
+        "ratio": 0.00029405381944444444,
+        "resized": false,
+        "before": "screens/onboarding-created-workspace-home.before.png",
+        "after": "screens/onboarding-created-workspace-home.after.png"
+      },
+      {
+        "name": "onboarding-invite-accepted",
+        "spec": "onboarding",
+        "status": "identical",
+        "ratio": 0.000014105902777777777,
+        "resized": false,
+        "before": "screens/onboarding-invite-accepted.before.png",
+        "after": "screens/onboarding-invite-accepted.after.png"
+      },
+      {
+        "name": "onboarding-invite-choice",
+        "spec": "onboarding",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/onboarding-invite-choice.before.png",
+        "after": "screens/onboarding-invite-choice.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 308,
+      "differing": 115
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "front-door-handoff-front-d-1713c--into-a-create-account-door-chromium",
+      "spec": "front-door-handoff",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/front-door-handoff-front-d-1713c--into-a-create-account-door-chromium.gif",
+      "mp4": "clips/front-door-handoff-front-d-1713c--into-a-create-account-door-chromium.mp4",
+      "gifBytes": 595184
+    },
+    {
+      "slug": "front-door-handoff-front-d-71d00-ice-list-without-signing-in-chromium",
+      "spec": "front-door-handoff",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/front-door-handoff-front-d-71d00-ice-list-without-signing-in-chromium.gif",
+      "mp4": "clips/front-door-handoff-front-d-71d00-ice-list-without-signing-in-chromium.mp4",
+      "gifBytes": 342983
+    },
+    {
+      "slug": "legal-legal-the-security-p-37267-re-its-gaps-and-its-channel-chromium",
+      "spec": "legal",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/legal-legal-the-security-p-37267-re-its-gaps-and-its-channel-chromium.gif",
+      "mp4": "clips/legal-legal-the-security-p-37267-re-its-gaps-and-its-channel-chromium.mp4",
+      "gifBytes": 655587
+    },
+    {
+      "slug": "onboarding-a-member-with-o-df091-t-on-an-all-workspaces-home-chromium",
+      "spec": "onboarding",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/onboarding-a-member-with-o-df091-t-on-an-all-workspaces-home-chromium.gif",
+      "mp4": "clips/onboarding-a-member-with-o-df091-t-on-an-all-workspaces-home-chromium.mp4",
+      "gifBytes": 1024870
+    },
+    {
+      "slug": "onboarding-a-new-user-is-f-34aff-on-the-workspace-s-own-host-chromium",
+      "spec": "onboarding",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/onboarding-a-new-user-is-f-34aff-on-the-workspace-s-own-host-chromium.gif",
+      "mp4": "clips/onboarding-a-new-user-is-f-34aff-on-the-workspace-s-own-host-chromium.mp4",
+      "gifBytes": 1690311
+    },
+    {
+      "slug": "onboarding-a-returning-use-2b035-s-held-at-create-every-time-chromium",
+      "spec": "onboarding",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/onboarding-a-returning-use-2b035-s-held-at-create-every-time-chromium.gif",
+      "mp4": "clips/onboarding-a-returning-use-2b035-s-held-at-create-every-time-chromium.mp4",
+      "gifBytes": 854381
+    },
+    {
+      "slug": "onboarding-a-seeded-invita-c837f-he-invited-workspace-s-host-chromium",
+      "spec": "onboarding",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/onboarding-a-seeded-invita-c837f-he-invited-workspace-s-host-chromium.gif",
+      "mp4": "clips/onboarding-a-seeded-invita-c837f-he-invited-workspace-s-host-chromium.mp4",
+      "gifBytes": 1516610
+    },
+    {
+      "slug": "onboarding-bounded-fields--64d69-o-when-they-drop-characters-chromium",
+      "spec": "onboarding",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/onboarding-bounded-fields--64d69-o-when-they-drop-characters-chromium.gif",
+      "mp4": "clips/onboarding-bounded-fields--64d69-o-when-they-drop-characters-chromium.mp4",
+      "gifBytes": 839113
+    }
+  ],
+  "changedSpecs": [
+    "front-door-handoff",
+    "onboarding"
+  ]
+}
