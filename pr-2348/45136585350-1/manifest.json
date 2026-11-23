@@ -1,0 +1,35 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "7b7c54278785cb2586209df69d347e4a3b7dc1b2",
+      "capturedAt": "2026-11-22T10:06:07Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/45009415271"
+    },
+    "entries": [
+      {
+        "name": "legal-security",
+        "spec": "legal",
+        "status": "added",
+        "after": "screens/legal-security.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 317,
+      "differing": 123
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "legal-legal-the-security-p-37267-re-its-gaps-and-its-channel-chromium",
+      "spec": "legal",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/legal-legal-the-security-p-37267-re-its-gaps-and-its-channel-chromium.gif",
+      "mp4": "clips/legal-legal-the-security-p-37267-re-its-gaps-and-its-channel-chromium.mp4",
+      "gifBytes": 515928
+    }
+  ],
+  "changedSpecs": []
+}
