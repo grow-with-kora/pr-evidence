@@ -1,0 +1,140 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "46f47c27f2d5615fb68ec996cb5336d00f9b8019",
+      "capturedAt": "2026-11-24T12:50:38Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/45394597282"
+    },
+    "entries": [
+      {
+        "name": "support",
+        "spec": "legal",
+        "status": "changed",
+        "ratio": 0.02661349826388889,
+        "resized": false,
+        "before": "screens/support.before.png",
+        "after": "screens/support.after.png",
+        "diff": "screens/support.diff.png"
+      },
+      {
+        "name": "legal-index",
+        "spec": "legal",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/legal-index.before.png",
+        "after": "screens/legal-index.after.png"
+      },
+      {
+        "name": "legal-placeholder",
+        "spec": "legal",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/legal-placeholder.before.png",
+        "after": "screens/legal-placeholder.after.png"
+      },
+      {
+        "name": "legal-security",
+        "spec": "legal",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/legal-security.before.png",
+        "after": "screens/legal-security.after.png"
+      },
+      {
+        "name": "legal-sub-processors",
+        "spec": "legal",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/legal-sub-processors.before.png",
+        "after": "screens/legal-sub-processors.after.png"
+      },
+      {
+        "name": "login-with-footer",
+        "spec": "legal",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/login-with-footer.before.png",
+        "after": "screens/login-with-footer.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 320,
+      "differing": 106
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "legal-legal-an-unwritten-d-4fc3a-ys-so-instead-of-pretending-chromium",
+      "spec": "legal",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/legal-legal-an-unwritten-d-4fc3a-ys-so-instead-of-pretending-chromium.gif",
+      "mp4": "clips/legal-legal-an-unwritten-d-4fc3a-ys-so-instead-of-pretending-chromium.mp4",
+      "gifBytes": 416933
+    },
+    {
+      "slug": "legal-legal-support-names-the-mailbox-to-write-to-chromium",
+      "spec": "legal",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/legal-legal-support-names-the-mailbox-to-write-to-chromium.gif",
+      "mp4": "clips/legal-legal-support-names-the-mailbox-to-write-to-chromium.mp4",
+      "gifBytes": 460609
+    },
+    {
+      "slug": "legal-legal-the-index-list-2a4ac-s-published-and-what-is-not-chromium",
+      "spec": "legal",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/legal-legal-the-index-list-2a4ac-s-published-and-what-is-not-chromium.gif",
+      "mp4": "clips/legal-legal-the-index-list-2a4ac-s-published-and-what-is-not-chromium.mp4",
+      "gifBytes": 494296
+    },
+    {
+      "slug": "legal-legal-the-public-foo-f9452-olicies-and-the-status-page-chromium",
+      "spec": "legal",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/legal-legal-the-public-foo-f9452-olicies-and-the-status-page-chromium.gif",
+      "mp4": "clips/legal-legal-the-public-foo-f9452-olicies-and-the-status-page-chromium.mp4",
+      "gifBytes": 231330
+    },
+    {
+      "slug": "legal-legal-the-security-p-37267-re-its-gaps-and-its-channel-chromium",
+      "spec": "legal",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/legal-legal-the-security-p-37267-re-its-gaps-and-its-channel-chromium.gif",
+      "mp4": "clips/legal-legal-the-security-p-37267-re-its-gaps-and-its-channel-chromium.mp4",
+      "gifBytes": 726906
+    },
+    {
+      "slug": "legal-legal-the-signed-in--5d7da-same-pages-from-the-sidebar-chromium",
+      "spec": "legal",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/legal-legal-the-signed-in--5d7da-same-pages-from-the-sidebar-chromium.gif",
+      "mp4": "clips/legal-legal-the-signed-in--5d7da-same-pages-from-the-sidebar-chromium.mp4",
+      "gifBytes": 1324296
+    },
+    {
+      "slug": "legal-legal-the-sub-processor-list-names-who-receives-what-chromium",
+      "spec": "legal",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/legal-legal-the-sub-processor-list-names-who-receives-what-chromium.gif",
+      "mp4": "clips/legal-legal-the-sub-processor-list-names-who-receives-what-chromium.mp4",
+      "gifBytes": 554995
+    }
+  ],
+  "changedSpecs": [
+    "legal"
+  ]
+}
