@@ -1,0 +1,88 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "117d5da58a5565b218f506caf452461c009f8727",
+      "capturedAt": "2026-11-23T11:06:09Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/45159619482"
+    },
+    "entries": [
+      {
+        "name": "admin-support-workspace",
+        "spec": "admin-support",
+        "status": "added",
+        "after": "screens/admin-support-workspace.after.png"
+      },
+      {
+        "name": "sandbox-banner",
+        "spec": "sandbox",
+        "status": "added",
+        "after": "screens/sandbox-banner.after.png"
+      },
+      {
+        "name": "sandbox-delete-confirm",
+        "spec": "sandbox",
+        "status": "added",
+        "after": "screens/sandbox-delete-confirm.after.png"
+      },
+      {
+        "name": "sandbox-reset-confirm",
+        "spec": "sandbox",
+        "status": "added",
+        "after": "screens/sandbox-reset-confirm.after.png"
+      },
+      {
+        "name": "sandbox-sample-work",
+        "spec": "sandbox",
+        "status": "added",
+        "after": "screens/sandbox-sample-work.after.png"
+      },
+      {
+        "name": "sandbox-workspace-selector",
+        "spec": "sandbox",
+        "status": "added",
+        "after": "screens/sandbox-workspace-selector.after.png"
+      },
+      {
+        "name": "settings-developer-sandbox",
+        "spec": "sandbox",
+        "status": "added",
+        "after": "screens/settings-developer-sandbox.after.png"
+      },
+      {
+        "name": "settings-developer-sandbox-empty",
+        "spec": "sandbox",
+        "status": "added",
+        "after": "screens/settings-developer-sandbox-empty.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 318,
+      "differing": 105
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "admin-support-a-Support-ho-596d6--sees-no-owner-only-control-chromium",
+      "spec": "admin-support",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/admin-support-a-Support-ho-596d6--sees-no-owner-only-control-chromium.gif",
+      "mp4": "clips/admin-support-a-Support-ho-596d6--sees-no-owner-only-control-chromium.mp4",
+      "gifBytes": 1991451
+    },
+    {
+      "slug": "sandbox-a-Sandbox-created--7f64e-ed-as-one-reset-and-deleted-chromium",
+      "spec": "sandbox",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/sandbox-a-Sandbox-created--7f64e-ed-as-one-reset-and-deleted-chromium.gif",
+      "mp4": "clips/sandbox-a-Sandbox-created--7f64e-ed-as-one-reset-and-deleted-chromium.mp4",
+      "gifBytes": 5442163
+    }
+  ],
+  "changedSpecs": [
+    "admin-support"
+  ]
+}
