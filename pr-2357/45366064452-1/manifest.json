@@ -1,0 +1,192 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "117d5da58a5565b218f506caf452461c009f8727",
+      "capturedAt": "2026-11-23T11:06:09Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/45159619482"
+    },
+    "entries": [
+      {
+        "name": "sandbox-banner",
+        "spec": "sandbox",
+        "status": "added",
+        "after": "screens/sandbox-banner.after.png"
+      },
+      {
+        "name": "sandbox-delete-confirm",
+        "spec": "sandbox",
+        "status": "added",
+        "after": "screens/sandbox-delete-confirm.after.png"
+      },
+      {
+        "name": "sandbox-reset-confirm",
+        "spec": "sandbox",
+        "status": "added",
+        "after": "screens/sandbox-reset-confirm.after.png"
+      },
+      {
+        "name": "sandbox-sample-work",
+        "spec": "sandbox",
+        "status": "added",
+        "after": "screens/sandbox-sample-work.after.png"
+      },
+      {
+        "name": "sandbox-workspace-selector",
+        "spec": "sandbox",
+        "status": "added",
+        "after": "screens/sandbox-workspace-selector.after.png"
+      },
+      {
+        "name": "settings-developer-sandbox",
+        "spec": "sandbox",
+        "status": "added",
+        "after": "screens/settings-developer-sandbox.after.png"
+      },
+      {
+        "name": "settings-developer-sandbox-empty",
+        "spec": "sandbox",
+        "status": "added",
+        "after": "screens/settings-developer-sandbox-empty.after.png"
+      },
+      {
+        "name": "support",
+        "spec": "legal",
+        "status": "changed",
+        "ratio": 0.03629448784722222,
+        "resized": false,
+        "before": "screens/support.before.png",
+        "after": "screens/support.after.png",
+        "diff": "screens/support.diff.png"
+      },
+      {
+        "name": "legal-placeholder",
+        "spec": "legal",
+        "status": "changed",
+        "ratio": 0.0031911892361111112,
+        "resized": false,
+        "before": "screens/legal-placeholder.before.png",
+        "after": "screens/legal-placeholder.after.png",
+        "diff": "screens/legal-placeholder.diff.png"
+      },
+      {
+        "name": "legal-index",
+        "spec": "legal",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/legal-index.before.png",
+        "after": "screens/legal-index.after.png"
+      },
+      {
+        "name": "legal-security",
+        "spec": "legal",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/legal-security.before.png",
+        "after": "screens/legal-security.after.png"
+      },
+      {
+        "name": "legal-sub-processors",
+        "spec": "legal",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/legal-sub-processors.before.png",
+        "after": "screens/legal-sub-processors.after.png"
+      },
+      {
+        "name": "login-with-footer",
+        "spec": "legal",
+        "status": "identical",
+        "ratio": 0,
+        "resized": false,
+        "before": "screens/login-with-footer.before.png",
+        "after": "screens/login-with-footer.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 312,
+      "differing": 102
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "legal-legal-an-unwritten-d-4fc3a-ys-so-instead-of-pretending-chromium",
+      "spec": "legal",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/legal-legal-an-unwritten-d-4fc3a-ys-so-instead-of-pretending-chromium.gif",
+      "mp4": "clips/legal-legal-an-unwritten-d-4fc3a-ys-so-instead-of-pretending-chromium.mp4",
+      "gifBytes": 336838
+    },
+    {
+      "slug": "legal-legal-support-names-the-mailbox-to-write-to-chromium",
+      "spec": "legal",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/legal-legal-support-names-the-mailbox-to-write-to-chromium.gif",
+      "mp4": "clips/legal-legal-support-names-the-mailbox-to-write-to-chromium.mp4",
+      "gifBytes": 493718
+    },
+    {
+      "slug": "legal-legal-the-index-list-2a4ac-s-published-and-what-is-not-chromium",
+      "spec": "legal",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/legal-legal-the-index-list-2a4ac-s-published-and-what-is-not-chromium.gif",
+      "mp4": "clips/legal-legal-the-index-list-2a4ac-s-published-and-what-is-not-chromium.mp4",
+      "gifBytes": 321438
+    },
+    {
+      "slug": "legal-legal-the-public-foo-f9452-olicies-and-the-status-page-chromium",
+      "spec": "legal",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/legal-legal-the-public-foo-f9452-olicies-and-the-status-page-chromium.gif",
+      "mp4": "clips/legal-legal-the-public-foo-f9452-olicies-and-the-status-page-chromium.mp4",
+      "gifBytes": 271795
+    },
+    {
+      "slug": "legal-legal-the-security-p-37267-re-its-gaps-and-its-channel-chromium",
+      "spec": "legal",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/legal-legal-the-security-p-37267-re-its-gaps-and-its-channel-chromium.gif",
+      "mp4": "clips/legal-legal-the-security-p-37267-re-its-gaps-and-its-channel-chromium.mp4",
+      "gifBytes": 678840
+    },
+    {
+      "slug": "legal-legal-the-signed-in--5d7da-same-pages-from-the-sidebar-chromium",
+      "spec": "legal",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/legal-legal-the-signed-in--5d7da-same-pages-from-the-sidebar-chromium.gif",
+      "mp4": "clips/legal-legal-the-signed-in--5d7da-same-pages-from-the-sidebar-chromium.mp4",
+      "gifBytes": 1508617
+    },
+    {
+      "slug": "legal-legal-the-sub-processor-list-names-who-receives-what-chromium",
+      "spec": "legal",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/legal-legal-the-sub-processor-list-names-who-receives-what-chromium.gif",
+      "mp4": "clips/legal-legal-the-sub-processor-list-names-who-receives-what-chromium.mp4",
+      "gifBytes": 337099
+    },
+    {
+      "slug": "sandbox-a-Sandbox-created--7f64e-ed-as-one-reset-and-deleted-chromium",
+      "spec": "sandbox",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/sandbox-a-Sandbox-created--7f64e-ed-as-one-reset-and-deleted-chromium.gif",
+      "mp4": "clips/sandbox-a-Sandbox-created--7f64e-ed-as-one-reset-and-deleted-chromium.mp4",
+      "gifBytes": 5589726
+    }
+  ],
+  "changedSpecs": [
+    "legal"
+  ]
+}
