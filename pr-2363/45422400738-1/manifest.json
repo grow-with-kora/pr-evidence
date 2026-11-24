@@ -1,0 +1,37 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "46f47c27f2d5615fb68ec996cb5336d00f9b8019",
+      "capturedAt": "2026-11-24T12:50:38Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/45394597282"
+    },
+    "entries": [
+      {
+        "name": "admin-erase-dialog",
+        "spec": "admin-erasure",
+        "status": "added",
+        "after": "screens/admin-erase-dialog.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 326,
+      "differing": 119
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "admin-erasure-a-platform-a-8e594-d-is-asked-to-sign-in-again-chromium",
+      "spec": "admin-erasure",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/admin-erasure-a-platform-a-8e594-d-is-asked-to-sign-in-again-chromium.gif",
+      "mp4": "clips/admin-erasure-a-platform-a-8e594-d-is-asked-to-sign-in-again-chromium.mp4",
+      "gifBytes": 2074916
+    }
+  ],
+  "changedSpecs": [
+    "admin-erasure"
+  ]
+}
