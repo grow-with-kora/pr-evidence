@@ -1,0 +1,56 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "46f47c27f2d5615fb68ec996cb5336d00f9b8019",
+      "capturedAt": "2026-11-24T12:50:38Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/45394597282"
+    },
+    "entries": [
+      {
+        "name": "admin-erase-dialog",
+        "spec": "admin-erasure",
+        "status": "added",
+        "after": "screens/admin-erase-dialog.after.png"
+      },
+      {
+        "name": "admin-support-workspace",
+        "spec": "admin-support",
+        "status": "changed",
+        "ratio": 0.0009700520833333333,
+        "resized": false,
+        "before": "screens/admin-support-workspace.before.png",
+        "after": "screens/admin-support-workspace.after.png",
+        "diff": "screens/admin-support-workspace.diff.png"
+      }
+    ],
+    "skipped": {
+      "total": 325,
+      "differing": 112
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "admin-erasure-a-platform-a-8e594-d-is-asked-to-sign-in-again-chromium",
+      "spec": "admin",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/admin-erasure-a-platform-a-8e594-d-is-asked-to-sign-in-again-chromium.gif",
+      "mp4": "clips/admin-erasure-a-platform-a-8e594-d-is-asked-to-sign-in-again-chromium.mp4",
+      "gifBytes": 2512227
+    },
+    {
+      "slug": "admin-support-a-Support-ho-596d6--sees-no-owner-only-control-chromium",
+      "spec": "admin-support",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/admin-support-a-Support-ho-596d6--sees-no-owner-only-control-chromium.gif",
+      "mp4": "clips/admin-support-a-Support-ho-596d6--sees-no-owner-only-control-chromium.mp4",
+      "gifBytes": 2176151
+    }
+  ],
+  "changedSpecs": [
+    "admin-support"
+  ]
+}
