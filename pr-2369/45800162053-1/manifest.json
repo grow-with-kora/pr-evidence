@@ -1,0 +1,37 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "351f038e3dc268862a37636695448fc8caa3ca2f",
+      "capturedAt": "2026-11-25T11:37:22Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/45603729554"
+    },
+    "entries": [
+      {
+        "name": "admin-data-export-dialog",
+        "spec": "admin-data-export",
+        "status": "added",
+        "after": "screens/admin-data-export-dialog.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 327,
+      "differing": 125
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "admin-data-export-a-platfo-f8593-d-is-asked-to-sign-in-again-chromium",
+      "spec": "admin-data-export",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/admin-data-export-a-platfo-f8593-d-is-asked-to-sign-in-again-chromium.gif",
+      "mp4": "clips/admin-data-export-a-platfo-f8593-d-is-asked-to-sign-in-again-chromium.mp4",
+      "gifBytes": 1813952
+    }
+  ],
+  "changedSpecs": [
+    "admin-data-export"
+  ]
+}
