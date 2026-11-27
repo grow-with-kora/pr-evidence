@@ -1,0 +1,131 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "1529fadf5c99edd6cf9d32b16bcc9c60c5bb7153",
+      "capturedAt": "2026-11-26T11:13:40Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/45806060798"
+    },
+    "entries": [
+      {
+        "name": "account-chooser",
+        "spec": "account-switcher",
+        "status": "added",
+        "after": "screens/account-chooser.after.png"
+      },
+      {
+        "name": "account-chooser-dark",
+        "spec": "account-switcher",
+        "status": "added",
+        "after": "screens/account-chooser-dark.after.png"
+      },
+      {
+        "name": "account-frozen-tab",
+        "spec": "account-switcher",
+        "status": "added",
+        "after": "screens/account-frozen-tab.after.png"
+      },
+      {
+        "name": "account-frozen-tab-dark",
+        "spec": "account-switcher",
+        "status": "added",
+        "after": "screens/account-frozen-tab-dark.after.png"
+      },
+      {
+        "name": "account-switcher-menu",
+        "spec": "account-switcher",
+        "status": "added",
+        "after": "screens/account-switcher-menu.after.png"
+      },
+      {
+        "name": "account-switcher-menu-dark",
+        "spec": "account-switcher",
+        "status": "added",
+        "after": "screens/account-switcher-menu-dark.after.png"
+      },
+      {
+        "name": "admin-account-choice",
+        "spec": "admin-account",
+        "status": "added",
+        "after": "screens/admin-account-choice.after.png"
+      },
+      {
+        "name": "admin-data-export-dialog",
+        "spec": "admin-data-export",
+        "status": "added",
+        "after": "screens/admin-data-export-dialog.after.png"
+      },
+      {
+        "name": "cookie-session-ended-elsewhere",
+        "spec": "cookie-session",
+        "status": "added",
+        "after": "screens/cookie-session-ended-elsewhere.after.png"
+      },
+      {
+        "name": "workspace-unavailable",
+        "spec": "account-switcher",
+        "status": "added",
+        "after": "screens/workspace-unavailable.after.png"
+      },
+      {
+        "name": "workspace-unavailable-dark",
+        "spec": "account-switcher",
+        "status": "added",
+        "after": "screens/workspace-unavailable-dark.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 327,
+      "differing": 149
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "account-switcher-the-accou-5b677-ng-out-of-all-ends-them-all-chromium",
+      "spec": "account",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/account-switcher-the-accou-5b677-ng-out-of-all-ends-them-all-chromium.gif",
+      "mp4": "clips/account-switcher-the-accou-5b677-ng-out-of-all-ends-them-all-chromium.mp4",
+      "gifBytes": 4304061
+    },
+    {
+      "slug": "account-switcher-the-accou-9120a-switching-lands-on-the-link-chromium",
+      "spec": "account",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/account-switcher-the-accou-9120a-switching-lands-on-the-link-chromium.gif",
+      "mp4": "clips/account-switcher-the-accou-9120a-switching-lands-on-the-link-chromium.mp4",
+      "gifBytes": 2563500
+    },
+    {
+      "slug": "account-switcher-the-accou-b3ca1-other-and-back-by-its-email-chromium",
+      "spec": "account",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/account-switcher-the-accou-b3ca1-other-and-back-by-its-email-chromium.gif",
+      "mp4": "clips/account-switcher-the-accou-b3ca1-other-and-back-by-its-email-chromium.mp4",
+      "gifBytes": 4138067
+    },
+    {
+      "slug": "admin-account-the-admin-pa-f3a75--asks-rather-than-switching-chromium",
+      "spec": "admin",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/admin-account-the-admin-pa-f3a75--asks-rather-than-switching-chromium.gif",
+      "mp4": "clips/admin-account-the-admin-pa-f3a75--asks-rather-than-switching-chromium.mp4",
+      "gifBytes": 971424
+    },
+    {
+      "slug": "admin-data-export-a-platfo-f8593-d-is-asked-to-sign-in-again-chromium",
+      "spec": "admin",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/admin-data-export-a-platfo-f8593-d-is-asked-to-sign-in-again-chromium.gif",
+      "mp4": "clips/admin-data-export-a-platfo-f8593-d-is-asked-to-sign-in-again-chromium.mp4",
+      "gifBytes": 1666394
+    }
+  ],
+  "changedSpecs": []
+}
