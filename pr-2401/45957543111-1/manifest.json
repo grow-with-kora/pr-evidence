@@ -1,0 +1,91 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "1529fadf5c99edd6cf9d32b16bcc9c60c5bb7153",
+      "capturedAt": "2026-11-26T11:13:40Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/45806060798"
+    },
+    "entries": [
+      {
+        "name": "account-frozen-tab",
+        "spec": "account-switcher",
+        "status": "added",
+        "after": "screens/account-frozen-tab.after.png"
+      },
+      {
+        "name": "account-frozen-tab-dark",
+        "spec": "account-switcher",
+        "status": "added",
+        "after": "screens/account-frozen-tab-dark.after.png"
+      },
+      {
+        "name": "account-switcher-menu",
+        "spec": "account-switcher",
+        "status": "added",
+        "after": "screens/account-switcher-menu.after.png"
+      },
+      {
+        "name": "account-switcher-menu-dark",
+        "spec": "account-switcher",
+        "status": "added",
+        "after": "screens/account-switcher-menu-dark.after.png"
+      },
+      {
+        "name": "admin-account-choice",
+        "spec": "admin-account",
+        "status": "added",
+        "after": "screens/admin-account-choice.after.png"
+      },
+      {
+        "name": "admin-data-export-dialog",
+        "spec": "admin-data-export",
+        "status": "added",
+        "after": "screens/admin-data-export-dialog.after.png"
+      },
+      {
+        "name": "cookie-session-ended-elsewhere",
+        "spec": "cookie-session",
+        "status": "added",
+        "after": "screens/cookie-session-ended-elsewhere.after.png"
+      }
+    ],
+    "skipped": {
+      "total": 327,
+      "differing": 148
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "account-switcher-the-accou-b3ca1-other-and-back-by-its-email-chromium",
+      "spec": "account-switcher",
+      "failed": false,
+      "reason": "spec",
+      "gif": "clips/account-switcher-the-accou-b3ca1-other-and-back-by-its-email-chromium.gif",
+      "mp4": "clips/account-switcher-the-accou-b3ca1-other-and-back-by-its-email-chromium.mp4",
+      "gifBytes": 4544132
+    },
+    {
+      "slug": "admin-account-the-admin-pa-f3a75--asks-rather-than-switching-chromium",
+      "spec": "admin",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/admin-account-the-admin-pa-f3a75--asks-rather-than-switching-chromium.gif",
+      "mp4": "clips/admin-account-the-admin-pa-f3a75--asks-rather-than-switching-chromium.mp4",
+      "gifBytes": 1359541
+    },
+    {
+      "slug": "admin-data-export-a-platfo-f8593-d-is-asked-to-sign-in-again-chromium",
+      "spec": "admin",
+      "failed": false,
+      "reason": "screen",
+      "gif": "clips/admin-data-export-a-platfo-f8593-d-is-asked-to-sign-in-again-chromium.gif",
+      "mp4": "clips/admin-data-export-a-platfo-f8593-d-is-asked-to-sign-in-again-chromium.mp4",
+      "gifBytes": 1989313
+    }
+  ],
+  "changedSpecs": [
+    "account-switcher"
+  ]
+}
