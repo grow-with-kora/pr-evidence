@@ -1,0 +1,59 @@
+{
+  "screens": {
+    "mode": "spec",
+    "baseline": {
+      "sha": "d8b48b0353457b205582a6c543d4306875a86ab2",
+      "capturedAt": "2026-11-27T11:14:01Z",
+      "runUrl": "https://github.com/grow-with-kora/kora-platform/actions/runs/45986130585"
+    },
+    "entries": [
+      {
+        "name": "settings-photo-framing",
+        "spec": "settings",
+        "status": "removed",
+        "before": "screens/settings-photo-framing.before.png"
+      },
+      {
+        "name": "settings-profile-with-photo",
+        "spec": "settings",
+        "status": "removed",
+        "before": "screens/settings-profile-with-photo.before.png"
+      }
+    ],
+    "skipped": {
+      "total": 336,
+      "differing": 114
+    },
+    "maxEmbedded": 12
+  },
+  "clips": [
+    {
+      "slug": "project-invites-an-outside-32715-ailed-joins-and-lands-on-it-chromium",
+      "spec": "project",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/project-invites-an-outside-32715-ailed-joins-and-lands-on-it-chromium.gif",
+      "mp4": "clips/project-invites-an-outside-32715-ailed-joins-and-lands-on-it-chromium.mp4",
+      "gifBytes": 7348018
+    },
+    {
+      "slug": "project-invites-an-outside-32715-ailed-joins-and-lands-on-it-chromium-retry1",
+      "spec": "project",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/project-invites-an-outside-32715-ailed-joins-and-lands-on-it-chromium-retry1.gif",
+      "mp4": "clips/project-invites-an-outside-32715-ailed-joins-and-lands-on-it-chromium-retry1.mp4",
+      "gifBytes": 6917883
+    },
+    {
+      "slug": "settings-account-settings--5b6af--actor-from-the-profile-tab-chromium",
+      "spec": "settings",
+      "failed": true,
+      "reason": "failed",
+      "gif": "clips/settings-account-settings--5b6af--actor-from-the-profile-tab-chromium.gif",
+      "mp4": "clips/settings-account-settings--5b6af--actor-from-the-profile-tab-chromium.mp4",
+      "gifBytes": 560255
+    }
+  ],
+  "changedSpecs": []
+}
